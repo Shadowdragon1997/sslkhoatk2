@@ -128,14 +128,6 @@ http://171.244.61.233/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://171.244.61.233/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/06/xhcf29hh_bannercf06ad3eff1d6c7b193a28ec68ac572d_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-12/02: Newcastle Jets - Melbourne Victory (Vòng 16 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/7382287d-fa39-4da2-b119-4ad8f3411be3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/06/eu1125o7_banner001844a1bad75851c0d841ea8d724430_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-12/02: Macarthur - Wellington Phoenix (Vòng 16 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/fcc98b35-27f5-4e9d-b760-7b345ad151df/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/s5r2nxjf_banner9b61e2a8917cc025c653ee9ed9ea1d6a_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 20:15-12/02: SC Heerenveen - Feyenoord (Vòng 21 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/b1b653ad-60a4-4b31-8718-48b0c0336165/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/yn4zz6t2_banner7234bdc0d31733fca59e8b113a9ed695_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 22:30-12/02: AFC Ajax - RKC Waalwijk (Vòng 21 - VĐQG Hà Lan 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/2b26f92d-167e-412e-bfc2-5d3b61827489/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/og08erws_banner97624f05e360c78b10e676cbe3c52431_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-17/02: Western United FC - Wellington Phoenix (Vòng 17 - VĐQG Úc 2022/23)
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/806d4fb7-503c-47ac-bc7a-133f6c0388e6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/qh48b0d4_bannere4934213b8db80667c191bc1d583197f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-18/02: Macarthur FC - Newcastle Jets (Vòng 17 - VĐQG Úc 2022/23)
@@ -1356,50 +1348,121 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/01/dfe4qnhf_bannerdd1135d462e977c8c32b0bc2da90b170_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-14/02: Quay số mở thưởng Vietlott 14/02/2023
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/4479fec1-6875-4ffe-b2c4-842ce68c1c2f/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/ad/dd/d8/8f/f5/5add8-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Chúng Tôi Đơn Giản Là Gấu
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5553/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/04/48/83/3c/cf/fa/0483c-llphchonmkhchmicasleophn1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 1
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5849/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5f/fe/e1/15/5a/a3/5fe15-lphimgtinaytopnhngphimngntnhbthcngthigian-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-13/02: Phim Gì Tối Nay? Top Những Phim Ngôn Tình Bất Hủ Cùng Thời Gian
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6932/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/32/23/3c/c5/59/97/323c5-lvleaguevng3tphchminhvskhnhha-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:15-13/02: V.League - Vòng 3: TP Hồ Chí Minh vs Khánh Hòa
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6973/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-13/02: Dưới Bóng Cây Hạnh Phúc - Tập 15
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/10/0e/ec/c8/8f/f7/10ec8-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-13/02: Country
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6972/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d1/15/52/2a/a7/7f/d152a-lngnikhiyutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-13/02: Đừng Nói Khi Yêu - Tập 7
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6829/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/02/2d/d0/05/55/56/02d05-lserieavng22veronavssalernitana-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-14/02: Serie A - Vòng 22: Verona vs Salernitana
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6947/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/60/00/06/6e/e6/6d/6006e-lserieavng22sampdoriavsintermilan-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-14/02: Serie A - Vòng 22: Sampdoria vs Inter Milan
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6950/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-14/02: Những Chú Gấu Boonie
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-14/02: Bố Đầu Nhỏ Con Đầu To
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5705/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-14/02: Những Chú Gấu Boonie
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5182/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/8f/fe/e9/9b/b6/62/8fe9b-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-14/02: K-Pop
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8f/fe/e9/9b/b6/62/8fe9b-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-14/02: K-Pop
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6974/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/70/03/3a/a8/8f/f6/703a8-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-14/02: Dance
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/70/03/3a/a8/8f/f6/703a8-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-14/02: Dance
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6975/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7e/e4/41/13/39/9f/7e413-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-14/02: EDM
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d8/82/25/5a/ad/de/d825a-lcucphiulukthcast-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-14/02: Cuộc Phiêu Lưu Kỳ Thú Của Sư Tử
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6904/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7e/e4/41/13/39/9f/7e413-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-14/02: EDM
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6976/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5c/ca/ac/cc/cd/d8/5cacc-llphchonmkhchmicasleophn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-14/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 2
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5c/ca/ac/cc/cd/d8/5cacc-llphchonmkhchmicasleophn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-14/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5850/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-14/02: Đừng Nói Khi Yêu - Tập 8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-14/02: Đừng Nói Khi Yêu - Tập 8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6818/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/52/2b/b5/59/9a/a4/52b59-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-15/02: MB - Hits
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-15/02: Bố Đầu Nhỏ Con Đầu To
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5704/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-15/02: Những Chú Gấu Boonie
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5184/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/52/2b/b5/59/9a/a4/52b59-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-15/02: MB - Hits
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6977/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bf/f0/07/72/23/36/bf072-llphchonmkhchmicasleophn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-15/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 3
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/12/22/2e/e4/47/7e/122e4-lcucphiulukthcast-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-15/02: Cuộc Phiêu Lưu Kỳ Thú Của Sư Tử
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6903/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/25/56/64/40/08/8f/25640-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-15/02: Giờ Phiêu Lưu
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6991/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bf/f0/07/72/23/36/bf072-llphchonmkhchmicasleophn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-15/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 3
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5851/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/01/19/98/88/86/68/01988-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-15/02: K-Pop
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/01/19/98/88/86/68/01988-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-15/02: K-Pop
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6978/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7b/b4/4d/dc/ca/a6/7b4dc-lngnikhiyutp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-15/02: Đừng Nói Khi Yêu - Tập 9
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7b/b4/4d/dc/ca/a6/7b4dc-lngnikhiyutp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-15/02: Đừng Nói Khi Yêu - Tập 9
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6828/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fd/dd/d8/88/8d/da/fdd88-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-15/02: Country
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/fd/dd/d8/88/8d/da/fdd88-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-15/02: Country
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6979/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e5/57/7f/fa/a0/0d/e57fa-llaligavng21realmadridvselche-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-16/02: La Liga - Vòng 21: Real Madrid vs Elche
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e5/57/7f/fa/a0/0d/e57fa-llaligavng21realmadridvselche-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-16/02: La Liga - Vòng 21: Real Madrid vs Elche
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6963/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/55/56/6c/ce/ec/b556c-llphchonmkhchmicasleophn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 4
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-16/02: Bố Đầu Nhỏ Con Đầu To
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5703/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/e3/3e/e4/41/1c/9e3e4-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-16/02: EDM
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6980/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/05/54/4e/ee/e4/44/054ee-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-16/02: Những Chú Gấu Boonie
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5183/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/ea/a2/26/65/5c/9ea26-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-16/02: MB - Hits
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6981/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b5/55/56/6c/ce/ec/b556c-llphchonmkhchmicasleophn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 4
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6564/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/98/84/4e/e4/49/9d/984e4-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-16/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6982/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-17/02: Bố Đầu Nhỏ Con Đầu To
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5702/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c7/74/43/3b/bc/c7/c743b-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-17/02: Những Chú Gấu Boonie
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5181/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/56/64/4e/ed/d5/52/564ed-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-17/02: EDM
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6983/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f8/8a/a5/5e/e2/26/f8a5e-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-17/02: K-Pop
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6984/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/74/4d/d4/41/18/8a/74d41-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-18/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6985/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f7/7b/b1/1a/a8/80/f7b1a-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-18/02: MB - Hits
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6986/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3f/f7/7e/e9/97/77/3f7e9-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6987/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/45/5e/e5/50/06/6f/45e50-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: EDM
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6988/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e6/67/70/05/54/4a/e6705-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-19/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6989/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676272843/cmc_new/img.live_channel_schedule/0/0/131/67310/34462869.jpg" group-title="🗓| Sự kiện", 11:15-14/02: Chuyển Động 24h
+https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675911453/cmc_new/img.live_channel_schedule/0/0/130/67005/34306623.jpg" group-title="🗓| Sự kiện", 08:00-14/02: Chiến Binh Ninja Mỹ (Phần 13 - Tập 6)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676339555/cmc_new/img.live_channel_schedule/0/0/130/67061/34335722.jpg" group-title="🗓| Sự kiện", 09:00-14/02: Thế Giới Kì Diệu Của Gumball
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675704130/cmc_new/img.live_channel_schedule/0/0/130/66686/34143298.jpg" group-title="🗓| Sự kiện", 09:00-14/02: Vua Bóng Chuyền (Phần 1 - Tập 17)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675151419/cmc_new/img.live_channel_schedule/0/0/130/66633/34116473.jpg" group-title="🗓| Sự kiện", 09:00-14/02: Chú Nhện Lucas
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676272865/cmc_new/img.live_channel_schedule/0/0/130/67015/34311995.jpg" group-title="🗓| Sự kiện", 09:05-14/02: Chuyến Săn Bão Táp: Người Viking Trở Lại
+https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280856/cmc_new/img.live_channel_schedule/0/0/130/66670/34135281.jpg" group-title="🗓| Sự kiện", 09:05-14/02: Chuyến Săn Bão Táp: Người Viking Trở Lại (Tập 2)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676020568/cmc_new/img.live_channel_schedule/0/0/130/66661/34130817.jpg" group-title="🗓| Sự kiện", 09:05-14/02: Nhà Máy Thực Phẩm (Tập 24)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675244245/cmc_new/img.live_channel_schedule/0/0/130/66686/34143299.jpg" group-title="🗓| Sự kiện", 09:30-14/02: Naruto (Tập 101)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675697216/cmc_new/img.live_channel_schedule/0/0/130/66677/34138798.jpg" group-title="🗓| Sự kiện", 09:30-14/02: Xe Tải Khủng Long
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676272875/cmc_new/img.live_channel_schedule/0/0/130/66670/34135282.jpg" group-title="🗓| Sự kiện", 09:55-14/02: Tìm Vàng: Khu Mỏ Bỏ Hoang Của Dave Turin (Tập 10)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676339555/cmc_new/img.live_channel_schedule/0/0/130/67061/34335723.jpg" group-title="🗓| Sự kiện", 10:00-14/02: Thế Giới Kì Diệu Của Gumball
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675244245/cmc_new/img.live_channel_schedule/0/0/130/66686/34143300.jpg" group-title="🗓| Sự kiện", 10:00-14/02: Naruto (Tập 102)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675152629/cmc_new/img.live_channel_schedule/0/0/130/66677/34138799.jpg" group-title="🗓| Sự kiện", 10:00-14/02: Biệt Đội Giải Cứu Rồng
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675582532/cmc_new/img.live_channel_schedule/0/0/130/66633/34116474.jpg" group-title="🗓| Sự kiện", 10:00-14/02: Gấu Xám Và Những Chú Chuột Lemmut
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675911453/cmc_new/img.live_channel_schedule/0/0/130/67005/34306626.jpg" group-title="🗓| Sự kiện", 10:10-14/02: Xưởng Độ Xe Của Richard Hammond (Phần 1 - Tập 1)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760016/cmc_new/img.live_channel_schedule/0/0/131/67090/34350460.jpg" group-title="🗓| Sự kiện", 10:20-14/02: Xưởng Xe Toàn Nữ
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676339555/cmc_new/img.live_channel_schedule/0/0/130/67061/34335724.jpg" group-title="🗓| Sự kiện", 10:30-14/02: Mechamato
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675760016/cmc_new/img.live_channel_schedule/0/0/131/67090/34350461.jpg" group-title="🗓| Sự kiện", 10:42-14/02: Xưởng Xe Toàn Nữ
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676272865/cmc_new/img.live_channel_schedule/0/0/130/67015/34311997.jpg" group-title="🗓| Sự kiện", 10:45-14/02: Chuyến Săn Bão Táp
+https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280856/cmc_new/img.live_channel_schedule/0/0/130/66670/34135283.jpg" group-title="🗓| Sự kiện", 10:45-14/02: Chuyến Săn Bão Táp (Tập 8)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270701/cmc_new/img.live_channel_schedule/0/0/131/67430/34524221.jpg" group-title="🗓| Sự kiện", 10:45-14/02: Việt Nam Ngày Mới
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676339555/cmc_new/img.live_channel_schedule/0/0/130/67061/34335725.jpg" group-title="🗓| Sự kiện", 10:55-14/02: Giờ Phiêu Lưu
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676262929/cmc_new/img.live_channel_schedule/0/0/130/66686/34143302.jpg" group-title="🗓| Sự kiện", 11:00-14/02: Chuyển Sinh Thành Đại Ác Nữ: Kiểu Gì Cũng Chết! (Tập 9)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
@@ -2298,13 +2361,21 @@ http://ys-users.com:8080/MVPReshare/LN7iKb53zA/496666
 #EXTINF:-1 tvg-ID="RMCSport1UHD.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/QuP7VoD.png", FR: RMC Sport 1 UHD
 http://113.160.75.63:8889/iprotv.php?id=186420
 #EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD
-http://webtv360.org:8000/Fernando/Fernando/7151
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20275
+#EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD Server 2
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20276
 #EXTINF:-1 tvg-ID="RMCSport2.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 2 FHD
-http://webtv360.org:8000/Fernando/Fernando/3141
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20277
+#EXTINF:-1 tvg-ID="RMCSport2.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 2 FHD Server 2
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20278
 #EXTINF:-1 tvg-ID="RMCSport3.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 3 FHD
-http://webtv360.org:8000/Fernando/Fernando/9533
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20279
+#EXTINF:-1 tvg-ID="RMCSport3.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 3 FHD Server 2
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20280
 #EXTINF:-1 tvg-ID="RMCSport4.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 4 FHD
-http://webtv360.org:8000/Fernando/Fernando/9534
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20281
+#EXTINF:-1 tvg-ID="RMCSport4.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 4 FHD Server 2
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20282
 #EXTINF:-1 tvg-ID="RMCSport5.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 5 FHD
 http://webtv360.org:8000/Fernando/Fernando/16677
 #EXTINF:-1 tvg-ID="RMCSport6.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/nZd8aPo.png", FR: RMC Sport 6 FHD
@@ -2314,11 +2385,11 @@ http://webtv360.org:8000/Fernando/Fernando/16679
 #EXTINF:-1 tvg-ID="beINSports1France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/KPbwfw1.png", FR: beIN Sports 1 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1625287896
 #EXTINF:-1 tvg-ID="beINSports1France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/KPbwfw1.png", FR: beIN Sports 1 FHD Server 2
-http://113.160.75.63:8889/evol.php?id=56580
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34026
 #EXTINF:-1 tvg-ID="beINSports2France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/3fA6lC6.png", FR: beIN Sports 2 FHD
 http://0.vylc.name.vn:8080/stream/channelid/2047845480
 #EXTINF:-1 tvg-ID="beINSports2France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/3fA6lC6.png", FR: beIN Sports 2 FHD Server 2
-http://113.160.75.63:8889/evol.php?id=56579
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34027
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD
 http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/542
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD Server 2
@@ -2730,9 +2801,9 @@ http://113.160.75.63:8889/ultratv.php?id=164982
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10155
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2648
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
-http://113.160.75.63:8889/angel.php?id=12800
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2649
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 4
 http://113.160.75.63:8889/angel.php?id=102469
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
@@ -2740,15 +2811,15 @@ http://113.160.75.63:8889/angel.php?id=102470
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10156
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2650
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
-http://113.160.75.63:8889/angel.php?id=12801
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2651
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
 http://113.160.75.63:8889/angel.php?id=102471
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10157
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2652
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
 http://113.160.75.63:8889/angel.php?id=12802
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 4
@@ -2758,7 +2829,7 @@ http://113.160.75.63:8889/angel.php?id=102473
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10159
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2653
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
 http://113.160.75.63:8889/angel.php?id=12803
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 4
@@ -2766,7 +2837,7 @@ http://113.160.75.63:8889/angel.php?id=102474
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10160 
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2654
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
 http://113.160.75.63:8889/angel.php?id=12804
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 4
@@ -2774,7 +2845,7 @@ http://113.160.75.63:8889/angel.php?id=102475
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10158
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
+http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2655
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 3
 http://113.160.75.63:8889/angel.php?id=12805
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 4
