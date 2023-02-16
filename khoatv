@@ -619,7 +619,7 @@ http://vietanhtv.pw/fptplay/cine/manifest.mpd
 #https://iplogger.com/2Xb9E6.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD VTVcab
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://api.tivifree.ml/getlink/onplus/kcinehd.m3u8
+https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Kplus 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -645,7 +645,7 @@ http://vietanhtv.pw/fptplay/life/manifest.mpd
 #https://iplogger.com/2XNqE6.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD VTVcab
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://api.tivifree.ml/getlink/onplus/klifehd.m3u8
+https://livevlive.vtvcab.vn/K_LIFE_6962/m20_index.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Kplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1369,98 +1369,92 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/01/ea5gk3a7_banner123262c7a297b95ec192c282c37967c1_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-16/02: Quay số mở thưởng Vietlott 16/02/2023
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/b0cd0474-7ee4-4f5c-bb68-fa371e4995c0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/01/oux8vg68_bannerf6ab54045a483f73bf0a799a51e05454_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-17/02: Quay số mở thưởng Vietlott 17/02/2023
+https://api.vthanhtivi.pw/v2/getlink/vieonevent/060ef2c2-08dd-483c-bb39-1365f02e85dc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8b/b1/1d/db/bc/cd/8b1db-lknngtykimctp48-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:45-16/02: Kỳ Án Đông Tây Kim Cổ
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5472/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e2/2d/d0/02/22/2a/e2d02-ldpworldtourthailandclassisngy162-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-16/02: DP World Tour Thailand Classis - Ngày 16/2
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6999/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/ea/a2/26/65/5c/9ea26-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-16/02: MB - Hits
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6981/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e9/9c/c7/79/98/82/e9c79-lasiantourinternationalseriesqatarngy162-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-16/02: Asian Tour International Series Qatar - Ngày 16/2
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e9/9c/c7/79/98/82/e9c79-lasiantourinternationalseriesqatarngy162-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-16/02: Asian Tour International Series Qatar - Ngày 16/2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6998/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b5/55/56/6c/ce/ec/b556c-llphchonmkhchmicasleophn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Lớp Học Hoàn Mỹ: Khách mời Ca Sỹ Leo - Phần 4
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6564/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0e/ef/f2/23/3f/fc/0ef23-lhynghetihtphinbnnh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Hãy Nghe Tôi Hát - Phiên bản Nhí
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0e/ef/f2/23/3f/fc/0ef23-lhynghetihtphinbnnh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Hãy Nghe Tôi Hát - Phiên bản Nhí
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6585/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Dưới Bóng Cây Hạnh Phúc - Tập 18
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Dưới Bóng Cây Hạnh Phúc - Tập 18
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-16/02: Đừng Làm Mẹ Cáu - Tập 19
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/cc/cf/fe/ee/ee/e1/ccfee-lnglmmcutp4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-16/02: Đừng Làm Mẹ Cáu - Tập 19
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6471/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/98/84/4e/e4/49/9d/984e4-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-16/02: Dance
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/98/84/4e/e4/49/9d/984e4-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-16/02: Dance
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6982/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2a/a9/9d/dd/dc/c7/2a9dd-lpgatourthegenesisinvitationalngy172-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 04:00-17/02: PGA Tour The Genesis Invitational - Ngày 17/2
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/2a/a9/9d/dd/dc/c7/2a9dd-lpgatourthegenesisinvitationalngy172-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 04:00-17/02: PGA Tour The Genesis Invitational - Ngày 17/2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-17/02: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-17/02: Bố Đầu Nhỏ Con Đầu To
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5702/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c7/74/43/3b/bc/c7/c743b-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-17/02: Những Chú Gấu Boonie
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c7/74/43/3b/bc/c7/c743b-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-17/02: Những Chú Gấu Boonie
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/5181/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/56/64/4e/ed/d5/52/564ed-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-17/02: EDM
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/56/64/4e/ed/d5/52/564ed-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-17/02: EDM
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6983/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f8/8a/a5/5e/e2/26/f8a5e-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-17/02: K-Pop
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f8/8a/a5/5e/e2/26/f8a5e-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-17/02: K-Pop
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6984/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/74/4d/d4/41/18/8a/74d41-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-18/02: Dance
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/44/4b/b6/6d/d0/07/44b6d-lqutngtith6lyuemnhiu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-17/02: Quà tặng Tối Thứ 6 - Đã lỡ yêu em nhiều
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7001/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/74/4d/d4/41/18/8a/74d41-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-18/02: Dance
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6985/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f7/7b/b1/1a/a8/80/f7b1a-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-18/02: MB - Hits
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f7/7b/b1/1a/a8/80/f7b1a-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-18/02: MB - Hits
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6986/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d3/38/81/19/92/2d/d3819-lphngtrmytvma-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-18/02: Phòng trà MyTV - Mưa
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d3/38/81/19/92/2d/d3819-lphngtrmytvma-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-18/02: Phòng trà MyTV - Mưa
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6996/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3f/f7/7e/e9/97/77/3f7e9-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: Dance
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6987/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/45/5e/e5/50/06/6f/45e50-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: EDM
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/45/5e/e5/50/06/6f/45e50-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: EDM
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6988/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e6/67/70/05/54/4a/e6705-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-19/02: Dance
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3f/f7/7e/e9/97/77/3f7e9-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6987/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e6/67/70/05/54/4a/e6705-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-19/02: Dance
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6989/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676257990/cmc_new/img.live_channel_schedule/0/0/131/67332/34474204.jpg" group-title="🗓| Sự kiện", 20:30-16/02: Lạ Lắm À Nha
 https://api.vthanhtivi.pw/v2/getlink/cliptv/158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676516890/cmc_new/img.live_channel_schedule/0/0/131/67485/34552801.jpg" group-title="🗓| Sự kiện", 04:15-16/02: Chân Dung Cuộc Tình
 https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445207/cmc_new/img.live_channel_schedule/0/0/130/67015/34312062.jpg" group-title="🗓| Sự kiện", 14:05-16/02: Những Nhà Buôn Ô Tô: Chiếc Xe Trong Mơ
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676013786/cmc_new/img.live_channel_schedule/0/0/130/67005/34306730.jpg" group-title="🗓| Sự kiện", 14:15-16/02: Sao Sinh Tồn Cùng Bear Grylls (Phần 5 - Tập 4)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510384/cmc_new/img.live_channel_schedule/0/0/130/67062/34335785.jpg" group-title="🗓| Sự kiện", 14:30-16/02: Giờ Phiêu Lưu
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270752/cmc_new/img.live_channel_schedule/0/0/131/67430/34524337.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Thời Sự
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510332/cmc_new/img.live_channel_schedule/0/0/130/67062/34335793.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
 https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675396327/cmc_new/img.live_channel_schedule/0/0/130/66686/34143405.jpg" group-title="🗓| Sự kiện", 14:30-16/02: Nhất Quyền Nhân (Tập 1)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675151169/cmc_new/img.live_channel_schedule/0/0/130/66633/34116530.jpg" group-title="🗓| Sự kiện", 14:30-16/02: Chú Nhện Lucas
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675582511/cmc_new/img.live_channel_schedule/0/0/130/66633/34116537.jpg" group-title="🗓| Sự kiện", 20:00-16/02: Gấu Xám Và Những Chú Chuột Lemmut
 https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676513285/cmc_new/img.live_channel_schedule/0/0/130/66599/34098932.jpg" group-title="🗓| Sự kiện", 14:30-16/02: Bán Nhà Cho Sao Ở Miami (Phần 1 - Tập 8)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675152629/cmc_new/img.live_channel_schedule/0/0/130/66677/34138934.jpg" group-title="🗓| Sự kiện", 14:30-16/02: Biệt Đội Giải Cứu Rồng
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676356535/cmc_new/img.live_channel_schedule/0/0/130/66637/34118380.jpg" group-title="🗓| Sự kiện", 14:35-16/02: Cú Ngã (Phần 9)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/604/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676257998/cmc_new/img.live_channel_schedule/0/0/131/67332/34474184.jpg" group-title="🗓| Sự kiện", 14:40-16/02: Xuân Hạ Thu Đông, rồi lại Xuân
-https://api.vthanhtivi.pw/v2/getlink/cliptv/158/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676259962/cmc_new/img.live_channel_schedule/0/0/131/67335/34475732.jpg" group-title="🗓| Sự kiện", 15:00-16/02: 113 Online
-https://api.vthanhtivi.pw/v2/getlink/cliptv/312/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510382/cmc_new/img.live_channel_schedule/0/0/130/67062/34335786.jpg" group-title="🗓| Sự kiện", 15:05-16/02: Mechamato
-https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445238/cmc_new/img.live_channel_schedule/0/0/130/67017/34313008.jpg" group-title="🗓| Sự kiện", 15:10-16/02: Những Kẻ Thích Đùa Dại Dột (Tập 6)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445207/cmc_new/img.live_channel_schedule/0/0/130/67015/34312070.jpg" group-title="🗓| Sự kiện", 20:05-16/02: Tìm Vàng: Dòng Nước Bạc
+https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445238/cmc_new/img.live_channel_schedule/0/0/130/67017/34313016.jpg" group-title="🗓| Sự kiện", 20:10-16/02: Những Kẻ Thích Đùa Dại Dột (Tập 6)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676513285/cmc_new/img.live_channel_schedule/0/0/130/66599/34098933.jpg" group-title="🗓| Sự kiện", 15:20-16/02: Phi Vụ Triệu Đô LA (Phần 12 - Tập 6)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510378/cmc_new/img.live_channel_schedule/0/0/130/67062/34335787.jpg" group-title="🗓| Sự kiện", 15:30-16/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
-https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675696174/cmc_new/img.live_channel_schedule/0/0/130/66677/34138936.jpg" group-title="🗓| Sự kiện", 15:30-16/02: Home: Những Chuyến Phiêu Lưu Cùng Tip Và Oh
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675696171/cmc_new/img.live_channel_schedule/0/0/130/66677/34138947.jpg" group-title="🗓| Sự kiện", 20:10-16/02: Home: Những Chuyến Phiêu Lưu Cùng Tip Và Oh
 https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445207/cmc_new/img.live_channel_schedule/0/0/130/67015/34312064.jpg" group-title="🗓| Sự kiện", 15:45-16/02: Cặp Đôi Sinh Tồn
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270752/cmc_new/img.live_channel_schedule/0/0/131/67430/34524338.jpg" group-title="🗓| Sự kiện", 20:45-16/02: Góc Nhìn Hôm Nay
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676516890/cmc_new/img.live_channel_schedule/0/0/131/67499/34559714.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Làng Hài Mở Hội Mừng Xuân (Hết)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445207/cmc_new/img.live_channel_schedule/0/0/130/67015/34312071.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Đội Xe Cơ Bắp Của Kevin Hart
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676013786/cmc_new/img.live_channel_schedule/0/0/130/67005/34306734.jpg" group-title="🗓| Sự kiện", 15:50-16/02: Giải Đấu Lớn: Bãi Biển Myrtle (Phần 23 - Tập 1)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510486/cmc_new/img.live_channel_schedule/0/0/130/67062/34335788.jpg" group-title="🗓| Sự kiện", 16:30-16/02: Phim Hoạt Hình Những Giai Điệu Ngốc Nghếch
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510486/cmc_new/img.live_channel_schedule/0/0/130/67062/34335794.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Chúng Tôi Đơn Giản Là Gấu
 https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445207/cmc_new/img.live_channel_schedule/0/0/130/67015/34312065.jpg" group-title="🗓| Sự kiện", 16:35-16/02: Cặp Đôi Sinh Tồn
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676013774/cmc_new/img.live_channel_schedule/0/0/130/67005/34306735.jpg" group-title="🗓| Sự kiện", 16:35-16/02: Lò Luyện Võ Sĩ (Phần 1 - Tập 8)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676013774/cmc_new/img.live_channel_schedule/0/0/130/67005/34306746.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Thách Thức Sinh Tồn (Phần 7 - Tập 1)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675581763/cmc_new/img.live_channel_schedule/0/0/130/66633/34116533.jpg" group-title="🗓| Sự kiện", 17:00-16/02: Chú Voi Mumfie
-https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676445207/cmc_new/img.live_channel_schedule/0/0/130/67015/34312066.jpg" group-title="🗓| Sự kiện", 17:25-16/02: Cặp Đôi Sinh Tồn
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675396327/cmc_new/img.live_channel_schedule/0/0/130/66686/34143418.jpg" group-title="🗓| Sự kiện", 21:00-16/02: Nhất Quyền Nhân (Tập 2)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270752/cmc_new/img.live_channel_schedule/0/0/131/67430/34524341.jpg" group-title="🗓| Sự kiện", 22:00-16/02: Thời Sự
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510486/cmc_new/img.live_channel_schedule/0/0/130/67062/34335795.jpg" group-title="🗓| Sự kiện", 22:00-16/02: Steven Universe
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676013774/cmc_new/img.live_channel_schedule/0/0/130/67005/34306747.jpg" group-title="🗓| Sự kiện", 22:10-16/02: Chiến Binh Ninja Mỹ (Phần 13 - Tập 6)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675238585/cmc_new/img.live_channel_schedule/0/0/130/66677/34138952.jpg" group-title="🗓| Sự kiện", 22:15-16/02: Nhóc Trùm Đi Làm Lại
+https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676259952/cmc_new/img.live_channel_schedule/0/0/131/67335/34475749.jpg" group-title="🗓| Sự kiện", 22:30-16/02: Nhận Diện Tội Phạm
+https://api.vthanhtivi.pw/v2/getlink/cliptv/312/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676510485/cmc_new/img.live_channel_schedule/0/0/130/67062/34335796.jpg" group-title="🗓| Sự kiện", 23:00-16/02: Ben 10
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676258103/cmc_new/img.live_channel_schedule/0/0/131/67361/34488988.jpg" group-title="🗓| Sự kiện", 01:20-17/02: Đường Lên Đỉnh Olympia
+https://api.vthanhtivi.pw/v2/getlink/cliptv/158/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675704141/cmc_new/img.live_channel_schedule/0/0/130/66686/34143428.jpg" group-title="🗓| Sự kiện", 02:00-17/02: Vua Bóng Chuyền (Phần 1 - Tập 21)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280844/cmc_new/img.live_channel_schedule/0/0/130/66670/34135366.jpg" group-title="🗓| Sự kiện", 03:55-17/02: Chuyến Săn Bão Táp (Tập 10)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676516918/cmc_new/img.live_channel_schedule/0/0/131/67499/34559763.jpg" group-title="🗓| Sự kiện", 04:15-17/02: Làng Hài Mở Hội Mừng Xuân (Hết)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
@@ -1813,17 +1807,17 @@ http://0.vylc.name.vn/WXTY
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
 http://0.vylc.name.vn/BBC1
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One Server 2
-http://123.24.90.153:8889/evol.php?id=17305
+http://14.162.55.98:8889/evol.php?id=17305
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two
 http://0.vylc.name.vn/BBC2
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two Server 2
-http://123.24.90.153:8889/evol.php?id=17318
+http://14.162.55.98:8889/evol.php?id=17318
 #EXTINF:-1 tvg-id="BBCThree.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png", UK: BBC Three
-http://123.24.90.153:8889/evol.php?id=17321
+http://14.162.55.98:8889/evol.php?id=17321
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png", UK: BBC Four
-http://123.24.90.153:8889/evol.php?id=17331
+http://14.162.55.98:8889/evol.php?id=17331
 #EXTINF:-1 tvg-id="CBeebies.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png", UK: CBeebies
-http://123.24.90.153:8889/evol.php?id=17282
+http://14.162.55.98:8889/evol.php?id=17282
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png", UK: BBC News
 http://0.vylc.name.vn/bbcnews
 #EXTINF:-1 tvg-id="BBCRedButton1.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png", UK: BBC RB 1
@@ -1839,19 +1833,19 @@ http://0.vylc.name.vn/CBBC
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
 http://0.vylc.name.vn/ITV
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV Server 2
-http://123.24.90.153:8889/evol.php?id=17295
+http://14.162.55.98:8889/evol.php?id=17295
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2
 http://0.vylc.name.vn/ITV2
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2 Server 2
-http://123.24.90.153:8889/evol.php?id=17397
+http://14.162.55.98:8889/evol.php?id=17397
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png", UK: ITV3
 http://0.vylc.name.vn/ITV3
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png", UK: ITV3 Server 2
-http://123.24.90.153:8889/evol.php?id=17396
+http://14.162.55.98:8889/evol.php?id=17396
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png", UK: ITV4
 http://0.vylc.name.vn/ITV4
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png", UK: ITV4 Server 2
-http://123.24.90.153:8889/evol.php?id=17395
+http://14.162.55.98:8889/evol.php?id=17395
 #EXTINF:-1 tvg-id="STV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png", UK: STV
 http://0.vylc.name.vn/STV
 #EXTINF:-1 tvg-id="SkyNews.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", UK: Sky News
@@ -1893,11 +1887,11 @@ http://0.vylc.name.vn/ProSieben
 #EXTINF:-1 tvg-id="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD
 http://0.vylc.name.vn/Rai1
 #EXTINF:-1 tvg-ID="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=68620
+http://14.162.55.98:8889/evol.php?id=68620
 #EXTINF:-1 tvg-id="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD
 http://0.vylc.name.vn/Rai2
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=68621
+http://14.162.55.98:8889/evol.php?id=68621
 #EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3
 http://0.vylc.name.vn/Rai3
 #EXTINF:-1 tvg-id="RaiNews24.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png", IT: Rai News 24
@@ -1931,21 +1925,21 @@ http://0.vylc.name.vn/TRT_Turk
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1
 http://0.vylc.name.vn/TVP1
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1 Server 2
-http://123.24.90.153:8889/evol.php?id=67959
+http://14.162.55.98:8889/evol.php?id=67959
 #EXTINF:-1 tvg-id="TVP2.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png", PL: TVP 2
 http://0.vylc.name.vn/TVP2
 #EXTINF:-1 tvg-id="TVP2.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png", PL: TVP 2 Server 2
-http://123.24.90.153:8889/evol.php?id=67958
+http://14.162.55.98:8889/evol.php?id=67958
 #EXTINF:-1 tvg-id="TVP3.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 3
 http://0.vylc.name.vn/TVP3
 #EXTINF:-1 tvg-id="TVP3.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 3 Server 2
-http://123.24.90.153:8889/evol.php?id=67957
+http://14.162.55.98:8889/evol.php?id=67957
 #EXTINF:-1 tvg-id="TVP4.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 4
-http://123.24.90.153:8889/evol.php?id=67956
+http://14.162.55.98:8889/evol.php?id=67956
 #EXTINF:-1 tvg-id="TVPHD.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png", PL: TVP HD
 http://0.vylc.name.vn/TVPHD
 #EXTINF:-1 tvg-id="TVPHD.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png", PL: TVP HD Server 2
-http://123.24.90.153:8889/evol.php?id=67960
+http://14.162.55.98:8889/evol.php?id=67960
 #EXTINF:-1 tvg-id="TVPInfo.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png", PL: TVP Info
 http://0.vylc.name.vn/TVPInfo
 #EXTINF:-1 tvg-id="PolsatNews.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png", PL: Polsat News
@@ -2081,9 +2075,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-id="BTSportUltimate.uk" group-title="4K UHD" tvg-logo="https://i.imgur.com/3DkkHmG.png", UK: BT Sport Ultimate UHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/47381.ts
 #EXTINF:-1 tvg-ID="Rai1.it" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 4K
-http://123.24.90.153:8889/evol.php?id=68441
+http://14.162.55.98:8889/evol.php?id=68441
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 2 4K
-http://123.24.90.153:8889/evol.php?id=68442
+http://14.162.55.98:8889/evol.php?id=68442
 
 #-*-- Amazon Prime Live Khi Có Trận -*--#
 #EXTINF:-1 tvg-id="" group-title="🇬🇧| Amazon Prime Live Khi Có Trận" tvg-logo="http://n2086.securepoint.io:25461/images/6a91fae435e599f632f2ebed6dcf2f3e.png", Amazon : UK Event 00
@@ -2147,7 +2141,7 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94997
 #EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53977
 #EXTINF:-1 tvg-id="SkySportsAction.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/sngAWff.png", UK: Sky Sports Action FHD
-http://123.24.90.153:8889/iprotv.php?id=7956
+http://14.162.55.98:8889/iprotv.php?id=7956
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/nhhbHvs.png", UK: Sky Sports Golf FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/nhhbHvs.png", UK: Sky Sports Golf HD
@@ -2159,47 +2153,47 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53979
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Wn1fS4q.png", UK: Sky Sports Racing FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53987
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G1VySM3.png", UK: Sky Sports Cricket FHD
-http://123.24.90.153:8889/iprotv.php?id=7958
+http://14.162.55.98:8889/iprotv.php?id=7958
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G1VySM3.png", UK: Sky Sports Cricket HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53978
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/5zXJNC9.png", UK: Sky Sports NFL HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53985
 #EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0CdrFCz.png", UK: Sky Sports Mix FHD
-http://123.24.90.153:8889/iprotv.php?id=17931
+http://14.162.55.98:8889/iprotv.php?id=17931
 #EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0CdrFCz.png", UK: Sky Sports Mix HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53983
 #EXTINF:-1 tvg-id="SkySportsNews.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/FizZY9D.png", UK: Sky Sports News HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53984
 #EXTINF:-1 tvg-id="PremierSports.uk" group-title="🇬🇧| Sports UK" tvg-logo="", UK: Premier Sports FHD
-http://123.24.90.153:8889/iprotv.php?id=75859
+http://14.162.55.98:8889/iprotv.php?id=75859
 #EXTINF:-1 tvg-id="Premiersports2.uk" group-title="🇬🇧| Sports UK" tvg-logo="", UK: Premier Sports 2 FHD
-http://123.24.90.153:8889/iprotv.php?id=90555
+http://14.162.55.98:8889/iprotv.php?id=90555
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/z3fQ87X.png", UK: Eurosport 1 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0xpN9B6.png", UK: Eurosport 2 FHD
-http://123.24.90.153:8889/ultratv.php?id=8677
+http://14.162.55.98:8889/ultratv.php?id=8677
 #EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png", UK: BT Sport 1 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270
 #EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53850
 #EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD Server 2
-http://123.24.90.153:8889/evol.php?id=17281
+http://14.162.55.98:8889/evol.php?id=17281
 #EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png", UK: BT Sport 2 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/273
 #EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53851
 #EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD Server 2
-http://123.24.90.153:8889/evol.php?id=17280
+http://14.162.55.98:8889/evol.php?id=17280
 #EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png", UK: BT Sport 3 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/271
 #EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53852
 #EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD Server 2
-http://123.24.90.153:8889/evol.php?id=17279
+http://14.162.55.98:8889/evol.php?id=17279
 #EXTINF:-1 tvg-id="BTSport4.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/42150.ts
 #EXTINF:-1 tvg-id="BTSport4.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=311555
+http://14.162.55.98:8889/evol.php?id=311555
 #EXTINF:-1 tvg-id="BTSport5.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/12210.ts
 #EXTINF:-1 tvg-id="BTSport5.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 HD
@@ -2225,7 +2219,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1124
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD Server 2
-http://123.24.90.153:8889/evol.php?id=163788
+http://14.162.55.98:8889/evol.php?id=163788
 
 #-*-- Sports UK Clubs -*--#
 #EXTINF:-1 tvg-id="LFCTV.uk" group-title="🇬🇧| Sports UK Clubs" tvg-logo="https://i.imgur.com/hWdxcRX.png", UK: LFC HD
@@ -2233,13 +2227,13 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4721
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="🇬🇧| Sports UK Clubs" tvg-logo="https://i.imgur.com/Q96miKz.png", UK: MUTV HD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1102
 #EXTINF:-1 tvg-id="ChelseaTV.uk" group-title="🇬🇧| Sports UK Clubs" tvg-logo="https://i.imgur.com/OJ1D2P7.png", UK: Chelsea TV HD
-http://123.24.90.153:8889/ultratv.php?id=3169
+http://14.162.55.98:8889/ultratv.php?id=3169
 
 #-*-- Sports USA -*--#
 #EXTINF:-1 tvg-id="NBCSN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", US: NBC Sports Network FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/45429.ts
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/4nQOtYJ.png", US: CBS Sports Network FHD
-http://123.24.90.153:8889/iprotv.php?id=10709
+http://14.162.55.98:8889/iprotv.php?id=10709
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD
 http://0.vylc.name.vn/ESPN
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD Server 2
@@ -2357,7 +2351,7 @@ http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126816
 #EXTINF:-1 tvg-ID="CanalPlusFoot.fr" group-title="🇫🇷| Sports French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", FR: Canal+ Sport FHD
 http://ys-users.com:8080/MVPReshare/LN7iKb53zA/496666 
 #EXTINF:-1 tvg-ID="RMCSport1UHD.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/QuP7VoD.png", FR: RMC Sport 1 UHD
-http://123.24.90.153:8889/iprotv.php?id=186420
+http://14.162.55.98:8889/iprotv.php?id=186420
 #EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20275
 #EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD Server 2
@@ -2391,7 +2385,7 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34027
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD
 http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/542
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=56578
+http://14.162.55.98:8889/evol.php?id=56578
 #EXTINF:-1 tvg-ID="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: beIN Sports Max 4 HD
 http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3187
 #EXTINF:-1 tvg-id="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: beIN Sports Max 4 LDC HD
@@ -2537,47 +2531,47 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34017
 #EXTINF:-1 tvg-id="beINSportsFrench2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-2UHD-FRE.png", QA: beIN Sports 2 French UHD
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34018
 #EXTINF:-1 tvg-id="beINSportsFrench3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3UHD-FRE.png", QA: beIN Sports 3 French UHD
-http://123.24.90.153:8889/evol.php?id=211674
+http://14.162.55.98:8889/evol.php?id=211674
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports-NBA-HD-2.png", QA: beIN Sports NBA UHD
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34028
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports-NBA-HD-2.png", QA: beIN Sports NBA UHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34022
 #EXTINF:-1 tvg-id="beINSportsAFC.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%20UHD.png", QA: beIN Sports AFC UHD
-http://123.24.90.153:8889/evol.php?id=296077
+http://14.162.55.98:8889/evol.php?id=296077
 #EXTINF:-1 tvg-id="beINSportsAFC.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%201%20UHD.png", QA: beIN Sports AFC 1 UHD
-http://123.24.90.153:8889/evol.php?id=296078
+http://14.162.55.98:8889/evol.php?id=296078
 #EXTINF:-1 tvg-id="beINSportsAFC2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%202%20UHD.png", QA: beIN Sports AFC 2 UHD
-http://123.24.90.153:8889/evol.php?id=296079
+http://14.162.55.98:8889/evol.php?id=296079
 #EXTINF:-1 tvg-id="beINSportsAFC3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%203%20UHD.png", QA: beIN Sports AFC 3 UHD
-http://123.24.90.153:8889/evol.php?id=296080
+http://14.162.55.98:8889/evol.php?id=296080
 #EXTINF:-1 tvg-id="beIN4K.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-4K.png", QA: beIN Sports UHD
-http://123.24.90.153:8889/evol.php?id=207574
+http://14.162.55.98:8889/evol.php?id=207574
 
 #-*-- Sports Italia -*--#
 #EXTINF:-1 tvg-ID="SkySportUno.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sky_Sport_Uno_HD_-_Logo_2020.svg/512px-Sky_Sport_Uno_HD_-_Logo_2020.svg.png", IT: Sky Sport Uno FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159572
 #EXTINF:-1 tvg-ID="SkySportFootball.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sky_Sport_Football_HD_-_Logo_2020.svg/512px-Sky_Sport_Football_HD_-_Logo_2020.svg.png", IT: Sky Sport Football FHD
-http://123.24.90.153:8889/iprotv.php?id=2770
+http://14.162.55.98:8889/iprotv.php?id=2770
 #EXTINF:-1 tvg-ID="SkySportArena.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Arena_HD_-_Logo_2020.svg/512px-Sky_Sport_Arena_HD_-_Logo_2020.svg.png", IT: Sky Sport Arena FHD
-http://123.24.90.153:8889/iprotv.php?id=2739
+http://14.162.55.98:8889/iprotv.php?id=2739
 #EXTINF:-1 tvg-ID="SkySportF1Italy.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png", IT: Sky Sport F1 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159567
 #EXTINF:-1 tvg-ID="Rai3.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 3 4K
-http://123.24.90.153:8889/evol.php?id=68443
+http://14.162.55.98:8889/evol.php?id=68443
 #EXTINF:-1 tvg-ID="Rai3.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3 FHD
-http://123.24.90.153:8889/evol.php?id=68622
+http://14.162.55.98:8889/evol.php?id=68622
 #EXTINF:-1 tvg-ID="Rai4.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 4 4K
-http://123.24.90.153:8889/evol.php?id=68472
+http://14.162.55.98:8889/evol.php?id=68472
 #EXTINF:-1 tvg-ID="Rai5.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 5 4K
-http://123.24.90.153:8889/evol.php?id=68473
+http://14.162.55.98:8889/evol.php?id=68473
 
 #-*-- Sports Norway -*--#
 #EXTINF:-1 tvg-ID="TV2SportPremium.no" group-title="🇳🇴| Sports Norway" tvg-logo="https://i.imgur.com/KpfFOH2.png", NO: TV2 Sport Premium
-http://123.24.90.153:8889/ultratv.php?id=130745
+http://14.162.55.98:8889/ultratv.php?id=130745
 #EXTINF:-1 tvg-ID="TV2SportPremium2.no" group-title="🇳🇴| Sports Norway" tvg-logo="https://i.imgur.com/PI9F8iM.png", NO: TV2 Sport Premium 2
-http://123.24.90.153:8889/ultratv.php?id=130746
+http://14.162.55.98:8889/ultratv.php?id=130746
 #EXTINF:-1 tvg-ID="TV2Sport.no" group-title="🇳🇴| Sports Norway" tvg-logo="", NO: TV2 Sportskanalen HD
-http://123.24.90.153:8889/ultratv.php?id=9652
+http://14.162.55.98:8889/ultratv.php?id=9652
 
 #-*-- Sports HK/Taiwan -*--#
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115", HK: Now Sports Premier League 1 FHD
@@ -2597,57 +2591,57 @@ http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425331
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague8.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 8 FHD
 http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425330
 #EXTINF:-1 tvg-ID="NowSports1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115", HK: Now Sports 1 FHD
-http://123.24.90.153:8889/ultratv.php?id=246323
+http://14.162.55.98:8889/ultratv.php?id=246323
 #EXTINF:-1 tvg-ID="NowSports2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115", HK: Now Sports 2 FHD
-http://123.24.90.153:8889/ultratv.php?id=246324
+http://14.162.55.98:8889/ultratv.php?id=246324
 #EXTINF:-1 tvg-ID="NowSports3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115", HK: Now Sports 3 FHD
-http://123.24.90.153:8889/ultratv.php?id=200224
+http://14.162.55.98:8889/ultratv.php?id=200224
 #EXTINF:-1 tvg-ID="NowSports4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115", HK: Now Sports 4 FHD
-http://123.24.90.153:8889/ultratv.php?id=246325
+http://14.162.55.98:8889/ultratv.php?id=246325
 #EXTINF:-1 tvg-ID="NowSports5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115", HK: Now Sports 5 FHD
-http://123.24.90.153:8889/ultratv.php?id=246326
+http://14.162.55.98:8889/ultratv.php?id=246326
 #EXTINF:-1 tvg-ID="NowSports6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115", HK: Now Sports 6 FHD
-http://123.24.90.153:8889/ultratv.php?id=246327
+http://14.162.55.98:8889/ultratv.php?id=246327
 #EXTINF:-1 tvg-ID="NowSports7.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115", HK: Now Sports 7 FHD
-http://123.24.90.153:8889/ultratv.php?id=246328
+http://14.162.55.98:8889/ultratv.php?id=246328
 
 #-*-- Sports Germany -*--#
 #EXTINF:-1 tvg-id="skysportpremierleague.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/ChWdcRC.png", DE: Sky Sport Premiere League FHD 
-http://123.24.90.153:8889/prostv.php?id=248599
+http://14.162.55.98:8889/prostv.php?id=248599
 #EXTINF:-1 tvg-ID="skysportpremierleague.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/ChWdcRC.png", DE: Sky Sport Premier League FHD Server 2
 http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/193619 
 #EXTINF:-1 tvg-id="skysportmix.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0CdrFCz.png", DE: Sky Sport Mix FHD 
-http://123.24.90.153:8889/prostv.php?id=248598
+http://14.162.55.98:8889/prostv.php?id=248598
 #EXTINF:-1 tvg-ID="skysportmix.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0CdrFCz.png", DE: Sky Sport Mix FHD Server 2
-http://123.24.90.153:8889/evol.php?id=310971
+http://14.162.55.98:8889/evol.php?id=310971
 #EXTINF:-1 tvg-id="skysportgolf.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/nhhbHvs.png", DE: Sky Sport Golf FHD 
-http://123.24.90.153:8889/prostv.php?id=248597
+http://14.162.55.98:8889/prostv.php?id=248597
 #EXTINF:-1 tvg-ID="skysportgolf.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/nhhbHvs.png", DE: Sky Sport Golf FHD Server 2
-http://123.24.90.153:8889/evol.php?id=310972
+http://14.162.55.98:8889/evol.php?id=310972
 #EXTINF:-1 tvg-ID="SkySportNewsGermany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/512px-Sky_Sport_News_2020.svg.png", DE: Sky Sports News FHD
-http://123.24.90.153:8889/evol.php?id=33453
+http://14.162.55.98:8889/evol.php?id=33453
 #EXTINF:-1 tvg-ID="skysporttopevent.de" group-title="🇩🇪| Sports Germany" tvg-logo="", DE: Sky Sport Top Event FHD
-http://123.24.90.153:8889/evol.php?id=310970
+http://14.162.55.98:8889/evol.php?id=310970
 #EXTINF:-1 tvg-ID="skysporttennis.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png", DE: Sky Sport Tennis FHD
-http://123.24.90.153:8889/evol.php?id=310967
+http://14.162.55.98:8889/evol.php?id=310967
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", DE: Sky Sport F1 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174563
 #EXTINF:-1 tvg-ID="DAZN1BarHD.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/qMr4eDT.png", DE: DAZN 1 Bar FHD
-http://123.24.90.153:8889/evol.php?id=45656
+http://14.162.55.98:8889/evol.php?id=45656
 #EXTINF:-1 tvg-ID="daznbar2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DE: DAZN 2 Bar FHD
-http://123.24.90.153:8889/evol.php?id=45657
+http://14.162.55.98:8889/evol.php?id=45657
 #EXTINF:-1 tvg-ID="SkySportAustria1.at" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/6/60/Sky_Sport_Austria_2020.svg/512px-Sky_Sport_Austria_2020.svg.png", DE: Sky Sport Austria 1 FHD
-http://123.24.90.153:8889/ultratv.php?id=146661
+http://14.162.55.98:8889/ultratv.php?id=146661
 #EXTINF:-1 tvg-ID="SkySport1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png", DE: Sky Sport 1 FHD
-http://123.24.90.153:8889/ultratv.php?id=7813
+http://14.162.55.98:8889/ultratv.php?id=7813
 #EXTINF:-1 tvg-ID="SkySport2Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/512px-Sky_Sport_2_DE_Logo_2020.svg.png", DE: Sky Sport 2 FHD
-http://123.24.90.153:8889/ultratv.php?id=7814
+http://14.162.55.98:8889/ultratv.php?id=7814
 #EXTINF:-1 tvg-ID="SkySport3Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/512px-Sky_Sport_3_DE_Logo_2020.svg.png", DE: Sky Sport 3 FHD
-http://123.24.90.153:8889/ultratv.php?id=4699
+http://14.162.55.98:8889/ultratv.php?id=4699
 #EXTINF:-1 tvg-ID="SkySport3Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/512px-Sky_Sport_3_DE_Logo_2020.svg.png", DE: Sky Sport 3 FHD
-http://123.24.90.153:8889/ultratv.php?id=10296
+http://14.162.55.98:8889/ultratv.php?id=10296
 #EXTINF:-1 tvg-ID="SkySport4Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/512px-Sky_Sport_4_DE_Logo_2020.svg.png", DE: Sky Sport 4 FHD
-http://123.24.90.153:8889/ultratv.php?id=10295
+http://14.162.55.98:8889/ultratv.php?id=10295
 #EXTINF:-1 tvg-ID="SkySportBundesliga1.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/512px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png", DE: Sky Bundesliga 1 FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204948
 #EXTINF:-1 tvg-ID="SkySportBundesliga2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png/512px-Sky_Sport_Bundesliga_2_Logo_2020.png", DE: Sky Bundesliga 2 FHD
@@ -2675,11 +2669,11 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2082
 
 #-*-- Sports Hungary -*--#
 #EXTINF:-1 tvg-id="DigiSport1Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/si4dU6Q.png", DIGI Sport 1 HU
-http://123.24.90.153:8889/prostv.php?id=247246
+http://14.162.55.98:8889/prostv.php?id=247246
 #EXTINF:-1 tvg-id="DigiSport2Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/r93ZSJ0.png", DIGI Sport 2 HU
-http://123.24.90.153:8889/prostv.php?id=247245
+http://14.162.55.98:8889/prostv.php?id=247245
 #EXTINF:-1 tvg-id="DigiSport3Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/tyEjZm5.png", DIGI Sport 3 HU
-http://123.24.90.153:8889/prostv.php?id=247244
+http://14.162.55.98:8889/prostv.php?id=247244
 
 #-*-- Sports Astro Malaysia -*--#
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD
@@ -2703,7 +2697,7 @@ http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/33065.ts
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD Server 2
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197518
 #EXTINF:-1 tvg-ID="AstroArena.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/IPK9f6h.png", MY Astro: Arena FHD
-http://123.24.90.153:8889/ultratv.php?id=161948
+http://14.162.55.98:8889/ultratv.php?id=161948
 #EXTINF:-1 group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 1
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:01:B9:B6&stream=1552973&extension=ts&play_token=qgrz5idFn8
 #EXTINF:-1 group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 2
@@ -2721,7 +2715,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56760
 #EXTINF:-1 tvg-ID="SuperSportFootball.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png", AF: Supersport Football FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56762
 #EXTINF:-1 tvg-ID="SuperSportFootballPlus.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_FootballPlus_4-3_004_xlrg.png", AF: SuperSport Football Plus FHD
-http://123.24.90.153:8889/icool.php?id=145095
+http://14.162.55.98:8889/icool.php?id=145095
 #EXTINF:-1 tvg-ID="SuperSportGrandstand.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-3_001_xlrg.png", AF: SuperSport Grandstand FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56764
 #EXTINF:-1 tvg-ID="SuperSportLaLiga.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png", AF: SuperSport La Liga FHD
@@ -2733,9 +2727,9 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56769
 #EXTINF:-1 tvg-ID="SuperSportPlay.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-3_001_xlrg.png", AF: SuperSport Play 1 FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199589
 #EXTINF:-1 tvg-ID="SuperSportPlay2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Play 2 FHD
-http://123.24.90.153:8889/icool.php?id=145084
+http://14.162.55.98:8889/icool.php?id=145084
 #EXTINF:-1 tvg-ID="" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Events FHD
-http://123.24.90.153:8889/icool.php?id=145086
+http://14.162.55.98:8889/icool.php?id=145086
 #EXTINF:-1 tvg-ID="SuperSportGolf.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-3_xlrg.png", AF: SuperSport Golf FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56763
 #EXTINF:-1 tvg-ID="SuperSportMotorsport.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png", AF: SuperSport Motorsport FHD
@@ -2781,49 +2775,49 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199590
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV + FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/gCTAxBl.png", PT: Sport TV + FHD Server 2
-http://123.24.90.153:8889/angel.php?id=102460
+http://14.162.55.98:8889/angel.php?id=102460
 #EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 
-http://123.24.90.153:8889/evol.php?id=107500
+http://14.162.55.98:8889/evol.php?id=107500
 #EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 2
-http://123.24.90.153:8889/angel.php?id=12784
+http://14.162.55.98:8889/angel.php?id=12784
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=102461
+http://14.162.55.98:8889/angel.php?id=102461
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=107501
+http://14.162.55.98:8889/evol.php?id=107501
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=12787
+http://14.162.55.98:8889/angel.php?id=12787
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102462
+http://14.162.55.98:8889/angel.php?id=102462
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 4K
-http://123.24.90.153:8889/angel.php?id=102463
+http://14.162.55.98:8889/angel.php?id=102463
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=107502
+http://14.162.55.98:8889/evol.php?id=107502
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=12790
+http://14.162.55.98:8889/angel.php?id=12790
 #EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102464
+http://14.162.55.98:8889/angel.php?id=102464
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTS4.png",PT: Sport TV 4 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 2
-http://123.24.90.153:8889/angel.php?id=12792
+http://14.162.55.98:8889/angel.php?id=12792
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=102465
+http://14.162.55.98:8889/angel.php?id=102465
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV5.png",PT: Sport TV 5 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/cir6Ej7.png", PT: Sport TV 5 FHD Server 2
-http://123.24.90.153:8889/angel.php?id=12794
+http://14.162.55.98:8889/angel.php?id=12794
 #EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=102466
+http://14.162.55.98:8889/angel.php?id=102466
 #EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD
-http://123.24.90.153:8889/angel.php?id=102467
+http://14.162.55.98:8889/angel.php?id=102467
 #EXTINF:-1 tvg-id="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV NBA FHD
-http://123.24.90.153:8889/evol.php?id=107503
+http://14.162.55.98:8889/evol.php?id=107503
 #EXTINF:-1 tvg-ID="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Sport TV NBA FHD Server 3
-http://123.24.90.153:8889/ultratv.php?id=164982
+http://14.162.55.98:8889/ultratv.php?id=164982
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10155
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
@@ -2831,9 +2825,9 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2648
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2649
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102469
+http://14.162.55.98:8889/angel.php?id=102469
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
-http://123.24.90.153:8889/angel.php?id=102470
+http://14.162.55.98:8889/angel.php?id=102470
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10156
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
@@ -2841,41 +2835,41 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2650
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2651
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=102471
+http://14.162.55.98:8889/angel.php?id=102471
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10157
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2652
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=12802
+http://14.162.55.98:8889/angel.php?id=12802
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102472
+http://14.162.55.98:8889/angel.php?id=102472
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 4K
-http://123.24.90.153:8889/angel.php?id=102473
+http://14.162.55.98:8889/angel.php?id=102473
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10159
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2653
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=12803
+http://14.162.55.98:8889/angel.php?id=12803
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102474
+http://14.162.55.98:8889/angel.php?id=102474
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10160 
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2654
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=12804
+http://14.162.55.98:8889/angel.php?id=12804
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102475
+http://14.162.55.98:8889/angel.php?id=102475
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10158
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2655
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 3
-http://123.24.90.153:8889/angel.php?id=12805
+http://14.162.55.98:8889/angel.php?id=12805
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 4
-http://123.24.90.153:8889/angel.php?id=102476
+http://14.162.55.98:8889/angel.php?id=102476
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD
 
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD Server 2
@@ -2887,9 +2881,9 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590
 #EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587
 #EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD Server 2
-http://123.24.90.153:8889/ultratv.php?id=9345
+http://14.162.55.98:8889/ultratv.php?id=9345
 #EXTINF:-1 tvg-ID="SportingTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/GOlNfTo.png", PT: Sporting TV FHD
-http://123.24.90.153:8889/ultratv.php?id=9345
+http://14.162.55.98:8889/ultratv.php?id=9345
 
 #-*-- Sports Poland -*--#
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/hy1SKE0.png", PL: Polsat Sport Premium 1 FHD
@@ -2897,95 +2891,95 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15891
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/hy1SKE0.png", PL: Polsat Sport Premium 1 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/14494
 #EXTINF:-1 tvg-ID="PolsatSportPremium1.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/hy1SKE0.png", PL: Polsat Sport Premium 1 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67797
+http://14.162.55.98:8889/evol.php?id=67797
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/myyWeXY.png", PL: Polsat Sport Premium 2 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15890
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/myyWeXY.png", PL: Polsat Sport Premium 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/14493
 #EXTINF:-1 tvg-ID="PolsatSportPremium2.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/myyWeXY.png", PL: Polsat Sport Premium 2 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67796
+http://14.162.55.98:8889/evol.php?id=67796
 #EXTINF:-1 tvg-id="PolsatSportPremium3PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/leFNP03.png", PL: Polsat Sport Premium 3 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15889
 #EXTINF:-1 tvg-id="PolsatSportPremium3PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/leFNP03.png", PL: Polsat Sport Premium 3 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=75831
+http://14.162.55.98:8889/evol.php?id=75831
 #EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SulxUvc.png", PL: Polsat Sport Premium 4 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15888
 #EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SulxUvc.png", PL: Polsat Sport Premium 4 FHD Server 2
-http://123.24.90.153:8889/prostv.php?id=20610
+http://14.162.55.98:8889/prostv.php?id=20610
 #EXTINF:-1 tvg-id="PolsatSportPremium5PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/W1uhsGm.png", PL: Polsat Sport Premium 5 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15887
 #EXTINF:-1 tvg-id="PolsatSportPremium5PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/W1uhsGm.png", PL: Polsat Sport Premium 5 FHD Server 2
-http://123.24.90.153:8889/prostv.php?id=147388
+http://14.162.55.98:8889/prostv.php?id=147388
 #EXTINF:-1 tvg-id="PolsatSportPremium6PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/YrveCmM.png", PL: Polsat Sport Premium 6 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15886
 #EXTINF:-1 tvg-id="PolsatSportPremium6PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/YrveCmM.png", PL: Polsat Sport Premium 6 FHD Server 2
-http://123.24.90.153:8889/prostv.php?id=147389
+http://14.162.55.98:8889/prostv.php?id=147389
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sport 1 FHD
 http://0.vylc.name.vn:8080/stream/channelid/836061641
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2560
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67795
+http://14.162.55.98:8889/evol.php?id=67795
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sport 2 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1604309142
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sports 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2561
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sports 2 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67794
+http://14.162.55.98:8889/evol.php?id=67794
 #EXTINF:-1 tvg-id="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sport 3 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1655748057
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sports 3 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12739
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sports 3 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67793
+http://14.162.55.98:8889/evol.php?id=67793
 #EXTINF:-1 tvg-id="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sport 4 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1958327260
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sports 4 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12740
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sports 4 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67792
+http://14.162.55.98:8889/evol.php?id=67792
 #EXTINF:-1 tvg-id="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD
 http://0.vylc.name.vn:8080/stream/channelid/701074256
 #EXTINF:-1 tvg-ID="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8857
 #EXTINF:-1 tvg-ID="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67799
+http://14.162.55.98:8889/evol.php?id=67799
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD
 http://0.vylc.name.vn:8080/stream/channelid/842661572
 #EXTINF:-1 tvg-ID="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8823
 #EXTINF:-1 tvg-ID="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67808
+http://14.162.55.98:8889/evol.php?id=67808
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD
 http://0.vylc.name.vn:8080/stream/channelid/1209045940
 #EXTINF:-1 tvg-ID="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8899
 #EXTINF:-1 tvg-ID="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD Server 3
-http://123.24.90.153:8889/evol.php?id=67809
+http://14.162.55.98:8889/evol.php?id=67809
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/8x1FV3o.png", PL: Polsat Sport Fight HD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8900
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/8x1FV3o.png", PL: Polsat Sport Fight HD
-http://123.24.90.153:8889/evol.php?id=67807
+http://14.162.55.98:8889/evol.php?id=67807
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD
 http://0.vylc.name.vn:8080/stream/channelid/684151253
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8921
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 3
-http://123.24.90.153:8889/evol.php?id=75753
+http://14.162.55.98:8889/evol.php?id=75753
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1705267767
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8973
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 3
-http://123.24.90.153:8889/evol.php?id=75835
+http://14.162.55.98:8889/evol.php?id=75835
 #EXTINF:-1 tvg-id="CanalPlusSport3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT3-HD.png", PL: Canal+ Sport 3 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19624
 #EXTINF:-1 tvg-id="CanalPlusSport3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT3-HD.png", PL: Canal+ Sport 3 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=75827
+http://14.162.55.98:8889/evol.php?id=75827
 #EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19625
 #EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 FHD Server 2
-http://123.24.90.153:8889/evol.php?id=75828
+http://14.162.55.98:8889/evol.php?id=75828
 #EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1048689498
 #EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD Server 2
@@ -3017,7 +3011,7 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
 http://0.vylc.name.vn:8080/stream/channelid/1560768115
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
-http://123.24.90.153:8889/evol.php?id=67806
+http://14.162.55.98:8889/evol.php?id=67806
 
 #-*-- Sports Romania -*--#
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/5zMxDYq.png", RO: Digi Sport 1
@@ -3029,35 +3023,35 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2243
 #EXTINF:-1 tvg-id="DigiSport4Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 4
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4219
 #EXTINF:-1 tvg-id="TelekomSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-1.png", RO: Telekom Sport 1
-http://123.24.90.153:8889/evol.php?id=150235
+http://14.162.55.98:8889/evol.php?id=150235
 #EXTINF:-1 tvg-id="TelekomSport2.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-2.png", RO: Telekom Sport 2
-http://123.24.90.153:8889/evol.php?id=150236
+http://14.162.55.98:8889/evol.php?id=150236
 #EXTINF:-1 tvg-id="TelekomSport3.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-3.png", RO: Telekom Sport 3
-http://123.24.90.153:8889/evol.php?id=150237
+http://14.162.55.98:8889/evol.php?id=150237
 #EXTINF:-1 tvg-id="TelekomSport4.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-4.png", RO: Telekom Sport 4
-http://123.24.90.153:8889/evol.php?id=150238
+http://14.162.55.98:8889/evol.php?id=150238
 #EXTINF:-1 tvg-id="LookPlusHD.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKPLUS.png", RO: Look Plus HD
-http://123.24.90.153:8889/evol.php?id=68818
+http://14.162.55.98:8889/evol.php?id=68818
 #EXTINF:-1 tvg-id="LookSport.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKSPORT.png", RO: Look Sport HD
-http://123.24.90.153:8889/evol.php?id=68913
+http://14.162.55.98:8889/evol.php?id=68913
 
 #-*-- Sports Israel -*--#
 #EXTINF:-1 tvg-id="Sport1.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 1
-http://123.24.90.153:8889/evol.php?id=63972
+http://14.162.55.98:8889/evol.php?id=63972
 #EXTINF:-1 tvg-id="Sport2.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 2
-http://123.24.90.153:8889/evol.php?id=63971
+http://14.162.55.98:8889/evol.php?id=63971
 #EXTINF:-1 tvg-id="Sport3.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 3
-http://123.24.90.153:8889/evol.php?id=63970
+http://14.162.55.98:8889/evol.php?id=63970
 #EXTINF:-1 tvg-id="Sport4.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 4
-http://123.24.90.153:8889/evol.php?id=63969
+http://14.162.55.98:8889/evol.php?id=63969
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5
-http://123.24.90.153:8889/evol.php?id=63968
+http://14.162.55.98:8889/evol.php?id=63968
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 Live
-http://123.24.90.153:8889/evol.php?id=63967
+http://14.162.55.98:8889/evol.php?id=63967
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 Live HD
-http://123.24.90.153:8889/evol.php?id=63966
+http://14.162.55.98:8889/evol.php?id=63966
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 HD
-http://123.24.90.153:8889/evol.php?id=63965
+http://14.162.55.98:8889/evol.php?id=63965
 
 #-*-- Sports India -*--#
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" group-title="🇮🇳| Sports India" tvg-logo="https://i.imgur.com/hh15eHd.png", IN: Star Sports Select 1
@@ -3317,84 +3311,100 @@ http://0.vylc.name.vn/Setanta2
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
 http://0.vylc.name.vn/matchtv
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
-http://123.24.90.153:8889/evol.php?id=21420
+http://14.162.55.98:8889/evol.php?id=21420
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
 http://0.vylc.name.vn/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
-http://123.24.90.153:8889/evol.php?id=21418
+http://14.162.55.98:8889/evol.php?id=21418
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
 http://0.vylc.name.vn/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
-http://123.24.90.153:8889/evol.php?id=21417
+http://14.162.55.98:8889/evol.php?id=21417
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
-http://123.24.90.153:8889/evol.php?id=21416
+http://14.162.55.98:8889/evol.php?id=21416
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
 
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: SD1 Arsenal vs Manchester City (Người Cồn)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: SD1 FC Barcelona vs Manchester United (Người Rơi + Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: SD2 Arsenal vs Manchester City (Người Cồn)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: SD2 FC Barcelona vs Manchester United (Người Rơi + Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: HD Arsenal vs Manchester City (Người Cồn)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: HD FC Barcelona vs Manchester United (Người Rơi + Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: Full HD Arsenal vs Manchester City (Người Cồn)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: Full HD FC Barcelona vs Manchester United (Người Rơi + Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: Nhà đài Arsenal vs Manchester City (Người Cồn)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: Nhà đài FC Barcelona vs Manchester United (Người Rơi + Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: SD1 Arsenal vs Manchester City (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: SD2 Arsenal vs Manchester City (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: HD Arsenal vs Manchester City (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: Full HD Arsenal vs Manchester City (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may038FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-16/02: Nhà đài Arsenal vs Manchester City (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: SD1 Real Madrid vs Elche (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: SD1 FC Barcelona vs Manchester United (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: SD2 Real Madrid vs Elche (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: SD2 FC Barcelona vs Manchester United (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: HD Real Madrid vs Elche (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: HD FC Barcelona vs Manchester United (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: Full HD Real Madrid vs Elche (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: Full HD FC Barcelona vs Manchester United (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: Nhà đài Real Madrid vs Elche (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-17/02: Nhà đài FC Barcelona vs Manchester United (Cáp Tần + Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: SD1 Borussia Dortmund vs Chelsea (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: SD1 Juventus vs Nantes (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: SD2 Borussia Dortmund vs Chelsea (Cáp Tần)
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: SD2 Juventus vs Nantes (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: HD Borussia Dortmund vs Chelsea (Cáp Tần)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: HD Juventus vs Nantes (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: Full HD Borussia Dortmund vs Chelsea (Cáp Tần)
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: Full HD Juventus vs Nantes (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may038FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: Nhà đài Juventus vs Nantes (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: SD1 Bayer Leverkusen vs Monaco (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: SD2 Bayer Leverkusen vs Monaco (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: HD Bayer Leverkusen vs Monaco (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: Full HD Bayer Leverkusen vs Monaco (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-16/02: Nhà đài Borussia Dortmund vs Chelsea (Cáp Tần)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: Nhà đài Bayer Leverkusen vs Monaco (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: SD1 Sevilla vs PSV Eindhoven (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: SD2 Sevilla vs PSV Eindhoven (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: HD Sevilla vs PSV Eindhoven (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: Full HD Sevilla vs PSV Eindhoven (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-17/02: Nhà đài Sevilla vs PSV Eindhoven (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 
