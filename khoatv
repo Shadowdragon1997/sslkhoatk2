@@ -128,13 +128,7 @@ http://171.244.61.233/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://171.244.61.233/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/qh48b0d4_bannere4934213b8db80667c191bc1d583197f_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-18/02: Macarthur FC - Newcastle Jets (Vòng 17 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/57a4af3a-dd16-4617-ac66-c113da5a9629/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/asco6did_banner99f94b1a62563620f24f5a0e4399e775_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-18/02: Sydney FC - Brisbane Roar FC (Vòng 17 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/d1b857b7-4497-4e8e-8185-d0974f78d33f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/wgzza27n_banner7bb362decab3f6c828f74dec0d8bc3d1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-18/02: Melbourne Victory - Melbourne City FC (Vòng 17 - VĐQG Úc 2022/23)
-https://api.vthanhtivi.pw/v2/getlink/vieonevent/2d6e49cd-ed79-4877-849d-61b6a48b2dd7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/08/9p9r8p01_banner-1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 17:45-18/02: Perth Glory - Central Coast Mariners (Vòng 17 - VĐQG Úc 2022/23)
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/08/9p9r8p01_banner-1_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 18:15-18/02: Perth Glory - Central Coast Mariners (Vòng 17 - VĐQG Úc 2022/23)
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/8f8cbe55-163a-4748-b6d6-f22eaff3118e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/07/7i4757ui_banner2809d9aa9a70d805d165938fed3dbed0_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-19/02: Adelaide United - W.S Wanderers FC (Vòng 17 - VĐQG Úc 2022/23)
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/83083987-b302-4534-8645-000e185fbbb0/playlist.m3u8
@@ -1370,12 +1364,8 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/01/iheai1ju_banner552651b54258e6727f00730518353012_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-18/02: Quay số mở thưởng Vietlott 18/02/2023
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/7c33f441-8dd0-4bbe-86e3-69ae106913b2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/74/4d/d4/41/18/8a/74d41-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-18/02: Dance
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6985/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/99/9d/dc/cc/c0/01/99dcc-ldpworldtourthailandclassisngy182-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-18/02: DP World Tour Thailand Classis - Ngày 18/2
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7006/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f7/7b/b1/1a/a8/80/f7b1a-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-18/02: MB - Hits
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6986/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d6/6e/e2/20/0b/bb/d6e20-lxuhng24hnhnnhvng24premierleagueliverpoolvinhimvphithngnewcastle-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-18/02: Xu hướng 24h: Nhận định vòng 24 Premier League: Liverpool với nhiệm vụ phải thắng Newcastle
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7050/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/55/5a/a0/04/43/b55a0-lasiantourinternationalseriesqatarngy182-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-18/02: Asian Tour International Series Qatar - Ngày 18/2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7003/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/7f/f0/0b/b6/68/8c/7f0b6-lvleaguevng4hiphngvshnglnhhtnh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:15-18/02: V.League - Vòng 4: Hải Phòng vs Hồng Lĩnh Hà Tĩnh
@@ -1410,16 +1400,16 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/7022/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7009/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/bf/fb/bb/b4/4a/a6/bfbb4-latptour500abnamroopenbnkt2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:30-19/02: ATP Tour 500 ABN Amro Open - Bán kết 2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7014/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/57/79/90/0f/f3/b5790-lligue1vng24strasbourgvsangers-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-19/02: Ligue 1 - Vòng 24: Strasbourg vs Angers
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/9b/bd/dd/d3/35/59/9bdd3-llaligavng22osasunavsrealmadrid-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-19/02: La Liga - Vòng 22: Osasuna vs Real Madrid
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7048/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b5/57/79/90/0f/f3/b5790-lligue1vng24strasbourgvsangers-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-19/02: Ligue 1 - Vòng 24: Strasbourg vs Angers
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7036/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e8/82/2c/c3/37/72/e82c3-latptour250argentinaopenbnkt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 04:00-19/02: ATP Tour 250 Argentina Open - Bán kết
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7017/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3f/f7/7e/e9/97/77/3f7e9-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: Dance
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/6987/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/45/5e/e5/50/06/6f/45e50-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: EDM
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/6988/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/3f/f7/7e/e9/97/77/3f7e9-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-19/02: Dance
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6987/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b3/38/81/16/65/53/b3816-ldpworldtourthailandclassisngy192-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-19/02: DP World Tour Thailand Classis - Ngày 19/2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7007/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/e6/67/70/05/54/4a/e6705-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-19/02: Dance
@@ -1436,14 +1426,14 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/7033/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7043/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c2/22/2d/dc/c9/92/c22dc-limhnththaoarsenalliverpoolbloismmanutdtrgivchinthng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-19/02: Điểm hẹn thể thao - Arsenal, Liverpool bị loại sớm Man UTD trả giá vì chiến thắng
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f2/28/89/94/44/4c/f2894-lserieavng23fiorentinavsempoli-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-19/02: Serie A - Vòng 23: Fiorentina vs Empoli
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b3/3d/da/a6/61/16/b3da6-lserieavng23salernitanavslazio-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-19/02: Serie A - Vòng 23: Salernitana vs Lazio
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7027/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0f/f9/9e/e2/23/3f/0f9e2-latptour500abnamroopenchungkt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-19/02: ATP Tour 500 ABN Amro Open - Chung kết
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7015/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f2/28/89/94/44/4c/f2894-lserieavng23fiorentinavsempoli-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-19/02: Serie A - Vòng 23: Fiorentina vs Empoli
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7026/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/44/45/59/9a/ac/cd/4459a-lbundesligavng21unionberlinvsschalke04-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-19/02: Bundesliga - Vòng 21: Union Berlin vs Schalke 04
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7023/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/0f/f9/9e/e2/23/3f/0f9e2-latptour500abnamroopenchungkt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-19/02: ATP Tour 500 ABN Amro Open - Chung kết
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7015/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d2/20/07/7c/c5/5a/d207c-llaligavng22rayovallecanovssevilla-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:15-19/02: La Liga - Vòng 22: Rayo Vallecano vs Sevilla
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f9/96/65/54/4c/ce/f9654-lthamvngtp27a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-19/02: Tham Vọng - Tập 27A
@@ -1462,10 +1452,10 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/7046/playlist.m3u8
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/1c/cd/d2/2c/c7/79/1cd2c-lbundesligavng21leverkusenvsmainz05-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:30-20/02: Bundesliga - Vòng 21: Leverkusen vs Mainz 05
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7024/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/86/66/66/68/8a/ae/86668-lserieavng23asromavsverona-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-20/02: Serie A - Vòng 23: AS Roma vs Verona
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b6/68/8f/fe/e3/33/b68fe-lligue1vng24toulousevsmarseille-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-20/02: Ligue 1 - Vòng 24: Toulouse vs Marseille
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7038/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/86/66/66/68/8a/ae/86668-lserieavng23asromavsverona-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-20/02: Serie A - Vòng 23: AS Roma vs Verona
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7028/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f9/96/6c/c1/1a/ad/f96c1-llaligavng22barcelonavscadiz-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-20/02: La Liga - Vòng 22: Barcelona vs Cadiz
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7047/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/b4/4c/c6/6e/ed/d8/b4c6e-latptour250argentinaopenchungkt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 04:00-20/02: ATP Tour 250 Argentina Open - Chung kết
@@ -1479,54 +1469,54 @@ https://api.vthanhtivi.pw/v2/getlink/mytvevent/7029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/36/66/61/12/24/42/36612-llaligavng22getafevsvalencia-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-21/02: La Liga - Vòng 22: Getafe vs Valencia
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7045/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280844/cmc_new/img.live_channel_schedule/0/0/130/66670/34135408.jpg" group-title="🗓| Sự kiện", 08:15-18/02: Chuyến Săn Bão Táp (Tập 4)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676516954/cmc_new/img.live_channel_schedule/0/0/131/67421/34519891.jpg" group-title="🗓| Sự kiện", 20:00-18/02: Giai Điệu Cảm Xúc
+https://api.vthanhtivi.pw/v2/getlink/cliptv/484/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280844/cmc_new/img.live_channel_schedule/0/0/130/66670/34135418.jpg" group-title="🗓| Sự kiện", 17:25-18/02: Chuyến Săn Bão Táp (Tập 3)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675588858/cmc_new/img.live_channel_schedule/0/0/130/66677/34139043.jpg" group-title="🗓| Sự kiện", 08:40-18/02: Thủa Ban Đầu Của Nhà Crood
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675417349/cmc_new/img.live_channel_schedule/0/0/130/67062/34335835.jpg" group-title="🗓| Sự kiện", 09:00-18/02: Chúng Tôi Đơn Giản Là Gấu Con
-https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280844/cmc_new/img.live_channel_schedule/0/0/130/66670/34135409.jpg" group-title="🗓| Sự kiện", 09:05-18/02: Chuyến Săn Bão Táp (Tập 5)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675696212/cmc_new/img.live_channel_schedule/0/0/130/66677/34139044.jpg" group-title="🗓| Sự kiện", 09:05-18/02: Home: Những Chuyến Phiêu Lưu Cùng Tip Và Oh
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606480/cmc_new/img.live_channel_schedule/0/0/130/67015/34312123.jpg" group-title="🗓| Sự kiện", 09:05-18/02: Chuyến Săn Bão Táp
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606472/cmc_new/img.live_channel_schedule/0/0/130/67015/34312132.jpg" group-title="🗓| Sự kiện", 17:25-18/02: Chuyến Săn Bão Táp
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676014028/cmc_new/img.live_channel_schedule/0/0/130/67005/34306827.jpg" group-title="🗓| Sự kiện", 09:10-18/02: Trận Chiến Xe Ảo (Phần 1 - Tập 1)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676014017/cmc_new/img.live_channel_schedule/0/0/130/67005/34306840.jpg" group-title="🗓| Sự kiện", 17:25-18/02: Sao Sinh Tồn Cùng Bear Grylls (Phần 5 - Tập 4)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676628977/cmc_new/img.live_channel_schedule/0/0/130/66677/34139045.jpg" group-title="🗓| Sự kiện", 09:30-18/02: Quỷ Lùn Tinh Nghịch: Giai Điệu Bất Tận
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676280844/cmc_new/img.live_channel_schedule/0/0/130/66670/34135410.jpg" group-title="🗓| Sự kiện", 09:55-18/02: Chuyến Săn Bão Táp (Tập 6)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676014028/cmc_new/img.live_channel_schedule/0/0/130/67005/34306829.jpg" group-title="🗓| Sự kiện", 10:10-18/02: Cuộc Đua Đến Tâm Trái Đất (Tập 2)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676538925/cmc_new/img.live_channel_schedule/0/0/130/67062/34335845.jpg" group-title="🗓| Sự kiện", 17:30-18/02: Chúng Tôi Đơn Giản Là Gấu Con
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676260011/cmc_new/img.live_channel_schedule/0/0/131/67394/34505828.jpg" group-title="🗓| Sự kiện", 18:00-18/02: An Ninh 24h
+https://api.vthanhtivi.pw/v2/getlink/cliptv/312/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676014017/cmc_new/img.live_channel_schedule/0/0/130/67005/34306841.jpg" group-title="🗓| Sự kiện", 18:10-18/02: Trận Chiến Xe Ảo (Phần 1 - Tập 3)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606513/cmc_new/img.live_channel_schedule/0/0/130/67017/34313070.jpg" group-title="🗓| Sự kiện", 10:20-18/02: Những Kẻ Thích Đùa Dại Dột (Tập 3)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675704154/cmc_new/img.live_channel_schedule/0/0/130/66686/34143493.jpg" group-title="🗓| Sự kiện", 10:30-18/02: Vua Bóng Chuyền (Phần 1 - Tập 19)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676271536/cmc_new/img.live_channel_schedule/0/0/130/66670/34135411.jpg" group-title="🗓| Sự kiện", 10:45-18/02: Tìm Vàng: Khu Mỏ Bỏ Hoang Của Dave Turin (Tập 10)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270849/cmc_new/img.live_channel_schedule/0/0/131/67430/34524414.jpg" group-title="🗓| Sự kiện", 10:45-18/02: Việt Nam Ngày Mới
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606472/cmc_new/img.live_channel_schedule/0/0/130/67015/34312133.jpg" group-title="🗓| Sự kiện", 18:15-18/02: Hành Trình Khám Phá: Tập Đặc Biệt
+https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270839/cmc_new/img.live_channel_schedule/0/0/131/67430/34524432.jpg" group-title="🗓| Sự kiện", 18:30-18/02: Chuyển Động 365
 https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606479/cmc_new/img.live_channel_schedule/0/0/130/67015/34312125.jpg" group-title="🗓| Sự kiện", 10:45-18/02: Tìm Vàng: Khu Mỏ Bỏ Hoang Của Dave Turin
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675704154/cmc_new/img.live_channel_schedule/0/0/130/66686/34143494.jpg" group-title="🗓| Sự kiện", 11:00-18/02: Vua Bóng Chuyền (Phần 1 - Tập 20)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606513/cmc_new/img.live_channel_schedule/0/0/130/67017/34313072.jpg" group-title="🗓| Sự kiện", 11:10-18/02: Những Kẻ Thích Đùa Dại Dột (Tập 5)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676605190/cmc_new/img.live_channel_schedule/0/0/131/67529/34574862.jpg" group-title="🗓| Sự kiện", 11:15-18/02: Chuyển Động 24h
-https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676014028/cmc_new/img.live_channel_schedule/0/0/130/67005/34306831.jpg" group-title="🗓| Sự kiện", 11:25-18/02: Chiến Binh Ninja Mỹ (Phần 13 - Tập 6)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676622662/cmc_new/img.live_channel_schedule/0/0/131/67394/34505818.jpg" group-title="🗓| Sự kiện", 11:30-18/02: 113 Online
-https://api.vthanhtivi.pw/v2/getlink/cliptv/312/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676540181/cmc_new/img.live_channel_schedule/0/0/130/67062/34335838.jpg" group-title="🗓| Sự kiện", 11:30-18/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676712815/cmc_new/img.live_channel_schedule/0/0/130/67062/34335846.jpg" group-title="🗓| Sự kiện", 18:30-18/02: Đội Thợ Xây Của Thỏ Bugs
 https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675704153/cmc_new/img.live_channel_schedule/0/0/130/66686/34143495.jpg" group-title="🗓| Sự kiện", 11:30-18/02: Vua Bóng Chuyền (Phần 1 - Tập 21)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606472/cmc_new/img.live_channel_schedule/0/0/130/67015/34312126.jpg" group-title="🗓| Sự kiện", 11:35-18/02: Ký Sự Khám Phá
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676605179/cmc_new/img.live_channel_schedule/0/0/131/67529/34574882.jpg" group-title="🗓| Sự kiện", 18:30-18/02: Chuyển Động 24h
+https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675584227/cmc_new/img.live_channel_schedule/0/0/130/66633/34116596.jpg" group-title="🗓| Sự kiện", 18:30-18/02: Trang Trại Khủng Long
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676516954/cmc_new/img.live_channel_schedule/0/0/131/67421/34519889.jpg" group-title="🗓| Sự kiện", 19:00-18/02: Quán Ăn Hạnh Phúc
+https://api.vthanhtivi.pw/v2/getlink/cliptv/484/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270839/cmc_new/img.live_channel_schedule/0/0/131/67430/34524433.jpg" group-title="🗓| Sự kiện", 19:00-18/02: Tiếp Sóng Thời Sự VTV
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676712809/cmc_new/img.live_channel_schedule/0/0/130/67062/34335847.jpg" group-title="🗓| Sự kiện", 19:00-18/02: Biệt Đội Xe Dơi
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676605179/cmc_new/img.live_channel_schedule/0/0/131/67529/34574883.jpg" group-title="🗓| Sự kiện", 19:00-18/02: Thời Sự 19h
+https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675151193/cmc_new/img.live_channel_schedule/0/0/130/66633/34116597.jpg" group-title="🗓| Sự kiện", 19:00-18/02: Chú Nhện Lucas
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676622752/cmc_new/img.live_channel_schedule/0/0/130/66662/34130964.jpg" group-title="🗓| Sự kiện", 19:05-18/02: Những Hành Trình Mạo Hiểm (Tập 2)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676271518/cmc_new/img.live_channel_schedule/0/0/130/66670/34135420.jpg" group-title="🗓| Sự kiện", 19:10-18/02: Tìm Vàng: Khu Mỏ Bỏ Hoang Của Dave Turin (Tập 10)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/799/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676606472/cmc_new/img.live_channel_schedule/0/0/130/67015/34312134.jpg" group-title="🗓| Sự kiện", 19:10-18/02: Tìm Vàng: Khu Mỏ Bỏ Hoang Của Dave Turin
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676622662/cmc_new/img.live_channel_schedule/0/0/131/67394/34505819.jpg" group-title="🗓| Sự kiện", 11:45-18/02: Nhận Diện Tội Phạm
-https://api.vthanhtivi.pw/v2/getlink/cliptv/312/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676014017/cmc_new/img.live_channel_schedule/0/0/130/67005/34306843.jpg" group-title="🗓| Sự kiện", 19:10-18/02: Hành Trình Của Gordon, Gino Và Fred (Phần 1 - Tập 1)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676601641/cmc_new/img.live_channel_schedule/0/0/131/67552/34586808.jpg" group-title="🗓| Sự kiện", 19:15-18/02: Chuyến Xe Nhân Ái
+https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676258112/cmc_new/img.live_channel_schedule/0/0/131/67390/34504024.jpg" group-title="🗓| Sự kiện", 20:00-18/02: Thần Tượng Đối Thần Tượng
+https://api.vthanhtivi.pw/v2/getlink/cliptv/158/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676270839/cmc_new/img.live_channel_schedule/0/0/131/67430/34524435.jpg" group-title="🗓| Sự kiện", 20:00-18/02: Thời Sự
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
@@ -3400,35 +3390,131 @@ http://14.162.55.98:8889/evol.php?id=21416
 
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-17/02: SD1 Al-Nasr(KSA) vs Al-Taawon (Người Già)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-18/02: SD1 Aston Villa vs Arsenal (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-17/02: SD2 Al-Nasr(KSA) vs Al-Taawon (Người Già)
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-18/02: SD2 Aston Villa vs Arsenal (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-17/02: HD Al-Nasr(KSA) vs Al-Taawon (Người Già)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-18/02: HD Aston Villa vs Arsenal (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-17/02: Full HD Al-Nasr(KSA) vs Al-Taawon (Người Già)
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-18/02: Full HD Aston Villa vs Arsenal (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may038FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-17/02: Nhà đài Al-Nasr(KSA) vs Al-Taawon (Người Già)
+https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",19h30-18/02: Nhà đài Aston Villa vs Arsenal (Người Cồn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-18/02: SD1 Sassuolo vs Napoli (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-18/02: SD1 Borussia Monchengladbach vs Bayern Munchen (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-18/02: SD2 Sassuolo vs Napoli (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-18/02: SD2 Borussia Monchengladbach vs Bayern Munchen (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-18/02: HD Sassuolo vs Napoli (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-18/02: HD Borussia Monchengladbach vs Bayern Munchen (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-18/02: Full HD Sassuolo vs Napoli (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-18/02: Full HD Borussia Monchengladbach vs Bayern Munchen (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-18/02: Nhà đài Sassuolo vs Napoli (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",21h30-18/02: Nhà đài Borussia Monchengladbach vs Bayern Munchen (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: SD1 Nottingham Forest vs Manchester City (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: SD2 Nottingham Forest vs Manchester City (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: HD Nottingham Forest vs Manchester City (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: Full HD Nottingham Forest vs Manchester City (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may038FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: Nhà đài Nottingham Forest vs Manchester City (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: SD1 Chelsea vs Southampton (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: SD2 Chelsea vs Southampton (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: HD Chelsea vs Southampton (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: Full HD Chelsea vs Southampton (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",22h00-18/02: Nhà đài Chelsea vs Southampton (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-19/02: SD1 Monza vs AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-19/02: SD2 Monza vs AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-19/02: HD Monza vs AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-19/02: Full HD Monza vs AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may038FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-19/02: Nhà đài Monza vs AC Milan (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-19/02: SD1 Newcastle United vs Liverpool (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-19/02: SD2 Newcastle United vs Liverpool (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-19/02: HD Newcastle United vs Liverpool (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-19/02: Full HD Newcastle United vs Liverpool (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h30-19/02: Nhà đài Newcastle United vs Liverpool (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-19/02: SD1 Inter Milan vs Udinese (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-19/02: SD2 Inter Milan vs Udinese (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-19/02: HD Inter Milan vs Udinese (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-19/02: Full HD Inter Milan vs Udinese (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-19/02: Nhà đài Inter Milan vs Udinese (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-19/02: SD1 Osasuna - Real Madrid (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-19/02 SD2 Osasuna - Real Madrid (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-19/02 HD Osasuna - Real Madrid (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-19/02 Full HD Osasuna - Real Madrid (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may077FHD/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-19/02 Nhà đài Osasuna - Real Madrid (Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://xem5.xoilac12.org/truc-tiep/
 
