@@ -598,7 +598,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fIzVbJIf6GC+F2syGmloOQ","kid":"rHT6h1x/RfCGi4SDJVUXZQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"roOM/RPYtLRL9JY6eHhfUA","kid":"DibC3DM+R0id4kExw7noHw"}],"type":"temporary"}
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -624,7 +624,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WkykZFUyaXCmD3+etZdjyA","kid":"iMGTvc0yTNWrVl8edSo+ag"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"idujgHe54YlRNXKcJ2X8nQ","kid":"79heDyqnQXC313NafOz7JA"}],"type":"temporary"}
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -650,7 +650,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eV90m7/umJnSBVDfbUV0Fg","kid":"pldZ4QBKTnu2WasdoAKMeA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X7Nib3/MNx60y3Q243B59g","kid":"S61ILmQKRvqFzh2PNyi9cw"}],"type":"temporary"}
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -676,7 +676,7 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aGxJZNOGNL7KIhmoFWvYsA","kid":"tDb77N2GTHC+6TU3J9P6Zw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4PrWoTuIHEg7gKtZ7XdF3A","kid":"3UPJaQewRDuGEP52SQYVyQ"}],"type":"temporary"}
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1368,47 +1368,129 @@ https://api.vthanhtivi.pw/v2/getlink/vieonevent/43c6afae-95ca-458d-b74b-1d508543
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/01/mrmnuq7d_banner29525d6728f8eef1f82306fb0ebe580b_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-24/02: Quay số mở thưởng Vietlott 24/02/2023
 https://api.vthanhtivi.pw/v2/getlink/vieonevent/67560cea-b20b-42b2-892b-250a77e46cdf/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/a4/4c/cf/f0/00/5a4cf-lgolflexuschallenge2023ngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:30-24/02: Golf Lexus Challenge 2023 - Ngày 4
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7068/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-24/02: Bố Đầu Nhỏ Con Đầu To
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5705/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-24/02: Những Chú Gấu Boonie
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5182/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/5a/ad/dd/d8/8f/f5/5add8-lchngtinginlgu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-24/02: Chúng Tôi Đơn Giản Là Gấu
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/5553/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/cd/df/f4/4c/c2/26/cdf4c-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:00-24/02: Country
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7077/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/20/06/62/24/4d/d6/20624-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-24/02: K-Pop
-https://api.vthanhtivi.pw/v2/getlink/mytvevent/7078/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f8/83/34/4e/ec/c5/f834e-lqutngtith6ngyutin-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-24/02: Quà tặng Tối thứ 6 - Ngày đầu tiên
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ac/c7/78/8b/bb/b4/ac78b-lxuhng24htrn1nmchinsngaukraine-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:30-24/02: Xu hướng 24h: Tròn 1 năm Chiến sự Nga – Ukraine
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7124/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f8/83/34/4e/ec/c5/f834e-lqutngtith6ngyutin-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-24/02: Quà tặng Tối thứ 6 - Ngày đầu tiên
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7076/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/80/09/9b/b4/46/62/809b4-lpgatourthehondaclassicngy2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:00-25/02: PGA Tour The Honda Classic - Ngày 2
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-24/02: Dưới Bóng Cây Hạnh Phúc - Tập 24
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9a/a7/7e/e4/4e/e9/9a7e4-lnglmmcutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-24/02: Đừng Làm Mẹ Cáu - Tập 22
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6470/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/80/09/9b/b4/46/62/809b4-lpgatourthehondaclassicngy2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:00-25/02: PGA Tour The Honda Classic - Ngày 2
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7072/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/69/9f/f3/30/05/51/69f30-lphngtrmytvkhonhkhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-25/02: Phòng trà MyTV - Khoảnh khắc
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1b/bd/d1/17/75/54/1bd17-lbundesligavng22mainz05vsgladbach-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-25/02: Bundesliga - Vòng 22: Mainz 05 vs Gladbach
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7091/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5a/a4/48/8c/c7/7b/5a48c-lligue1vng25lillevsbrest-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-25/02: Ligue 1 - Vòng 25: Lille vs Brest
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7105/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/62/20/0d/d3/30/0b/620d3-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:30-25/02: EDM
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7081/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-25/02: Bố Đầu Nhỏ Con Đầu To
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5705/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c9/95/5f/f9/99/92/c95f9-lchngtinginlgucon-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-25/02: Chúng Tôi Đơn Giản Là Gấu Con
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7120/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/fe/e3/32/20/0f/fd/fe320-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-25/02: Những Chú Gấu Boonie
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5182/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3f/f8/87/75/58/89/3f875-llpgatour2023hondalpgathailandngy3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-25/02: LPGA Tour 2023 Honda LPGA Thai Land - Ngày 3
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7109/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/82/21/1b/bc/c3/3b/821bc-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-25/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6513/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/21/11/11/15/55/59/21115-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-25/02: Latino
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7082/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d0/0a/af/fe/ea/a9/d0afe-ldpworldtour2023heroindianopenngy3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-25/02: DP World Tour 2023 Hero Indian Open - Ngày 3
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7086/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ec/c0/0d/db/b8/8f/ec0db-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-25/02: Thế Giới Kì Diệu Của Gumball
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5557/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8b/b1/1d/db/bc/cd/8b1db-lknngtykimctp48-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:45-25/02: Kỳ Án Đông Tây Kim Cổ
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f2/20/01/19/93/3a/f2019-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:00-25/02: MB - Hits
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7083/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/37/79/96/61/16/64/37961-llaligavng23espanyolvsmallorca-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-25/02: La Liga - Vòng 23: Espanyol vs Mallorca
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7114/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a5/58/83/3c/cd/d9/a583c-ldareyoubncdmma2tp22-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-25/02: Dare You - Bạn Có Dám - Mùa 2 - Tập 22
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5047/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/69/9f/f3/30/05/51/69f30-lphngtrmytvkhonhkhc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-25/02: Phòng trà MyTV - Khoảnh khắc
 https://api.vthanhtivi.pw/v2/getlink/mytvevent/7064/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7d/d6/6c/c2/2f/f1/7d6c2-lnghsthntng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-25/02: Nghệ Sĩ Thần Tượng
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5605/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/74/49/9d/d0/05/50/749d0-lbundesligavng22hoffenheimvsdortmund-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-25/02: Bundesliga - Vòng 22: Hoffenheim vs Dortmund
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7090/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9e/ef/f0/0d/dd/da/9ef0d-lbundesligavng22rbleipzigvsfrankfurt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-25/02: Bundesliga - Vòng 22: RB Leipzig vs Frankfurt
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7093/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f1/11/1f/f9/9d/d8/f11f9-llaligavng23cadizvsrayovallecano-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:15-25/02: La Liga - Vòng 23: Cadiz vs Rayo Vallecano
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7112/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9c/cb/bb/b2/21/13/9cbb2-lthamvngtp29a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-25/02: Tham Vọng - Tập 29A
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6666/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e8/83/3b/b4/43/3e/e83b4-lthamvngtp29b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:46-25/02: Tham Vọng - Tập 29B
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6667/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/21/1d/df/f3/34/46/21df3-lligue1vng25angervslyon-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:00-25/02: Ligue 1 - Vòng 25: Anger vs Lyon
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7104/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e0/0b/bd/df/fd/d3/e0bdf-lthamvngtp30a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:06-25/02: Tham Vọng - Tập 30A
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6668/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3b/ba/ad/d4/4a/ae/3bad4-lthamvngtp30b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:26-25/02: Tham Vọng - Tập 30B
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6669/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/27/7b/bd/d0/00/00/27bd0-lserieavng24empolivsnapoli-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:00-26/02: Serie A - Vòng 24: Empoli vs Napoli
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7095/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f2/22/2a/ac/c6/64/f22ac-lbundesligavng22schalke04vsstuttgart-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-26/02: Bundesliga - Vòng 22: Schalke 04 vs Stuttgart
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7094/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/71/17/78/8b/ba/ab/7178b-llaligavng23realmadridvsatleticomadrid-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-26/02: La Liga - Vòng 23: Real Madrid vs Atletico Madrid
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7119/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9f/ff/fd/d5/5a/ac/9ffd5-lpgatourthehondaclassicngy3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:00-26/02: PGA Tour The Honda Classic - Ngày 3
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7084/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b6/66/69/98/82/20/b6698-lserieavng24leccevssassuolo-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-26/02: Serie A - Vòng 24: Lecce vs Sassuolo
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7097/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/38/8b/b4/47/7e/ef/38b47-lligue1vng25montpelliervslens-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-26/02: Ligue 1 - Vòng 25: Montpellier vs Lens
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7108/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e3/3a/ac/c2/27/7b/e3ac2-llaligavng23valenciavsrealsociedad-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-26/02: La Liga - Vòng 23: Valencia vs Real Sociedad
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7115/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1c/cf/f4/44/46/60/1cf44-lchngtinginlgucon-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-26/02: Chúng Tôi Đơn Giản Là Gấu Con
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7121/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3f/fa/a7/7c/c1/1e/3fa7c-lnginghsati-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-26/02: Người Nghệ Sĩ Đa Tài
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6082/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-26/02: Bố Đầu Nhỏ Con Đầu To
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5704/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/00/02/20/00/03/39/00200-llpgatour2023hondalpgathailandngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-26/02: LPGA Tour 2023 Honda LPGA Thai Land - Ngày 4
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7110/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c6/64/4d/d0/06/67/c64d0-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-26/02: Latino
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7122/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/31/1e/e3/3f/f5/5f/31e3f-lnhngchguboonie-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-26/02: Những Chú Gấu Boonie
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5184/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/43/3a/a6/63/30/05/43a63-lbitithiunintitanxutkch-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-26/02: Biệt Đội Thiếu Niên Titan Xuất Kích!
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6514/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3e/e2/26/6f/f7/7b/3e26f-ldpworldtour2023heroindianopenngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 13:00-26/02: DP World Tour 2023 Hero Indian Open - Ngày 4
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7087/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e9/9e/ef/fa/a9/9f/e9efa-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-26/02: Country
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7123/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/95/55/56/69/9a/a3/95569-lthgiikdiucagumball-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-26/02: Thế Giới Kì Diệu của Gumball
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/5693/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/00/06/69/92/2f/ff/00692-lserieavng24bolognavsintermilan-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:30-26/02: Serie A - Vòng 24: Bologna vs Inter Milan
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7102/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/12/2f/f4/48/8c/c0/12f48-lligue1vng25lorientvsauxerre-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-26/02: Ligue 1 - Vòng 25: Lorient vs Auxerre
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7106/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4b/b4/45/5f/fd/d6/4b45f-llaligavng23athleticbilbaovsgirona-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-26/02: La Liga - Vòng 23: Athletic Bilbao vs Girona
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7111/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c7/75/50/02/25/51/c7502-limhnththaovng4facuphainglncangoihnganhdngbc-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-26/02: Điểm hẹn thể thao - Vòng 4 FA Cup: Hai
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7088/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/4a/a9/93/35/52/22/4a935-lserieavng24salernitanavsmonza-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-26/02: Serie A - Vòng 24: Salernitana vs Monza
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7098/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d4/41/1a/a4/45/bd41a-lbundesligavng22freiburgvsleverkusen-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-26/02: Bundesliga - Vòng 22: Freiburg vs Leverkusen
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7092/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/82/2a/aa/a1/16/65/82aa1-llaligavng23celtavigovsvalladolid-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:15-26/02: La Liga - Vòng 23: Celta Vigo vs Valladolid
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7113/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/22/2e/e3/3f/ff/f2/22e3f-lthamvngtp31a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:30-26/02: Tham Vọng - Tập 31A
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6670/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/af/f7/76/6c/ce/e4/af76c-lthamvngtp31b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:46-26/02: Tham Vọng - Tập 31B
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6671/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1c/c6/6f/f9/91/11/1c6f9-lligue1vng25monacovsnice-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:05-26/02: Ligue 1 - Vòng 25: Monaco vs Nice
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7107/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0a/ab/b6/69/9a/a1/0ab69-lthamvngtp32a-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:06-26/02: Tham Vọng - Tập 32A
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6672/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c6/66/63/34/44/4c/c6634-lthamvngtp32b-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:26-26/02: Tham Vọng - Tập 32B
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/6673/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c7/71/13/37/7e/e9/c7137-lbundesligavng22bayernmunichvsunionberlin-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-26/02: Bundesliga - Vòng 22: Bayern Munich vs Union Berlin
+https://api.vthanhtivi.pw/v2/getlink/mytvevent/7089/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0e993c00-11dd-4e42-87d3-41873004e584.png" group-title="🗓| Sự kiện",  TỨ KẾT ATP WORLD TOUR 250 QATAR EXXONMOBIL OPEN 2023
-https://live1onsport.vtvcab.vn/ondrm/THETHAO_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/467a6eaf-c87a-4aac-9cf0-49553180f706.png" group-title="🗓| Sự kiện", PGA TOUR 2023 THE HONDA CLASSIC NGÀY 1
-https://livevlive.vtvcab.vn/hls/THETHAO_GOLF_HD_mghv/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/e2157909-c897-41a6-9ef1-4d211d61fb8f.jpg" group-title="🗓| Sự kiện", RIO OPEN 2023 - NGÀY 4 | ATP WORLD TOUR 500
-https://live1onsport.vtvcab.vn/ondrm/THETHAO_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/5101f94d-b61b-4a60-a841-7ff84b1834c0.jpg" group-title="🗓| Sự kiện", [NGÀY 2] LPGA TOUR 2023 HONDA LPGA THAILAND 
-https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/15911274-e6e8-4ef9-b4cb-2c56e27535e9.jpg" group-title="🗓| Sự kiện", [PHÁT LẠI] ATL - REAL | 3 BÀN THẮNG, 1 THẺ ĐỎ, ĐÔI CÔNG RỰC LỬA
-https://live1onsport.vtvcab.vn/hls/ONSPORT1_CL/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/f873807b-392d-454a-af7c-4d318d652238.jpg" group-title="🗓| Sự kiện", PHÚ THỌ - ĐÔNG Á THANH HÓA | BẢNG B VÒNG LOẠI U17 QUỐC GIA 2023
-https://live1onsport.vtvcab.vn/hls/ONSPORT5_CL/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/3d29c7b5-1ab3-4936-ae19-aca0d4a1acf9.jpg" group-title="🗓| Sự kiện", [NGÀY 2] DP WORLD TOUR 2023 HERO INDIAN OPEN 
-https://livevlive.vtvcab.vn/hls/THETHAO_GOLF_HD_mghv/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/c66aa5f7-9a5c-42fe-bc17-26f3632307b0.jpg" group-title="🗓| Sự kiện", HÀ NỘI I - THÁI NGUYÊN T&T | BÁN KẾT 1 CÚP QUỐC GIA BÓNG ĐÁ NỮ VIỆT NAM 2023
-https://live1onsport.vtvcab.vn/ondrm/BONGDA_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/67c9eebc-058e-4b87-9923-b67d794cff28.jpg" group-title="🗓| Sự kiện", VIETTEL - NAM ĐỊNH | BẢNG A VÒNG LOẠI U17 QUỐC GIA 2023
-https://live1onsport.vtvcab.vn/hls/ONSPORT7_CL/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0aff39b3-f6cf-4ca8-9501-de7e60498650.jpg" group-title="🗓| Sự kiện", THAN KSVN - PHONG PHÚ HÀ NAM | BÁN KẾT 2 CÚP QUỐC GIA BÓNG ĐÁ NỮ VIỆT NAM 2023
-https://live1onsport.vtvcab.vn/hls/ONSPORT1_CL/index.m3u8
-#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/27e171f7-4390-4abd-9b7c-8df4a31ecd18.jpg" group-title="🗓| Sự kiện", HƯNG YÊN - SLNA | BẢNG B VÒNG LOẠI U17 QUỐC GIA 2023
-https://live1onsport.vtvcab.vn/hls/ONSPORT5_CL/index.m3u8
+https://live1onsport.vtvcab.vn/ondrm/THETHAO_GOLF_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/79f6441c-21f0-4941-9f98-e74103758915.jpg" group-title="🗓| Sự kiện", TP HỒ CHÍ MINH - HÀ NỘI | BẢNG A NAM BÓNG CHUYỀN VĐQG CÚP HÓA CHẤT ĐỨC GIANG 2023 - VÒNG I
 https://live1onsport.vtvcab.vn/ondrm/THETHAO_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/c5ddadef-9741-43ad-aab8-bd61c5f9698f.jpg" group-title="🗓| Sự kiện", TỔNG HỢP TƯỜNG THUẬT MMA LION CHAMPIONSHIP 2022 - VÒNG LOẠI MIỀN BẮC
@@ -1422,7 +1504,7 @@ https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/1b8062e3-6c0a-4f60-b7bf-d67e18243d00.jpg" group-title="🗓| Sự kiện", BUNDESLIGA WEEKLY 08-23
 https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/ef4a7358-3e1b-492a-836d-1d159ce8813f.jpg" group-title="🗓| Sự kiện", [LỄ KHAI MẠC] VIETINBANK - KINH BẮC BẮC NINH | BẢNG A NỮ BÓNG CHUYỀN VĐQG CÚP HÓA CHẤT ĐỨC GIANG 2023 - VÒNG I
-https://live1onsport.vtvcab.vn/ondrm/THETHAO_HD/index.m3u8
+https://live2onsport.vtvcab.vn/ondrm/ONSPORT8/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/be03bc22-4565-4f8d-8e68-0456d2eccb97.jpg" group-title="🗓| Sự kiện", BẢN TIN TGTT 19H45
 https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/bc27705b-b22b-4546-a441-b0d3f59dad80.jpg" group-title="🗓| Sự kiện", BẢN TIN THỂ THAO VIỆT NAM 20H
@@ -1434,56 +1516,60 @@ https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0e78a194-24b9-440d-93a9-369e35e3bb8c.jpg" group-title="🗓| Sự kiện", [BÁN KẾT] ATP WORLD TOUR 250 QATAR EXXONMOBIL OPEN 2023 
 https://live1onsport.vtvcab.vn/ondrm/THETHAO_TINTUC_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0b4fe6e7-e9b6-49ae-b499-8b8dd2bbfc16.png" group-title="🗓| Sự kiện", ESL PRO LEAGUE S17 STREAM A
-https://live1onsport.vtvcab.vn/hls/ONSPORT1_CL/index.m3u8
+https://live1onsport.vtvcab.vn/ondrm/ONSPORT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/f80abbac-e87b-42d8-b1d9-1e62bfc8b770.jpg" group-title="🗓| Sự kiện", [TỨ KẾT] ATP WORLD TOUR 500 RIO OPEN 2023 
+https://live1onsport.vtvcab.vn/ondrm/THETHAO_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://stvinaprod.vtvcab.vn/720x405/4312ba3f-2338-4b21-af58-0de5b3831807.jpg" group-title="🗓| Sự kiện", [NGÀY 2] PGA TOUR 2023 THE HONDA CLASSIC 
+https://live1onsport.vtvcab.vn/ondrm/THETHAO_GOLF_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677123920/cmc_new/img.live_channel_schedule/0/0/132/67740/34682953.jpg" group-title="🗓| Sự kiện", 04:15-24/02: Hãy Nghe Tôi Hát
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864345/cmc_new/img.live_channel_schedule/0/0/131/67450/34534673.jpg" group-title="🗓| Sự kiện", 20:00-24/02: Cuộc Đua Đến Tâm Trái Đất (Tập 3)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677206373/cmc_new/img.live_channel_schedule/0/0/132/67740/34682953.jpg" group-title="🗓| Sự kiện", 04:15-24/02: Hãy Nghe Tôi Hát
 https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864364/cmc_new/img.live_channel_schedule/0/0/131/67450/34534650.jpg" group-title="🗓| Sự kiện", 07:55-24/02: Sao Sinh Tồn Cùng Bear Grylls (Phần 5 - Tập 5)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864627/cmc_new/img.live_channel_schedule/0/0/130/66687/34144139.jpg" group-title="🗓| Sự kiện", 09:00-24/02: Vua Bóng Chuyền (Phần 1 - Tập 25)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137103/cmc_new/img.live_channel_schedule/0/0/130/67016/34312306.jpg" group-title="🗓| Sự kiện", 09:05-24/02: Tìm Vàng: Dòng Nước Bạc
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676628861/cmc_new/img.live_channel_schedule/0/0/130/66678/34139409.jpg" group-title="🗓| Sự kiện", 09:05-24/02: Quỷ Lùn Tinh Nghịch: Giai Điệu Bất Tận
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675580666/cmc_new/img.live_channel_schedule/0/0/130/66634/34116745.jpg" group-title="🗓| Sự kiện", 09:30-24/02: Chú Nhện Lucas
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675581743/cmc_new/img.live_channel_schedule/0/0/130/66634/34116755.jpg" group-title="🗓| Sự kiện", 17:00-24/02: Chú Voi Mumfie
 https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676866963/cmc_new/img.live_channel_schedule/0/0/130/66687/34144140.jpg" group-title="🗓| Sự kiện", 09:30-24/02: Đồng Hồ Yêu Quái (Tập 13)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677204938/cmc_new/img.live_channel_schedule/0/0/132/67677/34650888.jpg" group-title="🗓| Sự kiện", 17:09-24/02: JDM Legends
+https://api.vthanhtivi.pw/v2/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677204306/cmc_new/img.live_channel_schedule/0/0/130/66599/34099184.jpg" group-title="🗓| Sự kiện", 17:15-24/02: Những Bà Nội Trợ Đích Thực Ở New York (Phần 11 - Tập 16)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864345/cmc_new/img.live_channel_schedule/0/0/131/67450/34534668.jpg" group-title="🗓| Sự kiện", 17:25-24/02: Thợ Rèn Tranh Tài: Thách Đấu Giám Khảo (Phần 1 - Tập 1)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676865133/cmc_new/img.live_channel_schedule/0/0/130/66687/34144156.jpg" group-title="🗓| Sự kiện", 17:30-24/02: Cậu Bé Yêu Quái Kitaro (Phần 6 - Tập 66)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675697196/cmc_new/img.live_channel_schedule/0/0/130/66678/34139410.jpg" group-title="🗓| Sự kiện", 09:30-24/02: Xe Tải Khủng Long
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677134807/cmc_new/img.live_channel_schedule/0/0/130/66662/34131139.jpg" group-title="🗓| Sự kiện", 09:40-24/02: Trại Huấn Luyện Bộ Lạc (Tập 3)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676539167/cmc_new/img.live_channel_schedule/0/0/130/67062/34336012.jpg" group-title="🗓| Sự kiện", 17:30-24/02: Chúng Tôi Đơn Giản Là Gấu Con
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677134960/cmc_new/img.live_channel_schedule/0/0/130/66662/34131150.jpg" group-title="🗓| Sự kiện", 17:30-24/02: Trại Huấn Luyện Bộ Lạc (Tập 3)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675582489/cmc_new/img.live_channel_schedule/0/0/130/66634/34116746.jpg" group-title="🗓| Sự kiện", 10:00-24/02: Gấu Xám Và Những Chú Chuột Lemmut
-https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676866937/cmc_new/img.live_channel_schedule/0/0/130/66687/34144141.jpg" group-title="🗓| Sự kiện", 10:00-24/02: Đồng Hồ Yêu Quái (Tập 14)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676629211/cmc_new/img.live_channel_schedule/0/0/130/66678/34139411.jpg" group-title="🗓| Sự kiện", 10:00-24/02: Biệt Đội Giải Cứu Rồng
-https://api.vthanhtivi.pw/v2/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675396314/cmc_new/img.live_channel_schedule/0/0/130/66687/34144142.jpg" group-title="🗓| Sự kiện", 10:30-24/02: Nhất Quyền Nhân (Tập 6)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864356/cmc_new/img.live_channel_schedule/0/0/131/67450/34534656.jpg" group-title="🗓| Sự kiện", 10:35-24/02: Thám Hiểm Nước Úc (Phần 5 - Tập 3)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676875849/cmc_new/img.live_channel_schedule/0/0/132/67654/34638979.jpg" group-title="🗓| Sự kiện", 10:45-24/02: Việt Nam Ngày Mới
-https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137103/cmc_new/img.live_channel_schedule/0/0/130/67016/34312308.jpg" group-title="🗓| Sự kiện", 10:45-24/02: Chuyến Săn Bão Táp
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677202339/cmc_new/img.live_channel_schedule/0/0/130/67062/34336013.jpg" group-title="🗓| Sự kiện", 18:00-24/02: Thế Giới Kì Diệu Của Gumball
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677204362/cmc_new/img.live_channel_schedule/0/0/130/66599/34099185.jpg" group-title="🗓| Sự kiện", 18:10-24/02: Hòn Đảo Của Bryan (Phần 1 - Tập 13)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137093/cmc_new/img.live_channel_schedule/0/0/130/67016/34312321.jpg" group-title="🗓| Sự kiện", 18:15-24/02: Thợ Săn Đá Opal Vùng Hẻo Lánh (Tập 15)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676869755/cmc_new/img.live_channel_schedule/0/0/130/66687/34144143.jpg" group-title="🗓| Sự kiện", 11:00-24/02: Anh Hùng Kiến Quốc (Tập 9)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676867070/cmc_new/img.live_channel_schedule/0/0/130/66687/34144158.jpg" group-title="🗓| Sự kiện", 18:30-24/02: Đồng Hồ Yêu Quái (Tập 15)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137134/cmc_new/img.live_channel_schedule/0/0/130/67018/34313288.jpg" group-title="🗓| Sự kiện", 11:05-24/02: Những Kẻ Thích Đùa Dại Dột (Tập 12)
-https://api.vthanhtivi.pw/v2/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137035/cmc_new/img.live_channel_schedule/0/0/131/67581/34601558.jpg" group-title="🗓| Sự kiện", 11:15-24/02: Chuyển Động 24h
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676875831/cmc_new/img.live_channel_schedule/0/0/132/67654/34638996.jpg" group-title="🗓| Sự kiện", 18:30-24/02: Chuyển Động 365
+https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137041/cmc_new/img.live_channel_schedule/0/0/131/67581/34601574.jpg" group-title="🗓| Sự kiện", 18:30-24/02: Chuyển Động 24h
 https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864356/cmc_new/img.live_channel_schedule/0/0/131/67450/34534657.jpg" group-title="🗓| Sự kiện", 11:25-24/02: Từ Nga Đến Iran (Tập 1)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676864345/cmc_new/img.live_channel_schedule/0/0/131/67450/34534672.jpg" group-title="🗓| Sự kiện", 18:50-24/02: Cuộc Đua Đến Tâm Trái Đất (Tập 2)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676869747/cmc_new/img.live_channel_schedule/0/0/130/66687/34144144.jpg" group-title="🗓| Sự kiện", 11:30-24/02: Anh Hùng Kiến Quốc (Tập 10)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676867056/cmc_new/img.live_channel_schedule/0/0/130/66687/34144159.jpg" group-title="🗓| Sự kiện", 19:00-24/02: Đồng Hồ Yêu Quái (Tập 16)
 https://api.vthanhtivi.pw/v2/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137103/cmc_new/img.live_channel_schedule/0/0/130/67016/34312309.jpg" group-title="🗓| Sự kiện", 11:35-24/02: Thế Giới Xe Hơi Của Mike Brewer
-https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676875849/cmc_new/img.live_channel_schedule/0/0/132/67654/34638981.jpg" group-title="🗓| Sự kiện", 12:00-24/02: Thời Sự
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677203534/cmc_new/img.live_channel_schedule/0/0/130/67062/34336014.jpg" group-title="🗓| Sự kiện", 19:00-24/02: Đội Thợ Xây Của Thỏ Bugs
+https://api.vthanhtivi.pw/v2/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1676875831/cmc_new/img.live_channel_schedule/0/0/132/67654/34638997.jpg" group-title="🗓| Sự kiện", 19:00-24/02: Tiếp Sóng Thời Sự VTV
 https://api.vthanhtivi.pw/v2/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137103/cmc_new/img.live_channel_schedule/0/0/130/67016/34312310.jpg" group-title="🗓| Sự kiện", 12:00-24/02: Thế Giới Xe Hơi Của Mike Brewer
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1675580653/cmc_new/img.live_channel_schedule/0/0/130/66634/34116758.jpg" group-title="🗓| Sự kiện", 19:00-24/02: Chú Nhện Lucas
+https://api.vthanhtivi.pw/v2/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137041/cmc_new/img.live_channel_schedule/0/0/131/67581/34601575.jpg" group-title="🗓| Sự kiện", 19:00-24/02: Thời Sự 19h
+https://api.vthanhtivi.pw/v2/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677204362/cmc_new/img.live_channel_schedule/0/0/130/66599/34099186.jpg" group-title="🗓| Sự kiện", 19:05-24/02: Gặp Gỡ Kelly Clarkson (Phần 4 - Tập 103)
+https://api.vthanhtivi.pw/v2/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677137093/cmc_new/img.live_channel_schedule/0/0/130/67016/34312322.jpg" group-title="🗓| Sự kiện", 19:10-24/02: Khám Phá Ẩm Thực
 https://api.vthanhtivi.pw/v2/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677206373/cmc_new/img.live_channel_schedule/0/0/132/67771/34699244.jpg" group-title="🗓| Sự kiện", 19:15-24/02: Quyền Năng Phái Đẹp
+https://api.vthanhtivi.pw/v2/getlink/cliptv/164/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
@@ -1836,17 +1922,17 @@ http://0.vylc.name.vn/WXTY
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One
 http://0.vylc.name.vn/BBC1
 #EXTINF:-1 tvg-id="BBCOneEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png", UK: BBC One Server 2
-http://123.24.22.135:8889/evol.php?id=17305
+http://14.248.235.40:8889/evol.php?id=17305
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two
 http://0.vylc.name.vn/BBC2
 #EXTINF:-1 tvg-id="BBCTwoEngland.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png", UK: BBC Two Server 2
-http://123.24.22.135:8889/evol.php?id=17318
+http://14.248.235.40:8889/evol.php?id=17318
 #EXTINF:-1 tvg-id="BBCThree.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png", UK: BBC Three
-http://123.24.22.135:8889/evol.php?id=17321
+http://14.248.235.40:8889/evol.php?id=17321
 #EXTINF:-1 tvg-id="BBCFour.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png", UK: BBC Four
-http://123.24.22.135:8889/evol.php?id=17331
+http://14.248.235.40:8889/evol.php?id=17331
 #EXTINF:-1 tvg-id="CBeebies.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png", UK: CBeebies
-http://123.24.22.135:8889/evol.php?id=17282
+http://14.248.235.40:8889/evol.php?id=17282
 #EXTINF:-1 tvg-id="BBCNews.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png", UK: BBC News
 http://0.vylc.name.vn/bbcnews
 #EXTINF:-1 tvg-id="BBCRedButton1.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png", UK: BBC RB 1
@@ -1862,19 +1948,19 @@ http://0.vylc.name.vn/CBBC
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV
 http://0.vylc.name.vn/ITV
 #EXTINF:-1 tvg-id="ITV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/ITV_logo_2013.svg/1200px-ITV_logo_2013.svg.png", UK: ITV Server 2
-http://123.24.22.135:8889/evol.php?id=17295
+http://14.248.235.40:8889/evol.php?id=17295
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2
 http://0.vylc.name.vn/ITV2
 #EXTINF:-1 tvg-id="ITV2.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/ITV2_logo_2015.svg/1920px-ITV2_logo_2015.svg.png", UK: ITV2 Server 2
-http://123.24.22.135:8889/evol.php?id=17397
+http://14.248.235.40:8889/evol.php?id=17397
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png", UK: ITV3
 http://0.vylc.name.vn/ITV3
 #EXTINF:-1 tvg-id="ITV3.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1920px-ITV3_logo_2013.svg.png", UK: ITV3 Server 2
-http://123.24.22.135:8889/evol.php?id=17396
+http://14.248.235.40:8889/evol.php?id=17396
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png", UK: ITV4
 http://0.vylc.name.vn/ITV4
 #EXTINF:-1 tvg-id="ITV4.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/ITV4_logo_2013.svg/1200px-ITV4_logo_2013.svg.png", UK: ITV4 Server 2
-http://123.24.22.135:8889/evol.php?id=17395
+http://14.248.235.40:8889/evol.php?id=17395
 #EXTINF:-1 tvg-id="STV.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/STV_logo_2014.png", UK: STV
 http://0.vylc.name.vn/STV
 #EXTINF:-1 tvg-id="SkyNews.uk" group-title="🇬🇧| UK TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png", UK: Sky News
@@ -1916,11 +2002,11 @@ http://0.vylc.name.vn/ProSieben
 #EXTINF:-1 tvg-id="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD
 http://0.vylc.name.vn/Rai1
 #EXTINF:-1 tvg-ID="Rai1.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=68620
+http://14.248.235.40:8889/evol.php?id=68620
 #EXTINF:-1 tvg-id="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD
 http://0.vylc.name.vn/Rai2
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png", IT: Rai 2 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=68621
+http://14.248.235.40:8889/evol.php?id=68621
 #EXTINF:-1 tvg-id="Rai3.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1200px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3
 http://0.vylc.name.vn/Rai3
 #EXTINF:-1 tvg-id="RaiNews24.it" group-title="🇮🇹| Italy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1024px-Rai_News_24_logo_%282022%29.svg.png", IT: Rai News 24
@@ -1954,21 +2040,21 @@ http://0.vylc.name.vn/TRT_Turk
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1
 http://0.vylc.name.vn/TVP1
 #EXTINF:-1 tvg-id="TVP1.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TVP1_2021_box-1.svg/1920px-TVP1_2021_box-1.svg.png", PL: TVP 1 Server 2
-http://123.24.22.135:8889/evol.php?id=67959
+http://14.248.235.40:8889/evol.php?id=67959
 #EXTINF:-1 tvg-id="TVP2.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png", PL: TVP 2
 http://0.vylc.name.vn/TVP2
 #EXTINF:-1 tvg-id="TVP2.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/TVP2_2021_box-1.svg/800px-TVP2_2021_box-1.svg.png", PL: TVP 2 Server 2
-http://123.24.22.135:8889/evol.php?id=67958
+http://14.248.235.40:8889/evol.php?id=67958
 #EXTINF:-1 tvg-id="TVP3.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 3
 http://0.vylc.name.vn/TVP3
 #EXTINF:-1 tvg-id="TVP3.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 3 Server 2
-http://123.24.22.135:8889/evol.php?id=67957
+http://14.248.235.40:8889/evol.php?id=67957
 #EXTINF:-1 tvg-id="TVP4.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/TVP3_logo_2016.png", PL: TVP 4
-http://123.24.22.135:8889/evol.php?id=67956
+http://14.248.235.40:8889/evol.php?id=67956
 #EXTINF:-1 tvg-id="TVPHD.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png", PL: TVP HD
 http://0.vylc.name.vn/TVPHD
 #EXTINF:-1 tvg-id="TVPHD.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/TVP_HD_logo.svg/2560px-TVP_HD_logo.svg.png", PL: TVP HD Server 2
-http://123.24.22.135:8889/evol.php?id=67960
+http://14.248.235.40:8889/evol.php?id=67960
 #EXTINF:-1 tvg-id="TVPInfo.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/TVP_logo.svg/1280px-TVP_logo.svg.png", PL: TVP Info
 http://0.vylc.name.vn/TVPInfo
 #EXTINF:-1 tvg-id="PolsatNews.pl" group-title="🇵🇱| Poland TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Polsat_News_2021_gradient.svg/800px-Polsat_News_2021_gradient.svg.png", PL: Polsat News
@@ -2104,9 +2190,9 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 tvg-id="BTSportUltimate.uk" group-title="4K UHD" tvg-logo="https://i.imgur.com/3DkkHmG.png", UK: BT Sport Ultimate UHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/47381.ts
 #EXTINF:-1 tvg-ID="Rai1.it" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 1 4K
-http://123.24.22.135:8889/evol.php?id=68441
+http://14.248.235.40:8889/evol.php?id=68441
 #EXTINF:-1 tvg-ID="Rai2.it" group-title="4K UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 2 4K
-http://123.24.22.135:8889/evol.php?id=68442
+http://14.248.235.40:8889/evol.php?id=68442
 
 #-*-- Amazon Prime Live Khi Có Trận -*--#
 #EXTINF:-1 tvg-id="" group-title="🇬🇧| Amazon Prime Live Khi Có Trận" tvg-logo="http://n2086.securepoint.io:25461/images/6a91fae435e599f632f2ebed6dcf2f3e.png", Amazon : UK Event 00
@@ -2170,7 +2256,7 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94997
 #EXTINF:-1 tvg-id="SkySportsArena.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/XBMm9XT.png", UK: Sky Sports Arena HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53977
 #EXTINF:-1 tvg-id="SkySportsAction.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/sngAWff.png", UK: Sky Sports Action FHD
-http://123.24.22.135:8889/iprotv.php?id=7956
+http://14.248.235.40:8889/iprotv.php?id=7956
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/nhhbHvs.png", UK: Sky Sports Golf FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/264
 #EXTINF:-1 tvg-id="SkySportsGolf.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/nhhbHvs.png", UK: Sky Sports Golf HD
@@ -2182,47 +2268,47 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53979
 #EXTINF:-1 tvg-id="SkySportsRacing.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/Wn1fS4q.png", UK: Sky Sports Racing FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53987
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G1VySM3.png", UK: Sky Sports Cricket FHD
-http://123.24.22.135:8889/iprotv.php?id=7958
+http://14.248.235.40:8889/iprotv.php?id=7958
 #EXTINF:-1 tvg-id="SkySportsCricket.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/G1VySM3.png", UK: Sky Sports Cricket HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53978
 #EXTINF:-1 tvg-id="SkySportsNFL.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/5zXJNC9.png", UK: Sky Sports NFL HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53985
 #EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0CdrFCz.png", UK: Sky Sports Mix FHD
-http://123.24.22.135:8889/iprotv.php?id=17931
+http://14.248.235.40:8889/iprotv.php?id=17931
 #EXTINF:-1 tvg-id="SkySportsMix.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0CdrFCz.png", UK: Sky Sports Mix HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53983
 #EXTINF:-1 tvg-id="SkySportsNews.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/FizZY9D.png", UK: Sky Sports News HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53984
 #EXTINF:-1 tvg-id="PremierSports.uk" group-title="🇬🇧| Sports UK" tvg-logo="", UK: Premier Sports FHD
-http://123.24.22.135:8889/iprotv.php?id=75859
+http://14.248.235.40:8889/iprotv.php?id=75859
 #EXTINF:-1 tvg-id="Premiersports2.uk" group-title="🇬🇧| Sports UK" tvg-logo="", UK: Premier Sports 2 FHD
-http://123.24.22.135:8889/iprotv.php?id=90555
+http://14.248.235.40:8889/iprotv.php?id=90555
 #EXTINF:-1 tvg-id="Eurosport1UK.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/z3fQ87X.png", UK: Eurosport 1 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/94908
 #EXTINF:-1 tvg-id="Eurosport2UK.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/0xpN9B6.png", UK: Eurosport 2 FHD
-http://123.24.22.135:8889/ultratv.php?id=8677
+http://14.248.235.40:8889/ultratv.php?id=8677
 #EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-1-hd-uk.png", UK: BT Sport 1 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270
 #EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53850
 #EXTINF:-1 tvg-id="BTSport1.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BTSPORTS1.png", UK: BT Sport 1 HD Server 2
-http://123.24.22.135:8889/evol.php?id=17281
+http://14.248.235.40:8889/evol.php?id=17281
 #EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-2-hd-uk.png", UK: BT Sport 2 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/273
 #EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53851
 #EXTINF:-1 tvg-id="BTSport2.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT2.png", UK: BT Sport 2 HD Server 2
-http://123.24.22.135:8889/evol.php?id=17280
+http://14.248.235.40:8889/evol.php?id=17280
 #EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/hd/bt-sport-3-hd-uk.png", UK: BT Sport 3 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/271
 #EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53852
 #EXTINF:-1 tvg-id="BTSport3.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT3.png", UK: BT Sport 3 HD Server 2
-http://123.24.22.135:8889/evol.php?id=17279
+http://14.248.235.40:8889/evol.php?id=17279
 #EXTINF:-1 tvg-id="BTSport4.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/42150.ts
 #EXTINF:-1 tvg-id="BTSport4.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/AMERICA/USA/BTSPORT_4.png", UK: BT Sport 4 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=311555
+http://14.248.235.40:8889/evol.php?id=311555
 #EXTINF:-1 tvg-id="BTSport5.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/12210.ts
 #EXTINF:-1 tvg-id="BTSport5.uk" group-title="🇬🇧| Sports UK" tvg-logo="https://i.imgur.com/YEQDWm0.png", UK: BT Sport 5 HD
@@ -2248,7 +2334,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/53853
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1124
 #EXTINF:-1 tvg-id="BTSportESPN.uk" group-title="🇬🇧| Sports UK" tvg-logo="http://logo.panel.cx/logo/UK/BT-SPORT-ESPN.png", UK: BT Sport ESPN FHD Server 2
-http://123.24.22.135:8889/evol.php?id=163788
+http://14.248.235.40:8889/evol.php?id=163788
 
 #-*-- Sports UK Clubs -*--#
 #EXTINF:-1 tvg-id="LFCTV.uk" group-title="🇬🇧| Sports UK Clubs" tvg-logo="https://i.imgur.com/hWdxcRX.png", UK: LFC HD
@@ -2256,13 +2342,13 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4721
 #EXTINF:-1 tvg-id="MUTV.uk" group-title="🇬🇧| Sports UK Clubs" tvg-logo="https://i.imgur.com/Q96miKz.png", UK: MUTV HD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1102
 #EXTINF:-1 tvg-id="ChelseaTV.uk" group-title="🇬🇧| Sports UK Clubs" tvg-logo="https://i.imgur.com/OJ1D2P7.png", UK: Chelsea TV HD
-http://123.24.22.135:8889/ultratv.php?id=3169
+http://14.248.235.40:8889/ultratv.php?id=3169
 
 #-*-- Sports USA -*--#
 #EXTINF:-1 tvg-id="NBCSN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/NBCSN_logo_%28flat%29.svg/512px-NBCSN_logo_%28flat%29.svg.png", US: NBC Sports Network FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/45429.ts
 #EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us" group-title="🇺🇸| Sports USA" tvg-logo="https://i.imgur.com/4nQOtYJ.png", US: CBS Sports Network FHD
-http://123.24.22.135:8889/iprotv.php?id=10709
+http://14.248.235.40:8889/iprotv.php?id=10709
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD
 http://0.vylc.name.vn/ESPN
 #EXTINF:-1 tvg-id="ESPN.us" group-title="🇺🇸| Sports USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png", US: ESPN FHD Server 2
@@ -2380,7 +2466,7 @@ http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/126816
 #EXTINF:-1 tvg-ID="CanalPlusFoot.fr" group-title="🇫🇷| Sports French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png", FR: Canal+ Sport FHD
 http://ys-users.com:8080/MVPReshare/LN7iKb53zA/496666 
 #EXTINF:-1 tvg-ID="RMCSport1UHD.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/QuP7VoD.png", FR: RMC Sport 1 UHD
-http://123.24.22.135:8889/iprotv.php?id=186420
+http://14.248.235.40:8889/iprotv.php?id=186420
 #EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/20275
 #EXTINF:-1 tvg-ID="RMCSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/NsFTG7u.png", FR: RMC Sport 1 FHD Server 2
@@ -2414,7 +2500,7 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34027
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD
 http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/542
 #EXTINF:-1 tvg-ID="beINSports3France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/UYSMao3.png", FR: beIN Sports 3 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=56578
+http://14.248.235.40:8889/evol.php?id=56578
 #EXTINF:-1 tvg-ID="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: beIN Sports Max 4 HD
 http://xtratexxx.dimapro.xyz:8080/HAPPY/2030/3187
 #EXTINF:-1 tvg-id="beINSportsMax4France.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/XCQOl33.png", FR: beIN Sports Max 4 LDC HD
@@ -2560,117 +2646,117 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34017
 #EXTINF:-1 tvg-id="beINSportsFrench2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-2UHD-FRE.png", QA: beIN Sports 2 French UHD
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34018
 #EXTINF:-1 tvg-id="beINSportsFrench3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-3UHD-FRE.png", QA: beIN Sports 3 French UHD
-http://123.24.22.135:8889/evol.php?id=211674
+http://14.248.235.40:8889/evol.php?id=211674
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports-NBA-HD-2.png", QA: beIN Sports NBA UHD
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34028
 #EXTINF:-1 tvg-id="beINSportsNBA.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/BeinSports/bein-sports-NBA-HD-2.png", QA: beIN Sports NBA UHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/34022
 #EXTINF:-1 tvg-id="beINSportsAFC.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%20UHD.png", QA: beIN Sports AFC UHD
-http://123.24.22.135:8889/evol.php?id=296077
+http://14.248.235.40:8889/evol.php?id=296077
 #EXTINF:-1 tvg-id="beINSportsAFC.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%201%20UHD.png", QA: beIN Sports AFC 1 UHD
-http://123.24.22.135:8889/evol.php?id=296078
+http://14.248.235.40:8889/evol.php?id=296078
 #EXTINF:-1 tvg-id="beINSportsAFC2.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%202%20UHD.png", QA: beIN Sports AFC 2 UHD
-http://123.24.22.135:8889/evol.php?id=296079
+http://14.248.235.40:8889/evol.php?id=296079
 #EXTINF:-1 tvg-id="beINSportsAFC3.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein/BEIN.AFC/BEIN%20AFC%203%20UHD.png", QA: beIN Sports AFC 3 UHD
-http://123.24.22.135:8889/evol.php?id=296080
+http://14.248.235.40:8889/evol.php?id=296080
 #EXTINF:-1 tvg-id="beIN4K.qa" group-title="🇶🇦| Qatar beIN Sports HD" tvg-logo="http://logo.panel.cx/logo/BEIN/bein-sport/BEIN-4K.png", QA: beIN Sports UHD
-http://123.24.22.135:8889/evol.php?id=207574
+http://14.248.235.40:8889/evol.php?id=207574
 
 #-*-- Sports Italia -*--#
 #EXTINF:-1 tvg-ID="SkySportUno.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sky_Sport_Uno_HD_-_Logo_2020.svg/512px-Sky_Sport_Uno_HD_-_Logo_2020.svg.png", IT: Sky Sport Uno FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159572
 #EXTINF:-1 tvg-ID="SkySportFootball.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sky_Sport_Football_HD_-_Logo_2020.svg/512px-Sky_Sport_Football_HD_-_Logo_2020.svg.png", IT: Sky Sport Football FHD
-http://123.24.22.135:8889/iprotv.php?id=2770
+http://14.248.235.40:8889/iprotv.php?id=2770
 #EXTINF:-1 tvg-ID="SkySportArena.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sky_Sport_Arena_HD_-_Logo_2020.svg/512px-Sky_Sport_Arena_HD_-_Logo_2020.svg.png", IT: Sky Sport Arena FHD
-http://123.24.22.135:8889/iprotv.php?id=2739
+http://14.248.235.40:8889/iprotv.php?id=2739
 #EXTINF:-1 tvg-ID="SkySportF1Italy.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/512px-Sky_Sport_F1_-_Logo_2020.svg.png", IT: Sky Sport F1 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159567
 #EXTINF:-1 tvg-ID="Rai3.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 3 4K
-http://123.24.22.135:8889/evol.php?id=68443
+http://14.248.235.40:8889/evol.php?id=68443
 #EXTINF:-1 tvg-ID="Rai3.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png", IT: Rai 3 FHD
-http://123.24.22.135:8889/evol.php?id=68622
+http://14.248.235.40:8889/evol.php?id=68622
 #EXTINF:-1 tvg-ID="Rai4.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 4 4K
-http://123.24.22.135:8889/evol.php?id=68472
+http://14.248.235.40:8889/evol.php?id=68472
 #EXTINF:-1 tvg-ID="Rai5.it" group-title="🇮🇹| Sports Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png", IT: Rai 5 4K
-http://123.24.22.135:8889/evol.php?id=68473
+http://14.248.235.40:8889/evol.php?id=68473
 
 #-*-- Sports Norway -*--#
 #EXTINF:-1 tvg-ID="TV2SportPremium.no" group-title="🇳🇴| Sports Norway" tvg-logo="https://i.imgur.com/KpfFOH2.png", NO: TV2 Sport Premium
-http://123.24.22.135:8889/ultratv.php?id=130745
+http://14.248.235.40:8889/ultratv.php?id=130745
 #EXTINF:-1 tvg-ID="TV2SportPremium2.no" group-title="🇳🇴| Sports Norway" tvg-logo="https://i.imgur.com/PI9F8iM.png", NO: TV2 Sport Premium 2
-http://123.24.22.135:8889/ultratv.php?id=130746
+http://14.248.235.40:8889/ultratv.php?id=130746
 #EXTINF:-1 tvg-ID="TV2Sport.no" group-title="🇳🇴| Sports Norway" tvg-logo="", NO: TV2 Sportskanalen HD
-http://123.24.22.135:8889/ultratv.php?id=9652
+http://14.248.235.40:8889/ultratv.php?id=9652
 
 #-*-- Sports HK/Taiwan -*--#
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch621_160_115", HK: Now Sports Premier League 1 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425332
+http://14.248.235.40:8889/prostv.php?id=190634
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch622_160_115", HK: Now Sports Premier League 2 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425333
+http://14.248.235.40:8889/prostv.php?id=190633
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch623_160_115", HK: Now Sports Premier League 3 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425334
+http://14.248.235.40:8889/prostv.php?id=190632
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch624_160_115", HK: Now Sports Premier League 4 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425335
+http://14.248.235.40:8889/prostv.php?id=190631
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch625_160_115", HK: Now Sports Premier League 5 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425336
+http://14.248.235.40:8889/prostv.php?id=190630
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 6 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425337
+http://14.248.235.40:8889/prostv.php?id=190629
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague7.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 7 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425331
+http://14.248.235.40:8889/prostv.php?id=190628
 #EXTINF:-1 tvg-ID="NowSportsPremierLeague8.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch626_160_115", HK: Now Sports Premier League 8 FHD
-http://ys-users.com:8080/MVPReshare/LN7iKb53zA/425330
+http://14.248.235.40:8889/prostv.php?id=190627
 #EXTINF:-1 tvg-ID="NowSports1.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_160_115", HK: Now Sports 1 FHD
-http://123.24.22.135:8889/ultratv.php?id=246323
+http://14.248.235.40:8889/ultratv.php?id=246323
 #EXTINF:-1 tvg-ID="NowSports2.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch632_160_115", HK: Now Sports 2 FHD
-http://123.24.22.135:8889/ultratv.php?id=246324
+http://14.248.235.40:8889/ultratv.php?id=246324
 #EXTINF:-1 tvg-ID="NowSports3.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch633_160_115", HK: Now Sports 3 FHD
-http://123.24.22.135:8889/ultratv.php?id=200224
+http://14.248.235.40:8889/ultratv.php?id=200224
 #EXTINF:-1 tvg-ID="NowSports4.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch634_160_115", HK: Now Sports 4 FHD
-http://123.24.22.135:8889/ultratv.php?id=246325
+http://14.248.235.40:8889/ultratv.php?id=246325
 #EXTINF:-1 tvg-ID="NowSports5.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch635_160_115", HK: Now Sports 5 FHD
-http://123.24.22.135:8889/ultratv.php?id=246326
+http://14.248.235.40:8889/ultratv.php?id=246326
 #EXTINF:-1 tvg-ID="NowSports6.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch636_160_115", HK: Now Sports 6 FHD
-http://123.24.22.135:8889/ultratv.php?id=246327
+http://14.248.235.40:8889/ultratv.php?id=246327
 #EXTINF:-1 tvg-ID="NowSports7.hk" group-title="🇭🇰/🇹🇼| Sports HK/Taiwan" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch637_160_115", HK: Now Sports 7 FHD
-http://123.24.22.135:8889/ultratv.php?id=246328
+http://14.248.235.40:8889/ultratv.php?id=246328
 
 #-*-- Sports Germany -*--#
 #EXTINF:-1 tvg-id="skysportpremierleague.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/ChWdcRC.png", DE: Sky Sport Premiere League FHD 
-http://123.24.22.135:8889/prostv.php?id=248599
+http://14.248.235.40:8889/prostv.php?id=248599
 #EXTINF:-1 tvg-ID="skysportpremierleague.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/ChWdcRC.png", DE: Sky Sport Premier League FHD Server 2
 http://balkanfree.net:25461/simon/jfhd734DF173hdsfnaf/193619 
 #EXTINF:-1 tvg-id="skysportmix.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0CdrFCz.png", DE: Sky Sport Mix FHD 
-http://123.24.22.135:8889/prostv.php?id=248598
+http://14.248.235.40:8889/prostv.php?id=248598
 #EXTINF:-1 tvg-ID="skysportmix.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/0CdrFCz.png", DE: Sky Sport Mix FHD Server 2
-http://123.24.22.135:8889/evol.php?id=310971
+http://14.248.235.40:8889/evol.php?id=310971
 #EXTINF:-1 tvg-id="skysportgolf.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/nhhbHvs.png", DE: Sky Sport Golf FHD 
-http://123.24.22.135:8889/prostv.php?id=248597
+http://14.248.235.40:8889/prostv.php?id=248597
 #EXTINF:-1 tvg-ID="skysportgolf.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/nhhbHvs.png", DE: Sky Sport Golf FHD Server 2
-http://123.24.22.135:8889/evol.php?id=310972
+http://14.248.235.40:8889/evol.php?id=310972
 #EXTINF:-1 tvg-ID="SkySportNewsGermany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/512px-Sky_Sport_News_2020.svg.png", DE: Sky Sports News FHD
-http://123.24.22.135:8889/evol.php?id=33453
+http://14.248.235.40:8889/evol.php?id=33453
 #EXTINF:-1 tvg-ID="skysporttopevent.de" group-title="🇩🇪| Sports Germany" tvg-logo="", DE: Sky Sport Top Event FHD
-http://123.24.22.135:8889/evol.php?id=310970
+http://14.248.235.40:8889/evol.php?id=310970
 #EXTINF:-1 tvg-ID="skysporttennis.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/512px-Sky_Sport_Tennis.svg.png", DE: Sky Sport Tennis FHD
-http://123.24.22.135:8889/evol.php?id=310967
+http://14.248.235.40:8889/evol.php?id=310967
 #EXTINF:-1 tvg-ID="SkySportF1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png", DE: Sky Sport F1 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/174563
 #EXTINF:-1 tvg-ID="DAZN1BarHD.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://i.imgur.com/qMr4eDT.png", DE: DAZN 1 Bar FHD
-http://123.24.22.135:8889/evol.php?id=45656
+http://14.248.235.40:8889/evol.php?id=45656
 #EXTINF:-1 tvg-ID="daznbar2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-de.png", DE: DAZN 2 Bar FHD
-http://123.24.22.135:8889/evol.php?id=45657
+http://14.248.235.40:8889/evol.php?id=45657
 #EXTINF:-1 tvg-ID="SkySportAustria1.at" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/6/60/Sky_Sport_Austria_2020.svg/512px-Sky_Sport_Austria_2020.svg.png", DE: Sky Sport Austria 1 FHD
-http://123.24.22.135:8889/ultratv.php?id=146661
+http://14.248.235.40:8889/ultratv.php?id=146661
 #EXTINF:-1 tvg-ID="SkySport1Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png", DE: Sky Sport 1 FHD
-http://123.24.22.135:8889/ultratv.php?id=7813
+http://14.248.235.40:8889/ultratv.php?id=7813
 #EXTINF:-1 tvg-ID="SkySport2Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Sky_Sport_2_DE_Logo_2020.svg/512px-Sky_Sport_2_DE_Logo_2020.svg.png", DE: Sky Sport 2 FHD
-http://123.24.22.135:8889/ultratv.php?id=7814
+http://14.248.235.40:8889/ultratv.php?id=7814
 #EXTINF:-1 tvg-ID="SkySport3Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/512px-Sky_Sport_3_DE_Logo_2020.svg.png", DE: Sky Sport 3 FHD
-http://123.24.22.135:8889/ultratv.php?id=4699
+http://14.248.235.40:8889/ultratv.php?id=4699
 #EXTINF:-1 tvg-ID="SkySport3Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sky_Sport_3_DE_Logo_2020.svg/512px-Sky_Sport_3_DE_Logo_2020.svg.png", DE: Sky Sport 3 FHD
-http://123.24.22.135:8889/ultratv.php?id=10296
+http://14.248.235.40:8889/ultratv.php?id=10296
 #EXTINF:-1 tvg-ID="SkySport4Germany.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sky_Sport_4_DE_Logo_2020.svg/512px-Sky_Sport_4_DE_Logo_2020.svg.png", DE: Sky Sport 4 FHD
-http://123.24.22.135:8889/ultratv.php?id=10295
+http://14.248.235.40:8889/ultratv.php?id=10295
 #EXTINF:-1 tvg-ID="SkySportBundesliga1.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sky_Sport_Bundesliga_1_DE_Logo_2020.svg/512px-Sky_Sport_Bundesliga_1_DE_Logo_2020.svg.png", DE: Sky Bundesliga 1 FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/204948
 #EXTINF:-1 tvg-ID="SkySportBundesliga2.de" group-title="🇩🇪| Sports Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/8/86/Sky_Sport_Bundesliga_2_Logo_2020.png/512px-Sky_Sport_Bundesliga_2_Logo_2020.png", DE: Sky Bundesliga 2 FHD
@@ -2698,35 +2784,35 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2082
 
 #-*-- Sports Hungary -*--#
 #EXTINF:-1 tvg-id="DigiSport1Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/si4dU6Q.png", DIGI Sport 1 HU
-http://123.24.22.135:8889/prostv.php?id=247246
+http://14.248.235.40:8889/prostv.php?id=247246
 #EXTINF:-1 tvg-id="DigiSport2Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/r93ZSJ0.png", DIGI Sport 2 HU
-http://123.24.22.135:8889/prostv.php?id=247245
+http://14.248.235.40:8889/prostv.php?id=247245
 #EXTINF:-1 tvg-id="DigiSport3Hungary.hu" group-title="🇭🇺| Sports Hungary" tvg-logo="https://i.imgur.com/tyEjZm5.png", DIGI Sport 3 HU
-http://123.24.22.135:8889/prostv.php?id=247244
+http://14.248.235.40:8889/prostv.php?id=247244
 
 #-*-- Sports Astro Malaysia -*--#
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146068
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD Server 2
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197514
+http://14.248.235.40:8889/prostv.php?id=190645
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157556
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD Server 2
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197515
+http://14.248.235.40:8889/prostv.php?id=190644
 #EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157557
 #EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD Server 2
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197516
+http://14.248.235.40:8889/prostv.php?id=190643
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157558 
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD Server 2
-http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197517
+http://14.248.235.40:8889/prostv.php?id=190642
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD
 http://cx1.supercloud9.xyz:2095/live/wKLDF3Lt6j/f9K6ZMCikh/33065.ts
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD Server 2
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/197518
 #EXTINF:-1 tvg-ID="AstroArena.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/IPK9f6h.png", MY Astro: Arena FHD
-http://123.24.22.135:8889/ultratv.php?id=161948
+http://14.248.235.40:8889/ultratv.php?id=161948
 #EXTINF:-1 group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 1
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:01:B9:B6&stream=1552973&extension=ts&play_token=qgrz5idFn8
 #EXTINF:-1 group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://seuladogeek.com.br/wp-content/uploads/2022/04/logo-FIFA-world-cup-qatar-2022-free.png", Astro World Cup 2
@@ -2744,7 +2830,7 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56760
 #EXTINF:-1 tvg-ID="SuperSportFootball.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png", AF: Supersport Football FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56762
 #EXTINF:-1 tvg-ID="SuperSportFootballPlus.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_FootballPlus_4-3_004_xlrg.png", AF: SuperSport Football Plus FHD
-http://123.24.22.135:8889/icool.php?id=145095
+http://14.248.235.40:8889/icool.php?id=145095
 #EXTINF:-1 tvg-ID="SuperSportGrandstand.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-3_001_xlrg.png", AF: SuperSport Grandstand FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56764
 #EXTINF:-1 tvg-ID="SuperSportLaLiga.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png", AF: SuperSport La Liga FHD
@@ -2756,9 +2842,9 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56769
 #EXTINF:-1 tvg-ID="SuperSportPlay.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-3_001_xlrg.png", AF: SuperSport Play 1 FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199589
 #EXTINF:-1 tvg-ID="SuperSportPlay2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Play 2 FHD
-http://123.24.22.135:8889/icool.php?id=145084
+http://14.248.235.40:8889/icool.php?id=145084
 #EXTINF:-1 tvg-ID="" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Events FHD
-http://123.24.22.135:8889/icool.php?id=145086
+http://14.248.235.40:8889/icool.php?id=145086
 #EXTINF:-1 tvg-ID="SuperSportGolf.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-3_xlrg.png", AF: SuperSport Golf FHD
 http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/56763
 #EXTINF:-1 tvg-ID="SuperSportMotorsport.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png", AF: SuperSport Motorsport FHD
@@ -2804,49 +2890,49 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199590
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV + FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159582
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/gCTAxBl.png", PT: Sport TV + FHD Server 2
-http://123.24.22.135:8889/angel.php?id=102460
+http://14.248.235.40:8889/prostv.php?id=96350
 #EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 
-http://123.24.22.135:8889/evol.php?id=107500
+http://14.248.235.40:8889/prostv.php?id=96354
 #EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 2
-http://123.24.22.135:8889/angel.php?id=12784
+http://14.248.235.40:8889/prostv.php?id=96356
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=102461
+http://14.248.235.40:8889/angel.php?id=102461
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159583
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=107501
+http://14.248.235.40:8889/prostv.php?id=96360
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=12787
+http://14.248.235.40:8889/angel.php?id=12787
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102462
+http://14.248.235.40:8889/angel.php?id=102462
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 4K
-http://123.24.22.135:8889/angel.php?id=102463
+http://14.248.235.40:8889/angel.php?id=102463
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159584
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=107502
+http://14.248.235.40:8889/prostv.php?id=96363
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=12790
+http://14.248.235.40:8889/prostv.php?id=96364
 #EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102464
+http://14.248.235.40:8889/angel.php?id=102464
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTS4.png",PT: Sport TV 4 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 2
-http://123.24.22.135:8889/angel.php?id=12792
+http://14.248.235.40:8889/prostv.php?id=96367
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=102465
+http://14.248.235.40:8889/prostv.php?id=96368
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV5.png",PT: Sport TV 5 FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159586
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/cir6Ej7.png", PT: Sport TV 5 FHD Server 2
-http://123.24.22.135:8889/angel.php?id=12794
+http://14.248.235.40:8889/prostv.php?id=96372
 #EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=102466
+http://14.248.235.40:8889/angel.php?id=102466
 #EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD
-http://123.24.22.135:8889/angel.php?id=102467
+http://14.248.235.40:8889/angel.php?id=102467
 #EXTINF:-1 tvg-id="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV NBA FHD
-http://123.24.22.135:8889/evol.php?id=107503
+http://14.248.235.40:8889/plustv.php?id=869000
 #EXTINF:-1 tvg-ID="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Sport TV NBA FHD Server 3
-http://123.24.22.135:8889/ultratv.php?id=164982
+http://14.248.235.40:8889/ultratv.php?id=164982
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10155
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
@@ -2854,51 +2940,49 @@ http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2648
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2649
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102469
+http://14.248.235.40:8889/plustv.php?id=869003
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
-http://123.24.22.135:8889/angel.php?id=102470
+http://14.248.235.40:8889/prostv.php?id=222449
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10156
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2650
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
-http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2651
+http://14.248.235.40:8889/plustv.php?id=869004
 #EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=102471
+http://14.248.235.40:8889/prostv.php?id=222450
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10157
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2652
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=12802
+http://14.248.235.40:8889/plustv.php?id=869005
 #EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102472
-#EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 4K
-http://123.24.22.135:8889/angel.php?id=102473
+http://14.248.235.40:8889/prostv.php?id=222451
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10159
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2653
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=12803
+http://14.248.235.40:8889/plustv.php?id=869006
 #EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102474
+http://14.248.235.40:8889/prostv.php?id=222452
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10160 
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2654
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=12804
+http://14.248.235.40:8889/plustv.php?id=869007
 #EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102475
+http://14.248.235.40:8889/prostv.php?id=222453
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10158
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
 http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2655
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 3
-http://123.24.22.135:8889/angel.php?id=12805
+http://14.248.235.40:8889/plustv.php?id=869008
 #EXTINF:-1 tvg-ID="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 4
-http://123.24.22.135:8889/angel.php?id=102476
+http://14.248.235.40:8889/prostv.php?id=222454
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD
 
 #EXTINF:-1 tvg-id="Canal11.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/512px-Logo_Canal_11_FPF.svg.png", PT: CANAL 11 FHD Server 2
@@ -2910,9 +2994,9 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159590
 #EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587
 #EXTINF:-1 tvg-ID="BenficaTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BTV_Red.svg/512px-BTV_Red.svg.png", PT: Benfica TV FHD Server 2
-http://123.24.22.135:8889/ultratv.php?id=9345
+http://14.248.235.40:8889/ultratv.php?id=9345
 #EXTINF:-1 tvg-ID="SportingTV.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/GOlNfTo.png", PT: Sporting TV FHD
-http://123.24.22.135:8889/ultratv.php?id=9345
+http://14.248.235.40:8889/ultratv.php?id=9345
 
 #-*-- Sports Poland -*--#
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/hy1SKE0.png", PL: Polsat Sport Premium 1 FHD
@@ -2920,95 +3004,95 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15891
 #EXTINF:-1 tvg-id="PolsatSportPremium1.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/hy1SKE0.png", PL: Polsat Sport Premium 1 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/14494
 #EXTINF:-1 tvg-ID="PolsatSportPremium1.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/hy1SKE0.png", PL: Polsat Sport Premium 1 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67797
+http://14.248.235.40:8889/evol.php?id=67797
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/myyWeXY.png", PL: Polsat Sport Premium 2 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15890
 #EXTINF:-1 tvg-id="PolsatSportPremium2.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/myyWeXY.png", PL: Polsat Sport Premium 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/14493
 #EXTINF:-1 tvg-ID="PolsatSportPremium2.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/myyWeXY.png", PL: Polsat Sport Premium 2 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67796
+http://14.248.235.40:8889/evol.php?id=67796
 #EXTINF:-1 tvg-id="PolsatSportPremium3PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/leFNP03.png", PL: Polsat Sport Premium 3 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15889
 #EXTINF:-1 tvg-id="PolsatSportPremium3PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/leFNP03.png", PL: Polsat Sport Premium 3 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=75831
+http://14.248.235.40:8889/evol.php?id=75831
 #EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SulxUvc.png", PL: Polsat Sport Premium 4 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15888
 #EXTINF:-1 tvg-id="PolsatSportPremium4PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SulxUvc.png", PL: Polsat Sport Premium 4 FHD Server 2
-http://123.24.22.135:8889/prostv.php?id=20610
+http://14.248.235.40:8889/evol.php?id=75832
 #EXTINF:-1 tvg-id="PolsatSportPremium5PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/W1uhsGm.png", PL: Polsat Sport Premium 5 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15887
 #EXTINF:-1 tvg-id="PolsatSportPremium5PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/W1uhsGm.png", PL: Polsat Sport Premium 5 FHD Server 2
-http://123.24.22.135:8889/prostv.php?id=147388
+http://14.248.235.40:8889/evol.php?id=75833
 #EXTINF:-1 tvg-id="PolsatSportPremium6PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/YrveCmM.png", PL: Polsat Sport Premium 6 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/15886
 #EXTINF:-1 tvg-id="PolsatSportPremium6PPV.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/YrveCmM.png", PL: Polsat Sport Premium 6 FHD Server 2
-http://123.24.22.135:8889/prostv.php?id=147389
+http://14.248.235.40:8889/evol.php?id=75834
 #EXTINF:-1 tvg-id="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sport 1 FHD
 http://0.vylc.name.vn:8080/stream/channelid/836061641
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2560
 #EXTINF:-1 tvg-ID="ElevenSports1Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/AOu4FXH.png", PL: Eleven Sports 1 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67795
+http://14.248.235.40:8889/evol.php?id=67795
 #EXTINF:-1 tvg-id="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sport 2 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1604309142
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sports 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/2561
 #EXTINF:-1 tvg-ID="ElevenSports2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bTIRgqG.png", PL: Eleven Sports 2 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67794
+http://14.248.235.40:8889/evol.php?id=67794
 #EXTINF:-1 tvg-id="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sport 3 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1655748057
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sports 3 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12739
 #EXTINF:-1 tvg-ID="ElevenSports3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/bWjGol4.png", PL: Eleven Sports 3 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67793
+http://14.248.235.40:8889/evol.php?id=67793
 #EXTINF:-1 tvg-id="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sport 4 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1958327260
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sports 4 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/12740
 #EXTINF:-1 tvg-ID="ElevenSports4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/SEKXaAW.png", PL: Eleven Sports 4 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67792
+http://14.248.235.40:8889/evol.php?id=67792
 #EXTINF:-1 tvg-id="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD
 http://0.vylc.name.vn:8080/stream/channelid/701074256
 #EXTINF:-1 tvg-ID="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8857
 #EXTINF:-1 tvg-ID="PolsatSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/512px-Polsat_Sport_2021_gradient.svg.png", PL: Polsat Sport FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67799
+http://14.248.235.40:8889/evol.php?id=67799
 #EXTINF:-1 tvg-id="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD
 http://0.vylc.name.vn:8080/stream/channelid/842661572
 #EXTINF:-1 tvg-ID="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8823
 #EXTINF:-1 tvg-ID="PolsatSportExtra.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/512px-Polsat_Sport_Extra_2021_gradient.svg.png", PL: Polsat Sport Extra FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67808
+http://14.248.235.40:8889/evol.php?id=67808
 #EXTINF:-1 tvg-id="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD
 http://0.vylc.name.vn:8080/stream/channelid/1209045940
 #EXTINF:-1 tvg-ID="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8899
 #EXTINF:-1 tvg-ID="PolsatSportNews.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/InChYmt.png", PL: Polsat Sport News FHD Server 3
-http://123.24.22.135:8889/evol.php?id=67809
+http://14.248.235.40:8889/evol.php?id=67809
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/8x1FV3o.png", PL: Polsat Sport Fight HD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8900
 #EXTINF:-1 tvg-id="PolsatSportFight.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/8x1FV3o.png", PL: Polsat Sport Fight HD
-http://123.24.22.135:8889/evol.php?id=67807
+http://14.248.235.40:8889/evol.php?id=67807
 #EXTINF:-1 tvg-id="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD
 http://0.vylc.name.vn:8080/stream/channelid/684151253
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8921
 #EXTINF:-1 tvg-ID="CanalPlusSportPoland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://i.imgur.com/E0WTMa2.png", PL: Canal+ Sport FHD Server 3
-http://123.24.22.135:8889/evol.php?id=75753
+http://14.248.235.40:8889/evol.php?id=75753
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1705267767
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 2
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8973
 #EXTINF:-1 tvg-id="CanalPlusSport2Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://ocdn.eu/ptv2-images-transforms/1/oFAkr9sb2dvLW1pZ3JhdGVkL2NhbmFsLXNwb3J0LTIucG5nkpUCZADCw5UCACjCww", PL: Canal+ Sport 2 FHD Server 3
-http://123.24.22.135:8889/evol.php?id=75835
+http://14.248.235.40:8889/evol.php?id=75835
 #EXTINF:-1 tvg-id="CanalPlusSport3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT3-HD.png", PL: Canal+ Sport 3 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19624
 #EXTINF:-1 tvg-id="CanalPlusSport3Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT3-HD.png", PL: Canal+ Sport 3 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=75827
+http://14.248.235.40:8889/evol.php?id=75827
 #EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 FHD
 http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/19625
 #EXTINF:-1 tvg-id="CanalPlusSport4Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 4 FHD Server 2
-http://123.24.22.135:8889/evol.php?id=75828
+http://14.248.235.40:8889/evol.php?id=75828
 #EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD
 http://0.vylc.name.vn:8080/stream/channelid/1048689498
 #EXTINF:-1 tvg-id="CanalPlusSport5Poland.pl" group-title="🇵🇱| Sports Poland" tvg-logo="http://logo.panel.cx/logo/EUROPE/POLONIA/CANAL+SPORT4-HD.png", PL: Canal+ Sport 5 FHD Server 2
@@ -3040,7 +3124,7 @@ http://a.stroj-bt.com:89/andre1986365@gmail.com/yLExNqEv2v/8959
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD
 http://0.vylc.name.vn:8080/stream/channelid/1560768115
 #EXTINF:-1 tvg-id="TVPSport.pl" group-title="🇵🇱| Sports Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Logo_TVP_Sport.jpg/512px-Logo_TVP_Sport.jpg", PL: TVP Sport FHD Server 2
-http://123.24.22.135:8889/evol.php?id=67806
+http://14.248.235.40:8889/evol.php?id=67806
 
 #-*-- Sports Romania -*--#
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/5zMxDYq.png", RO: Digi Sport 1
@@ -3052,35 +3136,35 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2243
 #EXTINF:-1 tvg-id="DigiSport4Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 4
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/4219
 #EXTINF:-1 tvg-id="TelekomSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-1.png", RO: Telekom Sport 1
-http://123.24.22.135:8889/evol.php?id=150235
+http://14.248.235.40:8889/evol.php?id=150235
 #EXTINF:-1 tvg-id="TelekomSport2.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-2.png", RO: Telekom Sport 2
-http://123.24.22.135:8889/evol.php?id=150236
+http://14.248.235.40:8889/evol.php?id=150236
 #EXTINF:-1 tvg-id="TelekomSport3.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-3.png", RO: Telekom Sport 3
-http://123.24.22.135:8889/evol.php?id=150237
+http://14.248.235.40:8889/evol.php?id=150237
 #EXTINF:-1 tvg-id="TelekomSport4.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-4.png", RO: Telekom Sport 4
-http://123.24.22.135:8889/evol.php?id=150238
+http://14.248.235.40:8889/evol.php?id=150238
 #EXTINF:-1 tvg-id="LookPlusHD.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKPLUS.png", RO: Look Plus HD
-http://123.24.22.135:8889/evol.php?id=68818
+http://14.248.235.40:8889/evol.php?id=68818
 #EXTINF:-1 tvg-id="LookSport.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKSPORT.png", RO: Look Sport HD
-http://123.24.22.135:8889/evol.php?id=68913
+http://14.248.235.40:8889/evol.php?id=68913
 
 #-*-- Sports Israel -*--#
 #EXTINF:-1 tvg-id="Sport1.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 1
-http://123.24.22.135:8889/evol.php?id=63972
+http://14.248.235.40:8889/evol.php?id=63972
 #EXTINF:-1 tvg-id="Sport2.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 2
-http://123.24.22.135:8889/evol.php?id=63971
+http://14.248.235.40:8889/evol.php?id=63971
 #EXTINF:-1 tvg-id="Sport3.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 3
-http://123.24.22.135:8889/evol.php?id=63970
+http://14.248.235.40:8889/evol.php?id=63970
 #EXTINF:-1 tvg-id="Sport4.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 4
-http://123.24.22.135:8889/evol.php?id=63969
+http://14.248.235.40:8889/evol.php?id=63969
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5
-http://123.24.22.135:8889/evol.php?id=63968
+http://14.248.235.40:8889/evol.php?id=63968
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 Live
-http://123.24.22.135:8889/evol.php?id=63967
+http://14.248.235.40:8889/evol.php?id=63967
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 Live HD
-http://123.24.22.135:8889/evol.php?id=63966
+http://14.248.235.40:8889/evol.php?id=63966
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 HD
-http://123.24.22.135:8889/evol.php?id=63965
+http://14.248.235.40:8889/evol.php?id=63965
 
 #-*-- Sports India -*--#
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" group-title="🇮🇳| Sports India" tvg-logo="https://i.imgur.com/hh15eHd.png", IN: Star Sports Select 1
@@ -3340,19 +3424,19 @@ http://0.vylc.name.vn/Setanta2
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
 http://0.vylc.name.vn/matchtv
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
-http://123.24.22.135:8889/evol.php?id=21420
+http://14.248.235.40:8889/evol.php?id=21420
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
 http://0.vylc.name.vn/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
-http://123.24.22.135:8889/evol.php?id=21418
+http://14.248.235.40:8889/evol.php?id=21418
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
 http://0.vylc.name.vn/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
-http://123.24.22.135:8889/evol.php?id=21417
+http://14.248.235.40:8889/evol.php?id=21417
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
-http://123.24.22.135:8889/evol.php?id=21416
+http://14.248.235.40:8889/evol.php?id=21416
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
 
 
