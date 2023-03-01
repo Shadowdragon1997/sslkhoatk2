@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://github.com/Shadowdragon1997/sslkhoatk2/blob/ssl/khoamovieepg.xml"
+
 #-*-- Info -*--#
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://hqth.me/infokhoatv
@@ -61,53 +63,53 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/thejourneyofch
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/thejourneyofchongzi-2023-cn-001-1677589341/1ca09cf24473143b254f284a6e1ace0b-1080p.mp4/chunklist.m3u8
 
 #-*-- Tinh Lạc Ngưng Thành Đường -*--#
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 24
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 24
 https://hd.hdbophim.com/20230301/32385_9ee7cdb5/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 23
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 23
 https://hd.hdbophim.com/20230301/32384_9c7d51db/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 22
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 22
 https://kd.hd-bophim.com/20230228/33076_1e03b38e/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 21
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 21
 https://kd.hd-bophim.com/20230228/33075_f6194914/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 20
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 20
 https://kd.hd-bophim.com/20230227/33047_0797e8aa/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 19
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 19
 https://kd.hd-bophim.com/20230227/33046_b851b718/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 18
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 18
 https://hd.hdbophim.com/20230226/32257_87ea9c55/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 17
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 17
 https://hd.hdbophim.com/20230226/32256_5e42341d/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 16
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 16
 https://hd.hdbophim.com/20230225/32188_9c678df2/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 15
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 15
 https://kd.hd-bophim.com/20230224/32983_e095fcdc/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 14
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 14
 https://kd.hd-bophim.com/20230223/32870_de4cc5c9/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 13
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 13
 https://kd.hd-bophim.com/20230223/32868_bde3c6ab/index.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 12
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 12
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/thestarrylove-2023-cn-012-1677589462/ec0ae75361de980f46dce436941b49a5-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 11
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 11
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230228/thestarrylove-2023-cn-011-1677587809/3658e7dbb97f39b4647eba845f0a291c-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 10
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 10
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230227/thestarrylove-2023-cn-010-1677511081/bdb27abd2b66499785b4b5ab1fb5de41-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 09
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 09
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230227/thestarrylove-2023-cn-009-1677511081/612ba6b9d5229d631e19aefea5f9cd46-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 08
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 08
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230226/thestarrylove-2023-cn-008-1677419829/24447772da0b98e966d6ee2b61fa37fe-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 07
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 07
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230226/thestarrylove-2023-cn-007-1677419829/cba180c3d8cdeb17c6f4693feab2cea0-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 06
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 06
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230225/thestarrylove-2023-cn-006-1677336029/024d14e15358d8332181b44464208d51-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 05
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 05
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230225/thestarrylove-2023-cn-005-1677336029/1cb09e0660028271e6a276878b7661e9-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 04
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 04
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230224/thestarrylove-2023-cn-004-1677245979/df717c5a14587ab7900e34b1738e63fa-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 03
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 03
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230225/thestarrylove-2023-cn-003-checked-1677298321/54b92b77dbab569b863a5043aebaefb2-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 02
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 02
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230225/thestarrylove-2023-cn-002-tm-1677338154/ec26623e6efba298faf30ab7ca4a5440-1080p.mp4/chunklist.m3u8
-#EXTINF:-1 group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 01
+#EXTINF:-1 tvg-id="tinh-lac-ngung-thanh-duong" group-title="❤| Tinh Lạc Ngưng Thành Đường - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/16/d8f81879b7bd0f8a_cebf62ce9c0c2fa6_37628167656362873816.jpg", Tinh Lạc Ngưng Thành Đường Tập 01
 https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230225/thestarrylove-2023-cn-001-tm-1677338154/583dc9fa7873671a1298efaea557acff-1080p.mp4/chunklist.m3u8
 
 #-*-- Nghe Nói Em Thích Tôi -*--#
