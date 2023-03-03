@@ -3616,55 +3616,104 @@ http://14.162.62.129:8889/evol.php?id=21416
 
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-03/03: SD1 Real Madrid - FC Barcelona (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-04/03: SD1 Borussia Dortmund - RB Leipzig (Thí sinh 1 + Thí sinh 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-03/03: SD2 Real Madrid - FC Barcelona (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-04/03: SD2 Borussia Dortmund - RB Leipzig (Thí sinh 1 + Thí sinh 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-03/03: HD Real Madrid - FC Barcelona (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-04/03: HD Borussia Dortmund - RB Leipzig (Thí sinh 1 + Thí sinh 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-03/03: Full HD Real Madrid - FC Barcelona (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-04/03: Full HD Borussia Dortmund - RB Leipzig (Thí sinh 1 + Thí sinh 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may111FHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-03/03: Nhà đài Real Madrid - FC Barcelona (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h30-04/03: Nhà đài Borussia Dortmund - RB Leipzig (Thí sinh 1 + Thí sinh 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8|referer=https://player.4shares.live/
 
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-04/03: SD1 Napoli - Lazio (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-04/03: SD2 Napoli - Lazio (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-04/03: HD Napoli - Lazio (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-04/03: Full HD Napoli - Lazio (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-04/03: Nhà đài Napoli - Lazio (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8|referer=https://player.4shares.live/
+
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-02/03: SD 1 U20 Hàn Quốc - Oman U20 (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-03/03: SD 1 Japan U20 - China U20 (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-02/03: HD 1 U20 Hàn Quốc - Oman U20 (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-03/03: HD 1 Japan U20 - China U20 (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-02/03: SD 2 U20 Hàn Quốc - Oman U20 (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-03/03: SD 2 Japan U20 - China U20 (Giàng A Páo)
 https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-02/03: HD 2 U20 Hàn Quốc - Oman U20 (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-03/03: HD 2 Japan U20 - China U20 (Giàng A Páo)
 https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-02/03: Nhà Đài U20 Hàn Quốc - Oman U20 (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",17h00-03/03: Nhà Đài Japan U20 - China U20 (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://bongda.rakhoi7.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-02/03: SD 1 Tajikistan U20 - Jordan U20 (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-03/03: SD 1 Saudi Arabia U20 - Kyrgyzstan U20 (Giàng A Cay)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-02/03: HD 1 Tajikistan U20 - Jordan U20 (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-03/03: HD 1 Saudi Arabia U20 - Kyrgyzstan U20 (Giàng A Cay)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-02/03: SD 2 Tajikistan U20 - Jordan U20 (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-03/03: SD 2 Saudi Arabia U20 - Kyrgyzstan U20 (Giàng A Cay)
 https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-02/03: HD 2 Tajikistan U20 - Jordan U20 (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-03/03: HD 2 Saudi Arabia U20 - Kyrgyzstan U20 (Giàng A Cay)
 https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-02/03: Nhà Đài Tajikistan U20 - Jordan U20 (Giàng A Cay)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-03/03: Nhà Đài Saudi Arabia U20 - Kyrgyzstan U20 (Giàng A Cay)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://bongda.rakhoi7.com/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-03/03: SD 1 Real Madrid - Barcelona (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/03: SD 1 Al Nassr FC - Al Batin (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-03/03: HD 1 Real Madrid - Barcelona (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/03: HD 1 Al Nassr FC - Al Batin (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-03/03: SD 2 Real Madrid - Barcelona (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/03: SD 2 Al Nassr FC - Al Batin (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-03/03: HD 2 Real Madrid - Barcelona (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/03: HD 2 Al Nassr FC - Al Batin (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-03/03: Nhà Đài Real Madrid - Barcelona (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-04/03: Nhà Đài Al Nassr FC - Al Batin (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/03: SD 1 Dortmund - RB Leipzig (Giàng A Chuối)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/03: HD 1 Dortmund - RB Leipzig (Giàng A Chuối)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/03: SD 2 Dortmund - RB Leipzig (Giàng A Chuối)
+https://179665839.global.cdnfastest.com/live/cachuoisd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/03: HD 2 Dortmund - RB Leipzig (Giàng A Chuối)
+https://179665839.global.cdnfastest.com/live/cachuoihd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-04/03: Nhà Đài Dortmund - RB Leipzig (Giàng A Chuối)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-04/03: SD 1 Napoli - Lazio (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-04/03: HD 1 Napoli - Lazio (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-04/03: SD 2 Napoli - Lazio (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-04/03: HD 2 Napoli - Lazio (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-04/03: Nhà Đài Napoli - Lazio (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/03: SD 1 Real Sociedad - Cadiz (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/03: HD 1 Real Sociedad - Cadiz (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/03: SD 2 Real Sociedad - Cadiz (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/03: HD 2 Real Sociedad - Cadiz (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://bongda.rakhoi7.com/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-04/03: Nhà Đài Real Sociedad - Cadiz (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://bongda.rakhoi7.com/
 
 #-*-- Livestream bóng đá Xoilac TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",00h30-04/03: HD 1 Al-Nasr(KSA) vs Al-Baten (ZIZU)
@@ -3840,3 +3889,38 @@ https://live.vbfast.xyz/03e56c391370a53d8e98fa7c6f7b7386/1677854398651/live-51/i
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",00h30-05/03: Full HD Stuttgart vs Bayern Munich (MAX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://live.vbfast.xyz/ea572e14672294a6e91d40afcc2d5399/1677854408293/ksreeci/index.m3u8|referer=https://ck.plvb.xyz/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",00h30-05/03: HD 1 Mallorca vs Elche (TUTA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/482e45f60981ee84ce9291f0d496a910/1677856590320/kqpqy3v/index.m3u8|referer=https://ck.plvb.xyz/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",00h30-05/03: HD 2 Mallorca vs Elche (TUTA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/26f6d70a167b5202b90debc39316e581/1677856624499/trkvjgh/index.m3u8|referer=https://ck.plvb.xyz/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",01h00-05/03: HD 1 Amiens vs Pau FC (HENRY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/2933916c717b36324ef2fd95b21ce39d/1677856590578/as9xexm/index.m3u8|referer=https://ck.plvb.xyz/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",01h00-05/03: HD 2 Amiens vs Pau FC (HENRY)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/98ffa4aa46fbb239455a08f4f32110ec/1677856706266/jeqqjpk/index.m3u8|referer=https://ck.plvb.xyz/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",02h45-05/03: HD 1 Fiorentina vs AC Milan (ASTRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/a03a468305caa967b9464b48a682023b/1677856591643/trd02w8/index.m3u8|referer=https://ck.plvb.xyz/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",02h45-05/03: HD 2 Fiorentina vs AC Milan (ASTRA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/e336c1d12b1115d9f26443ba095510ea/1677856806521/live-41/index.m3u8|referer=https://ck.plvb.xyz/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",03h00-05/03: HD 1 Atletico Madrid vs Sevilla (TUTA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/52cb37ffa5db7d1e7a475c70838a5874/1677856592343/kqpqy3v/index.m3u8|referer=https://ck.plvb.xyz/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",03h00-05/03: HD 2 Atletico Madrid vs Sevilla (TUTA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/da66b83c5f8fd3c27b0b5cc98002d2f6/1677856900504/trkvjgh/index.m3u8|referer=https://ck.plvb.xyz/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",03h00-05/03: HD 1 PSG vs Nantes (ZIZU)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/0e78426b962fb935e461c34b378f343c/1677856948960/en7hf6r/index.m3u8|referer=https://ck.plvb.xyz/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",03h00-05/03: HD 2 PSG vs Nantes (ZIZU)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://live.vbfast.xyz/3ec1d3c506c267fac084bd06b2596895/1677856977519/asvoozl/index.m3u8|referer=https://ck.plvb.xyz/
