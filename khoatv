@@ -614,7 +614,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"EDyq+GV+KAyuJv/idp6wrg","kid":"otqY/SHzSbmQY6nO0d96bw"},{"kty":"oct","k":"1I6GBwfcbfbMZax0rw8GWw","kid":"6h6Y/SHzSbmQY6nO0d96bw"},{"kty":"oct","k":"JRUCLx5WlmMt72z+uEq7hg","kid":"4y/cRnDzSbmQY6nO0d96bw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XREBzs6nAVXnRd8Dbpaa/g","kid":"WNINPKAA8+3TKv/mVKYfMA"},{"kty":"oct","k":"QbjiCMbVuONs8mnNFC8upw","kid":"oBYNPKAA8+3TKv/mVKYfMA"},{"kty":"oct","k":"GGJE918e6CuIvxAOvV0rNw","kid":"mSdRhe8A8+3TKv/mVKYfMA"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -641,7 +641,7 @@ https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1L3ak1UPbDn/xWHVgKulLg","kid":"+06Qe+tDSTe6V7U8XbAs+A"},{"kty":"oct","k":"LFaHP6GKHmRjZIBUIM8P/w","kid":"Q5KQe+tDSTe6V7U8XbAs+A"},{"kty":"oct","k":"xebYfSRXD+/kbkS/WR3PtA","kid":"PKPUxDpDSTe6V7U8XbAs+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+nV3D6svmb4u9uKl+6gB5g","kid":"TmsQLJgJKc6b4+jtYQn2YQ"},{"kty":"oct","k":"C81rdDpie8VjW821YEtEMA","kid":"lq8QLJgJKc6b4+jtYQn2YQ"},{"kty":"oct","k":"Kd2gXaPXMM9dzT5HbKr0sA","kid":"j8BUdecJKc6b4+jtYQn2YQ"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -668,7 +668,7 @@ https://livevlive.vtvcab.vn/K_LIFE_6962/m20_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"K/nSBz/SmUD7kCZOpQw0rw","kid":"GR53MInESNOGdm8VSteQWg"},{"kty":"oct","k":"7dfQ+erBFkUKJpILlppbLg","kid":"YWJ3MInESNOGdm8VSteQWg"},{"kty":"oct","k":"q7isub5Enj7St8uU9P7tLg","kid":"WnO7edjESNOGdm8VSteQWg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YVsofgA9p2+HwQqyco+y1w","kid":"rw77nIzvS1CUhXG/fzptVA"},{"kty":"oct","k":"oYQX165nIAm/XTmCBTYXkw","kid":"91L7nIzvS1CUhXG/fzptVA"},{"kty":"oct","k":"w3Jow+DMz6Ph9Z5wA+vIlQ","kid":"8GM/5dvvS1CUhXG/fzptVA"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -695,7 +695,7 @@ http://vietanhtv.pw/k+fpt/sp1/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"reoL79Dci13AxECy55iTMA","kid":"cgI+T7i7SNWBq0fI56DjBg"},{"kty":"oct","k":"i1DhZodx1qmFxz+GaYYu5Q","kid":"ukY+T7i7SNWBq0fI56DjBg"},{"kty":"oct","k":"5+zJ8qcxhSXLKm2H5roNeA","kid":"s1eCmAe7SNWBq0fI56DjBg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qZcXfixOhYzhI6wKbbazfQ","kid":"GtFeItf4rBrluqM0iRnHBg"},{"kty":"oct","k":"H0/TaW2rIvak7xb2Z1M6Mw","kid":"YhVeItf4rBrluqM0iRnHBg"},{"kty":"oct","k":"fKqaSoo4Y7p9RkYPDS6eSQ","kid":"Wyaiayb4rBrluqM0iRnHBg"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -722,7 +722,7 @@ http://vietanhtv.pw/k+fpt/sp2/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xbjL8j424fhxzjfzLElicQ","kid":"tQx4sxyjQdeGaMFyYJjcXg"},{"kty":"oct","k":"uQAzqDevCv1uv2/ZlN3QkA","kid":"/VB4sxyjQdeGaMFyYJjcXg"},{"kty":"oct","k":"rmcULwJu6k+qflQVQAiriA","kid":"9mG8/GujQdeGaMFyYJjcXg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QXddgT791BAPPRH80yTpfw","kid":"HSSaRm5Odgw+TLekqSr9Vw"},{"kty":"oct","k":"LrJSamZxDIR9Zo+CUt5Nbg","kid":"ZWiaRm5Odgw+TLekqSr9Vw"},{"kty":"oct","k":"hJHD8OJvq7u6ccYSJ5NEWg","kid":"Xnnej71Odgw+TLekqSr9Vw"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1391,31 +1391,74 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/3d2inq9n_banner649252d634c39fdf4f0f7a29a1be8b4e_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-10/03: Quay số mở thưởng Vietlott 10/03/2023
 https://code.vthanhtivi.pw/list/vieonevent/72b9a0be-1f24-4ffb-a220-a341415832c6/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/73/3d/d4/41/12/2e/73d41-lqutngtith6bcquamacn-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-10/03: Quà tặng Tối Thứ 6 - Bước qua mùa cô đơn
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0b/b8/81/1c/cc/c2/0b81c-lxuhng24hbikchtsaucnstt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:30-10/03: Xu hướng 24h: Bi kịch từ sau cơn sốt đất
+https://code.vthanhtivi.pw/list/mytvevent/7269/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-10/03: Dưới Bóng Cây Hạnh Phúc - Tập 34
+https://code.vthanhtivi.pw/list/mytvevent/6912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/73/3d/d4/41/12/2e/73d41-lqutngtith6bcquamacn-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-10/03: Quà tặng Tối Thứ 6 - Bước qua mùa cô đơn
 https://code.vthanhtivi.pw/list/mytvevent/7242/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b4/46/6a/a4/40/0a/b46a4-lphngtrmytvmang-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-11/03: Phòng trà MyTV - Mùa Đông
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3c/c2/29/90/09/95/3c290-lgianhmnhvuibtthnhlnhtp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-10/03: Gia Đình Mình Vui Bất Thình Lình - Tập 2
+https://code.vthanhtivi.pw/list/mytvevent/7258/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/98/8a/a6/60/04/48/98a60-latpmasters1000bnpparibasopenngy3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:00-11/03: ATP Masters 1000 - BNP Paribas Open - Ngày 3
+https://code.vthanhtivi.pw/list/mytvevent/7266/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/9b/b2/27/7a/a3/35/9b27a-lserieavng26speziavsintermilan-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-11/03: Serie A - Vòng 26: Spezia vs Inter Milan
+https://code.vthanhtivi.pw/list/mytvevent/7251/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f7/71/1a/ab/b1/1c/f71ab-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-11/03: Dance
+https://code.vthanhtivi.pw/list/mytvevent/7255/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/33/35/57/7c/cd/d5/3357c-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-11/03: MB - Hits
+https://code.vthanhtivi.pw/list/mytvevent/7256/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8b/b1/1d/db/bc/cd/8b1db-lknngtykimctp48-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:45-11/03: Kỳ Án Đông Tây Kim Cổ
+https://code.vthanhtivi.pw/list/mytvevent/5472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/14/46/60/0e/eb/be/1460e-lu20iranvsu20iraqvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-11/03: U20 Iran vs U20 Iraq - VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7262/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6c/c1/10/04/4b/bd/6c104-ldareyoubncdmma2tp24-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-11/03: Dare You - Bạn Có Dám - Mùa 2 - Tập 24
+https://code.vthanhtivi.pw/list/mytvevent/5047/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/61/17/77/78/83/3b/61778-llaligavng25realmadridvsespanyol-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-11/03: La Liga - Vòng 25: Real Madrid vs Espanyol
+https://code.vthanhtivi.pw/list/mytvevent/7247/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b4/46/6a/a4/40/0a/b46a4-lphngtrmytvmang-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-11/03: Phòng trà MyTV - Mùa Đông
 https://code.vthanhtivi.pw/list/mytvevent/7238/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/09/1678241075295/14743696c787_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Rổ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/13/1678258085915/9f6272a00bd4_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Bóng Rổ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/13/1678258202184/f2eb1b52b2e0_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/15/1678262980808/b67d409c83e6_640_360.jpg" group-title="🗓| Sự kiện", 2:00 | Tennis
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K/nSBz/SmUD7kCZOpQw0rw", "kid":"GR53MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"7dfQ+erBFkUKJpILlppbLg", "kid":"YWJ3MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"q7isub5Enj7St8uU9P7tLg", "kid":"WnO7edjESNOGdm8VSteQWg" } ], "type":"temporary" }
-
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1f/f4/44/4b/be/e6/1f44b-lu20uzbekistanvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-11/03: U20 Uzbekistan vs U20 Australia - VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7263/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7d/d6/6c/c2/2f/f1/7d6c2-lnghsthntng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-11/03: Nghệ Sĩ Thần Tượng
+https://code.vthanhtivi.pw/list/mytvevent/5605/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ef/f9/94/45/53/38/ef945-lbundesligavng24bayernmunichvsaugsburg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-11/03: Bundesliga - Vòng 24: Bayern Munich vs Augsburg
+https://code.vthanhtivi.pw/list/mytvevent/7244/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2c/cb/bc/ca/aa/a7/2cbca-lkhihoatnhyulintp5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-11/03: Khi Hoa Tình Yêu Lại Nở - Tập 12
+https://code.vthanhtivi.pw/list/mytvevent/7212/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/08/85/5a/a7/70/3085a-lbundesligavng24schalke04vsborussiadortmund-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-12/03: Bundesliga - Vòng 24: Schalke 04 vs Borussia Dortmund
+https://code.vthanhtivi.pw/list/mytvevent/7243/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a2/26/6a/af/f9/9e/a26af-latpmasters1000bnpparibasopenngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:00-12/03: ATP Masters 1000 - BNP Paribas Open - Ngày 4
+https://code.vthanhtivi.pw/list/mytvevent/7267/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b1/19/9f/fd/db/b2/b19fd-lligue1vng27brestvspsg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-12/03: Ligue 1 - Vòng 27: Brest vs PSG
+https://code.vthanhtivi.pw/list/mytvevent/7248/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3f/fa/a7/7c/c1/1e/3fa7c-lnginghsati-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-12/03: Người Nghệ Sĩ Đa Tài
+https://code.vthanhtivi.pw/list/mytvevent/6082/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b4/4d/df/f1/1d/d8/b4df1-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-12/03: K - PoP
+https://code.vthanhtivi.pw/list/mytvevent/7257/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e0/0f/f4/48/80/0a/e0f48-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:00-12/03: Hip Hop
+https://code.vthanhtivi.pw/list/mytvevent/7259/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a4/45/5e/e4/4c/ca/a45e4-lu20hnqucvsu20trungqucvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-12/03: U20 Hàn Quốc vs U20 Trung Quốc - VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7264/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1c/c4/49/9e/ea/a2/1c49e-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-12/03: Country
+https://code.vthanhtivi.pw/list/mytvevent/7260/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6b/b7/7b/b4/40/09/6b7b4-limhnththaocagewarriorsgiiucanhngchinbinh-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-12/03: Điểm hẹn Thể thao - Cage Warriors "Giải đấu của những chiến binh"
+https://code.vthanhtivi.pw/list/mytvevent/7261/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/05/5e/e6/61/15/5b/05e61-lu20nhtbnvsu20jordanvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-12/03: U20 Nhật Bản vs U20 Jordan - VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7265/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/c8/86/64/40/00/05/c8640-lkhihoatnhyulintp6-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-12/03: Khi Hoa Tình Yêu Lại Nở - Tập 13
+https://code.vthanhtivi.pw/list/mytvevent/7213/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/98/80/00/0d/de/eb/9800d-lbundesligavng24wolfsburg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:30-13/03: Bundesliga - Vòng 24: Wolfsburg	vs Union Berlin
+https://code.vthanhtivi.pw/list/mytvevent/7245/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/d7/73/3e/ed/d1/18/d73ed-latpmasters1000bnpparibasopenngy5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:00-13/03: ATP Masters 1000 - BNP Paribas Open - Ngày 5
+https://code.vthanhtivi.pw/list/mytvevent/7268/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/aa/a1/12/2e/e4/4d/aa12e-lserieavng26juventusvssampdoria-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-13/03: Serie A - Vòng 26: Juventus vs Sampdoria
+https://code.vthanhtivi.pw/list/mytvevent/7250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/0a/a2/26/6c/cb/ba/0a26c-llaligavng25athleticbilbaovsbarcelona-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 03:00-13/03: La Liga - Vòng 25: Athletic Bilbao vs Barcelona
+https://code.vthanhtivi.pw/list/mytvevent/7246/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-13/03: Thử Thách Cùng Thần Tượng - Số 645
+https://code.vthanhtivi.pw/list/mytvevent/4470/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/72/20/01/1d/db/bf/7201d-lserieavng26acmilanvssalernitana-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-14/03: Serie A - Vòng 26: AC Milan vs Salernitana
+https://code.vthanhtivi.pw/list/mytvevent/7249/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/08/16782401695/65ee3e2f6cbf_640_360.jpg" group-title="🗓| Sự kiện", 13:30 | Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
@@ -1438,6 +1481,12 @@ https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/13/1678257185178/e913d37a2861_640_360.jpg" group-title="🗓| Sự kiện", 20:10 | Sự Kiện
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/tv360/2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/09/1678414730209/59fe2422fe69_640_360.jpg" group-title="🗓| Sự kiện", 17:00 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/09/1678414757480/7b2f24fbfcd2_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/13/1678258202184/f2eb1b52b2e0_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Golf
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
@@ -1519,6 +1568,12 @@ https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/14/1678347731285/4134d59d5ee3_640_360.jpg" group-title="🗓| Sự kiện", 23:00 | Bóng Đá
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/08/1678412933589/1c5f1119c1e3_640_360.jpg" group-title="🗓| Sự kiện", 17:00 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/08/1678412979869/9d441e416091_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/10/1678330882920/edfe34e90aee_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Bóng Đá
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
@@ -1570,233 +1625,236 @@ https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/10/1678332241829/0bfdec8f4762_640_360.jpg" group-title="🗓| Sự kiện", 19:00 | Bóng Đá
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/10/1678332281512/677d1dbf194f_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Chuyền
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678335640/cmc_new/img.live_channel_schedule/0/0/133/68197/34917240.jpg" group-title="🗓| Sự kiện", 04:15-09/03: Chân Dung Cuộc Tình
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739456/cmc_new/img.live_channel_schedule/0/0/132/67753/34689744.jpg" group-title="🗓| Sự kiện", 20:00-10/03: Cuộc Đua Đến Tâm Trái Đất (Tập 5)
+https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678436093/cmc_new/img.live_channel_schedule/0/0/133/68239/34938795.jpg" group-title="🗓| Sự kiện", 04:15-10/03: Hãy Nghe Tôi Hát 2023
 https://code.vthanhtivi.pw/getlink/cliptv/164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739421/cmc_new/img.live_channel_schedule/0/0/132/67753/34689698.jpg" group-title="🗓| Sự kiện", 21:00-09/03: Thách Thức Sinh Tồn (Phần 7 - Tập 4)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739456/cmc_new/img.live_channel_schedule/0/0/132/67753/34689737.jpg" group-title="🗓| Sự kiện", 16:25-10/03: Hành Trình Của Gordon, Gino Và Fred (Phần 2 - Tập 1)
 https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860287/cmc_new/img.live_channel_schedule/0/0/132/67965/34798329.jpg" group-title="🗓| Sự kiện", 21:48-09/03: Đại Tu
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678260758/cmc_new/img.live_channel_schedule/0/0/132/67919/34774801.jpg" group-title="🗓| Sự kiện", 21:50-09/03: Khám Phá Đài Loan
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678327262/cmc_new/img.live_channel_schedule/0/0/132/67966/34798795.jpg" group-title="🗓| Sự kiện", 22:00-09/03: Steven Universe
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678413084/cmc_new/img.live_channel_schedule/0/0/132/67966/34798816.jpg" group-title="🗓| Sự kiện", 16:30-10/03: Phim Hoạt Hình Những Giai Điệu Ngốc Nghếch
 https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678171963/cmc_new/img.live_channel_schedule/0/0/133/68139/34887573.jpg" group-title="🗓| Sự kiện", 22:00-09/03: Thời Sự
-https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739421/cmc_new/img.live_channel_schedule/0/0/132/67753/34689699.jpg" group-title="🗓| Sự kiện", 22:10-09/03: Chiến Binh Ninja Mỹ (Phần 13 - Tập 9)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678158640/cmc_new/img.live_channel_schedule/0/0/132/67980/34805986.jpg" group-title="🗓| Sự kiện", 16:35-10/03: Bên Trong Nhà Máy (Tập 7)
+https://code.vthanhtivi.pw/getlink/cliptv/634/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677835138/cmc_new/img.live_channel_schedule/0/0/132/67977/34804726.jpg" group-title="🗓| Sự kiện", 17:00-10/03: Cậu Bé Yêu Quái Kitaro (Phần 6 - Tập 75)
+https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678414619/cmc_new/img.live_channel_schedule/0/0/132/67965/34798354.jpg" group-title="🗓| Sự kiện", 17:13-10/03: JDM Legends
+https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678413383/cmc_new/img.live_channel_schedule/0/0/131/67459/34539328.jpg" group-title="🗓| Sự kiện", 17:15-10/03: Những Quý Bà London (Phần 2 - Tập 2)
+https://code.vthanhtivi.pw/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739456/cmc_new/img.live_channel_schedule/0/0/132/67753/34689738.jpg" group-title="🗓| Sự kiện", 17:25-10/03: Thợ Rèn Tranh Tài: Thách Đấu Giám Khảo (Phần 1 - Tập 3)
 https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678327262/cmc_new/img.live_channel_schedule/0/0/132/67966/34798796.jpg" group-title="🗓| Sự kiện", 23:00-09/03: Ben 10
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678413084/cmc_new/img.live_channel_schedule/0/0/132/67966/34798817.jpg" group-title="🗓| Sự kiện", 17:30-10/03: Chúng Tôi Đơn Giản Là Gấu Con
 https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677655105/cmc_new/img.live_channel_schedule/0/0/132/67893/34761533.jpg" group-title="🗓| Sự kiện", 23:00-09/03: Vùng Nước Tối Dẫn Chương Trình: Jeremy Wade (Tập 4)
-https://code.vthanhtivi.pw/getlink/cliptv/787/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678075601/cmc_new/img.live_channel_schedule/0/0/132/68071/34852561.jpg" group-title="🗓| Sự kiện", 01:20-10/03: Đường Lên Đỉnh Olympia
-https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678158640/cmc_new/img.live_channel_schedule/0/0/132/67980/34805970.jpg" group-title="🗓| Sự kiện", 02:20-10/03: Bên Trong Nhà Máy (Tập 7)
-https://code.vthanhtivi.pw/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860272/cmc_new/img.live_channel_schedule/0/0/132/67965/34798334.jpg" group-title="🗓| Sự kiện", 02:24-10/03: Bên Trong West Coast Customs
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677829931/cmc_new/img.live_channel_schedule/0/0/132/67977/34804697.jpg" group-title="🗓| Sự kiện", 02:30-10/03: Hắc Giáo Đoàn (Tập 13)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677835118/cmc_new/img.live_channel_schedule/0/0/132/67977/34804727.jpg" group-title="🗓| Sự kiện", 17:30-10/03: Cậu Bé Yêu Quái Kitaro (Phần 6 - Tập 76)
 https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677829917/cmc_new/img.live_channel_schedule/0/0/132/67977/34804698.jpg" group-title="🗓| Sự kiện", 03:00-10/03: Hắc Giáo Đoàn (Tập 14)
-https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860287/cmc_new/img.live_channel_schedule/0/0/132/67965/34798335.jpg" group-title="🗓| Sự kiện", 03:13-10/03: Đại Tu
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677829897/cmc_new/img.live_channel_schedule/0/0/132/67977/34804699.jpg" group-title="🗓| Sự kiện", 03:30-10/03: Hắc Giáo Đoàn (Tập 15)
-https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677829883/cmc_new/img.live_channel_schedule/0/0/132/67977/34804700.jpg" group-title="🗓| Sự kiện", 04:00-10/03: Hắc Giáo Đoàn (Tập 16)
-https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678172011/cmc_new/img.live_channel_schedule/0/0/133/68139/34887589.jpg" group-title="🗓| Sự kiện", 06:00-10/03: Việt Nam Ngày Mới
-https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739476/cmc_new/img.live_channel_schedule/0/0/132/67753/34689715.jpg" group-title="🗓| Sự kiện", 06:15-10/03: Thám Hiểm Nước Úc (Phần 5 - Tập 5)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739476/cmc_new/img.live_channel_schedule/0/0/132/67753/34689720.jpg" group-title="🗓| Sự kiện", 07:55-10/03: Sao Sinh Tồn Cùng Bear Grylls (Phần 5 - Tập 7)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739468/cmc_new/img.live_channel_schedule/0/0/132/67753/34689723.jpg" group-title="🗓| Sự kiện", 09:10-10/03: Cao Thủ Nấu Bia (Phần 2 - Tập 4)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678346597/cmc_new/img.live_channel_schedule/0/0/132/67919/34774818.jpg" group-title="🗓| Sự kiện", 09:20-10/03: Khám Phá Đài Loan
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678346589/cmc_new/img.live_channel_schedule/0/0/132/67919/34774830.jpg" group-title="🗓| Sự kiện", 17:40-10/03: Những Điều Thú Vị Ở Philippines (Tập 6)
 https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678158640/cmc_new/img.live_channel_schedule/0/0/132/67980/34805978.jpg" group-title="🗓| Sự kiện", 09:35-10/03: Bên Trong Nhà Máy (Tập 7)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678413084/cmc_new/img.live_channel_schedule/0/0/132/67966/34798818.jpg" group-title="🗓| Sự kiện", 18:00-10/03: Thế Giới Kì Diệu Của Gumball
+https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678412992/cmc_new/img.live_channel_schedule/0/0/131/67459/34539329.jpg" group-title="🗓| Sự kiện", 18:10-10/03: Hòn Đảo Của Bryan (Phần 1 - Tập 15)
+https://code.vthanhtivi.pw/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678346589/cmc_new/img.live_channel_schedule/0/0/132/67919/34774831.jpg" group-title="🗓| Sự kiện", 18:30-10/03: Dokkaebi: Thợ Săn Tri Thức (Tập 11)
+https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678346540/cmc_new/img.live_channel_schedule/0/0/132/68071/34852542.jpg" group-title="🗓| Sự kiện", 18:30-10/03: Chuyển Động 24h
+https://code.vthanhtivi.pw/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678171993/cmc_new/img.live_channel_schedule/0/0/133/68139/34887614.jpg" group-title="🗓| Sự kiện", 18:30-10/03: Chuyển Động 365
+https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678414619/cmc_new/img.live_channel_schedule/0/0/132/67965/34798356.jpg" group-title="🗓| Sự kiện", 18:44-10/03: Đội Bay Alaska
+https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678413084/cmc_new/img.live_channel_schedule/0/0/132/67966/34798819.jpg" group-title="🗓| Sự kiện", 19:00-10/03: Đội Thợ Xây Của Thỏ Bugs
+https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678346533/cmc_new/img.live_channel_schedule/0/0/132/68071/34852543.jpg" group-title="🗓| Sự kiện", 19:00-10/03: Thời Sự 19h
+https://code.vthanhtivi.pw/getlink/cliptv/180/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678171993/cmc_new/img.live_channel_schedule/0/0/133/68139/34887615.jpg" group-title="🗓| Sự kiện", 19:00-10/03: Tiếp Sóng Thời Sự VTV
+https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678413056/cmc_new/img.live_channel_schedule/0/0/131/67459/34539330.jpg" group-title="🗓| Sự kiện", 19:05-10/03: Gặp Gỡ Kelly Clarkson (Phần 4 - Tập 113)
+https://code.vthanhtivi.pw/getlink/cliptv/827/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677739456/cmc_new/img.live_channel_schedule/0/0/132/67753/34689743.jpg" group-title="🗓| Sự kiện", 19:10-10/03: Cuộc Đua Đến Tâm Trái Đất (Tập 4)
+https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678158640/cmc_new/img.live_channel_schedule/0/0/132/67980/34805989.jpg" group-title="🗓| Sự kiện", 19:10-10/03: Bên Trong Nhà Máy (Tập 8)
 https://code.vthanhtivi.pw/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677580115/cmc_new/img.live_channel_schedule/0/0/132/67936/34783588.jpg" group-title="🗓| Sự kiện", 10:00-10/03: Bình Tĩnh, Scooby-Doo!
-https://code.vthanhtivi.pw/getlink/cliptv/625/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
-https://playlist.vthanhtivi.pw/jptv/Hqm-m7jqkFlA1CloJoaJZQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/Hqm-m7jqkFlA1CloJoaJZQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/j7SQYfwTF63S9FmRqrjNJw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK Education TV  
-https://playlist.vthanhtivi.pw/jptv/j7SQYfwTF63S9FmRqrjNJw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/j7SQYfwTF63S9FmRqrjNJw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/gnpNcLEhwujjXOxTl7gaJg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Nippon TV  
-https://playlist.vthanhtivi.pw/jptv/gnpNcLEhwujjXOxTl7gaJg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/gnpNcLEhwujjXOxTl7gaJg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/bRZUMcrX_kQ5R0XP-xJcZg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TBS TV  
-https://playlist.vthanhtivi.pw/jptv/bRZUMcrX_kQ5R0XP-xJcZg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/bRZUMcrX_kQ5R0XP-xJcZg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/dfVr67j-Iy_J5tM4jYI7gQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", FUJI TV  
-https://playlist.vthanhtivi.pw/jptv/dfVr67j-Iy_J5tM4jYI7gQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/dfVr67j-Iy_J5tM4jYI7gQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/iU_IC-e38CjfLhlvUxqWRg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV ASAHI  
-https://playlist.vthanhtivi.pw/jptv/iU_IC-e38CjfLhlvUxqWRg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/iU_IC-e38CjfLhlvUxqWRg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/dRNhWs1DLdcWq_ufN6fElg==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV TOKYO  
-https://playlist.vthanhtivi.pw/jptv/dRNhWs1DLdcWq_ufN6fElg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/dRNhWs1DLdcWq_ufN6fElg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/R3W0ABMki1QGwd3TxPxjhA==.jpg?type=live&thumbnail=thumbnail_small.jpg", MBS  
-https://playlist.vthanhtivi.pw/jptv/R3W0ABMki1QGwd3TxPxjhA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/R3W0ABMki1QGwd3TxPxjhA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/oI8q04LSmuVJ76lxll2FWg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ABC TV  
-https://playlist.vthanhtivi.pw/jptv/oI8q04LSmuVJ76lxll2FWg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/oI8q04LSmuVJ76lxll2FWg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/jXAkGPMC5sVcMvQ09HoU4g==.jpg?type=live&thumbnail=thumbnail_small.jpg", Kansai TV  
-https://playlist.vthanhtivi.pw/jptv/jXAkGPMC5sVcMvQ09HoU4g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/jXAkGPMC5sVcMvQ09HoU4g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/LqzQ_qk7P8LNOaghAThx4g==.jpg?type=live&thumbnail=thumbnail_small.jpg", Yomiuri TV  
-https://playlist.vthanhtivi.pw/jptv/LqzQ_qk7P8LNOaghAThx4g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/LqzQ_qk7P8LNOaghAThx4g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/9FvJseD6_AtVYU1vxvgzFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TOKYO MX1  
-https://playlist.vthanhtivi.pw/jptv/9FvJseD6_AtVYU1vxvgzFA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/9FvJseD6_AtVYU1vxvgzFA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/czZDtneIVvfAZn-728ylZw==.jpg?type=live&thumbnail=thumbnail_small.jpg", TV OSAKA  
-https://playlist.vthanhtivi.pw/jptv/czZDtneIVvfAZn-728ylZw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/czZDtneIVvfAZn-728ylZw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/hFzosjtNqYtZGMMnkL0T7w==.jpg?type=live&thumbnail=thumbnail_small.jpg", KBS KYOTO  
-https://playlist.vthanhtivi.pw/jptv/hFzosjtNqYtZGMMnkL0T7w==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/hFzosjtNqYtZGMMnkL0T7w==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/f-uLAeVdSWp9bd1XFM3Pzw==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1  
-https://playlist.vthanhtivi.pw/jptv/f-uLAeVdSWp9bd1XFM3Pzw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/f-uLAeVdSWp9bd1XFM3Pzw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/KQxwxJVMr_ML8ZvsMsi8uQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS1(sub)  
-https://playlist.vthanhtivi.pw/jptv/KQxwxJVMr_ML8ZvsMsi8uQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/KQxwxJVMr_ML8ZvsMsi8uQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/z3QuIfTGLtMqsBfWF1H4Pg==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS Premium  
-https://playlist.vthanhtivi.pw/jptv/z3QuIfTGLtMqsBfWF1H4Pg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/z3QuIfTGLtMqsBfWF1H4Pg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/9GYVLtOWedFVhurDZOtidw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Nippon TV  
-https://playlist.vthanhtivi.pw/jptv/9GYVLtOWedFVhurDZOtidw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/9GYVLtOWedFVhurDZOtidw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/CDf67JD0vmiC74DDaND-XA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Asahi  
-https://playlist.vthanhtivi.pw/jptv/CDf67JD0vmiC74DDaND-XA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/CDf67JD0vmiC74DDaND-XA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/JKQRufMevFV7GDKYePYwBQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS TBS  
-https://playlist.vthanhtivi.pw/jptv/JKQRufMevFV7GDKYePYwBQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/JKQRufMevFV7GDKYePYwBQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/y288Dc5aSplzqGsFpCvm-g==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan  
-https://playlist.vthanhtivi.pw/jptv/y288Dc5aSplzqGsFpCvm-g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/y288Dc5aSplzqGsFpCvm-g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/1WFDcS4-Lv_4Qsnx8TQtgg==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS FUJI  
-https://playlist.vthanhtivi.pw/jptv/1WFDcS4-Lv_4Qsnx8TQtgg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/1WFDcS4-Lv_4Qsnx8TQtgg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/HloiOsNhiBm-DF9vVfFMTw==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Prime  
-https://playlist.vthanhtivi.pw/jptv/HloiOsNhiBm-DF9vVfFMTw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/HloiOsNhiBm-DF9vVfFMTw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/g8s69Z5bxLZgAoqqFT8iDg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Live  
-https://playlist.vthanhtivi.pw/jptv/g8s69Z5bxLZgAoqqFT8iDg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/g8s69Z5bxLZgAoqqFT8iDg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/iF6iKCiap5agDJYZhyVjwg==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOW Cinema  
-https://playlist.vthanhtivi.pw/jptv/iF6iKCiap5agDJYZhyVjwg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/iF6iKCiap5agDJYZhyVjwg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/yUuqXFK2vDyiwU66uQEQ1Q==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 1  
-https://playlist.vthanhtivi.pw/jptv/yUuqXFK2vDyiwU66uQEQ1Q==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/yUuqXFK2vDyiwU66uQEQ1Q==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/NGPH2Brrn3gqcgdTIhVmwg==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 2  
-https://playlist.vthanhtivi.pw/jptv/NGPH2Brrn3gqcgdTIhVmwg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/NGPH2Brrn3gqcgdTIhVmwg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/90LieNPzSaD1VOpEeT7f1w==.jpg?type=live&thumbnail=thumbnail_small.jpg", Star Channel 3  
-https://playlist.vthanhtivi.pw/jptv/90LieNPzSaD1VOpEeT7f1w==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/90LieNPzSaD1VOpEeT7f1w==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/tEg54Q7WKFA66LWT0fB0gw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Eleven  
-https://playlist.vthanhtivi.pw/jptv/tEg54Q7WKFA66LWT0fB0gw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/tEg54Q7WKFA66LWT0fB0gw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/WEtgDOVPkrw08bZvlQM6fA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TwellV  
-https://playlist.vthanhtivi.pw/jptv/WEtgDOVPkrw08bZvlQM6fA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/WEtgDOVPkrw08bZvlQM6fA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/VJxE-FBlx64-LontMCBEVw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Green Channel  
-https://playlist.vthanhtivi.pw/jptv/VJxE-FBlx64-LontMCBEVw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/VJxE-FBlx64-LontMCBEVw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/M9b8YoeShhTsfaXXoNZJDw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Animax  
-https://playlist.vthanhtivi.pw/jptv/M9b8YoeShhTsfaXXoNZJDw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/M9b8YoeShhTsfaXXoNZJDw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/afavNfE5CyADY6llwTTbHQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS SKY  
-https://playlist.vthanhtivi.pw/jptv/afavNfE5CyADY6llwTTbHQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/afavNfE5CyADY6llwTTbHQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/I4-UBbWeNgikTsL_LV-s-g==.jpg?type=live&thumbnail=thumbnail_small.jpg", J SPORTS 1  
-https://playlist.vthanhtivi.pw/jptv/I4-UBbWeNgikTsL_LV-s-g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/I4-UBbWeNgikTsL_LV-s-g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/__DfWcLmTP6pOiYyxsaMLQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", J SPORTS 2  
-https://playlist.vthanhtivi.pw/jptv/__DfWcLmTP6pOiYyxsaMLQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/__DfWcLmTP6pOiYyxsaMLQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/uwliL6IX2s7jD1yJwLogYA==.jpg?type=live&thumbnail=thumbnail_small.jpg", J SPORTS 3  
-https://playlist.vthanhtivi.pw/jptv/uwliL6IX2s7jD1yJwLogYA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/uwliL6IX2s7jD1yJwLogYA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/iTJCVvFevlmYFWr2kDu6tg==.jpg?type=live&thumbnail=thumbnail_small.jpg", J SPORTS 4  
-https://playlist.vthanhtivi.pw/jptv/iTJCVvFevlmYFWr2kDu6tg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/iTJCVvFevlmYFWr2kDu6tg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/chSauCF_-xtI2nAKn1HIVw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Fishing Vision  
-https://playlist.vthanhtivi.pw/jptv/chSauCF_-xtI2nAKn1HIVw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/chSauCF_-xtI2nAKn1HIVw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/TfcJ9kWH1CIOv9xAI6BrBA==.jpg?type=live&thumbnail=thumbnail_small.jpg", WOWOWプラス  
-https://playlist.vthanhtivi.pw/jptv/TfcJ9kWH1CIOv9xAI6BrBA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/TfcJ9kWH1CIOv9xAI6BrBA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/EZ01kN4IL0TFHR5h9Jq9BA==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Japan Movie Channel  
-https://playlist.vthanhtivi.pw/jptv/EZ01kN4IL0TFHR5h9Jq9BA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/EZ01kN4IL0TFHR5h9Jq9BA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/iEpvKTL_zcrh2cTR1D8EUA==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
-https://playlist.vthanhtivi.pw/jptv/iEpvKTL_zcrh2cTR1D8EUA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/iEpvKTL_zcrh2cTR1D8EUA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/bMt3M9FLE1owVWp5Do1qnQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", 旅チャンネルＨＤ  
-https://playlist.vthanhtivi.pw/jptv/bMt3M9FLE1owVWp5Do1qnQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/bMt3M9FLE1owVWp5Do1qnQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/X5WzyzsdPL1pNzWxOctwBA==.jpg?type=live&thumbnail=thumbnail_small.jpg", 鉄道チャンネル  
-https://playlist.vthanhtivi.pw/jptv/X5WzyzsdPL1pNzWxOctwBA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/X5WzyzsdPL1pNzWxOctwBA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/roHA-uoOn8d5muaZM04Qxg==.jpg?type=live&thumbnail=thumbnail_small.jpg", FIGHTING TV サムライ  
-https://playlist.vthanhtivi.pw/jptv/roHA-uoOn8d5muaZM04Qxg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/roHA-uoOn8d5muaZM04Qxg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/rGGe5kUnXQLOF4lnneST1g==.jpg?type=live&thumbnail=thumbnail_small.jpg", エンタメ～テレ☆シネドラバラエティ  
-https://playlist.vthanhtivi.pw/jptv/rGGe5kUnXQLOF4lnneST1g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/rGGe5kUnXQLOF4lnneST1g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/IXnt-Gl6_yvCaN-Xpya22w==.jpg?type=live&thumbnail=thumbnail_small.jpg", ミュージック・エア  
-https://playlist.vthanhtivi.pw/jptv/IXnt-Gl6_yvCaN-Xpya22w==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/IXnt-Gl6_yvCaN-Xpya22w==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/N-L_Pke3yIkFUoSaEova3g==.jpg?type=live&thumbnail=thumbnail_small.jpg", ミュージック・ジャパンTV  
-https://playlist.vthanhtivi.pw/jptv/N-L_Pke3yIkFUoSaEova3g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/N-L_Pke3yIkFUoSaEova3g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/e0RBTvrOfe06oOkn-UXX5w==.jpg?type=live&thumbnail=thumbnail_small.jpg", 100％ヒッツ！スペースシャワーTV プラス  
-https://playlist.vthanhtivi.pw/jptv/e0RBTvrOfe06oOkn-UXX5w==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/e0RBTvrOfe06oOkn-UXX5w==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/859y5OLm0n2u1DZrEsgeFQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", ホームドラマチャンネル  
-https://playlist.vthanhtivi.pw/jptv/859y5OLm0n2u1DZrEsgeFQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/859y5OLm0n2u1DZrEsgeFQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/epy3fdtnc1oI4z5JrjZzAQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", アイドル専門チャンネルＰｉｇｏｏ  
-https://playlist.vthanhtivi.pw/jptv/epy3fdtnc1oI4z5JrjZzAQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/epy3fdtnc1oI4z5JrjZzAQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/kKx57kaG4Tz9tOTiLx8exA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ダンスチャンネル by エンタメ～テレ  
-https://playlist.vthanhtivi.pw/jptv/kKx57kaG4Tz9tOTiLx8exA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/kKx57kaG4Tz9tOTiLx8exA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/jfiMPwRAVsgTmcnf9Wu7HQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", 東映チャンネル  
-https://playlist.vthanhtivi.pw/jptv/jfiMPwRAVsgTmcnf9Wu7HQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/jfiMPwRAVsgTmcnf9Wu7HQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/FcJRBrNCLHjS9wKtD2rz7g==.jpg?type=live&thumbnail=thumbnail_small.jpg", 衛星劇場  
-https://playlist.vthanhtivi.pw/jptv/FcJRBrNCLHjS9wKtD2rz7g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/FcJRBrNCLHjS9wKtD2rz7g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/EqJ7OEIS3u-Jkyx3-DdtJA==.jpg?type=live&thumbnail=thumbnail_small.jpg", 映画・チャンネルNECO  
-https://playlist.vthanhtivi.pw/jptv/EqJ7OEIS3u-Jkyx3-DdtJA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/EqJ7OEIS3u-Jkyx3-DdtJA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/gnFwEiPGB-QioCyMBfvEMA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ザ・シネマ  
-https://playlist.vthanhtivi.pw/jptv/gnFwEiPGB-QioCyMBfvEMA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/gnFwEiPGB-QioCyMBfvEMA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/84u-cm6u_Ms6JzWF4Dbtkg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ムービープラス  
-https://playlist.vthanhtivi.pw/jptv/84u-cm6u_Ms6JzWF4Dbtkg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/84u-cm6u_Ms6JzWF4Dbtkg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/oJyS_HypG6uzUEEJODMaWg==.jpg?type=live&thumbnail=thumbnail_small.jpg", スカイ・A  
-https://playlist.vthanhtivi.pw/jptv/oJyS_HypG6uzUEEJODMaWg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/oJyS_HypG6uzUEEJODMaWg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/tO9COl46v4MdIi1NdbzL0A==.jpg?type=live&thumbnail=thumbnail_small.jpg", GAORA SPORTS  
-https://playlist.vthanhtivi.pw/jptv/tO9COl46v4MdIi1NdbzL0A==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/tO9COl46v4MdIi1NdbzL0A==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/dXGFqT_agGYcOrjCIa5vPg==.jpg?type=live&thumbnail=thumbnail_small.jpg", 日テレジータス  
-https://playlist.vthanhtivi.pw/jptv/dXGFqT_agGYcOrjCIa5vPg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/dXGFqT_agGYcOrjCIa5vPg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/cmvgVwk7m4psiGgDwUS7LA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ゴルフネットワーク  
-https://playlist.vthanhtivi.pw/jptv/cmvgVwk7m4psiGgDwUS7LA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/cmvgVwk7m4psiGgDwUS7LA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
-https://playlist.vthanhtivi.pw/jptv/8qP22e52mcp47prxNsRFnw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/8qP22e52mcp47prxNsRFnw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/vi2tgiOfMprwHEgs9gJxag==.jpg?type=live&thumbnail=thumbnail_small.jpg", 時代劇専門チャンネル  
-https://playlist.vthanhtivi.pw/jptv/vi2tgiOfMprwHEgs9gJxag==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/vi2tgiOfMprwHEgs9gJxag==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/YZdcUvyN3G-Zw8OiuJVXxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ファミリー劇場  
-https://playlist.vthanhtivi.pw/jptv/YZdcUvyN3G-Zw8OiuJVXxA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/YZdcUvyN3G-Zw8OiuJVXxA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/6WNaVnjpGGYCdDmSAxSvFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", MONDO TV  
-https://playlist.vthanhtivi.pw/jptv/6WNaVnjpGGYCdDmSAxSvFA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/6WNaVnjpGGYCdDmSAxSvFA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/XPdnc60q681yL5pyEmrslg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ＴＢＳチャンネル１  
-https://playlist.vthanhtivi.pw/jptv/XPdnc60q681yL5pyEmrslg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/XPdnc60q681yL5pyEmrslg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/lnkIr92VbBZwz09Cjs9UGg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ＴＢＳチャンネル２  
-https://playlist.vthanhtivi.pw/jptv/lnkIr92VbBZwz09Cjs9UGg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/lnkIr92VbBZwz09Cjs9UGg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/-KcK0oRN-MHmABr2tu77zg==.jpg?type=live&thumbnail=thumbnail_small.jpg", テレ朝チャンネル１  
-https://playlist.vthanhtivi.pw/jptv/-KcK0oRN-MHmABr2tu77zg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/-KcK0oRN-MHmABr2tu77zg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/RLwfnqOjOHGRx6UW3qBXsg==.jpg?type=live&thumbnail=thumbnail_small.jpg", テレ朝チャンネル２  
-https://playlist.vthanhtivi.pw/jptv/RLwfnqOjOHGRx6UW3qBXsg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/RLwfnqOjOHGRx6UW3qBXsg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/1c9wCVY_quBwDk4RNxuPWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", 日テレプラス  
-https://playlist.vthanhtivi.pw/jptv/1c9wCVY_quBwDk4RNxuPWw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/1c9wCVY_quBwDk4RNxuPWw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/gQmngIMvdnJvKcjGLAYJOw==.jpg?type=live&thumbnail=thumbnail_small.jpg", チャンネル銀河  
-https://playlist.vthanhtivi.pw/jptv/gQmngIMvdnJvKcjGLAYJOw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/gQmngIMvdnJvKcjGLAYJOw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/VelQc1lmVJnTyEmr6oK1RA==.jpg?type=live&thumbnail=thumbnail_small.jpg", フジテレビＯＮＥ  
-https://playlist.vthanhtivi.pw/jptv/VelQc1lmVJnTyEmr6oK1RA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/VelQc1lmVJnTyEmr6oK1RA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/3q1U1u-6q9QMDWuMuvpPUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", フジテレビＴＷＯ  
-https://playlist.vthanhtivi.pw/jptv/3q1U1u-6q9QMDWuMuvpPUA==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/3q1U1u-6q9QMDWuMuvpPUA==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/rhKOiZXma2k2EoIaL9RCmg==.jpg?type=live&thumbnail=thumbnail_small.jpg", フジテレビＮＥＸＴ  
-https://playlist.vthanhtivi.pw/jptv/rhKOiZXma2k2EoIaL9RCmg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/rhKOiZXma2k2EoIaL9RCmg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Dx-fj30YfMqlPP9MVx7qvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", スーパー！ドラマＴＶ  
-https://playlist.vthanhtivi.pw/jptv/Dx-fj30YfMqlPP9MVx7qvQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/Dx-fj30YfMqlPP9MVx7qvQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/3d_lKfbxi344MiAxcjIypQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", FOX  
-https://playlist.vthanhtivi.pw/jptv/3d_lKfbxi344MiAxcjIypQ==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/3d_lKfbxi344MiAxcjIypQ==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/tQU0QsuMA_251h8Mk4qrsw==.jpg?type=live&thumbnail=thumbnail_small.jpg", 女性チャンネル♪LaLa TV  
-https://playlist.vthanhtivi.pw/jptv/tQU0QsuMA_251h8Mk4qrsw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/tQU0QsuMA_251h8Mk4qrsw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/lM09rEVGeA61wjdQwZTdzg==.jpg?type=live&thumbnail=thumbnail_small.jpg", スペースシャワーTV  
-https://playlist.vthanhtivi.pw/jptv/lM09rEVGeA61wjdQwZTdzg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/lM09rEVGeA61wjdQwZTdzg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/r92x5aJGtFjpXj4FtPuvAw==.jpg?type=live&thumbnail=thumbnail_small.jpg", MTV  
-https://playlist.vthanhtivi.pw/jptv/r92x5aJGtFjpXj4FtPuvAw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/r92x5aJGtFjpXj4FtPuvAw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/6eHaPTJd0NoBEwN6E9jArw==.jpg?type=live&thumbnail=thumbnail_small.jpg", MUSIC ON! TV（エムオン!）  
-https://playlist.vthanhtivi.pw/jptv/6eHaPTJd0NoBEwN6E9jArw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/6eHaPTJd0NoBEwN6E9jArw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/xh4GJxN8zJFL3SmJ1P6Xsg==.jpg?type=live&thumbnail=thumbnail_small.jpg", キッズステーション  
-https://playlist.vthanhtivi.pw/jptv/xh4GJxN8zJFL3SmJ1P6Xsg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/xh4GJxN8zJFL3SmJ1P6Xsg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/X4_3qVMPUBpZMqO_hX4vBw==.jpg?type=live&thumbnail=thumbnail_small.jpg", アニメシアターX（AT-X)  
-https://playlist.vthanhtivi.pw/jptv/X4_3qVMPUBpZMqO_hX4vBw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/X4_3qVMPUBpZMqO_hX4vBw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/xPz9TWJwU7yL_fToz1k9sg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ディズニージュニア お子さま向けディズニー番組  
-https://playlist.vthanhtivi.pw/jptv/xPz9TWJwU7yL_fToz1k9sg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/xPz9TWJwU7yL_fToz1k9sg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/I9B-HWhc2NgCmw6X9ahDMg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ヒストリーチャンネル 日本・世界の歴史＆エンタメ  
-https://playlist.vthanhtivi.pw/jptv/I9B-HWhc2NgCmw6X9ahDMg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/I9B-HWhc2NgCmw6X9ahDMg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/OZooDkZinq-FLyeL7jtOHw==.jpg?type=live&thumbnail=thumbnail_small.jpg", ナショナル ジオグラフィック  
-https://playlist.vthanhtivi.pw/jptv/OZooDkZinq-FLyeL7jtOHw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/OZooDkZinq-FLyeL7jtOHw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/TUUoaNpgwX_Bs7GXhkkw_g==.jpg?type=live&thumbnail=thumbnail_small.jpg", 日テレNEWS24  
-https://playlist.vthanhtivi.pw/jptv/TUUoaNpgwX_Bs7GXhkkw_g==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/TUUoaNpgwX_Bs7GXhkkw_g==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/D6eJg7aQZE3DKVZWNTTnYw==.jpg?type=live&thumbnail=thumbnail_small.jpg", ＴＢＳニュースバード  
-https://playlist.vthanhtivi.pw/jptv/D6eJg7aQZE3DKVZWNTTnYw==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/D6eJg7aQZE3DKVZWNTTnYw==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/-uV8jOhgHBRuuEMBdU0Yig==.jpg?type=live&thumbnail=thumbnail_small.jpg", スポーツライブ＋  
-https://playlist.vthanhtivi.pw/jptv/-uV8jOhgHBRuuEMBdU0Yig==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/-uV8jOhgHBRuuEMBdU0Yig==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/thRBrsQy5LgM0YhR7EJudg==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK BS4K  
-https://playlist.vthanhtivi.pw/jptv/thRBrsQy5LgM0YhR7EJudg==/854f71205ab08044d7e5e3bc27441640f1e8f81c.m3u8
+https://playlist.vthanhtivi.pw/jptv/thRBrsQy5LgM0YhR7EJudg==/37649ca6274fced52542652c413519d08b2c0cf6.m3u8
 
 #-*-- South Korean TV -*--#
 #EXTINF:-1 tvg-id="Ariang.kr" group-title="🇰🇷| South Korean TV" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png", KR: Arirang
@@ -3633,179 +3691,71 @@ http://14.248.234.226:8889/evol.php?id=21416
 
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-10/03: SD1 Al Ittihad(KSA) - Al-Nasr(KSA) (Người Thỏ)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-11/03: SD1 Spezia - Inter Milan (Người Bún)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-10/03: SD2 Al Ittihad(KSA) - Al-Nasr(KSA) (Người Thỏ)
+https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-11/03: SD2 Spezia - Inter Milan (Người Bún)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-10/03: HD Al Ittihad(KSA) - Al-Nasr(KSA) (Người Thỏ)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@bunSD/chunklist.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-11/03: HD Spezia - Inter Milan (Người Bún)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-10/03: Full HD Al Ittihad(KSA) - Al-Nasr(KSA) (Người Thỏ)
+https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-11/03: Full HD Spezia - Inter Milan (Người Bún)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h00-10/03: Nhà đài Al Ittihad(KSA) - Al-Nasr(KSA) (Người Thỏ)
+https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8|referer=https://player.4shares.live/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",02h45-11/03: Nhà đài Spezia - Inter Milan (Người Bún)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may10/chunklist.m3u8|referer=https://player.4shares.live/
+https://1123139281.cdn.khmer-hd.com/may12/chunks.m3u8|referer=https://player.4shares.live/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: SD1 Sporting CP - Arsenal (Moon Knight)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/03: SD1 Lille - Lyon (Moon Knight)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: SD2 Sporting CP - Arsenal (Moon Knight)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/03: SD2 Lille - Lyon (Moon Knight)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: HD Sporting CP - Arsenal (Moon Knight)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/03: HD Lille - Lyon (Moon Knight)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: Full HD Sporting CP - Arsenal (Moon Knight)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/03: Full HD Lille - Lyon (Moon Knight)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: Nhà đài Sporting CP - Arsenal (Moon Knight)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may10/chunklist.m3u8|referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: SD1 AS Roma - Real Sociedad (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: SD2 AS Roma - Real Sociedad (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: HD AS Roma - Real Sociedad (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: Full HD AS Roma - Real Sociedad (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",00h45-10/03: Nhà đài AS Roma - Real Sociedad (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may10/chunklist.m3u8|referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: SD1 Sevilla - Fenerbahce (Moon Knight)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: SD2 Sevilla - Fenerbahce (Moon Knight)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: HD Sevilla - Fenerbahce (Moon Knight)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: Full HD Sevilla - Fenerbahce (Moon Knight)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: Nhà đài Sevilla - Fenerbahce (Moon Knight)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may10/chunklist.m3u8|referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: SD1 Juventus - SC Freiburg (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: SD2 Juventus - SC Freiburg (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: HD Juventus - SC Freiburg (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: Full HD Juventus - SC Freiburg (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: Nhà đài Juventus - SC Freiburg (Người Già)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8|referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: SD1 Manchester United - Real Betis (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: SD2 Manchester United - Real Betis (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: HD Manchester United - Real Betis (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: Full HD Manchester United - Real Betis (Người Nện)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8|referer=https://player.4shares.live/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-10/03: Nhà đài Manchester United - Real Betis (Người Nện)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg",03h00-11/03: Nhà đài Lille - Lyon (Moon Knight)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://obevcimanyd179314182.thapcam.link/live/may10/chunklist.m3u8|referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-09/03: SD 1 Saudi Arabia U20 - Japan U20 (Giàng A Cay)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-09/03: HD 1 Saudi Arabia U20 - Japan U20 (Giàng A Cay)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-09/03: SD 2 Saudi Arabia U20 - Japan U20 (Giàng A Cay)
-https://179665839.global.cdnfastest.com/live/caysd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-09/03: HD 2 Saudi Arabia U20 - Japan U20 (Giàng A Cay)
-https://179665839.global.cdnfastest.com/live/cayhd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",19h00-09/03: Nhà Đài Saudi Arabia U20 - Japan U20 (Giàng A Cay)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-11/03: SD 1 Köln - VfL Bochum (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-11/03: HD 1 Köln - VfL Bochum (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-11/03: SD 2 Köln - VfL Bochum (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-11/03: HD 2 Köln - VfL Bochum (Giàng A Páo)
+https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h30-11/03: Nhà Đài Köln - VfL Bochum (Giàng A Páo)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-10/03: SD 1 Al Ittihad - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-11/03: SD 1 Spezia - Inter (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-10/03: HD 1 Al Ittihad - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-11/03: HD 1 Spezia - Inter (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-10/03: SD 2 Al Ittihad - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-11/03: SD 2 Spezia - Inter (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-10/03: HD 2 Al Ittihad - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-11/03: HD 2 Spezia - Inter (Giàng A Lử)
 https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h30-10/03: Nhà Đài Al Ittihad - Al Nassr FC (Giàng A Lử)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-11/03: Nhà Đài Spezia - Inter (Giàng A Lử)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: SD 1 Sporting CP - Arsenal (Giàng A Chuối)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-11/03: SD 1 Lille - Lyon (Giàng A Chuối)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: HD 1 Sporting CP - Arsenal (Giàng A Chuối)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-11/03: HD 1 Lille - Lyon (Giàng A Chuối)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: SD 2 Sporting CP - Arsenal (Giàng A Chuối)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-11/03: SD 2 Lille - Lyon (Giàng A Chuối)
 https://179665839.global.cdnfastest.com/live/cachuoisd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: HD 2 Sporting CP - Arsenal (Giàng A Chuối)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-11/03: HD 2 Lille - Lyon (Giàng A Chuối)
 https://179665839.global.cdnfastest.com/live/cachuoihd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: Nhà Đài Sporting CP - Arsenal (Giàng A Chuối)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-11/03: Nhà Đài Lille - Lyon (Giàng A Chuối)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: SD 1 Roma - Real Sociedad (Giàng A Páo)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: HD 1 Roma - Real Sociedad (Giàng A Páo)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: SD 2 Roma - Real Sociedad (Giàng A Páo)
-https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: HD 2 Roma - Real Sociedad (Giàng A Páo)
-https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",00h45-10/03: Nhà Đài Roma - Real Sociedad (Giàng A Páo)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: SD 1 Man United - Real Betis (Giàng A Phò)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiasd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: HD 1 Man United - Real Betis (Giàng A Phò)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: SD 2 Man United - Real Betis (Giàng A Phò)
-https://179665839.global.cdnfastest.com/live/cakhiasd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: HD 2 Man United - Real Betis (Giàng A Phò)
-https://179665839.global.cdnfastest.com/live/cakhiahd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: Nhà Đài Man United - Real Betis (Giàng A Phò)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: SD 1 Juventus - Freiburg (Giàng A Lử)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: HD 1 Juventus - Freiburg (Giàng A Lử)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: SD 2 Juventus - Freiburg (Giàng A Lử)
-https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: HD 2 Juventus - Freiburg (Giàng A Lử)
-https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: Nhà Đài Juventus - Freiburg (Giàng A Lử)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: SD 1 Sevilla - Fenerbahçe (Giàng A Páo)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: HD 1 Sevilla - Fenerbahçe (Giàng A Páo)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: SD 2 Sevilla - Fenerbahçe (Giàng A Páo)
-https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: HD 2 Sevilla - Fenerbahçe (Giàng A Páo)
-https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-10/03: Nhà Đài Sevilla - Fenerbahçe (Giàng A Páo)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
 
 #-*-- Livestream bóng đá Xoilac TV -*--#
 #EXTINF:-1 group-title="🔴| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/Ima3gv7RsKV",18h30-05/03: HD 1 Spezia vs Verona (MAX)
