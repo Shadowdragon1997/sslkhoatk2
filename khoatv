@@ -155,12 +155,6 @@ http://171.244.61.233/live2
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/cvmedia.png", CVmedia Live 4K
 http://171.244.61.233/4KUHD
 
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/02/ia58otms_banner142bf7ab5467831b1a880ae865a656847_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 17:45-10/03: Perth Glory - W.S Wanderers (Vòng 20 - VĐQG Úc 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/3d5d6a3a-b935-4d43-8396-6ac9be897e54/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/02/8yjd98n6_bannerd375ef4462565ced591ca64a86295615_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 12:45-11/03: C.C Mariners - Macarthur (Vòng 20 - VĐQG Úc 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/648d73a0-2b35-4edb-9aee-c69ce0d54a8b/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/02/7xgui8u8_bannerbaf65b36e4579cf09ec5c29cbae57354_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 15:30-11/03: Newcastle Jets - Adelaide United (Vòng 20 - VĐQG Úc 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/86e484f1-b250-49fc-8659-88cb06f6249f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/02/3mqb2j2h_banner1f67e5e99cdb6f433acbb181c66f0d5e5_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 08:45-12/03: Wellington Phoenix - Sydney FC (Vòng 20 - VĐQG Úc 2022/23)
 https://code.vthanhtivi.pw/list/vieonevent/2aa02102-5107-40a8-b6d7-64ea565f9b6e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/02/455b3ard_banner0399ef2ef1bfea946e3512c01e97ead4_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 10:45-12/03: Melbourne City - Brisbane Roar (Vòng 20 - VĐQG Úc 2022/23)
@@ -672,11 +666,12 @@ https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"X7Nib3/MNx60y3Q243B59g","kid":"S61ILmQKRvqFzh2PNyi9cw"}],"type":"temporary"}
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD Vieon
-http://103.75.186.169/b4tv/b4tv/1.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Nbx5fDBRlW9yM5ylOAPRaw","kid":"aKrt2n4bPSyBk8RZVIfXFg"}],"type":"temporary"}
-#http://vietanhtv.pw/k+fpt/sp1/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Vz3g6rR3Y5W4RUjWN75Zgg","kid":"AJwgucFiNFCwPW9Xjn6RMA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#https://raintv.tk/get/vieon/ba2c5a138s5af89cas4e08e1379d4edf35afaad349/ksport1hd/manifest.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play
+http://103.75.186.169/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD ClipTV
 #https://iplogger.com/2XgeE6.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD VTVcab
@@ -1379,29 +1374,13 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/tucgeij5_bannereda2d3de9da31741ebb97094494b28f7_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-11/03: Quay số mở thưởng Vietlott 11/03/2023
-https://code.vthanhtivi.pw/list/vieonevent/c9ea352e-5d97-43a4-907b-b2a9fb73ad39/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/t7goqwm3_banner030aa888572ffaba824eb69e29d7f527_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-12/03: Quay số mở thưởng Vietlott 12/03/2023
+https://code.vthanhtivi.pw/list/vieonevent/07295068-4ca6-4614-806b-71b1c6f02642/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/33/35/57/7c/cd/d5/3357c-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-11/03: MB - Hits
-https://code.vthanhtivi.pw/list/mytvevent/7256/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/8b/b1/1d/db/bc/cd/8b1db-lknngtykimctp48-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:45-11/03: Kỳ Án Đông Tây Kim Cổ
-https://code.vthanhtivi.pw/list/mytvevent/5472/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/14/46/60/0e/eb/be/1460e-lu20iranvsu20iraqvcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-11/03: U20 Iran vs U20 Iraq - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7262/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6c/c1/10/04/4b/bd/6c104-ldareyoubncdmma2tp24-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-11/03: Dare You - Bạn Có Dám - Mùa 2 - Tập 24
-https://code.vthanhtivi.pw/list/mytvevent/5047/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/61/17/77/78/83/3b/61778-llaligavng25realmadridvsespanyol-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-11/03: La Liga - Vòng 25: Real Madrid vs Espanyol
-https://code.vthanhtivi.pw/list/mytvevent/7247/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/b4/46/6a/a4/40/0a/b46a4-lphngtrmytvmang-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-11/03: Phòng trà MyTV - Mùa Đông
-https://code.vthanhtivi.pw/list/mytvevent/7238/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1f/f4/44/4b/be/e6/1f44b-lu20uzbekistanvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-11/03: U20 Uzbekistan vs U20 Australia - VCK U20 châu Á 2023
-https://code.vthanhtivi.pw/list/mytvevent/7263/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7d/d6/6c/c2/2f/f1/7d6c2-lnghsthntng-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-11/03: Nghệ Sĩ Thần Tượng
-https://code.vthanhtivi.pw/list/mytvevent/5605/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ef/f9/94/45/53/38/ef945-lbundesligavng24bayernmunichvsaugsburg-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-11/03: Bundesliga - Vòng 24: Bayern Munich vs Augsburg
 https://code.vthanhtivi.pw/list/mytvevent/7244/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2c/cb/bc/ca/aa/a7/2cbca-lkhihoatnhyulintp5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-11/03: Khi Hoa Tình Yêu Lại Nở - Tập 12
-https://code.vthanhtivi.pw/list/mytvevent/7212/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/1f/f4/44/4b/be/e6/1f44b-lu20uzbekistanvsu20australiavcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-11/03: U20 Uzbekistan vs U20 Australia - VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7263/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/30/08/85/5a/a7/70/3085a-lbundesligavng24schalke04vsborussiadortmund-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 00:30-12/03: Bundesliga - Vòng 24: Schalke 04 vs Borussia Dortmund
 https://code.vthanhtivi.pw/list/mytvevent/7243/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/a2/26/6a/af/f9/9e/a26af-latpmasters1000bnpparibasopenngy4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:00-12/03: ATP Masters 1000 - BNP Paribas Open - Ngày 4
@@ -1437,48 +1416,9 @@ https://code.vthanhtivi.pw/list/mytvevent/4470/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/72/20/01/1d/db/bf/7201d-lserieavng26acmilanvssalernitana-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-14/03: Serie A - Vòng 26: AC Milan vs Salernitana
 https://code.vthanhtivi.pw/list/mytvevent/7249/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/09/1678414730209/59fe2422fe69_640_360.jpg" group-title="🗓| Sự kiện", 17:00 | Bóng Đá
-            
-https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/09/1678414757480/7b2f24fbfcd2_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá
             
 https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/15/1678262980808/b67d409c83e6_640_360.jpg" group-title="🗓| Sự kiện", 2:00 | Tennis
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/11/1678336646683/9014059eeaca_640_360.jpg" group-title="🗓| Sự kiện", 12:30 | Bóng Chuyền
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/08/16782401695/65ee3e2f6cbf_640_360.jpg" group-title="🗓| Sự kiện", 13:30 | Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/11/1678336700355/6d43946f7ce4_640_360.jpg" group-title="🗓| Sự kiện", 15:00 | Bóng Chuyền
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/08/1678240226107/f1e9fb35a8e4_640_360.jpg" group-title="🗓| Sự kiện", 16:30 | Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/14/1678347887293/2edd40e900e6_640_360.jpg" group-title="🗓| Sự kiện", 18:00 | Bóng Chuyền
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/11/1678335233866/e3f96bd923c2_640_360.png" group-title="🗓| Sự kiện", 19:30 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K/nSBz/SmUD7kCZOpQw0rw", "kid":"GR53MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"7dfQ+erBFkUKJpILlppbLg", "kid":"YWJ3MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"q7isub5Enj7St8uU9P7tLg", "kid":"WnO7edjESNOGdm8VSteQWg" } ], "type":"temporary" }
-
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/11/1678336940119/c3bbb5f46431_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Chuyền
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/14/1678346012834/adbe0bde7924_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/14/1678346121202/6d22571b8192_640_360.jpg" group-title="🗓| Sự kiện", 20:10 | Việc Tử Tế
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/tv360/2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/09/14/1678347551994/4b8569828766_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
@@ -1623,55 +1563,82 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 
 
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434593611/ab04e6ed26ed_640_360.jpg" group-title="🗓| Sự kiện", 0:00 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434622512/899f1c9a160e_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/13/1678258202184/f2eb1b52b2e0_640_360.jpg" group-title="🗓| Sự kiện", 1:00 | Golf
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/15/1678262980808/b67d409c83e6_640_360.jpg" group-title="🗓| Sự kiện", 1:00 | Tennis
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434579613/b4d2ce4e85ec_640_360.jpg" group-title="🗓| Sự kiện", 1:30 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434609502/e409f23f7057_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434642192/d08f728d41b4_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434457538/5e6dbdffe6c6_640_360.jpg" group-title="🗓| Sự kiện", 7:00 | LỄ TRAO GIẢI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/229/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434096804/c8d322bc0e36_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Chuyền
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678075638/cmc_new/img.live_channel_schedule/0/0/133/68135/34885148.jpg" group-title="🗓| Sự kiện", 20:00-11/03: Thần Tượng Đối Thần Tượng
-https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678436166/cmc_new/img.live_channel_schedule/0/0/133/68272/34955533.jpg" group-title="🗓| Sự kiện", 04:15-11/03: Cười Xuyên Việt
 https://code.vthanhtivi.pw/getlink/cliptv/164/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421919/cmc_new/img.live_channel_schedule/0/0/132/67920/34775354.jpg" group-title="🗓| Sự kiện", 10:10-11/03: Những Kẻ Thích Đùa Dại Dột (Tập 5)
-https://code.vthanhtivi.pw/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678333586/cmc_new/img.live_channel_schedule/0/0/132/67919/34774850.jpg" group-title="🗓| Sự kiện", 10:10-11/03: Những Góc Khuất Xứ Ả-Rập
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677807163/cmc_new/img.live_channel_schedule/0/0/132/67753/34689783.jpg" group-title="🗓| Sự kiện", 10:10-11/03: Cuộc Đua Đến Tâm Trái Đất (Tập 5)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678172072/cmc_new/img.live_channel_schedule/0/0/133/68139/34887647.jpg" group-title="🗓| Sự kiện", 10:45-11/03: Việt Nam Ngày Mới
-https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421919/cmc_new/img.live_channel_schedule/0/0/132/67920/34775356.jpg" group-title="🗓| Sự kiện", 11:00-11/03: Những Kẻ Thích Đùa Dại Dột (Tập 7)
-https://code.vthanhtivi.pw/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678333564/cmc_new/img.live_channel_schedule/0/0/132/67919/34774851.jpg" group-title="🗓| Sự kiện", 11:00-11/03: Hương Vị Du Ký
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860272/cmc_new/img.live_channel_schedule/0/0/132/67965/34798379.jpg" group-title="🗓| Sự kiện", 11:03-11/03: Bên Trong West Coast Customs
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421657/cmc_new/img.live_channel_schedule/0/0/133/68144/34889779.jpg" group-title="🗓| Sự kiện", 11:15-11/03: Chuyển Động 24h
-https://code.vthanhtivi.pw/getlink/cliptv/180/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677807163/cmc_new/img.live_channel_schedule/0/0/132/67753/34689785.jpg" group-title="🗓| Sự kiện", 11:25-11/03: Chiến Binh Ninja Mỹ (Phần 13 - Tập 9)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677556902/cmc_new/img.live_channel_schedule/0/0/132/67893/34761579.jpg" group-title="🗓| Sự kiện", 11:35-11/03: Mạng Lưới Xã Hội Của Động Vật (Tập 5)
-https://code.vthanhtivi.pw/getlink/cliptv/787/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678172072/cmc_new/img.live_channel_schedule/0/0/133/68139/34887649.jpg" group-title="🗓| Sự kiện", 12:00-11/03: Thời Sự
-https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421919/cmc_new/img.live_channel_schedule/0/0/132/67920/34775358.jpg" group-title="🗓| Sự kiện", 12:10-11/03: Những Kẻ Thích Đùa Dại Dột (Tập 9)
-https://code.vthanhtivi.pw/getlink/cliptv/619/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678333603/cmc_new/img.live_channel_schedule/0/0/132/67919/34774854.jpg" group-title="🗓| Sự kiện", 12:40-11/03: Những Điều Thú Vị Ở Philippines (Tập 6)
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677807163/cmc_new/img.live_channel_schedule/0/0/132/67753/34689788.jpg" group-title="🗓| Sự kiện", 13:25-11/03: Thám Hiểm Nước Úc (Phần 5 - Tập 5)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678333512/cmc_new/img.live_channel_schedule/0/0/132/67919/34774855.jpg" group-title="🗓| Sự kiện", 13:30-11/03: Dokkaebi: Thợ Săn Tri Thức (Tập 11)
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860287/cmc_new/img.live_channel_schedule/0/0/132/67965/34798384.jpg" group-title="🗓| Sự kiện", 14:09-11/03: Đại Tu
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677807152/cmc_new/img.live_channel_schedule/0/0/132/67753/34689789.jpg" group-title="🗓| Sự kiện", 14:15-11/03: Cuộc Đua Đến Tâm Trái Đất (Tập 5)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678333521/cmc_new/img.live_channel_schedule/0/0/132/67919/34774856.jpg" group-title="🗓| Sự kiện", 14:20-11/03: Dokkaebi: Thợ Săn Tri Thức (Tập 7)
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860302/cmc_new/img.live_channel_schedule/0/0/132/67965/34798385.jpg" group-title="🗓| Sự kiện", 14:52-11/03: Độ Xe Cùng Finnegan
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678075632/cmc_new/img.live_channel_schedule/0/0/133/68135/34885137.jpg" group-title="🗓| Sự kiện", 15:00-11/03: Vua Tiếng Việt
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678525059/cmc_new/img.live_channel_schedule/0/0/132/67967/34799155.jpg" group-title="🗓| Sự kiện", 23:00-11/03: Ben 10
+https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678075664/cmc_new/img.live_channel_schedule/0/0/133/68135/34885316.jpg" group-title="🗓| Sự kiện", 01:20-12/03: Lạ Lắm À Nha
 https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678333540/cmc_new/img.live_channel_schedule/0/0/132/67919/34774857.jpg" group-title="🗓| Sự kiện", 15:10-11/03: Giải Cứu Trên Đỉnh Everest
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677807152/cmc_new/img.live_channel_schedule/0/0/132/67753/34689791.jpg" group-title="🗓| Sự kiện", 15:25-11/03: Thách Thức Sinh Tồn (Phần 7 - Tập 4)
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678410915/cmc_new/img.live_channel_schedule/0/0/133/68135/34885319.jpg" group-title="🗓| Sự kiện", 03:45-12/03: Vua Tiếng Việt
+https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860272/cmc_new/img.live_channel_schedule/0/0/132/67965/34798410.jpg" group-title="🗓| Sự kiện", 06:00-12/03: Bên Trong West Coast Customs
+https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677806670/cmc_new/img.live_channel_schedule/0/0/132/67753/34689815.jpg" group-title="🗓| Sự kiện", 06:15-12/03: Nhiệm Vụ Giải Cứu (Phần 1 - Tập 1)
 https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677806703/cmc_new/img.live_channel_schedule/0/0/132/67753/34689818.jpg" group-title="🗓| Sự kiện", 07:10-12/03: Giải Đấu Lớn: Bãi Biển Myrtle (Phần 23 - Tập 4)
+https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677806737/cmc_new/img.live_channel_schedule/0/0/132/67753/34689819.jpg" group-title="🗓| Sự kiện", 07:55-12/03: Cuộc Đua Đến Tâm Trái Đất (Tập 5)
+https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678522593/cmc_new/img.live_channel_schedule/0/0/132/67936/34783637.jpg" group-title="🗓| Sự kiện", 08:00-12/03: Kiểm Lâm Rob
+https://code.vthanhtivi.pw/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677831108/cmc_new/img.live_channel_schedule/0/0/131/67465/34542455.jpg" group-title="🗓| Sự kiện", 08:05-12/03: Lời Nguyền Đảo Oak (Phần 6 - Tập 17)
+https://code.vthanhtivi.pw/getlink/cliptv/826/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678525669/cmc_new/img.live_channel_schedule/0/0/132/67933/34781915.jpg" group-title="🗓| Sự kiện", 08:40-12/03: Thủa Ban Đầu Của Nhà Crood
+https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860287/cmc_new/img.live_channel_schedule/0/0/132/67965/34798415.jpg" group-title="🗓| Sự kiện", 08:45-12/03: Đại Tu
+https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677806768/cmc_new/img.live_channel_schedule/0/0/132/67753/34689820.jpg" group-title="🗓| Sự kiện", 08:45-12/03: Trận Chiến Xe Ảo (Phần 1 - Tập 8)
+https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678526363/cmc_new/img.live_channel_schedule/0/0/132/67933/34781916.jpg" group-title="🗓| Sự kiện", 09:05-12/03: Home: Những Chuyến Phiêu Lưu Cùng Tip Và Oh
+https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421839/cmc_new/img.live_channel_schedule/0/0/132/67919/34774883.jpg" group-title="🗓| Sự kiện", 09:20-12/03: Những Loài Thú Bị Lãng Quên Ở Fukushima
+https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678528519/cmc_new/img.live_channel_schedule/0/0/132/67933/34781917.jpg" group-title="🗓| Sự kiện", 09:30-12/03: Quỷ Lùn Tinh Nghịch: Giai Điệu Bất Tận
+https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677860302/cmc_new/img.live_channel_schedule/0/0/132/67965/34798416.jpg" group-title="🗓| Sự kiện", 09:30-12/03: Độ Xe Cùng Finnegan
+https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678528748/cmc_new/img.live_channel_schedule/0/0/132/67933/34781918.jpg" group-title="🗓| Sự kiện", 10:00-12/03: Gấu Trúc Kungfu: Bàn Tay Số Phận
+https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678522938/cmc_new/img.live_channel_schedule/0/0/132/67936/34783640.jpg" group-title="🗓| Sự kiện", 10:00-12/03: Scooby-Doo Và Truyền Thuyết Ma Cà Rồng
+https://code.vthanhtivi.pw/getlink/cliptv/625/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421885/cmc_new/img.live_channel_schedule/0/0/132/67920/34775392.jpg" group-title="🗓| Sự kiện", 10:10-12/03: Thợ Săn Đồ Cũ (Phần 3 - Tập 11)
+https://code.vthanhtivi.pw/getlink/cliptv/619/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678421839/cmc_new/img.live_channel_schedule/0/0/132/67919/34774885.jpg" group-title="🗓| Sự kiện", 10:10-12/03: Ngày Định Mệnh Thay Đổi Châu Á
+https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677806802/cmc_new/img.live_channel_schedule/0/0/132/67753/34689823.jpg" group-title="🗓| Sự kiện", 10:10-12/03: Kỹ Sư Tại Gia (Tập 5)
+https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678528754/cmc_new/img.live_channel_schedule/0/0/132/67933/34781919.jpg" group-title="🗓| Sự kiện", 10:30-12/03: Gấu Trúc Kungfu: Bàn Tay Số Phận
+https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678075673/cmc_new/img.live_channel_schedule/0/0/133/68135/34885335.jpg" group-title="🗓| Sự kiện", 10:50-12/03: 100 Triệu 1 Phút
+https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://live.yoitv.com:9083/query/s/Hqm-m7jqkFlA1CloJoaJZQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
