@@ -2932,74 +2932,78 @@ http://n2086.securepoint.io:25461/nWnWD6mWjGgf/wMNgLRSrxeAm/199590
 
 #-*-- Sports Portugal -*--#
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV + FHD
-http://14.248.63.183:8889/evol.php?id=68273
+http://14.248.63.183:8889/pluseu.php?id=281656
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/gCTAxBl.png", PT: Sport TV + FHD Server 2
 http://14.248.63.183:8889/prostv.php?id=96350
+#EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/gCTAxBl.png", PT: Sport TV + FHD Server 3
+http://14.248.63.183:8889/pluseu.php?id=281657
+#EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/gCTAxBl.png", PT: Sport TV + FHD Server 4
+http://14.248.63.183:8889/pluseu.php?id=281658
 #EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 
 http://14.248.63.183:8889/tipx.php?id=43354
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 
-http://14.248.63.183:8889/prostv.php?id=96354
 #EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 2
+http://14.248.63.183:8889/prostv.php?id=96354
+#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 3
 http://14.248.63.183:8889/prostv.php?id=96356
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 3
-http://14.248.63.183:8889/evol.php?id=68336
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 4
-http://14.248.63.183:8889/evol.php?id=68424
+http://14.248.63.183:8889/pluseu.php?id=281660
 #EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 5
+http://14.248.63.183:8889/pluseu.php?id=281661
+#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 6
 http://14.248.63.183:8889/tipx.php?id=43353
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 5
+#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 7
 http://14.248.63.183:8889/tipx.php?id=49
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 5
+#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 8
 http://14.248.63.183:8889/tipx.php?id=16051
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 5
+#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 9
 http://14.248.63.183:8889/tipx.php?id=24307
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
 http://14.248.63.183:8889/tipx.php?id=54
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 2
 http://14.248.63.183:8889/prostv.php?id=96360
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 3
-http://14.248.63.183:8889/evol.php?id=68418
+http://14.248.63.183:8889/pluseu.php?id=281662
 #EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 4
-http://14.248.63.183:8889/evol.php?id=68423
-#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 4K
+http://14.248.63.183:8889/pluseu.php?id=281663
+#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 5
 http://14.248.63.183:8889/tipx.php?id=54
-#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 4K
+#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 6
 http://14.248.63.183:8889/tipx.php?id=56
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
-http://14.248.63.183:8889/evol.php?id=68422
+http://14.248.63.183:8889/pluseu.php?id=281665
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 2
 http://14.248.63.183:8889/prostv.php?id=96363
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
 http://14.248.63.183:8889/prostv.php?id=96364
 #EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 4
-http://14.248.63.183:8889/evol.php?id=68417
+http://14.248.63.183:8889/pluseu.php?id=281666
 #EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 4
 http://14.248.63.183:8889/tipx.php?id=57
 #EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 4
 http://14.248.63.183:8889/tipx.php?id=59
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTS4.png",PT: Sport TV 4 FHD
-http://14.248.63.183:8889/evol.php?id=68421
+http://14.248.63.183:8889/pluseu.php?id=281668
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 2
 http://14.248.63.183:8889/prostv.php?id=96367
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 3
 http://14.248.63.183:8889/prostv.php?id=96368
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 3
+#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 4
 http://14.248.63.183:8889/tipx.php?id=60
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 3
+#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 5
 http://14.248.63.183:8889/tipx.php?id=62
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV5.png",PT: Sport TV 5 FHD
 http://14.248.63.183:8889/tipx.php?id=63
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/cir6Ej7.png", PT: Sport TV 5 FHD Server 2
 http://14.248.63.183:8889/prostv.php?id=96372
 #EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 3
-http://14.248.63.183:8889/evol.php?id=68420
-#EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 3
+http://14.248.63.183:8889/pluseu.php?id=281671
+#EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 4
 http://14.248.63.183:8889/tipx.php?id=65
 #EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD
-http://14.248.63.183:8889/evol.php?id=254527
-#EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD
+http://14.248.63.183:8889/pluseu.php?id=281674
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD Server 2
 http://14.248.63.183:8889/tipx.php?id=37967
-#EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD
+#EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD Server 3
 http://14.248.63.183:8889/tipx.php?id=40698
 #EXTINF:-1 tvg-id="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV NBA FHD
 http://14.248.63.183:8889/plustv.php?id=869000
@@ -3008,18 +3012,18 @@ http://14.248.63.183:8889/tipx.php?id=66
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10155
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
-http://sniperstv.vip:8080/NovaServ-456-Tv/w2DWZHPArh3k/2648
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
 http://14.248.63.183:8889/pluseu.php?id=281676
+#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
+http://14.248.63.183:8889/pluseu.php?id=281677
 #EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 4
 http://14.248.63.183:8889/plustv.php?id=869003
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
+#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 5
 http://14.248.63.183:8889/prostv.php?id=222449
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
+#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 6
 http://14.248.63.183:8889/tipx.php?id=18230
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
+#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 7
 http://14.248.63.183:8889/tipx.php?id=73
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 4K
+#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 8
 http://14.248.63.183:8889/tipx.php?id=16052
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/10156
@@ -3562,19 +3566,19 @@ http://0.vylc.name.vn/Setanta2
 #EXTINF:-1 tvg-id="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD
 http://0.vylc.name.vn/matchtv
 #EXTINF:-1 tvg-ID="Match.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="http://logo.panel.cx/logo/RUSSIA/MATCH.png", RU: Match! HD Server 2
-http://14.248.63.183:8889/evol.php?id=21420
+http://14.248.63.183:8889/wisd.php?id=21420
 #EXTINF:-1 tvg-id="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD
 http://0.vylc.name.vn/futbol1
 #EXTINF:-1 tvg-ID="MatchFutbol1.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/feOuhdq.png", RU: Match Futbol 1 HD Server 2
-http://14.248.63.183:8889/evol.php?id=21418
+http://14.248.63.183:8889/pluseu.php?id=300321
 #EXTINF:-1 tvg-id="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD
 http://0.vylc.name.vn/futbol2
 #EXTINF:-1 tvg-ID="MatchFutbol2.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/WhdGfSo.png", RU: Match Futbol 2 HD Server 2
-http://14.248.63.183:8889/evol.php?id=21417
+http://14.248.63.183:8889/pluseu.php?id=300315
 #EXTINF:-1 tvg-id="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD
 http://0.vylc.name.vn/futbol3
 #EXTINF:-1 tvg-ID="MatchFutbol3.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/H9o21TM.png", RU: Match Futbol 3 HD Server 2
-http://14.248.63.183:8889/evol.php?id=21416
+http://14.248.63.183:8889/pluseu.php?id=300316
 #EXTINF:-1 tvg-id="MatchPremier.ru" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://i.imgur.com/GQPyHYK.png", RU: Маtch Premier HD
 
 
