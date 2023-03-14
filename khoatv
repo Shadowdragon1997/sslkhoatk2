@@ -32,9 +32,9 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://103.56.160.133:8081/mytv804
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 15h30-13/03: Đại học Sư Phạm Kỹ Thuật TP.HCM vs Đại học Kinh Tế Quốc Dân
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 15h30-14/03: Đại học Tây Nguyên vs Đại học Văn Lang
 http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 17h45-13/03: Đại học Kinh Tế (Đại Học Huế) vs Đại học Sư Phạm TDTT TP.HCM
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 17h45-14/03: Đại học Thủy Lợi vs Đại học Tôn Đức Thắng
 http://103.56.160.133:8081/event2
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
@@ -1365,24 +1365,18 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/ie96jbec_bannera0e3bbd2cb721ece0229d9152320f0ea_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-14/03: Quay số mở thưởng Vietlott 14/03/2023
 https://code.vthanhtivi.pw/list/vieonevent/109fb897-81ce-4499-b773-c1cb6c8891cd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Dưới Bóng Cây Hạnh Phúc - Tập 35
-https://code.vthanhtivi.pw/list/mytvevent/6912/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d1/15/52/2a/a7/7f/d152a-lngnikhiyutp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-13/03: Đừng Nói Khi Yêu - Tập 19
-https://code.vthanhtivi.pw/list/mytvevent/6829/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2c/cb/bc/ca/aa/a7/2cbca-lkhihoatnhyulintp5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-13/03: Khi Hoa Tình Yêu Lại Nở - Tập 14
-https://code.vthanhtivi.pw/list/mytvevent/7212/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/20/08/87/71/16/60/20871-ltmkimtinngmma15tp3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:30-13/03: Tìm Kiếm Tài Năng Mỹ
-https://code.vthanhtivi.pw/list/mytvevent/5398/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/72/20/01/1d/db/bf/7201d-lserieavng26acmilanvssalernitana-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:45-14/03: Serie A - Vòng 26: AC Milan vs Salernitana
-https://code.vthanhtivi.pw/list/mytvevent/7249/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/17/7b/bf/f2/2d/d9/17bf2-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-14/03: Bố Đầu Nhỏ Con Đầu To
-https://code.vthanhtivi.pw/list/mytvevent/5705/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b1/18/8e/ee/ec/cc/b18ee-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:00-14/03: Hip Hop
+https://code.vthanhtivi.pw/list/mytvevent/7278/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5d/d3/3c/c8/84/48/5d3c8-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-14/03: Bé Kẹo Bông Và Mẹ Đám Mây
 https://code.vthanhtivi.pw/list/mytvevent/5173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/39/9d/dd/dc/c3/3e/39ddc-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-14/03: Dance
+https://code.vthanhtivi.pw/list/mytvevent/7279/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f6/62/20/01/14/49/f6201-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-14/03: Giờ Phiêu Lưu
 https://code.vthanhtivi.pw/list/mytvevent/6992/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/8b/b1/1d/db/bc/cd/8b1db-lknngtykimctp48-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:45-14/03: Kỳ Án Đông Tây Kim Cổ
 https://code.vthanhtivi.pw/list/mytvevent/5472/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bd/d5/52/25/56/6c/bd525-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 15:30-14/03: K - PoP
+https://code.vthanhtivi.pw/list/mytvevent/7280/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/7d/d0/05/5f/f1/12/7d05f-lcasgiumt-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:58-14/03: Ca Sĩ Giấu Mặt
 https://code.vthanhtivi.pw/list/mytvevent/5010/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e1/12/2c/cc/c9/94/e12cc-llphchonmkhchmicasjennaanhphngngimuchiphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-14/03: Lớp Học Hoàn Mỹ: Khách mời Ca sĩ Jenna Anh Phương - Người Mẫu Đức Hải - Phần 2
@@ -1397,8 +1391,12 @@ https://code.vthanhtivi.pw/list/mytvevent/7213/playlist.m3u8
 https://code.vthanhtivi.pw/list/mytvevent/5704/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/88/8d/d9/9f/fb/ba/88d9f-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-15/03: Bé Kẹo Bông Và Mẹ Đám Mây
 https://code.vthanhtivi.pw/list/mytvevent/5561/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/4b/bb/bf/fb/b6/6f/4bbfb-lu20nhtbnvsu20iraqbnkt1vcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-15/03: U20 Nhật Bản vs U20 Iraq - Bán kết 1 VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7281/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e9/9a/a0/0a/a6/6f/e9a0a-llphchonmkhchmicasjennaanhphngngimuchiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-15/03: Lớp Học Hoàn Mỹ: Khách mời Ca sĩ Jenna Anh Phương - Người Mẫu Đức Hải - Phần 3
 https://code.vthanhtivi.pw/list/mytvevent/5851/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/eb/b9/99/95/59/99/eb995-lu20uzbekistanvsu20hnqucbnkt2vcku20chu2023-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:50-15/03: U20 Uzbekistan vs U20 Hàn Quốc - Bán kết 2 VCK U20 châu Á 2023
+https://code.vthanhtivi.pw/list/mytvevent/7282/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-16/03: Bố Đầu Nhỏ Con Đầu To
 https://code.vthanhtivi.pw/list/mytvevent/5703/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/13/3b/b6/6a/ab/b0/13b6a-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-16/03: Bé Kẹo Bông Và Mẹ Đám Mây
@@ -1410,18 +1408,9 @@ https://code.vthanhtivi.pw/list/mytvevent/6564/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-17/03: Bố Đầu Nhỏ Con Đầu To
 https://code.vthanhtivi.pw/list/mytvevent/5702/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/10/14/1678434096804/c8d322bc0e36_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Chuyền
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/08/15/1678262980808/b67d409c83e6_640_360.jpg" group-title="🗓| Sự kiện", 1:00 | Tennis
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/13/16/1678700995676/79799188118a_640_360.jpg" group-title="🗓| Sự kiện", 2:45 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/13/16/1678701022657/8c79aa72039a_640_360.jpg" group-title="🗓| Sự kiện", 3:00 | Bóng Đá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1448,10 +1437,22 @@ https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/13/17/1678701676637/651a1a7b1776_640_360.jpg" group-title="🗓| Sự kiện", 2:00 | Bóng Rổ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/13/17/1678701708387/6eaf4f99f927_640_360.jpg" group-title="🗓| Sự kiện", 2:00 | Bóng Rổ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/14/08/1678757205330/41328ac4bfa8_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K/nSBz/SmUD7kCZOpQw0rw", "kid":"GR53MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"7dfQ+erBFkUKJpILlppbLg", "kid":"YWJ3MInESNOGdm8VSteQWg" },{ "kty":"oct", "k":"q7isub5Enj7St8uU9P7tLg", "kid":"WnO7edjESNOGdm8VSteQWg" } ], "type":"temporary" }
+
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+
+
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/14/08/1678757282682/01acc0942afe_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Đá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/228/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1461,55 +1462,9 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
 
 
 
-
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678673025/cmc_new/img.live_channel_schedule/0/0/133/68269/34954044.jpg" group-title="🗓| Sự kiện", 20:30-13/03: Nhập Gia Tùy Tục
-https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679148/cmc_new/img.live_channel_schedule/0/0/131/67459/34539482.jpg" group-title="🗓| Sự kiện", 20:55-13/03: Bất Động Sản Triệu Đô Sydney (Phần 1 - Tập 4)
-https://code.vthanhtivi.pw/getlink/cliptv/827/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678329349/cmc_new/img.live_channel_schedule/0/0/132/67753/34689870.jpg" group-title="🗓| Sự kiện", 20:55-13/03: Hành Trình Của Gordon, Gino Và Fred (Phần 2 - Tập 2)
-https://code.vthanhtivi.pw/getlink/cliptv/837/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678089244/cmc_new/img.live_channel_schedule/0/0/132/67980/34806070.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Tiến Vào Nơi Hoang Dã Cùng Ben Fogle (Tập 2)
-https://code.vthanhtivi.pw/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679679/cmc_new/img.live_channel_schedule/0/0/132/67919/34774931.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Một Vòng Thế Giới - Khám Phá Câu Chuyện Lúa Gạo (Tập 1)
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679080/cmc_new/img.live_channel_schedule/0/0/132/67967/34799209.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Thế Giới Kì Diệu Của Gumball
-https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678690826/cmc_new/img.live_channel_schedule/0/0/132/67933/34782004.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Wally Ở Đâu
-https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678680185/cmc_new/img.live_channel_schedule/0/0/132/67965/34798469.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Xưởng Xe Toàn Nữ
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677807913/cmc_new/img.live_channel_schedule/0/0/132/67936/34783676.jpg" group-title="🗓| Sự kiện", 21:00-13/03: Chương Trình Những Giai Điệu Ngốc Nghếch
-https://code.vthanhtivi.pw/getlink/cliptv/625/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678680185/cmc_new/img.live_channel_schedule/0/0/132/67965/34798470.jpg" group-title="🗓| Sự kiện", 21:23-13/03: Xưởng Xe Toàn Nữ
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678528518/cmc_new/img.live_channel_schedule/0/0/132/67933/34782005.jpg" group-title="🗓| Sự kiện", 21:25-13/03: Quỷ Lùn Tinh Nghịch: Giai Điệu Bất Tận
-https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678692617/cmc_new/img.live_channel_schedule/0/0/133/68373/35007262.jpg" group-title="🗓| Sự kiện", 22:00-13/03: Thời Sự
-https://code.vthanhtivi.pw/getlink/cliptv/640/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679080/cmc_new/img.live_channel_schedule/0/0/132/67967/34799210.jpg" group-title="🗓| Sự kiện", 22:00-13/03: Steven Universe
-https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678691831/cmc_new/img.live_channel_schedule/0/0/132/67933/34782007.jpg" group-title="🗓| Sự kiện", 22:15-13/03: Nhóc Trùm Đi Làm Lại
-https://code.vthanhtivi.pw/getlink/cliptv/846/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678680299/cmc_new/img.live_channel_schedule/0/0/133/68209/34923516.jpg" group-title="🗓| Sự kiện", 22:30-13/03: Nhận Diện Tội Phạm
-https://code.vthanhtivi.pw/getlink/cliptv/312/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678680185/cmc_new/img.live_channel_schedule/0/0/132/67965/34798472.jpg" group-title="🗓| Sự kiện", 22:31-13/03: Nhanh Và Ồn Ào (Phần 2)
-https://code.vthanhtivi.pw/getlink/cliptv/841/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679679/cmc_new/img.live_channel_schedule/0/0/132/67919/34774933.jpg" group-title="🗓| Sự kiện", 22:40-13/03: 18 Bánh Xe Dạo Khắp Việt Nam (Tập 2)
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679080/cmc_new/img.live_channel_schedule/0/0/132/67967/34799211.jpg" group-title="🗓| Sự kiện", 23:00-13/03: Ben 10
-https://code.vthanhtivi.pw/getlink/cliptv/610/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678679679/cmc_new/img.live_channel_schedule/0/0/132/67919/34774934.jpg" group-title="🗓| Sự kiện", 23:30-13/03: Một Vòng Thế Giới - Khám Phá Câu Chuyện Lúa Gạo (Tập 1)
-https://code.vthanhtivi.pw/getlink/cliptv/793/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677829364/cmc_new/img.live_channel_schedule/0/0/132/67978/34804880.jpg" group-title="🗓| Sự kiện", 00:00-14/03: Người Hùng Trường Học Yêu Quái (Tập 1)
-https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678089244/cmc_new/img.live_channel_schedule/0/0/132/67980/34806074.jpg" group-title="🗓| Sự kiện", 00:30-14/03: Tiến Vào Nơi Hoang Dã Cùng Ben Fogle (Tập 2)
-https://code.vthanhtivi.pw/getlink/cliptv/634/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1677829364/cmc_new/img.live_channel_schedule/0/0/132/67978/34804881.jpg" group-title="🗓| Sự kiện", 00:30-14/03: Người Hùng Trường Học Yêu Quái (Tập 2)
-https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678675776/cmc_new/img.live_channel_schedule/0/0/133/68270/34954266.jpg" group-title="🗓| Sự kiện", 01:20-14/03: 100 Triệu 1 Phút
-https://code.vthanhtivi.pw/getlink/cliptv/158/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/500x283x1678608792/cmc_new/img.live_channel_schedule/0/0/132/67978/34804883.jpg" group-title="🗓| Sự kiện", 02:00-14/03: Vua Bóng Chuyền (Phần 2 - Tập 12)
-https://code.vthanhtivi.pw/getlink/cliptv/836/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/14/08/1678757366951/f934bd3c7d84_640_360.jpg" group-title="🗓| Sự kiện", 20:00 | Bóng Chuyền
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="https://lh3.googleusercontent.com/-9hSzP0gRr-8/YpEMswmR0jI/AAAAAAAAA3c/q4pLMiFGsAwPG-pkW3ufl7RW2HFfkr8KQCNcBGAsYHQ/22.jpg", ABC TV  
@@ -3619,26 +3574,37 @@ https://obevcimanyd179314182.thapcam.link/live/bunFHD/chunklist.m3u8|referer=htt
 https://1123139281.cdn.khmer-hd.com/may12/chunks.m3u8|referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-14/03: SD 1 Milan - Salernitana (Giàng A Chuối)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoisd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-14/03: HD 1 Milan - Salernitana (Giàng A Chuối)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-14/03: SD 2 Milan - Salernitana (Giàng A Chuối)
-https://179665839.global.cdnfastest.com/live/cachuoisd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-14/03: HD 2 Milan - Salernitana (Giàng A Chuối)
-https://179665839.global.cdnfastest.com/live/cachuoihd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",02h45-14/03: Nhà Đài Milan - Salernitana (Giàng A Chuối)
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h30-14/03: SD 1 Al Nassr FC - Abha (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h30-14/03: HD 1 Al Nassr FC - Abha (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h30-14/03: SD 2 Al Nassr FC - Abha (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h30-14/03: HD 2 Al Nassr FC - Abha (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",21h30-14/03: Nhà Đài Al Nassr FC - Abha (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-14/03: SD 1 Girona - Atletico Madrid (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: SD 1 Man City - RB Leipzig (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: HD 1 Man City - RB Leipzig (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: SD 2 Man City - RB Leipzig (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/lusd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: HD 2 Man City - RB Leipzig (Giàng A Lử)
+https://179665839.global.cdnfastest.com/live/luhd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: Nhà Đài Man City - RB Leipzig (Giàng A Lử)
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: SD 1 FC Porto - Inter (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-14/03: HD 1 Girona - Atletico Madrid (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: HD 1 FC Porto - Inter (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-14/03: SD 2 Girona - Atletico Madrid (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: SD 2 FC Porto - Inter (Giàng A Páo)
 https://179665839.global.cdnfastest.com/live/paosd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-14/03: HD 2 Girona - Atletico Madrid (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: HD 2 FC Porto - Inter (Giàng A Páo)
 https://179665839.global.cdnfastest.com/live/paohd2/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
-#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-14/03: Nhà Đài Girona - Atletico Madrid (Giàng A Páo)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png",03h00-15/03: Nhà Đài FC Porto - Inter (Giàng A Páo)
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|referer=https://rakhoi1.rakhoi15.tv/
 
 #-*-- Livestream bóng đá Xoilac TV -*--#
