@@ -32,10 +32,47 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://103.56.160.133:8081/mytv804
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 15h30-16/03: Đại học Kinh Tế Quốc Dân vs Đại học Kinh Tế (Đại Học Huế)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 15h30-17/03: Đại học Tây Nguyên vs Đại học Thủy Lợi
 http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 17h45-16/03: Đại học Sư Phạm Kỹ Thuật TP.HCM vs Đại học Sư Phạm TDTT TP.HCM
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 17h45-17/03: Đại học Văn Lang vs Đại học Tôn Đức Thắng
 http://103.56.160.133:8081/event2
+
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT Pladio độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.2.244:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 1 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.10:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 2 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.12:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 3 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.27:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 4 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.28:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 5 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.30:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 6 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.31:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 7 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.33:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 8 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.68:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 9 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.69:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 10 độ trễ thấp
+http://vnesech2.duckdns.org:4022/udp/225.1.1.70:30120
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=KhoaTivi
