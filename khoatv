@@ -32,12 +32,10 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://103.56.160.133:8081/mytv804
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/7/75/2023_AFC_U-20_Asian_Cup.png", 21h-18/03: U20 Uzbekistan vs U20 Iraq (Chung Kết U20 Châu Á 2023)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 15h30-19/03: Đại học Sự Phạm Kỹ Thuật TP.HCM vs Đại học Kinh Tế (Đại Học Huế)
 http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 15h30-18/03: Đại học Cần Thơ vs Đại học Sư Phạm TDTT Hà Nội
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 17h45-19/03: Đại học Sư Phạm TDTT TP.HCM vs Đại Học Kinh Tế Quốc Dân
 http://103.56.160.133:8081/event2
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images2.thanhnien.vn/Uploaded/quangtuyen/2022_12_14/logo-giai-8064.jpg", 17h45-18/03: Đại học Nông Lâm TP.HCM vs Đại học Huế
-http://103.56.160.133:8081/event3
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT Pladio độ trễ thấp
 http://42.115.225.136:4022/udp/225.1.2.244:30120
@@ -3661,6 +3659,10 @@ https://code.vthanhtivi.pw/bongda/vebo/3MMMyuj.m3u8|Referer=https://player.4shar
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 07:00-19/03: Memphis Grizzlies vs Golden State Warriors - NBA (Người Già)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/bongda/vebo/bAYqVgk.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 14:30-19/03: Ulsan Hyundai FC vs Suwon FC - Korean K League 1 (Người Nện)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36       
+https://code.vthanhtivi.pw/bongda/vebo/T6Whhsy.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 10:10-19/03: Chivas vs América - Liga MX Clausura (Giàng A Cay)
