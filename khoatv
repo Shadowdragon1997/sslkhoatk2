@@ -1407,48 +1407,51 @@ https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8b
 #-*-- Sự kiện -*--#
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/x4onbnj8_banner4143479e2eb4ddb17aaccc23b1185142_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-21/03: Quay số mở thưởng Vietlott 21/03/2023
 https://code.vthanhtivi.pw/list/vieonevent/c94272c3-0c5f-45b9-b1bb-bcdbaf1dfd18/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/21/7zn9wwxb_banner0365b77a805760a16de89e0f797242b1_1920_1080.jpg" group-title="🗓| Sự kiện", 19:00-26/03: Show Thời Trang Sunrise To Dawn
+https://code.vthanhtivi.pw/list/vieonevent/93879931-1f5e-4283-97fa-bd56ff00e786/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/64/4f/f8/83/35/58/64f83-llphchonmkhchmicaoxuntiphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-21/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 2
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/71/1f/f5/51/16/64/71f51-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-21/03: Hip Hop
+https://code.vthanhtivi.pw/list/mytvevent/7326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/87/74/47/7b/ba/ae/8747b-lxuhng24hdoanhnghipchtvtvngkimngilaongnguycnghvic-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:30-21/03: Xu hướng 24h: Doanh nghiệp chật vật vì đăng kiểm, người lao động nguy cơ nghỉ việc
+https://code.vthanhtivi.pw/list/mytvevent/7333/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/64/4f/f8/83/35/58/64f83-llphchonmkhchmicaoxuntiphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-21/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 2
 https://code.vthanhtivi.pw/list/mytvevent/5850/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/f5/55/54/4b/ba/a3/f554b-ldibngcyhnhphctp36-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-21/03: Dưới Bóng Cây Hạnh Phúc - Tập 41
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f5/55/54/4b/ba/a3/f554b-ldibngcyhnhphctp36-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-21/03: Dưới Bóng Cây Hạnh Phúc - Tập 41
 https://code.vthanhtivi.pw/list/mytvevent/7273/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-21/03: Đừng Nói Khi Yêu - Tập 23
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-21/03: Đừng Nói Khi Yêu - Tập 23
 https://code.vthanhtivi.pw/list/mytvevent/6818/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/c8/86/64/40/00/05/c8640-lkhihoatnhyulintp6-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-21/03: Khi Hoa Tình Yêu Lại Nở - Tập 22
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c8/86/64/40/00/05/c8640-lkhihoatnhyulintp6-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-21/03: Khi Hoa Tình Yêu Lại Nở - Tập 22
 https://code.vthanhtivi.pw/list/mytvevent/7213/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/6e/e8/88/84/4e/e5/6e884-llphchonmkhchmicaoxuntiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-22/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 3
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-22/03: Bố Đầu Nhỏ Con Đầu To
+https://code.vthanhtivi.pw/list/mytvevent/5702/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/92/2c/c8/87/75/52/92c87-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-22/03: Latino
+https://code.vthanhtivi.pw/list/mytvevent/7327/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/21/1d/d1/17/77/74/21d17-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-22/03: MB - Hits
+https://code.vthanhtivi.pw/list/mytvevent/7328/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/88/8d/d9/9f/fb/ba/88d9f-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-22/03: Bé Kẹo Bông Và Mẹ Đám Mây
+https://code.vthanhtivi.pw/list/mytvevent/5561/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f6/62/20/01/14/49/f6201-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-22/03: Giờ Phiêu Lưu
+https://code.vthanhtivi.pw/list/mytvevent/6992/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e4/43/31/12/27/70/e4312-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-22/03: Country
+https://code.vthanhtivi.pw/list/mytvevent/7329/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6e/e8/88/84/4e/e5/6e884-llphchonmkhchmicaoxuntiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-22/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 3
 https://code.vthanhtivi.pw/list/mytvevent/5851/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/345x194/45/56/66/67/76/6c/45667-llphchonmkhchmicaoxuntiphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-23/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 4
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f1/14/4c/ce/e2/22/f14ce-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:30-23/03: Dance
+https://code.vthanhtivi.pw/list/mytvevent/7330/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-23/03: Bố Đầu Nhỏ Con Đầu To
+https://code.vthanhtivi.pw/list/mytvevent/5703/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2e/e3/34/42/21/1f/2e342-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:00-23/03: Latino
+https://code.vthanhtivi.pw/list/mytvevent/7331/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5d/d3/3c/c8/84/48/5d3c8-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-23/03: Bé Kẹo Bông Và Mẹ Đám Mây
+https://code.vthanhtivi.pw/list/mytvevent/5173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6f/f4/40/06/6e/ea/6f406-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-23/03: Giờ Phiêu Lưu
+https://code.vthanhtivi.pw/list/mytvevent/6990/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/11/18/85/54/48/8d/11854-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-23/03: Hip Hop
+https://code.vthanhtivi.pw/list/mytvevent/7332/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/45/56/66/67/76/6c/45667-llphchonmkhchmicaoxuntiphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-23/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 4
 https://code.vthanhtivi.pw/list/mytvevent/6564/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679301689931/af3e247251e5_640_360.jpg" group-title="🗓| Sự kiện", 8:30 | Cầu Lông - CIPUTRA HANOI-YONEX SUNRISE VIETNAM INTERNATIONAL CHALLENGE 2023   VÒNG 1/64 ĐƠN NAM   PHẦN 1 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao - News Room 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679301689931/af3e247251e5_640_360.jpg" group-title="🗓| Sự kiện", 14:00 | Cầu Lông - CIPUTRA HANOI-YONEX SUNRISE VIETNAM INTERNATIONAL CHALLENGE 2023   VÒNG 1/64 ĐƠN NAM   PHẦN 2 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/167930237039/c633d1867908_640_360.jpg" group-title="🗓| Sự kiện", 15:30 | Bóng Đá - VIETTEL  VS  HỒNG LĨNH HÀ TĨNH 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao - News Room 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679300286279/1e414517f0d5_640_360.jpg" group-title="🗓| Sự kiện", 22:00 | Tennis - ATP Masters 1000  Miami Open presented by Itau 2023  Day 1 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-24/03: Bố Đầu Nhỏ Con Đầu To
+https://code.vthanhtivi.pw/list/mytvevent/5704/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="https://lh3.googleusercontent.com/-9hSzP0gRr-8/YpEMswmR0jI/AAAAAAAAA3c/q4pLMiFGsAwPG-pkW3ufl7RW2HFfkr8KQCNcBGAsYHQ/22.jpg", ABC TV  
@@ -3558,7 +3561,7 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 20:30-21/03: Wolves U18 vs Sunderland U18 - Premier League U18 (Giàng A Chuối)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:00-21/03: Ceramica Cleopatra - Smouha SC (Giàng A Chuối)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
@@ -3592,7 +3595,7 @@ https://code.vthanhtivi.pw/bongda/saoke/vipers-sc-vs-kcca-64189c0891e8330f005718
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/bongda/saoke/bayern-münchen-w--vs-arsenal-women--w--6411e6b8f90d780b1d5edd4c.m3u8|Referer=https://vip5.saoketvs.live
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",03:00-22/03: Roma (W) và Barcelona (W) (Thần Chổi)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",03:00-22/03: Roma (W) và Barcelona (W) (Only Si)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/bongda/saoke/roma-w--vs-barcelona--w--64189c4391e8330f005718ad.m3u8|Referer=https://vip5.saoketvs.live
 
