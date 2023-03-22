@@ -1405,53 +1405,115 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/x4onbnj8_banner4143479e2eb4ddb17aaccc23b1185142_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-21/03: Quay số mở thưởng Vietlott 21/03/2023
-https://code.vthanhtivi.pw/list/vieonevent/c94272c3-0c5f-45b9-b1bb-bcdbaf1dfd18/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/21/7zn9wwxb_banner0365b77a805760a16de89e0f797242b1_1920_1080.jpg" group-title="🗓| Sự kiện", 19:00-26/03: Show Thời Trang Sunrise To Dawn
 https://code.vthanhtivi.pw/list/vieonevent/93879931-1f5e-4283-97fa-bd56ff00e786/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/v05gpk8s_banner78d8d3aa026c6a4955a38c6c8d3c1d5c_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-22/03: Quay số mở thưởng Vietlott 22/03/2023
+https://code.vthanhtivi.pw/list/vieonevent/0513a18a-9a13-4526-99a3-a513dbd24039/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/71/1f/f5/51/16/64/71f51-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 18:00-21/03: Hip Hop
-https://code.vthanhtivi.pw/list/mytvevent/7326/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/87/74/47/7b/ba/ae/8747b-lxuhng24hdoanhnghipchtvtvngkimngilaongnguycnghvic-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:30-21/03: Xu hướng 24h: Doanh nghiệp chật vật vì đăng kiểm, người lao động nguy cơ nghỉ việc
-https://code.vthanhtivi.pw/list/mytvevent/7333/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/64/4f/f8/83/35/58/64f83-llphchonmkhchmicaoxuntiphn2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-21/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 2
-https://code.vthanhtivi.pw/list/mytvevent/5850/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f5/55/54/4b/ba/a3/f554b-ldibngcyhnhphctp36-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-21/03: Dưới Bóng Cây Hạnh Phúc - Tập 41
-https://code.vthanhtivi.pw/list/mytvevent/7273/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d6/68/85/5c/c6/6e/d685c-lngnikhiyutp1-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-21/03: Đừng Nói Khi Yêu - Tập 23
-https://code.vthanhtivi.pw/list/mytvevent/6818/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/c8/86/64/40/00/05/c8640-lkhihoatnhyulintp6-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-21/03: Khi Hoa Tình Yêu Lại Nở - Tập 22
-https://code.vthanhtivi.pw/list/mytvevent/7213/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5c/c1/19/9a/ae/ef/5c19a-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-22/03: Bố Đầu Nhỏ Con Đầu To
-https://code.vthanhtivi.pw/list/mytvevent/5702/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/92/2c/c8/87/75/52/92c87-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-22/03: Latino
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/92/2c/c8/87/75/52/92c87-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:30-22/03: Latino
 https://code.vthanhtivi.pw/list/mytvevent/7327/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/21/1d/d1/17/77/74/21d17-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-22/03: MB - Hits
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/21/1d/d1/17/77/74/21d17-lmbhits-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:30-22/03: MB - Hits
 https://code.vthanhtivi.pw/list/mytvevent/7328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/88/8d/d9/9f/fb/ba/88d9f-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-22/03: Bé Kẹo Bông Và Mẹ Đám Mây
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/88/8d/d9/9f/fb/ba/88d9f-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-22/03: Bé Kẹo Bông Và Mẹ Đám Mây
 https://code.vthanhtivi.pw/list/mytvevent/5561/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f6/62/20/01/14/49/f6201-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-22/03: Giờ Phiêu Lưu
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f6/62/20/01/14/49/f6201-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-22/03: Giờ Phiêu Lưu
 https://code.vthanhtivi.pw/list/mytvevent/6992/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e4/43/31/12/27/70/e4312-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-22/03: Country
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e4/43/31/12/27/70/e4312-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:30-22/03: Country
 https://code.vthanhtivi.pw/list/mytvevent/7329/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6e/e8/88/84/4e/e5/6e884-llphchonmkhchmicaoxuntiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-22/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 3
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6e/e8/88/84/4e/e5/6e884-llphchonmkhchmicaoxuntiphn3-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-22/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 3
 https://code.vthanhtivi.pw/list/mytvevent/5851/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f1/14/4c/ce/e2/22/f14ce-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:30-23/03: Dance
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/ab/b8/8a/ad/d5/52/ab8ad-lkhihoatnhyulintp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-22/03: Khi Hoa Tình Yêu Lại Nở - Tập 23
+https://code.vthanhtivi.pw/list/mytvevent/7316/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-22/03: Dưới Bóng Cây Hạnh Phúc - Tập 42
+https://code.vthanhtivi.pw/list/mytvevent/6912/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/7b/b4/4d/dc/ca/a6/7b4dc-lngnikhiyutp2-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:40-22/03: Đừng Nói Khi Yêu - Tập 24
+https://code.vthanhtivi.pw/list/mytvevent/6828/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f1/14/4c/ce/e2/22/f14ce-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:30-23/03: Dance
 https://code.vthanhtivi.pw/list/mytvevent/7330/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-23/03: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/e2/2a/ab/ba/a1/1d/e2aba-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-23/03: Bố Đầu Nhỏ Con Đầu To
 https://code.vthanhtivi.pw/list/mytvevent/5703/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/2e/e3/34/42/21/1f/2e342-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:00-23/03: Latino
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2e/e3/34/42/21/1f/2e342-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:00-23/03: Latino
 https://code.vthanhtivi.pw/list/mytvevent/7331/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/5d/d3/3c/c8/84/48/5d3c8-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-23/03: Bé Kẹo Bông Và Mẹ Đám Mây
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/5d/d3/3c/c8/84/48/5d3c8-lbkobngvmmmy-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:00-23/03: Bé Kẹo Bông Và Mẹ Đám Mây
 https://code.vthanhtivi.pw/list/mytvevent/5173/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/6f/f4/40/06/6e/ea/6f406-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-23/03: Giờ Phiêu Lưu
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/6f/f4/40/06/6e/ea/6f406-lgiphiulu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-23/03: Giờ Phiêu Lưu
 https://code.vthanhtivi.pw/list/mytvevent/6990/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/11/18/85/54/48/8d/11854-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-23/03: Hip Hop
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/11/18/85/54/48/8d/11854-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 17:00-23/03: Hip Hop
 https://code.vthanhtivi.pw/list/mytvevent/7332/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/45/56/66/67/76/6c/45667-llphchonmkhchmicaoxuntiphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-23/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 4
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/45/56/66/67/76/6c/45667-llphchonmkhchmicaoxuntiphn4-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-23/03: Lớp Học Hoàn Mỹ: Khách mời Cao Xuân Tài - Phần 4
 https://code.vthanhtivi.pw/list/mytvevent/6564/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-24/03: Bố Đầu Nhỏ Con Đầu To
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/f5/55/54/4b/ba/a3/f554b-ldibngcyhnhphctp36-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-23/03: Dưới Bóng Cây Hạnh Phúc - Tập 43
+https://code.vthanhtivi.pw/list/mytvevent/7273/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/2c/cb/bc/ca/aa/a7/2cbca-lkhihoatnhyulintp5-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:00-23/03: Khi Hoa Tình Yêu Lại Nở - Tập 24
+https://code.vthanhtivi.pw/list/mytvevent/7212/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/3e/e0/09/9d/d8/86/3e09d-lbunhconuto-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-24/03: Bố Đầu Nhỏ Con Đầu To
 https://code.vthanhtivi.pw/list/mytvevent/5704/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/89/91/12/2a/ae/e1/8912a-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:00-24/03: K - PoP
+https://code.vthanhtivi.pw/list/mytvevent/7334/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7784.cdn.mytvnet.vn/vimages/345x194/91/1e/e4/4e/e8/87/91e4e-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-24/03: EDM
+https://code.vthanhtivi.pw/list/mytvevent/7335/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/10/1679370480484/56eddb797616_640_360.jpg" group-title="🗓| Sự kiện", 8:30 | Cầu Lông - CIPUTRA HANOI-YONEX SUNRISE VIETNAM INTERNATIONAL CHALLENGE 2023   VÒNG 1/32   PHẦN 1 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/17/17/167904794862/84fd5c324e9c_640_360.jpg" group-title="🗓| Sự kiện", 9:00 | Billiards - Giải Billiards & Snooker Vô Địch Quốc gia 2023 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/9820/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao - News Room 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+
+
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/10/1679370480484/56eddb797616_640_360.jpg" group-title="🗓| Sự kiện", 14:00 | Cầu Lông - CIPUTRA HANOI-YONEX SUNRISE VIETNAM INTERNATIONAL CHALLENGE 2023   VÒNG 1/32   PHẦN 2 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679300286279/1e414517f0d5_640_360.jpg" group-title="🗓| Sự kiện", 22:00 | Tennis - ATP Masters 1000  Miami Open presented by Itau 2023  Day 1 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/16/1679391821663/65327a2b7de2_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Rổ - RYTAS VILNIUS (LTU)  VS  BAXI MANRESA (ESP) 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/16/1679392155251/9a336df7ad8c_640_360.jpg" group-title="🗓| Sự kiện", 0:30 | Bóng Rổ - BAHCESEHIR COLLEGE   VS   TELEKOM BASKETS BONN 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/14/1679384325835/b22600986ffe_640_360.jpg" group-title="🗓| Sự kiện", 2:00 | Golf - PGA TOUR 2023  WORLD GOLF CHAMPIONSHIP - DELL TECHNOLOGIES MATCH PLAY  NGÀY 1 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/16/1679392401901/513e274e5035_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Rổ - SIG STRASBOURG (FRA)   VS   HAPOEL BY JERUSALEM (ISR) 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/183/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/16/1679392577928/1cac7861bf38_640_360.jpg" group-title="🗓| Sự kiện", 2:30 | Bóng Rổ - HAPOEL HOLON   VS   JDA DIJON 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao - News Room 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
+https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
+
+
+
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/14/1679384368502/d836efa837ce_640_360.jpg" group-title="🗓| Sự kiện", 12:30 | Golf - ASIAN TOUR 2023   WORLD CITY CHAMPIONSHIP   NGÀY 1 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/10/1679370480484/56eddb797616_640_360.jpg" group-title="🗓| Sự kiện", 13:00 | Cầu Lông - TƯỜNG THUẬT CẦU LÔNG   CIPUTRA HANOI-YONEX SUNRISE VIETNAM INTERNATIONAL CHALLENGE 2023   VÒNG 1/16   PHẦN 2 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/16/167939142745/29440d6b3a93_640_360.jpg" group-title="🗓| Sự kiện", 18:15 | Bóng Chuyền - NINH BÌNH LIENVIETPOSTBANK  VS  BTL THÔNG TIN 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/16/1679391496985/6e1837e2b6f8_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Chuyền - SANEST KHÁNH HÒA  VS  THỂ CÔNG 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679300286279/1e414517f0d5_640_360.jpg" group-title="🗓| Sự kiện", 22:00 | Tennis - ATP Masters 1000  Miami Open presented by Itau 2023  Day 2 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679300286279/1e414517f0d5_640_360.jpg" group-title="🗓| Sự kiện", 22:00 | Tennis - ATP Masters 1000  Miami Open presented by Itau 2023  Day 3 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="https://lh3.googleusercontent.com/-9hSzP0gRr-8/YpEMswmR0jI/AAAAAAAAA3c/q4pLMiFGsAwPG-pkW3ufl7RW2HFfkr8KQCNcBGAsYHQ/22.jpg", ABC TV  
@@ -3528,76 +3590,104 @@ http://14.248.113.207:8889/pluseu.php?id=300316
 
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 06:00-21/03: Philadelphia 76ers vs Chicago Bulls - NBA (Người Già)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:00-22/03: Sacramento Kings vs Boston Celtics - NBA (Người Mỏ Vịt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/IBY7KJn.m3u8|Referer=https://player.4shares.live/
+https://code.vthanhtivi.pw/bongda/vebo/o2LmxJL.m3u8|Referer=https://player.4shares.live/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 07:00-21/03: Houston Rockets vs Golden State Warriors - NBA (Người Đá)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:30-22/03: LA Clippers vs Oklahoma City Thunder - NBA (Người Đá)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/wdT5Jkn.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 07:00-21/03: Memphis Grizzlies vs Dallas Mavericks - NBA (Người Mỏ Vịt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/AAKGDpr.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 08:00-21/03: Utah Jazz vs Sacramento Kings - NBA (Người Bú)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/VzvcoLM.m3u8|Referer=https://player.4shares.live/
+https://code.vthanhtivi.pw/bongda/vebo/qNFsWyB.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 07:00-21/03: Lanus vs Argentinos Juniors - Liga Profesional (Giàng A Cay)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:20-21/03: Atletico Huila vs Once Caldas - Primera A Apertura (Giàng A Chuối)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 10:05-22/03: Cimarrones vs Celaya - Liga de Expansion MX Clausura (Giàng A Chuối)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 11:00-21/03: Sanfrecce Hiroshima vs Albirex Niigata - WE League (Giàng A Cay)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 16:00-22/03: Ulytau Zhezkazgan vs Akademiya Ontustik - Kazakhstan Cup (Giàng A Páo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-21/03: Barito Putera vs Persis Solo - Liga 1 (Giàng A Lử)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:00-21/03: Ceramica Cleopatra - Smouha SC (Giàng A Chuối)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:00-22/03: Germany U19 vs Italy U19 - U19 Euro Qualifying (Giàng A Chuối)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 00:45-22/03: Bayern München (W) vs Arsenal Women (W) - Women's Champions League Final Stage (Giàng A Cay)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 19:15-22/03: Nepal vs Laos - Giao hữu (Giàng A Páo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:00-22/03: Benin vs Rwanda - Africa Cup of Nations Qualification Grp. L (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 03:00-22/03: Roma (W) vs Barcelona (W) - Women's Champions League Final Stage (Giàng A Lử)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 00:30-23/03: U23 Qatar vs UAE U23 - Doha Cup (Giàng A Cay)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 00:45-23/03: Lyon (W) vs Chelsea Women (W) - Women's Champions League Final Stage (Giàng A Páo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:45-23/03: U23 Việt Nam vs U23 Iraq - Doha Cup (Giàng A Lử)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 03:00-23/03: Paris Saint Germain (W) vs VfL Wolfsburg (W) - Women's Champions League Final Stage (Giàng A Chuối)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep.rakhoi15.tv/
 
 #-*-- Livestream bóng đá Caheo TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 15:00-21/03: Barito Putera - Persis Solo (Cá Heo)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 16:00-22/03: Ulytau Zhezkazgan - Akademiya Ontustik (Cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep.caheo7.tv/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 22:00-21/03: Ceramica Cleopatra - Smouha SC (Cá Heo)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 18:00-22/03: Germany U19 - Italy U19 (Cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep.caheo7.tv/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 18:00-22/03: Nepal - Laos (Thợ Xây)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 18:00-22/03: Benin - Rwanda (Thợ Xây)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 00:30-23/03: U23 Qatar - UAE U23 (Cá Heo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep.caheo7.tv/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 00:45-23/03: Lyon (W) - Chelsea Women (W) (Thợ Xây)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 02:45-23/03: U23 Việt Nam - U23 Iraq ( H+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 03:00-23/03: Paris Saint Germain (W) - VfL Wolfsburg (W)( Xi Măng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+
 
 #-*-- Livestream bóng đá Saoke TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",15:00-21/03: Barito Putera và Persis Solo (Thần Chổi)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",19:30-22/03: Myanmar và India (Only Si)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/barito-putera-vs-persis-solo-6411e657f90d780b1d5edd34.m3u8|Referer=https://vip5.saoketvs.live
+https://code.vthanhtivi.pw/bongda/saoke/myanmar-vs-india-6419bd6591e8330f00571a88.m3u8|Referer=https://vip5.saoketvs.live
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",20:00-21/03: Vipers SC vs KCCA (Only Si)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",00:30-23/03: Saudi Arabia vs Thailand (Sao Kê)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/vipers-sc-vs-kcca-64189c0891e8330f005718a8.m3u8|Referer=https://vip5.saoketvs.live
+https://code.vthanhtivi.pw/bongda/saoke/saudi-arabia-vs-thailand-641a286891e8330f00571d56.m3u8|Referer=https://vip5.saoketvs.live
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",00:45-22/03: Bayern München (W) và Arsenal Women (W) (Cam Sả)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",00:30-23/03: Oman vs Korea Republic (Sao Hỏa)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/bayern-münchen-w--vs-arsenal-women--w--6411e6b8f90d780b1d5edd4c.m3u8|Referer=https://vip5.saoketvs.live
+https://code.vthanhtivi.pw/bongda/saoke/oman-vs-korea-republic-641a28eb91e8330f00571d5b.m3u8|Referer=https://vip5.saoketvs.live
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",03:00-22/03: Roma (W) và Barcelona (W) (Only Si)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",02:00-23/03: Qatar vs UAE (Only Si)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/roma-w--vs-barcelona--w--64189c4391e8330f005718ad.m3u8|Referer=https://vip5.saoketvs.live
+https://code.vthanhtivi.pw/bongda/saoke/qatar-vs-uae-641a294791e8330f00571d5e.m3u8|Referer=https://vip5.saoketvs.live
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",02:45-23/03: Việt Nam vs Iraq (Sao Hỏa)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/saoke/viet-nam-vs-iraq-641a29bf91e8330f00571d65.m3u8|Referer=https://vip5.saoketvs.live
 
 #-*-- Livestream bóng đá Xoilac TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Xoilac TV" tvg-logo="https://storage.googleapis.com/bitly-image-upload/ImcddIqvBY9",21:00-19/03: Arsenal VS Crystal Palace (ROY - MAX)
@@ -3653,285 +3743,23 @@ https://live.vbfast.xyz/75d5f460a3fa533df704e1d181370c76/1679285699948/kqpqy3v/k
 https://live.vbfast.xyz/fc9504c4a067aaf8b12d26006ca7ec82/1679277661651/acvppkv/acvppkv@720p.m3u8|Referer=https://vb.plvb.xyz/
 
 #-*-- Livestream bóng đá Socolive TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-21/03: Necaxa Women - Club Tijuana Women's (MEX WD1) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-21/03: Necaxa Women - Club Tijuana Women's (MEX WD1) - BLV GOT
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-21/03: Necaxa Women - Club Tijuana Women's (MEX WD1) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:05-21/03: Santos Laguna Women's - Deportivo Toluca Women's (MEX WD1) - BLV MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:05-21/03: Santos Laguna Women's - Deportivo Toluca Women's (MEX WD1) - BLV BEE
-https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:10-21/03: Atletico Bucaramanga - Deportes Tolima (COL D1) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:10-21/03: Atletico Bucaramanga - Deportes Tolima (COL D1) - BLV MONKEY
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:10-21/03: Atletico Bucaramanga - Deportes Tolima (COL D1) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:10-21/03: Atletico Bucaramanga - Deportes Tolima (COL D1) - BLV KAIDO
-https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: Memphis Grizzlies - Dallas Mavericks (NBA) - BRIANN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: Houston Rockets - Golden State Warriors (NBA) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: Lanus - Argentinos Juniors (ARG D1) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: Lanus - Argentinos Juniors (ARG D1) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: Lanus - Argentinos Juniors (ARG D1) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: CA Huracan - Rosario Central (ARG D1) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: CA Huracan - Rosario Central (ARG D1) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: CA Huracan - Rosario Central (ARG D1) - Sóc Già Làng
-https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: CA Huracan - Rosario Central (ARG D1) - Tạ Biên Giới
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-21/03: CA Huracan - Rosario Central (ARG D1) - BLV NONAME
-https://code.vthanhtivi.pw/bongda/socolive/167414.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Utah Jazz - Sacramento Kings (NBA) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Utah Jazz - Sacramento Kings (NBA) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Tigres UANL Women's - Club America Women's (MEX WD1) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Tigres UANL Women's - Club America Women's (MEX WD1) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Tigres UANL Women's - Club America Women's (MEX WD1) - BLV GOT
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Tigres UANL Women's - Club America Women's (MEX WD1) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-21/03: Tigres UANL Women's - Club America Women's (MEX WD1) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:06-21/03: Pachuca Women's - Mazatlan FC Women's (MEX WD1) - BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:06-21/03: Pachuca Women's - Mazatlan FC Women's (MEX WD1) - BLV TONY
-https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:06-21/03: Pachuca Women's - Mazatlan FC Women's (MEX WD1) - BLV G Hip
-https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:06-21/03: Pachuca Women's - Mazatlan FC Women's (MEX WD1) - BLV BEE
-https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:06-21/03: Pachuca Women's - Mazatlan FC Women's (MEX WD1) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:20-21/03: Atletico Huila - Deportiva Once Caldas (COL D1) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:20-21/03: Atletico Huila - Deportiva Once Caldas (COL D1) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:20-21/03: Atletico Huila - Deportiva Once Caldas (COL D1) - DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:20-21/03: Atletico Huila - Deportiva Once Caldas (COL D1) - BLV POPPY
-https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:20-21/03: Atletico Huila - Deportiva Once Caldas (COL D1) - BLV MONKEY
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 11:00-21/03: Sanfrecce Hiroshima Women's - Albirex Niigata Women's (JPN WE) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 11:00-21/03: Sanfrecce Hiroshima Women's - Albirex Niigata Women's (JPN WE) - BLV POPPY
-https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 11:00-21/03: Sanfrecce Hiroshima Women's - Albirex Niigata Women's (JPN WE) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 11:00-21/03: Sanfrecce Hiroshima Women's - Albirex Niigata Women's (JPN WE) - Tạ Biên Giới
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 11:00-21/03: Sanfrecce Hiroshima Women's - Albirex Niigata Women's (JPN WE) - BLV NONAME
-https://code.vthanhtivi.pw/bongda/socolive/167414.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Taraz - Zhenis (KAZ CUP) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Taraz - Zhenis (KAZ CUP) - BLV KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Taraz - Zhenis (KAZ CUP) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Taraz - Zhenis (KAZ CUP) - AMY BABE
-https://code.vthanhtivi.pw/bongda/socolive/102153.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Tahiti - New Caledonia (INT TERF) - SUNNY
-https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Tahiti - New Caledonia (INT TERF) - BLV G Hip
-https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-21/03: Tahiti - New Caledonia (INT TERF) - BLV TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-21/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-21/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-21/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV G Hip
-https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:00-21/03: Barito Putera - Persis Solo FC (IDN D1) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:00-21/03: Barito Putera - Persis Solo FC (IDN D1) - DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:00-21/03: Barito Putera - Persis Solo FC (IDN D1) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:00-21/03: Barito Putera - Persis Solo FC (IDN D1) - BLV NONAME
-https://code.vthanhtivi.pw/bongda/socolive/167414.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:00-21/03: Barito Putera - Persis Solo FC (IDN D1) - Tạ Biên Giới
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:00-21/03: Barito Putera - Persis Solo FC (IDN D1) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:30-21/03: Peninsula Power(U23) - Brisbane Roar(U23) (AUS QSLU23) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:30-21/03: Peninsula Power(U23) - Brisbane Roar(U23) (AUS QSLU23) - BLV MARCO
-https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 15:30-21/03: Peninsula Power(U23) - Brisbane Roar(U23) (AUS QSLU23) - AMY BABE
-https://code.vthanhtivi.pw/bongda/socolive/102153.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-21/03: FK Arys - FK Yelimay Semey (KAZ CUP) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-21/03: FK Arys - FK Yelimay Semey (KAZ CUP) - SUNNY
-https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-21/03: FK Arys - FK Yelimay Semey (KAZ CUP) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-21/03: FK Arys - FK Yelimay Semey (KAZ CUP) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-21/03: FK Arys - FK Yelimay Semey (KAZ CUP) - HANAH
-https://code.vthanhtivi.pw/bongda/socolive/107307.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-21/03: Mobis Phoebus - Seoul Thunders (KBL) - BRIANN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-21/03: Mobis Phoebus - Seoul Thunders (KBL) - BLV KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-21/03: Mobis Phoebus - Seoul Thunders (KBL) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-21/03: Maldives - Pakistan (INT TERF) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-21/03: Maldives - Pakistan (INT TERF) - Sóc Già Làng
-https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-21/03: Maldives - Pakistan (INT TERF) - YUKI
-https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-21/03: Maldives - Pakistan (INT TERF) - HANAH
-https://code.vthanhtivi.pw/bongda/socolive/107307.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:35-21/03: Liaoning - Jiangsu Dragons (CBA) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:15-21/03: Levski - Beroe (BBC) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Samara - Saratov (VTBUL) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Ceramica Cleopatra FC - Smouha (EGY D1) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Ceramica Cleopatra FC - Smouha (EGY D1) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Ceramica Cleopatra FC - Smouha (EGY D1) - BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Ceramica Cleopatra FC - Smouha (EGY D1) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Ceramica Cleopatra FC - Smouha (EGY D1) - YUKI
-https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-21/03: Ceramica Cleopatra FC - Smouha (EGY D1) - DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 23:30-21/03: Gargzdai - BC Wolves (LKL) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 23:30-21/03: Gargzdai - BC Wolves (LKL) - BLV KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-22/03: Bayern Munich Women's - Arsenal Women's (UEFA WUC) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-22/03: Bayern Munich Women's - Arsenal Women's (UEFA WUC) - BLV FANTA
-https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-22/03: Bayern Munich Women's - Arsenal Women's (UEFA WUC) - BLV TONY
-https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-22/03: Bayern Munich Women's - Arsenal Women's (UEFA WUC) - BLV MARCO
-https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-22/03: Bayern Munich Women's - Arsenal Women's (UEFA WUC) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-22/03: Bayern Munich Women's - Arsenal Women's (UEFA WUC) - BLV GOT
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-22/03: Turbine Potsdam Women's - Koln Women's (GER WD1) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-22/03: Turbine Potsdam Women's - Koln Women's (GER WD1) - BLV TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-22/03: Turbine Potsdam Women's - Koln Women's (GER WD1) - BLV DJ Nguyễn
-https://code.vthanhtivi.pw/bongda/socolive/105225.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Accrington Stanley - Plymouth Argyle (ENG D1) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Accrington Stanley - Plymouth Argyle (ENG D1) - BLV Củ Chuối
-https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Accrington Stanley - Plymouth Argyle (ENG D1) - BLV PHI HÀNH
-https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Accrington Stanley - Plymouth Argyle (ENG D1) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Dundee - Ayr United FC (SCO LCH) - SAITAMA
-https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Dundee - Ayr United FC (SCO LCH) - BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-22/03: Dundee - Ayr United FC (SCO LCH) - BLV CHRIS
-https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: Barnsley - Sheffield Wed (ENG D1) - BLV MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: Barnsley - Sheffield Wed (ENG D1) - Sóc Già Làng
-https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: Barnsley - Sheffield Wed (ENG D1) - BLV BEE
-https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: Barnsley - Sheffield Wed (ENG D1) - Tạ Biên Giới
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: AS Roma Women's - FC Barcelona Women's (UEFA WUC) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: AS Roma Women's - FC Barcelona Women's (UEFA WUC) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: AS Roma Women's - FC Barcelona Women's (UEFA WUC) - BLV KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: AS Roma Women's - FC Barcelona Women's (UEFA WUC) - BLV GOT
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-22/03: AS Roma Women's - FC Barcelona Women's (UEFA WUC) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 05:30-22/03: Atletico FC - Cortulua (COL D2) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 05:30-22/03: Atletico FC - Cortulua (COL D2) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 05:30-22/03: Atletico FC - Cortulua (COL D2) - BLV CHRIS
-https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-22/03: Orlando Magic - Washington Wizards (NBA) - BLV KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:05-22/03: Tepatitlan De Morelos - Cancun (MEX D2) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:05-22/03: Tepatitlan De Morelos - Cancun (MEX D2) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:05-22/03: Tepatitlan De Morelos - Cancun (MEX D2) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:05-22/03: Tepatitlan De Morelos - Cancun (MEX D2) - Tạ Biên Giới
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:30-22/03: Atlanta Hawks - Detroit Pistons (NBA) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:30-22/03: Brooklyn Nets - Cleveland Cavaliers (NBA) - BRIANN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: Velez Sarsfield - CA Central Cordoba SDE (ARG D1) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: Velez Sarsfield - CA Central Cordoba SDE (ARG D1) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: Velez Sarsfield - CA Central Cordoba SDE (ARG D1) - BLV BRUCE
-https://code.vthanhtivi.pw/bongda/socolive/206851.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: Velez Sarsfield - CA Central Cordoba SDE (ARG D1) - DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: Velez Sarsfield - CA Central Cordoba SDE (ARG D1) - BLV MARIO
-https://code.vthanhtivi.pw/bongda/socolive/195586.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: Velez Sarsfield - CA Central Cordoba SDE (ARG D1) - BLV TOMIA
-https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 07:00-22/03: New Orleans Pelicans - San Antonio Spurs (NBA) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-22/03: Independiente Santa Fe - Deportivo Cali (COL D1) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-22/03: Independiente Santa Fe - Deportivo Cali (COL D1) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-22/03: Independiente Santa Fe - Deportivo Cali (COL D1) - BLV POPPY
-https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-22/03: Independiente Santa Fe - Deportivo Cali (COL D1) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-22/03: Independiente Santa Fe - Deportivo Cali (COL D1) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-22/03: Mineros de Zacatecas - Alebrijes de Oaxaca (MEX D2) - BLV KAIDO
-https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-22/03: Mineros de Zacatecas - Alebrijes de Oaxaca (MEX D2) - BLV TONY
-https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-22/03: Mineros de Zacatecas - Alebrijes de Oaxaca (MEX D2) - BLV MONKEY
 https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-22/03: Mineros de Zacatecas - Alebrijes de Oaxaca (MEX D2) - CHÂU TINH TRÌ
 https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:00-22/03: Sacramento Kings - Boston Celtics (NBA) - BRIANN
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-22/03: Mineros de Zacatecas - Alebrijes de Oaxaca (MEX D2) - Tạ Biên Giới
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:30-22/03: Sacramento Kings - Boston Celtics (NBA) - BRIANN
 https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:00-22/03: Sacramento Kings - Boston Celtics (NBA) - BLV Probi
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:30-22/03: Sacramento Kings - Boston Celtics (NBA) - BLV Probi
 https://code.vthanhtivi.pw/bongda/socolive/189951.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:00-22/03: Sacramento Kings - Boston Celtics (NBA) - BLV CHRIS
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:30-22/03: Sacramento Kings - Boston Celtics (NBA) - BLV CHRIS
 https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:30-22/03: Los Angeles Clippers - Oklahoma City Thunder (NBA) - BLV KING
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-22/03: Los Angeles Clippers - Oklahoma City Thunder (NBA) - BLV KING
 https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:30-22/03: Los Angeles Clippers - Oklahoma City Thunder (NBA) - BLV BEAN
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-22/03: Los Angeles Clippers - Oklahoma City Thunder (NBA) - BLV BEAN
 https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:30-22/03: Los Angeles Clippers - Oklahoma City Thunder (NBA) - IVANN
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-22/03: Los Angeles Clippers - Oklahoma City Thunder (NBA) - IVANN
 https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Club Atletico La Paz - CSyD Dorados de Sinaloa (MEX D2) - RICKHANTER
 https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
@@ -3945,26 +3773,32 @@ https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Club Atletico La Paz - CSyD Dorados de Sinaloa (MEX D2) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV Maximus
 https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV FIREMAN
 https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - Sóc Già Làng
-https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV CÁ
 https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV MONKEY
 https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-22/03: Kyran Shymkent - SD Family (KAZ CUP) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-22/03: Kyran Shymkent - SD Family (KAZ CUP) - BLV DJ Nguyễn
-https://code.vthanhtivi.pw/bongda/socolive/105225.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-22/03: Cimarrones Sonora - Celaya FC (MEX D2) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-22/03: Kyran Shymkent - SD Family (KAZ CUP) - SÙNG A MÚP
 https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-22/03: Kyran Shymkent - SD Family (KAZ CUP) - CHÂU TINH TRÌ
 https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-22/03: Kyran Shymkent - SD Family (KAZ CUP) - Tạ Biên Giới
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-22/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV CÁ
+https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-22/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-22/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV G Hip
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-22/03: Bàn Luận Bóng Đá - Bàn Luận Bóng Đá (TALK SHOW) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-22/03: Phoenix Fuelmasters - TNT Tropang Giga (PBGC) - BLV BEAN
 https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:30-22/03: Southside W - Townsville W (WNBL) - BRIANN
@@ -3975,20 +3809,18 @@ https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-22/03: Ulytau Zhezkazgan - Akademiya Ontustik (KAZ CUP) - BLV MARCO
 https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-22/03: Ulytau Zhezkazgan - Akademiya Ontustik (KAZ CUP) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-22/03: Ulytau Zhezkazgan - Akademiya Ontustik (KAZ CUP) - AMY BABE
 https://code.vthanhtivi.pw/bongda/socolive/102153.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:45-22/03: Magnolia Hotshots - Meralco Bolts (PBGC) - BLV Probi
 https://code.vthanhtivi.pw/bongda/socolive/189951.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Serbia(U19)(N) - Latvia(U19) (UEFA U19) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Serbia(U19)(N) - Latvia(U19) (UEFA U19) - BLV BRUCE
 https://code.vthanhtivi.pw/bongda/socolive/206851.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Serbia(U19)(N) - Latvia(U19) (UEFA U19) - BLV BEE
 https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Serbia(U19)(N) - Latvia(U19) (UEFA U19) - BLV POPPY
 https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Serbia(U19)(N) - Latvia(U19) (UEFA U19) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Seoul Knights - Goyang (KBL) - BRIANN
 https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 17:00-22/03: Seoul Knights - Goyang (KBL) - IVANN
@@ -4023,16 +3855,34 @@ https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-22/03: Czech Republic(U19)(N) - Croatia(U19) (UEFA U19) - HANAH
 https://code.vthanhtivi.pw/bongda/socolive/107307.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:15-22/03: Nepal - Laos (INTERF) - BLV TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:15-22/03: Nepal - Laos (INTERF) - BLV PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:15-22/03: Nepal - Laos (INTERF) - BLV MONKEY
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:15-22/03: Nepal - Laos (INTERF) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:30-22/03: Myanmar - India (INTERF) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:30-22/03: Myanmar - India (INTERF) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:30-22/03: Myanmar - India (INTERF) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:30-22/03: Myanmar - India (INTERF) - BLV KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:30-22/03: Myanmar - India (INTERF) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Israel(U19) - Poland(U19) (UEFA U19) - BABY BOY
 https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Israel(U19) - Poland(U19) (UEFA U19) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Israel(U19) - Poland(U19) (UEFA U19) - BLV LONG
 https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Israel(U19) - Poland(U19) (UEFA U19) - SUNNY
 https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Israel(U19) - Poland(U19) (UEFA U19) - HANAH
 https://code.vthanhtivi.pw/bongda/socolive/107307.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Israel(U19) - Poland(U19) (UEFA U19) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-22/03: Neftyanik Omsk W - Enisey Krasnoyarsk W (RWBL) - BLV Probi
 https://code.vthanhtivi.pw/bongda/socolive/189951.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-22/03: Norway(U19)(N) - Romania(U19) (UEFA U19) - BLV POPPY
@@ -4045,14 +3895,10 @@ https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-22/03: Norway(U19)(N) - Romania(U19) (UEFA U19) - BLV Maximus
 https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-22/03: Iceland(U19)(N) - Turkiye(U19) (UEFA U19) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-22/03: Iceland(U19)(N) - Turkiye(U19) (UEFA U19) - BLV TAM MAO
 https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-22/03: Iceland(U19)(N) - Turkiye(U19) (UEFA U19) - BLV BEE
 https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-22/03: CBK Mersin W - Bourges W (WEL) - BLV KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:30-22/03: Parma Perm - Astana (VTBUL) - BLV BEAN
 https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Nigeria(U23) - Guinea(U23) (OPAF) - LUCY
@@ -4063,16 +3909,16 @@ https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Leixoes(U23) - CD Mafra U23 (POR LRU23) - BLV PEWPEW
 https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Leixoes(U23) - CD Mafra U23 (POR LRU23) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Leixoes(U23) - CD Mafra U23 (POR LRU23) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Belgium(U19)(N) - Slovenia(U19) (UEFA U19) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Leixoes(U23) - CD Mafra U23 (POR LRU23) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Belgium(U19)(N) - Slovenia(U19) (UEFA U19) - BLV KHÔNG NGỦ
 https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Belgium(U19)(N) - Slovenia(U19) (UEFA U19) - Tạ Biên Giới
 https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Belgium(U19)(N) - Slovenia(U19) (UEFA U19) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Benin - Rwanda (CAF NC) - A PHẠCH
 https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-22/03: Benin - Rwanda (CAF NC) - BLV BRUCE
@@ -4097,12 +3943,8 @@ https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Denmark(U19) - Spain(U19) (UEFA U19) - BLV KAIDO
 https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Denmark(U19) - Spain(U19) (UEFA U19) - BLV FANTA
-https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Denmark(U19) - Spain(U19) (UEFA U19) - BLV MÍM
 https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Denmark(U19) - Spain(U19) (UEFA U19) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Denmark(U19) - Spain(U19) (UEFA U19) - BLV PHI HÀNH
 https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Denmark(U19) - Spain(U19) (UEFA U19) - BLV EDWARD
@@ -4111,5 +3953,259 @@ https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Egypt(U23) - Zambia(U23) (OPAF) - BLV Củ Chuối
 https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: Egypt(U23) - Zambia(U23) (OPAF) - BLV DJ Nguyễn
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-22/03: CBK Mersin W - Bourges W (WEL) - BLV KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:00-23/03: France(U19) - Northern Ireland(U19) (UEFA U19) - BLV BRUCE
+https://code.vthanhtivi.pw/bongda/socolive/206851.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:00-23/03: France(U19) - Northern Ireland(U19) (UEFA U19) - BLV CHRIS
+https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:00-23/03: France(U19) - Northern Ireland(U19) (UEFA U19) - BLV TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-23/03: Lyonnais Women's - Chelsea FC Women's (UEFA WUC) - BLV TAP
+https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-23/03: Lyonnais Women's - Chelsea FC Women's (UEFA WUC) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-23/03: Lyonnais Women's - Chelsea FC Women's (UEFA WUC) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-23/03: Lyonnais Women's - Chelsea FC Women's (UEFA WUC) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 00:45-23/03: Lyonnais Women's - Chelsea FC Women's (UEFA WUC) - BLV MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-23/03: Portugal(U19) - Sweden(U19) (UEFA U19) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-23/03: Portugal(U19) - Sweden(U19) (UEFA U19) - BLV LONG
+https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-23/03: Portugal(U19) - Sweden(U19) (UEFA U19) - BLV KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-23/03: Portugal(U19) - Sweden(U19) (UEFA U19) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 01:00-23/03: Sierra Leone - Sao Tome & Principe (CAF NC) - BLV MARCO
+https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:00-23/03: Ukraine(U19)(N) - Luxembourg(U19) (UEFA U19) - BLV TIGER
+https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:00-23/03: Ukraine(U19)(N) - Luxembourg(U19) (UEFA U19) - BLV EDWARD
+https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:30-23/03: England(U20) - Germany(U20) (INT EL20) - BLV PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:30-23/03: England(U20) - Germany(U20) (INT EL20) - BLV Củ Chuối
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:30-23/03: England(U19) - Hungary(U19) (UEFA U19) - RICKHANTER
+https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:30-23/03: England(U19) - Hungary(U19) (UEFA U19) - BLV CHRIS
+https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-23/03: Republic of Ireland - Latvia (INTERF) - BLV BRUCE
+https://code.vthanhtivi.pw/bongda/socolive/206851.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 02:45-23/03: Republic of Ireland - Latvia (INTERF) - BLV DJ Nguyễn
 https://code.vthanhtivi.pw/bongda/socolive/105225.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-23/03: Paris Saint Germain Women's - Wolfsburg Women's (UEFA WUC) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-23/03: Paris Saint Germain Women's - Wolfsburg Women's (UEFA WUC) - BLV TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 03:00-23/03: Paris Saint Germain Women's - Wolfsburg Women's (UEFA WUC) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-23/03: CD Alacranes de Durango - Pumas Tabasco (MEX D2) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-23/03: CD Alacranes de Durango - Pumas Tabasco (MEX D2) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-23/03: CD Alacranes de Durango - Pumas Tabasco (MEX D2) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-23/03: CD Alacranes de Durango - Pumas Tabasco (MEX D2) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-23/03: CD Alacranes de Durango - Pumas Tabasco (MEX D2) - BLV MONKEY
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:00-23/03: CD Alacranes de Durango - Pumas Tabasco (MEX D2) - Tạ Biên Giới
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-23/03: Millonarios F.C. - Deportivo Pasto (COL D1) - RICKHANTER
+https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-23/03: Millonarios F.C. - Deportivo Pasto (COL D1) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-23/03: Millonarios F.C. - Deportivo Pasto (COL D1) - DECO
+https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-23/03: Millonarios F.C. - Deportivo Pasto (COL D1) - BLV CÁ
+https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-23/03: Millonarios F.C. - Deportivo Pasto (COL D1) - Sóc Già Làng
+https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:00-23/03: Millonarios F.C. - Deportivo Pasto (COL D1) - BLV GOT
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-23/03: Raya2 Expansion - Correcaminos UAT (MEX D2) - BLV  TYPN
+https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-23/03: Raya2 Expansion - Correcaminos UAT (MEX D2) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-23/03: Raya2 Expansion - Correcaminos UAT (MEX D2) - DƯƠNG QUÁ
+https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-23/03: Raya2 Expansion - Correcaminos UAT (MEX D2) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-23/03: Raya2 Expansion - Correcaminos UAT (MEX D2) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 08:05-23/03: Raya2 Expansion - Correcaminos UAT (MEX D2) - BLV BEE
+https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:00-23/03: CSD Xelaju MC - Deportivo Mixco (GUA D1) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:00-23/03: CSD Xelaju MC - Deportivo Mixco (GUA D1) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 09:00-23/03: CSD Xelaju MC - Deportivo Mixco (GUA D1) - BLV G Hip
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-23/03: El Salvador - Honduras (INTERF) - A PHẠCH
+https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-23/03: El Salvador - Honduras (INTERF) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-23/03: El Salvador - Honduras (INTERF) - BLV MONKEY
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-23/03: El Salvador - Honduras (INTERF) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-23/03: El Salvador - Honduras (INTERF) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:00-23/03: El Salvador - Honduras (INTERF) - BLV CÁ
+https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-23/03: Venados FC - Club Chivas Tapatio (MEX D2) - DECO
+https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-23/03: Venados FC - Club Chivas Tapatio (MEX D2) - Sóc Già Làng
+https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-23/03: Venados FC - Club Chivas Tapatio (MEX D2) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-23/03: Venados FC - Club Chivas Tapatio (MEX D2) - Tạ Biên Giới
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 10:05-23/03: Venados FC - Club Chivas Tapatio (MEX D2) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: New Zealand - China (INTERF) - A PHẠCH
+https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: New Zealand - China (INTERF) - SUNNY
+https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: New Zealand - China (INTERF) - BLV DJ Nguyễn
+https://code.vthanhtivi.pw/bongda/socolive/105225.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: New Zealand - China (INTERF) - Tạ Biên Giới
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: New Zealand - China (INTERF) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: New Zealand - China (INTERF) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: Yassy Turkistan - FK Khan Tengri (KAZ CUP) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: Yassy Turkistan - FK Khan Tengri (KAZ CUP) - BLV TIGER
+https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 13:00-23/03: Yassy Turkistan - FK Khan Tengri (KAZ CUP) - BLV TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-23/03: Solomon Islands - Vanuatu (INTERF) - BLV  TYPN
+https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-23/03: Solomon Islands - Vanuatu (INTERF) - BLV BEE
+https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-23/03: Solomon Islands - Vanuatu (INTERF) - DƯƠNG QUÁ
+https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 14:00-23/03: Solomon Islands - Vanuatu (INTERF) - BLV KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-23/03: Turan Turkistan - FK Zhetisay (KAZ CUP) - SUNNY
+https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-23/03: Turan Turkistan - FK Zhetisay (KAZ CUP) - BLV PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 16:00-23/03: Turan Turkistan - FK Zhetisay (KAZ CUP) - BLV Củ Chuối
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-23/03: Rio Ave(U23) - Farense(U23) (POR LRU23) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-23/03: Rio Ave(U23) - Farense(U23) (POR LRU23) - BLV MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-23/03: Rio Ave(U23) - Farense(U23) (POR LRU23) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-23/03: Rio Ave(U23) - Farense(U23) (POR LRU23) - BLV G Hip
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-23/03: Rio Ave(U23) - Farense(U23) (POR LRU23) - BLV MARCO
+https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 18:00-23/03: Rio Ave(U23) - Farense(U23) (POR LRU23) - YUKI
+https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:00-23/03: Hong Kong - Singapore (INTERF) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:00-23/03: Hong Kong - Singapore (INTERF) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:00-23/03: Hong Kong - Singapore (INTERF) - BLV GOT
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:00-23/03: Hong Kong - Singapore (INTERF) - BLV EDWARD
+https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:00-23/03: Hong Kong - Singapore (INTERF) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 19:00-23/03: Hong Kong - Singapore (INTERF) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: Madagascar - Central African Republic (CAF NC) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: Madagascar - Central African Republic (CAF NC) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: Madagascar - Central African Republic (CAF NC) - BLV LONG
+https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: Madagascar - Central African Republic (CAF NC) - BLV KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: Madagascar - Central African Republic (CAF NC) - BLV TAP
+https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: Madagascar - Central African Republic (CAF NC) - AMY BABE
+https://code.vthanhtivi.pw/bongda/socolive/102153.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: South Africa(U23) - Congo U23 (OPAF) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: South Africa(U23) - Congo U23 (OPAF) - BLV CHRIS
+https://code.vthanhtivi.pw/bongda/socolive/158841.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: South Africa(U23) - Congo U23 (OPAF) - DƯƠNG QUÁ
+https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 20:00-23/03: South Africa(U23) - Congo U23 (OPAF) - HANAH
+https://code.vthanhtivi.pw/bongda/socolive/107307.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-23/03: Malaysia - Turkmenistan (INTERF) - A PHẠCH
+https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-23/03: Malaysia - Turkmenistan (INTERF) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-23/03: Malaysia - Turkmenistan (INTERF) - BLV MONKEY
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-23/03: Malaysia - Turkmenistan (INTERF) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/115493.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:00-23/03: Malaysia - Turkmenistan (INTERF) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:30-23/03: FC Copenhagen - Brann (INT CF) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:30-23/03: FC Copenhagen - Brann (INT CF) - BLV PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:30-23/03: FC Copenhagen - Brann (INT CF) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 21:30-23/03: FC Copenhagen - Brann (INT CF) - YUKI
+https://code.vthanhtivi.pw/bongda/socolive/101511.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-23/03: Kazakhstan - Slovenia (UEFA EURO) - BLV TAP
+https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-23/03: Kazakhstan - Slovenia (UEFA EURO) - RICKHANTER
+https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-23/03: Kazakhstan - Slovenia (UEFA EURO) - DECO
+https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-23/03: Kazakhstan - Slovenia (UEFA EURO) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-23/03: Kazakhstan - Slovenia (UEFA EURO) - BLV BEE
+https://code.vthanhtivi.pw/bongda/socolive/181398.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:00-23/03: Kazakhstan - Slovenia (UEFA EURO) - AMY BABE
+https://code.vthanhtivi.pw/bongda/socolive/102153.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Ghana - Angola (CAF NC) - BLV  TYPN
+https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Ghana - Angola (CAF NC) - BLV BRUCE
+https://code.vthanhtivi.pw/bongda/socolive/206851.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Ghana - Angola (CAF NC) - Sóc Già Làng
+https://code.vthanhtivi.pw/bongda/socolive/116784.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Ghana - Angola (CAF NC) - BLV LONG
+https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Ghana - Angola (CAF NC) - BLV G Hip
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Zambia - Lesotho (CAF NC) - BLV TIGER
+https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Zambia - Lesotho (CAF NC) - BLV MARCO
+https://code.vthanhtivi.pw/bongda/socolive/172256.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Zambia - Lesotho (CAF NC) - BLV Củ Chuối
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Zambia - Lesotho (CAF NC) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Congo - South Sudan (CAF NC) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Congo - South Sudan (CAF NC) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Congo - South Sudan (CAF NC) - BLV EDWARD
+https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Congo - South Sudan (CAF NC) - BLV KAIDO
+https://code.vthanhtivi.pw/bongda/socolive/143449.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Fenerbahce - Zenit St.Petersburg (INT CF) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Fenerbahce - Zenit St.Petersburg (INT CF) - BLV MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Fenerbahce - Zenit St.Petersburg (INT CF) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Fenerbahce - Zenit St.Petersburg (INT CF) - BLV DJ Nguyễn
+https://code.vthanhtivi.pw/bongda/socolive/105225.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 22:59-23/03: Fenerbahce - Zenit St.Petersburg (INT CF) - BLV GOT
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
