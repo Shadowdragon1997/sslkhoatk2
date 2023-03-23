@@ -66,19 +66,21 @@ http://khoatv.quabnv.tk:4022/udp/225.1.1.94:30120
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 13 độ trễ thấp
 http://khoatv.quabnv.tk:4022/udp/225.1.1.95:30120
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 14 độ trễ thấp
-http://khoatv.quabnv.tk:4022/udp/225.1.1.97:30120
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 15 độ trễ thấp
-http://khoatv.quabnv.tk:4022/udp/225.1.1.100:30120
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 16 độ trễ thấp
-http://khoatv.quabnv.tk:4022/udp/225.1.1.101:30120
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 17 độ trễ thấp
-http://khoatv.quabnv.tk:4022/udp/225.1.1.11:30120
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 18 độ trễ thấp
 http://khoatv.quabnv.tk:4022/udp/225.1.1.96:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 15 độ trễ thấp
+http://khoatv.quabnv.tk:4022/udp/225.1.1.97:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 16 độ trễ thấp
+http://khoatv.quabnv.tk:4022/udp/225.1.1.100:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 17 độ trễ thấp
+http://khoatv.quabnv.tk:4022/udp/225.1.1.101:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 18 độ trễ thấp
+http://khoatv.quabnv.tk:4022/udp/225.1.1.11:30120
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 19 độ trễ thấp
 http://khoatv.quabnv.tk:4022/udp/225.1.1.35:30120
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 20 độ trễ thấp
-http://khoatv.quabnv.tk:4022/udp/225.1.1.36:30120
+http://khoatv.quabnv.tk:4022/udp/225.1.1.29:30120
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT 21 độ trễ thấp
+http://khoatv.quabnv.tk:4022/udp/225.1.1.26:30120
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 #EXTVLCOPT:http-user-agent=KhoaTivi
