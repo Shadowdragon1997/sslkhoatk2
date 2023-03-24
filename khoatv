@@ -218,8 +218,6 @@ https://code.vthanhtivi.pw/list/vieonevent/cb296153-47b6-4933-97db-c459693436c6/
 https://code.vthanhtivi.pw/list/vieonevent/6e9099a8-19ab-48bf-a494-48367b16146e/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/08/2awgebxs_banner149d032bff2d6098476710b0a30f15a0a_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 17:00-02/04: Go Ahead Eagles - AFC Ajax (Vòng 27 - VĐQG Hà Lan 2022/23)
 https://code.vthanhtivi.pw/list/vieonevent/e201dc5b-1012-44b0-8da9-fc1811ecfc0d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/08/7kdsv94b_banner606a8f5f5052cc01aaaa2c602e24c5eb_1920_1080.jpg" group-title="🔴| Livestream bóng đá", 19:15-02/04: Sparta Rotterdam - Feyenoord (Vòng 27 - VĐQG Hà Lan 2022/23)
-https://code.vthanhtivi.pw/list/vieonevent/5b4666fb-daa6-434d-8985-dc5681ca2eb7/playlist.m3u8
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
@@ -1409,15 +1407,13 @@ https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded7
 https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/xhvh5oaz_banner067faa92d82e85b3145b0d83f5ae3d82_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-24/03: Quay số mở thưởng Vietlott 24/03/2023
-https://code.vthanhtivi.pw/list/vieonevent/1b9ad3a2-2574-4490-90ec-9a08d258c19b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/02/20/uqw0ku2f_bannerbc9fde65dac3deaa67e658ef6ab23294_1920_1080.jpg" group-title="🗓| Sự kiện", 18:00-25/03: Quay số mở thưởng Vietlott 25/03/2023
+https://code.vthanhtivi.pw/list/vieonevent/bec37e67-445a-4f63-ac48-c51971d09f90/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/21/7zn9wwxb_banner0365b77a805760a16de89e0f797242b1_1920_1080.jpg" group-title="🗓| Sự kiện", 19:00-26/03: Show Thời Trang Sunrise To Dawn
 https://code.vthanhtivi.pw/list/vieonevent/93879931-1f5e-4283-97fa-bd56ff00e786/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/24/2s8qauaf_bannered636851dd15e56d8af62f4d1bcb92b5_1920_1080.jpg" group-title="🗓| Sự kiện", 16:00-31/03: Thảm đỏ show diễn Shadow - Le Thanh Hoa Fashion Show 2023
+https://code.vthanhtivi.pw/list/vieonevent/89a317ac-2ef1-4134-8900-7106ca7ed85e/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/89/91/12/2a/ae/e1/8912a-lkpop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 11:00-24/03: K - PoP
-https://code.vthanhtivi.pw/list/mytvevent/7334/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/91/1e/e4/4e/e8/87/91e4e-ledm-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 12:30-24/03: EDM
-https://code.vthanhtivi.pw/list/mytvevent/7335/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/bd/d9/97/71/17/7a/bd971-ldibngcyhnhphctp11-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-24/03: Dưới Bóng Cây Hạnh Phúc - Tập 44
 https://code.vthanhtivi.pw/list/mytvevent/6912/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/64/43/3b/b6/68/82/643b6-lqutngtith6tnglcanhau-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:00-24/03: Quà tặng Tối thứ 6 - Từng là của nhau
@@ -1430,6 +1426,10 @@ https://code.vthanhtivi.pw/list/mytvevent/7213/playlist.m3u8
 https://code.vthanhtivi.pw/list/mytvevent/7352/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ab/b7/72/22/29/99/ab722-lgiivthuttnghpcagewarriors2023skin151-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:00-25/03: Giải võ thuật Tổng hợp Cage Warriors 2023 - Sự kiện 151
 https://code.vthanhtivi.pw/list/mytvevent/7337/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/1d/d9/95/57/7a/ae/1d957-lthyinvsbvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-25/03: Thụy Điển vs Bỉ - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7355/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/21/16/68/8d/dd/db/2168d-lchscvsbalanvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:40-25/03: CH Séc vs Ba Lan - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7354/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/3c/c7/7d/dc/c8/87/3c7dc-lphpvshlanvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:40-25/03: Pháp vs Hà Lan - Vòng loại Euro 2024
 https://code.vthanhtivi.pw/list/mytvevent/7353/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d9/99/9a/a3/3d/d1/d99a3-lhiphop-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 08:00-25/03: Hip Hop
@@ -1438,18 +1438,50 @@ https://code.vthanhtivi.pw/list/mytvevent/7338/playlist.m3u8
 https://code.vthanhtivi.pw/list/mytvevent/7339/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ee/e2/24/43/32/29/ee243-ltheheroinsidefashionshow-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:00-25/03: Fashion Show: The Hero Inside
 https://code.vthanhtivi.pw/list/mytvevent/7347/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ab/b8/8a/ad/d5/52/ab8ad-lkhihoatnhyulintp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-25/03: Khi Hoa Tình Yêu Lại Nở - Tập 26
-https://code.vthanhtivi.pw/list/mytvevent/7316/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/d0/0b/b2/2c/ce/e9/d0b2c-ldareyoubncdmma2tp26-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-25/03: Dare You - Bạn Có Dám - Mùa 2 - Tập 26
 https://code.vthanhtivi.pw/list/mytvevent/5047/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ab/b8/8a/ad/d5/52/ab8ad-lkhihoatnhyulintp20-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-25/03: Khi Hoa Tình Yêu Lại Nở - Tập 26
+https://code.vthanhtivi.pw/list/mytvevent/7316/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/b5/5d/d8/88/8c/c5/b5d88-lphngtrmytvtnhca-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-25/03: Phòng trà MyTV - Tình ca
 https://code.vthanhtivi.pw/list/mytvevent/7340/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/45/5b/b2/2a/a7/73/45b2a-lscotlandvsospvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:55-25/03: Scotland vs Đảo Síp - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7356/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/37/7f/f3/3e/eb/b7/37f3e-lbelarusvsthysvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:45-25/03: Belarus vs Thụy Sỹ - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7358/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/8a/a3/31/10/0b/ba/8a310-larmeniavsthnhkvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 23:55-25/03: Armenia vs Thổ Nhĩ Kỳ - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7357/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/41/1c/cf/f4/4f/f3/41cf4-ltybannhavsnauyvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:30-26/03: Tây Ban Nha vs Na Uy - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7359/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/0c/c7/7b/b9/97/78/0c7b9-lgiaohuquctcvsperu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:40-26/03: Giao hữu Quốc tế: Đức vs Peru
+https://code.vthanhtivi.pw/list/mytvevent/7371/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/86/6d/d9/92/2a/a7/86d92-lcroatiavsxwalesvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 02:40-26/03: Croatia vs Xứ Wales - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7360/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/23/3b/b0/03/3c/c0/23b03-llatino-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 10:30-26/03: Latino
 https://code.vthanhtivi.pw/list/mytvevent/7341/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f6/65/58/85/56/66/f6585-ldance-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 14:30-26/03: Dance
 https://code.vthanhtivi.pw/list/mytvevent/7342/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/9e/e4/4d/d5/5e/ec/9e4d5-lkazakhstanvsanmchvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 19:45-26/03: Kazakhstan vs Đan Mạch - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7361/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/fe/e0/0b/bc/c9/99/fe0bc-limhnththaocagewarriors150ccchinbinhchuu-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:30-26/03: Điểm hẹn Thể thao: Cage Warriors 150 - Các chiến binh Châu Âu
+https://code.vthanhtivi.pw/list/mytvevent/7372/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f8/82/28/85/56/68/f8285-lcountry-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 21:30-26/03: Country
 https://code.vthanhtivi.pw/list/mytvevent/7343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/dc/c7/72/2d/dd/d3/dc72d-lanhvsukrainevngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:55-26/03: Anh vs Ukraine - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7362/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/85/5d/d7/77/76/67/85d77-lanhvsukrainevngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:55-26/03: Anh vs Ukraine - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7364/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/a1/17/7e/e1/15/52/a17e1-lsloveniavssanmarinovngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:55-26/03: Slovenia vs San Marino - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7365/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/19/9a/a3/3b/b0/06/19a3b-llichtensteinvsicelandvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 22:55-26/03: Lichtenstein vs Iceland - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7366/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/77/72/2e/e9/9d/db/772e9-lluxembourgvsbonhavngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:30-27/03: Luxembourg vs Bồ Đào Nha - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7370/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ea/a3/3c/c3/31/12/ea3c3-lmaltavsitaliavngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:40-27/03: Malta vs Italia - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7367/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/50/06/68/8c/c3/3b/5068c-lbcirelandvsphnlanvngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:40-27/03: Bắc Ireland vs Phần Lan - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7368/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/73/36/65/5f/f6/6f/7365f-lslovakiavsbosniaherzegovinavngloieuro2024-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 01:40-27/03: Slovakia vs Bosnia Herzegovina - Vòng loại Euro 2024
+https://code.vthanhtivi.pw/list/mytvevent/7369/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/ec/cb/b9/9a/a0/0c/ecb9a-lththchcngthntngs627-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 09:00-27/03: Thử Thách Cùng Thần Tượng - Số 647
 https://code.vthanhtivi.pw/list/mytvevent/4470/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://s7769.cdn.mytvnet.vn/vimages/345x194/f1/16/60/07/7c/c8/f1607-lphimgtinaythngthcphimbomtnchiurpngaytrnmytv-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 20:00-27/03: Phim Gì Tối Nay? Thưởng Thức Phim Bom Tấn Chiếu Rạp Ngay Trên MyTV
@@ -1465,25 +1497,8 @@ https://code.vthanhtivi.pw/getlink/tv360/148/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/08/1679622443893/7d6670720268_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Đá - Scotland - Đảo Síp             
 https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/20/10/1634701183681/c3fc5639e21f_640_360.jpg" group-title="🗓| Sự kiện", 11:30 | Tin Thể Thao - News Room             
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YVsofgA9p2+HwQqyco+y1w", "kid":"rw77nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"oYQX165nIAm/XTmCBTYXkw", "kid":"91L7nIzvS1CUhXG/fzptVA" },{ "kty":"oct", "k":"w3Jow+DMz6Ph9Z5wA+vIlQ", "kid":"8GM/5dvvS1CUhXG/fzptVA" } ], "type":"temporary" }
-https://sglive.akamaized.net/bpk-tv/prod_kplus_sport1hd/default/i.mpd
-
-
-
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/14/1679384368502/d836efa837ce_640_360.jpg" group-title="🗓| Sự kiện", 12:30 | Golf - ASIAN TOUR 2023   WORLD CITY CHAMPIONSHIP   NGÀY2 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/10/1679370480484/56eddb797616_640_360.jpg" group-title="🗓| Sự kiện", 13:00 | Cầu Lông - CIPUTRA HANOI-YONEX SUNRISE VIETNAM INTERNATIONAL CHALLENGE 2023   TỨ KẾT 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/16/14/1678950265257/11f56b946b80_640_360.jpg" group-title="🗓| Sự kiện", 16:00 | Bóng Rổ - VBA 3X3 PRIME 2023   CHẶNG 2 - NHA TRANG  NGÀY 1 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/22/10/1679455347909/254f5be63b93_640_360.jpg" group-title="🗓| Sự kiện", 16:45 | Bóng Đá Futsal - THÁI SƠN BẮC VS SAVINEST KHÁNH HÒA 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/174/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/15/1679646603508/8566688c7dd1_640_360.jpg" group-title="🗓| Sự kiện", 15:30 | Billiards - Joy Heyball Grand Tournament 2023             
+https://code.vthanhtivi.pw/getlink/tv360/9820/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/22/10/1679454567441/125c35053c36_640_360.jpg" group-title="🗓| Sự kiện", 19:00 | Bóng Chuyền - HÓA CHẤT ĐỨC GIANG TIA SÁNG  VS  THAN QUẢNG NINH 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
@@ -1592,12 +1607,24 @@ https://code.vthanhtivi.pw/getlink/tv360/194/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/23/12/1679550524307/6395221d12e8_640_360.jpg" group-title="🗓| Sự kiện", 21:00 | Bóng Chuyền - BÓNG CHUYỀN CÚP HÙNG VƯƠNG 2023   TRẬN 8 - CHUNG KẾT NAM 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/170/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/10/1679629411646/18e1d3ff7263_640_360.jpg" group-title="🗓| Sự kiện", 1:45 | Bóng Đá - Malta - Italia 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/16/1679651429420/d8221df2331c_640_360.jpg" group-title="🗓| Sự kiện", 1:45 | Bóng Đá - Bắc Ireland - Phần Lan 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2458/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/10/1679629664582/d34c0c503d67_640_360.jpg" group-title="🗓| Sự kiện", 1:45 | Bóng Đá - Slovakia - Bosnia & Herzegovina 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/148/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/10/1679629701392/9ac28b94c38a_640_360.jpg" group-title="🗓| Sự kiện", 1:45 | Bóng Đá - Luxembourg - Bồ Đào Nha 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/24/11/1679632655867/227a347e8e4b_640_360.jpg" group-title="🗓| Sự kiện", 23:00 | Bóng Đá - Hy Lạp - Lít-va 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
+https://code.vthanhtivi.pw/getlink/tv360/2554/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/20/15/1679300286279/1e414517f0d5_640_360.jpg" group-title="🗓| Sự kiện", 22:00 | Tennis - ATP WORLD TOUR 1000   MIAMI OPEN 2023   NGÀY 5 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
 https://code.vthanhtivi.pw/getlink/event360/173/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/14/1679384325835/b22600986ffe_640_360.jpg" group-title="🗓| Sự kiện", 22:00 | Golf - PGA TOUR 2023   WORLD GOLF CHAMPIONSHIP - DELL TECHNOLOGIES MATCH PLAY   NGÀY 5 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0            
-https://code.vthanhtivi.pw/getlink/event360/169/playlist.m3u8
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="https://lh3.googleusercontent.com/-9hSzP0gRr-8/YpEMswmR0jI/AAAAAAAAA3c/q4pLMiFGsAwPG-pkW3ufl7RW2HFfkr8KQCNcBGAsYHQ/22.jpg", ABC TV  
@@ -3681,6 +3708,38 @@ https://code.vthanhtivi.pw/bongda/vebo/2WCQA0Q.m3u8|Referer=https://player.4shar
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:30-24/03: LA Clippers vs Oklahoma City Thunder - NBA (Người Mỏ Vịt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/bongda/vebo/rcxNMdG.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 02:45-25/03: France vs Netherlands - UEFA European Championship (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/73Qnvdy.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 02:45-25/03: Czech vs Poland - UEFA European Championship (Moon Knight)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/EbRAYIk.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 02:45-25/03: Sweden vs Belgium - UEFA European Championship (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/n23Jc4a.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 02:45-25/03: Serbia vs Lithuania - UEFA European Championship (Người Bún)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/ta8Ntq8.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 06:00-25/03: Boston Celtics vs Indiana Pacers - NBA (Người Mỏ Vịt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/tmrtqXD.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:00-25/03: Golden State Warriors vs Philadelphia 76ers - NBA (Người Bú)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/JhvZgWO.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:00-25/03: Sacramento Kings vs Phoenix Suns - NBA (Người Mỏ Vịt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/ut5T3Gm.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:30-25/03: Los Angeles Lakers vs Oklahoma City Thunder - NBA (Người Đá)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/PUc2dMc.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 16:00-24/03: Australia - Ecuador - Friendlies (Giàng A Lử)
