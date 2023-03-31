@@ -672,7 +672,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"nf+uPdg0hf8oCDzMos5F1g","kid":"yqisWgO2yJ4F+Z5/PCxjNg"},{"kty":"oct","k":"cUxWGoGGuPcoS0XcANAFeQ","kid":"EuysWgO2yJ4F+Z5/PCxjNg"},{"kty":"oct","k":"aCvstUN2afCNnd0eubeTbw","kid":"C/3wo1K2yJ4F+Z5/PCxjNg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sRy1PhAwlnOQ7iP+lNukdA","kid":"+S3Li3EerpUz+JC3L4U11g"},{"kty":"oct","k":"bwvKD7ZgZy5w0zGN09A4sQ","kid":"QXHLi3EerpUz+JC3L4U11g"},{"kty":"oct","k":"VOQl4T7w1mD/plMTnC/DTA","kid":"OoIP1MAerpUz+JC3L4U11g"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -697,7 +697,7 @@ https://livevlive.vtvcab.vn/K_CINE_6962/m20_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"blJMxLFWVrvj6dWIg0SNDw","kid":"bLAQKJQNIbfHNBlDr43gfA"},{"kty":"oct","k":"ZAHdv9b/x62Y4zjYbeBGcg","kid":"tPQQKJQNIbfHNBlDr43gfA"},{"kty":"oct","k":"WkiQudN8TSjHM9pc7GFupg","kid":"rQVUceMNIbfHNBlDr43gfA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uuxka6BETIRnuZ7f2xEm4Q","kid":"0y2qTOn1UeyuvdgtW7T//A"},{"kty":"oct","k":"cDpHI4DdZUJj7P3maUHvRg","kid":"G3GqTOn1UeyuvdgtW7T//A"},{"kty":"oct","k":"v/GoZ7DWK7X6Jim1C82irQ","kid":"FILulTj1UeyuvdgtW7T//A"}],"type":"temporary"}https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -722,7 +722,7 @@ https://livevlive.vtvcab.vn/K_LIFE_6962/m20_index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FJpYdcJDPcy+k1pfa+hdYw","kid":"/a6ehAGyQWOgLHdsFJp+mw"},{"kty":"oct","k":"JyOkaLDBZ3Ws+5qtDGeD+w","kid":"RfKehAGyQWOgLHdsFJp+mw"},{"kty":"oct","k":"dtunhRSskitrLXVGJdc+5Q","kid":"PgPizVCyQWOgLHdsFJp+mw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FHzl9PDu5Ox6aw+tTwq5aA","kid":"afHLEyIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"1bymmG4iORa8ldNItdxueQ","kid":"sTXLEyIgqP/a/U+QUHDe4w"},{"kty":"oct","k":"kqbDSGSMj5nBxZyOSS7uYw","kid":"qkYPXHEgqP/a/U+QUHDe4w"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -747,7 +747,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"wYbNdHzo6V3pf+Qh7RHTZA","kid":"djbkzVVCF2cUms317e+zpg"},{"kty":"oct","k":"bl22h+BQTn8MFLVI1Ml10w","kid":"vnrkzVVCF2cUms317e+zpg"},{"kty":"oct","k":"7PY4FR2B9XZyEEvmTAUq4w","kid":"t4soFqRCF2cUms317e+zpg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xKzj7uL6RFt+1RRWJQNklA","kid":"3wpUgQPqGRnkDnoyastNFw"},{"kty":"oct","k":"W0Hp+nRQc83SDUwyKpeowg","kid":"J05UgQPqGRnkDnoyastNFw"},{"kty":"oct","k":"ESL2000fKIFE11IQR1KIow","kid":"IF+YylLqGRnkDnoyastNFw"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD MyTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -772,7 +772,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"/RZRmV6+ZC7De7cbpwm1mw","kid":"Y9tOCSKkcB9vx1HSwVZcXA"},{"kty":"oct","k":"NiO1aX8JQRn1A/3I4wSjkA","kid":"qx9OCSKkcB9vx1HSwVZcXA"},{"kty":"oct","k":"UX94Jm/Hqsxdux1ES/TEdQ","kid":"pDCSUnGkcB9vx1HSwVZcXA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xAOZGDzdoOOYRqjAm8497A","kid":"h1kF9LLXJr6ttfPc6x67pg"},{"kty":"oct","k":"H6IoyQ5l7A9pOHQLKiNn5Q","kid":"z50F9LLXJr6ttfPc6x67pg"},{"kty":"oct","k":"Npm52Lg+zDfhifUkisHvBQ","kid":"yK5JPQHXJr6ttfPc6x67pg"}],"type":"temporary"}
 https://sglivevng.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD Vieon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
