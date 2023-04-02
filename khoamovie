@@ -4,6 +4,12 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://hqth.me/infokhoatv
 
+#-*-- Người Ấy Đã Đến -*--#
+#EXTINF:-1 tvg-id="nguoi-ay-da-den" group-title="🇰🇷| Người Ấy Đã Đến - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/02/aa71bbd80f74d900_d3e083ba605dfd75_38133168039923683.jpg", Người Ấy Đã Đến Tập 02
+https://vie.haiphim.com/20230328/26718_ae154110/index.m3u8
+#EXTINF:-1 tvg-id="nguoi-ay-da-den" group-title="🇰🇷| Người Ấy Đã Đến - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/02/aa71bbd80f74d900_d3e083ba605dfd75_38133168039923683.jpg", Người Ấy Đã Đến Tập 01
+https://vie.haiphim.com/20230327/26709_28a17937/index.m3u8
+
 #-*-- Chuyển Mình Rực Rỡ -*--#
 #EXTINF:-1 tvg-id="chuyen-minh-ruc-ro" group-title="🇨🇳| Chuyển Mình Rực Rỡ - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/01/7bd7a1290d416ee6_b171dffbaddcf8ba_46489168035173843.jpg", Chuyển Mình Rực Rỡ Tập 04
 https://kd.hd-bophim.com/20230402/34475_f9ee01f2/index.m3u8
@@ -41,8 +47,10 @@ https://vod-zlr2.tv360.vn/video1/2023/03/31/20/4af10ef1/4af10ef1-c796-40f6-ada2-
 https://vod-ali3.tv360.vn/video1/2023/03/31/19/ce9ebeb1/ce9ebeb1-770f-48a4-b72c-ccfc4d6b083e_4_.m3u8
 
 #-*-- Luật Sư Thời Joseon -*--#
+#EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 02
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20230402/9e812789fd50403009ca3911359a2215.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 01
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20230401/78e9843f42887b995e2229abdc735743.mp4/chunklist.m3u8
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230401/joseonattorneyamorality-2023-kr-001-1080p/2808be3882e9d0e32e452ad669165b7e-1080p.mp4/chunklist.m3u8
 
 #-*-- Vô Gian -*--#
 #EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 03
@@ -262,17 +270,17 @@ https://kd.hd-bophim.com/20230327/34194_3b80fbc3/index.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 22
 https://kd.hd-bophim.com/20230327/34193_7a97aab8/index.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 21
-https://kd.hd-bophim.com/20230325/34129_aaad9497/index.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230401/roadhome-2023-cn-021-1680350005/1589ed2be3268b8e33f192ca7e3637ed-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 20
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20230331/304f80f86206b2e5ad5e4358230f4bc0.mp4/chunklist.m3u8
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230331/roadhome-2023-cn-020-1680268133/c441fe8399409c21aaef0dc5d152ba4a-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 19
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230330/roadhome-2023-cn-019-1680190341/8a727a761e302ff3c42fe5132050e39e-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 18
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230330/roadhome-2023-cn-018-1680187997/1ae5ceb5df07ce985dea37f9d5061b9c-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 17
-https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230329/roadhome-2023-cn-017-1680082343/c05e129329683bfd2ae5d217581c4539-1080p.mp4/chunklist.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230401/roadhome-2023-cn-017-tm-1680335812/5881a7ccd175cd95e05aafaac0f07882-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 16
-https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230329/roadhome-2023-cn-016-1680082343/ea6d899639f7a2f7bdf987b17031684e-1080p.mp4/chunklist.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230401/roadhome-2023-cn-016-tm-1680335812/012854e3f5c79f75688d2f6852d4e19d-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 15
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230331/roadhome-2023-cn-015-tm-1680246763/2d38b0e4efc647b6c9a2e2e02176ce60-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="quy-lo-duong-ve-nha" group-title="🇨🇳| Quy Lộ Đường Về Nhà - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/9746dc7d165b6138_a6ac226b371ad628_38306167711816653.jpg", Quy Lộ Đường Về Nhà Tập 14
