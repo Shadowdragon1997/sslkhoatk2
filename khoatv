@@ -1109,21 +1109,21 @@ http://222.254.60.215:8889/ultratv.php?id=76153
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://vips-livecdn.fptplay.net/hda3/australiaplus_4000.stream/chunklist.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.2.21:30120
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://vips-livecdn.fptplay.net/hda3/bloomberg_4000.stream/chunklist.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.2.91:30120
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.227:30120
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-https://vips-livecdn.fptplay.net/hda3/cnn_4000.stream/chunklist.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.242:30120
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.202:30120
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.46:30120
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://code.vthanhtivi.pw/getlink/vieon/france-24-english-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
@@ -1131,28 +1131,28 @@ https://code.vthanhtivi.pw/getlink/vieon/france-24-english-hd/playlist.m3u8
 https://code.vthanhtivi.pw/getlink/vieon/kbs-world/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHK World
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.47:30120
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.200:30120
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRT World
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
 #-*-- Ẩm thực -*--#
 #EXTINF:-1 tvg-id="afnhd" group-title="🍽| Ẩm thực" tvg-logo="https://cdn.hqth.me/logo/thumbs/263.png", Asian Food Network
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.198:30120
 
 #-*-- Khám phá -*--#
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.231:30120
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.223:30120
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+http://khoatv.quabnv.tk:4022/udp/225.1.1.238:30120
 #EXTINF:-1 tvg-id="DiscoveryScience.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/8eb8de396990449443bc96990430b613.png", Discovery Science
 http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/13565
 #EXTINF:-1 tvg-id="DiscoveryLife.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/318556139546e6a874832a47f07e7785.png", Discovery Life
