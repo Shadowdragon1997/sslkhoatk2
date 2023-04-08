@@ -32,12 +32,18 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://103.56.160.133:8081/mytv804
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://vpf.vn/wp-content/uploads/2023/03/logo-CQG-2-1068x601.jpg", 17h-02/04: Khánh Hòa vs Công An Hà Nội (Vòng loại NATION CUP 2023)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/Logo_V.League_2_2023.svg/1200px-Logo_V.League_2_2023.svg.png", 16h00-08/04: Huế vs Long An (VÒNG 1 V-LEAGUE 2 2023)
 http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://vpf.vn/wp-content/uploads/2023/03/logo-CQG-2-1068x601.jpg", 18h-02/04: Thép Xanh Nam Định vs Hải Phòng (Vòng loại NATION CUP 2023)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/Logo_V.League_2_2023.svg/1200px-Logo_V.League_2_2023.svg.png", 16h00-08/04: Phú Thọ vs Bình Thuận (VÒNG 1 V-LEAGUE 2 2023)
 http://103.56.160.133:8081/event2
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://vpf.vn/wp-content/uploads/2023/03/logo-CQG-2-1068x601.jpg", 19h15-02/04: CLB PVF - CAND vs SHB ĐÀ NẴNG (Vòng loại NATION CUP 2023)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-08/04: Hồng Lĩnh Hà Tĩnh vs Đà Nẵng (VÒNG 1 V-LEAGUE 2 2023)
 http://103.56.160.133:8081/event3
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-08/04: Bình Định vs Thanh Hóa (VÒNG 5 V-LEAGUE 1 2023)
+http://103.56.160.133:8081/event4
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-08/04: Công An Hà Nội vs Hải Phòng (VÒNG 5 V-LEAGUE 1 2023)
+http://103.56.160.133:8081/event5
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-08/04: TP.HCM vs Hà Nội (VÒNG 5 V-LEAGUE 1 2023)
+http://103.56.160.133:8081/event6
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT Pladio độ trễ thấp
 http://khoatv.quabnv.tk:4022/udp/225.1.2.244:30120
@@ -3970,176 +3976,140 @@ http://222.254.57.144:8889/pluseu.php?id=300316
 
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 06:00-07/04: Orlando Magic vs Cleveland Cavaliers - NBA (Người Già)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 16:45-08/04: FC Macarthur - Western Sydney - Australia A-League (Người Nện)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/6l2hWeM.m3u8|Referer=https://player.4shares.live/
+https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8|Referer=https://player.4shares.live/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 06:30-07/04: Philadelphia 76ers vs Miami Heat - NBA (Người Bú)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 18:30-08/04: Manchester United - Everton - Premier League (Người Rơi + Người Thỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/C3Rju8Q.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 07:00-07/04: Monagas SC vs Boca Juniors - CONMEBOL Copa Libertadores (Người Cồn)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/KvCvLpU.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 08:00-07/04: Utah Jazz vs Oklahoma City Thunder - NBA (Người Đá)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/cQYDrOP.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.pinimg.com/originals/4c/4b/0a/4c4b0ae5266646ed509d2d2865ff41a1.jpg", 09:00-07/04: Phoenix Suns vs Denver Nuggets - NBA (Người Mỏ Vịt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/vebo/1wy6xQL.m3u8|Referer=https://player.4shares.live/
+https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:05-08/04: Puebla - Toluca - Liga MX Clausura (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 10:10-08/04: Tijuana - Querétaro - Liga MX Clausura (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 12:00-08/04: Ulsan Hyundai - Suwon Bluewings - K-League 1 (Giàng A Phọt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 14:00-08/04: Brisbane Roar FC - Newcastle Jets - A-League Men (Giàng A Chuối)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 16:45-08/04: Macarthur FC - Western Sydney Wanderers FC - A-League Men (Giàng A Páo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 17:30-08/04: Udinese - Monza - Serie A (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-08/04: Man United - Everton - Premier League (Giàng A Phò)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 20:30-08/04: Dortmund - Union Berlin - Bundesliga (Giàng A Páo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 20:30-08/04: Freiburg - Bayern München - Bundesliga (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-08/04: Wolves - Chelsea - Premier League (Giàng A Lử)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-08/04: Brentford - Newcastle - Premier League (Giàng A Phọt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-08/04: Tottenham - Brighton - Premier League (Giàng A Chuối)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:30-08/04: Southampton - Man City - Premier League (Giàng A Lử)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd11/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:30-08/04: Torino - Roma - Serie A (Giàng A Páo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 01:45-09/04: Lazio - Juventus - Serie A (Giàng A Phọt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-09/04: Real Madrid - Villarreal - LaLiga (Giàng A Chuối)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-09/04: Nice - PSG - Ligue 1 (Giàng A Páo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep2.rakhoi12.tv/
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8|Referer=https://tructiep3.rakhoi12.tv/
 
 #-*-- Livestream bóng đá Caheo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 12:00-08/04: Ulsan Hyundai - Suwon Bluewings - K-League 1 (Cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 14:00-08/04: Brisbane Roar FC - Newcastle Jets - A-League Men (Cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 17:30-08/04: Udinese - Monza - Serie A (Xi Măng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 18:30-08/04: Man United - Everton - Premier League (Thợ Xây)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 20:30-08/04: Dortmund - Union Berlin - Bundesliga (Cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 20:30-08/04: Freiburg - Bayern München - Bundesliga (Xi Măng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 21:00-08/04: Wolves - Chelsea - Premier League (Thợ Xây)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 21:00-08/04: Tottenham - Brighton - Premier League (H+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 23:30-08/04: Southampton - Man City - Premier League (H+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 23:30-08/04: Torino - Roma - Serie A (Xi Măng)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 01:45-09/04: Lazio - Juventus - Serie A (Cá Heo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 02:00-09/04: Real Madrid - Villarreal - LaLiga (H+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 02:00-09/04: Nice - PSG - Ligue 1 (Thợ Xây)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep3.caheo7.tv/
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep4.caheo7.tv/
 
 #-*-- Livestream bóng đá Saoke TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",18:00-07/04: Song Lam Nghe An và Binh Duong (Sao Kê)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",18:00-08/04: Man United và Everton (Sao Kê)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/song-lam-nghe-an-vs-binh-duong-642765ba3f36580741d5b0e1.m3u8|Referer=https://vip6.saoketvs.live
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",18:00-07/04: Nam Dinh và Khanh Hoa FC (Thần Chổi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/nam-dinh-vs-khanh-hoa-fc-642765bc3f36580741d5b0e5.m3u8|Referer=https://vip6.saoketvs.live
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",20:00-07/04: Sweden (W) và Denmark (W) (Sao Hỏa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/sweden-w--vs-denmark--w--642f31308bc69d78fb54dcb2.m3u8|Referer=https://vip6.saoketvs.live
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",22:00-07/04: Salernitana và Inter (Thần Chổi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/salernitana-vs-inter-642765d43f36580741d5b108.m3u8|Referer=https://vip6.saoketvs.live
-
-XTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",00:00-08/04: Lecce và Napoli (Sao Hỏa)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/lecce-vs-napoli-6427665f3f36580741d5b147.m3u8|Referer=https://vip6.saoketvs.live
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",02:00-08/04: Sevilla và Celta Vigo (Thần Chổi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/sevilla-vs-celta-vigo-6427664d3f36580741d5b135.m3u8|Referer=https://vip6.saoketvs.live
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Saoke TV" tvg-logo="https://9767a59e2b.vws.vegacdn.vn/template/seo/images/Logo_150-01.png",02:00-08/04: Milan và Empoli (Sao Hôm)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://code.vthanhtivi.pw/bongda/saoke/milan-vs-empoli-6427665b3f36580741d5b143.m3u8|Referer=https://vip6.saoketvs.live
+https://live-sk.zeuscdn.live/live/_definst_/stream_1_4831b@sk4-0059/chunklist.m3u8|Referer=https://vip7.saoketvs.live/
 
 #-*-- Livestream bóng đá Socolive TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/web/assets/soco/img/logo.png?v=20230110", 06:30-07/04: Philadelphia 76ers - Miami Heat (NBA) - BRIANN
