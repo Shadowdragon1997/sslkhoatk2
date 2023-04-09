@@ -722,7 +722,7 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+jOhZCouiTVLiSNJNNg/Uw","kid":"SruJt8+k+l5FYqgdqwWCxg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v229B99difHRS4PMmjtwhw","kid":"gSEyQDAQPLKOGfXKn1utqg"}],"type":"temporary"}
 https://plus.anttv.xyz/keoka/fpt/klifehd/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD ClipTV
 #https://iplogger.com/2XNqE6.m3u8
@@ -780,7 +780,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Eb/lk5APgIVbtscrsMombg","kid":"Om82eShyN9R76e05zzI4hg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvlPnUyLVR7SkhxNo7NzxQ","kid":"DhptJ1mNMc26fD10/jEVag"}],"type":"temporary"}
 https://plus.anttv.xyz/keoka/fpt/ksport2hd/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD ClipTV
 #https://iplogger.com/2XArE6.m3u8
