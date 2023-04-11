@@ -32,18 +32,14 @@ https://code.vthanhtivi.pw/getlink/mytv/349/hd.m3u8
 http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://103.56.160.133:8081/mytv804
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/Logo_V.League_2_2023.svg/1200px-Logo_V.League_2_2023.svg.png", 16h00-08/04: Huế vs Long An (VÒNG 1 V-LEAGUE 2 2023)
-http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/Logo_V.League_2_2023.svg/1200px-Logo_V.League_2_2023.svg.png", 16h00-08/04: Phú Thọ vs Bình Thuận (VÒNG 1 V-LEAGUE 2 2023)
-http://103.56.160.133:8081/event2
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-08/04: Hồng Lĩnh Hà Tĩnh vs Đà Nẵng (VÒNG 1 V-LEAGUE 2 2023)
-http://103.56.160.133:8081/event3
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-08/04: Bình Định vs Thanh Hóa (VÒNG 5 V-LEAGUE 1 2023)
-http://103.56.160.133:8081/event4
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-08/04: Công An Hà Nội vs Hải Phòng (VÒNG 5 V-LEAGUE 1 2023)
-http://103.56.160.133:8081/event5
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 19h15-08/04: TP.HCM vs Hà Nội (VÒNG 5 V-LEAGUE 1 2023)
-http://103.56.160.133:8081/event6
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/Logo_V.League_2_2023.svg/1200px-Logo_V.League_2_2023.svg.png", 17h00-11/04: Bình Phước vs Bà Rịa Vũng Tàu (VÒNG 2 V-LEAGUE 2 2023)
+http://vn1.vietanhtv.pw:8081/event1
+#EXTINF:-1 group-title="Sự kiện" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/b/b3/Logo_V.League_2_2023.svg/1200px-Logo_V.League_2_2023.svg.png", 19h15-11/04: Phố Hiến vs Phù Đổng (VÒNG 2 V-LEAGUE 2 2023)
+http://vn1.vietanhtv.pw:8081/event2
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 17h00-11/04: Hoàng Anh Gia Lai vs Khánh Hòa (VÒNG 6 V-LEAGUE 1 2023)
+http://vn1.vietanhtv.pw:8081/event3
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_logo.svg.png", 18h00-11/04: Nam Định vs Sông Lam Nghệ An (VÒNG 6 V-LEAGUE 1 2023)
+http://vn1.vietanhtv.pw:8081/event4
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/FPT_logo_2010.svg/800px-FPT_logo_2010.svg.png", FPT Pladio độ trễ thấp
 http://khoatv.quabnv.tk:4022/udp/225.1.2.244:30120
