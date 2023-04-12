@@ -1068,7 +1068,10 @@ http://iptvtree.net:8080/LeCyGodF/na5tKnHG7zJ37dHW/196480
 #EXTINF:-1 tvg-id="hbosignaturehd-asia" group-title="🎞| HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbosignaturehd-asia.png", HBO Signature
 http://flylogi.top:8080/live/821675861805563068/2501675861805563/18425.ts
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD
-http://103.56.160.133:8081/cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"lTt7SaBCdwKexgg33NW0sg","kid":"P9fm40owPxqTCmHg511X3w"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hbo-livecdn.fptplay.net/live_dzones/max.smil/manifest.mpd
 
 #-*-- In The Box -*--#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
@@ -1230,8 +1233,7 @@ http://cdn-cf.vthanhtivi.pw/fptplay/outdoor-channel/bitrate_5000.m3u8
 
 #-*-- Giải trí -*--#
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://cdn-cf.vthanhtivi.pw/fptplay/axn/bitrate_5000.m3u8
+http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/axn/playlist.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://code.vthanhtivi.pw/getlink/cliptv/841/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
