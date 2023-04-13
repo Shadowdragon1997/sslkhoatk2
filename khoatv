@@ -1128,14 +1128,11 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://static.mnewsvn.com/uploads/editors/2018/12/q5wdn7D2KaY9x4W6GQ5oJrirerLXmoGcpoo7hmiV.png", Aniplus HD
 http://uslive.vthanhtivi.pw/aniplus
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/animax
+https://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/boomerang
+https://tshift.fptplay.net/dvr/boomerang_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cartoon-network
+https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
 #EXTVLCOPT:http-user-agent=TB-Sport
 http://tbtv.us/api/cliptv/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/846
@@ -1165,10 +1162,10 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u
 #-*-- BBC -*--#
 #EXTINF:-1 tvg-id="bbcearth" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
 #EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/bbc-earth
+https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
 #EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/bbc-lifestyle
+https://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="cbeebies" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
 #EXTVLCOPT:http-user-agent=TB-Sport
 http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cbeebies/playlist.m3u8
@@ -1215,14 +1212,11 @@ http://cdn-cf.vthanhtivi.pw/fptplay/asian-food-channel/bitrate_5000.m3u8
 
 #-*-- Khám phá -*--#
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/animal-planet
+https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/discovery
+https://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/discovery-asia
+https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScience.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/8eb8de396990449443bc96990430b613.png", Discovery Science
 http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/13565
 #EXTINF:-1 tvg-id="DiscoveryLife.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/318556139546e6a874832a47f07e7785.png", Discovery Life
@@ -1235,24 +1229,21 @@ http://vn1.vietanhtv.pw:8080/history
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/207.png", National Geo Wild HD
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/national-geographic-hd
+https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 http://cdn-cf.vthanhtivi.pw/fptplay/outdoor-channel/bitrate_5000.m3u8
 
 #-*-- Giải trí -*--#
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/axn
+https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://code.vthanhtivi.pw/getlink/cliptv/841/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cinemaworld
+https://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://cdn-cf.vthanhtivi.pw/fptplay/fashion-tv/bitrate_5000.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/fashion-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
 #EXTVLCOPT:http-user-agent=TB-Sport
 http://tbtv.us/api/tv360/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/107/2
@@ -1263,11 +1254,9 @@ http://tbtv.us/api/tv360/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/99/2
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/travel-living
+https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-0-0.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
-#EXTVLCOPT:http-user-agent=TB-Sport
-http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/warner-tv
+https://tshift.fptplay.net/dvr/warnertv_1000.stream/chunks_dvr_range-0-0.m3u8
 
 #-*-- Radio -*--#
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
@@ -1461,6 +1450,18 @@ http://code.vthanhtivi.pw/list/vieonevent/07ffefc5-804e-418f-8754-1dc26f772d04/p
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/30/icon_channel_su-kien-1_168014342964.jpg", Sự Kiện 1: Lễ Trao Giải Thưởng Cống Hiến 2023
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/10/icon_channel_su-kien-3_16784335557.jpg", Sự Kiện 3: Giao Lộ Thời Gian: Anh Thơ - Dương Hoàng Yến
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-2_168117322394.jpg", Thể Thao 2: Hà Nội - Thành phố Hồ Chí Minh (Nữ)
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-3_168117397702.jpg", Thể Thao 3: Quận 7 TPHCM - Hoàng Bảo Long Petro Đồng Nai
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/31/icon_channel_the-thao-5_16802539336.jpg", Thể Thao 5: Maccabi Playtika Tel Aviv - Real Madrid
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/13/icon_channel_the-thao-15_168135998175.jpg", Thể thao 15: Hồ Chí Minh - Topenland Bình Định
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/13/icon_channel_the-thao-17_168136045959.jpg", Thể thao 17: Hà Nội - Hải Phòng
+http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/09/icon_channel_the-thao-19_16810292530.jpg", Thể thao 19: International Series Vietnam 2023 - Vòng 1
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/e1/12/21/19/9d/dc/e1219-lqungnamvshabnhhngnhtqucgia-ceeshow-mytv.jpg" group-title="🗓| Sự kiện", 16:50-10/04: Quảng Nam vs Hòa Bình - Hạng Nhất Quốc Gia
