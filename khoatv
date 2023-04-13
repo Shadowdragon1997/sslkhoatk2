@@ -385,8 +385,8 @@ http://khoatv.quabnv.tk:4022/udp/225.1.1.128:30120
 
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1 - Vie Giải trí HD
-#EXTVLCOPT:http-user-agent=KhoaTivi
-https://code.vthanhtivi.pw/getlink/vieon2/ef9064fa-b31a-4bed-b19b-183752191248/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/vieon/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1 - Vie Giải trí HD Server 2
 https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAQ/m20_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" tvg-chno="65", VTVcab 1 - Vie Giải trí SD
