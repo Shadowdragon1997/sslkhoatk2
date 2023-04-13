@@ -600,10 +600,12 @@ https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao | 50fps
+https://code.vthanhtivi.pw/getlink/tv360/195/3.m3u8
  
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=KhoaTivi
-https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png", HTVC Gia đình HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
@@ -1282,9 +1284,10 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/252.png", The One Radio
-https://vnno-pt-6-tf-playlist-live-zmp3.zadn.vn/C0ti9DKXaS4/zhls/live/standard-audio/5c0872cf4e8aa7d4fe9b/standard-audio.m3u8
-
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", Mixbox Live Jpop
+https://code.vthanhtivi.pw/getlink/radio/mixbox/playlist.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
+https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", Bà Rịa Vũng Tàu
 http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
@@ -1413,22 +1416,22 @@ https://stream.zeno.fm/a2dbs2tq1p8uv
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/", Radio Nhạc Xuân
 https://stream.zeno.fm/hvtxgd85rm0uv
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg", Zing MP3 - On Air
-https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", Zing MP3 - Chạm
-https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg", Zing MP3 - Vpop
-https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg", Zing MP3 - Acoustic
-https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/3/0/5/1305cd954d22d89fef4354301613fd68.jpg", Zing MP3 - Bolero
-https://multi-playlist-zmp3.zadn.vn/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg", Zing MP3 - Rap Việt
-https://multi-playlist-zmp3.zadn.vn/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg", Zing MP3 - Kpop
-https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg", Zing MP3 - USUK
-https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/b/1/a/5b1a702c0614a9c13678089a4303bc7e.jpg", Zing MP3 - On Air
+https://multi-playlist-zmp3.zmdcdn.me/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover/b/1/7/3/b17338c56d4a1505f2c4c412ee385041.jpg", Zing MP3 - Chạm
+https://multi-playlist-zmp3.zmdcdn.me/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", Zing MP3 - Vpop
+https://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", Zing MP3 - Acoustic
+https://multi-playlist-zmp3.zmdcdn.me/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", Zing MP3 - Bolero
+https://multi-playlist-zmp3.zmdcdn.me/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", Zing MP3 - Rap Việt
+https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", Zing MP3 - Kpop
+https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 - USUK
+https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
 #EXTINF:-1 tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2023/03/17/4f1d8pgj_banner524565b5824e414ee136429aab382af0_1920_1080.jpg" group-title="🗓| Sự kiện", 19:00-10/04: Quay số mở thưởng Vietlott 10/04/2023
@@ -1440,13 +1443,9 @@ http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-2_168117322394.jpg", Thể Thao 2: Hà Nội - Thành phố Hồ Chí Minh (Nữ)
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-3_168117397702.jpg", Thể Thao 3: Quận 7 TPHCM - Hoàng Bảo Long Petro Đồng Nai
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/31/icon_channel_the-thao-5_16802539336.jpg", Thể Thao 5: Maccabi Playtika Tel Aviv - Real Madrid
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/13/icon_channel_the-thao-15_168135998175.jpg", Thể thao 15: Hồ Chí Minh - Topenland Bình Định
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/13/icon_channel_the-thao-17_168136045959.jpg", Thể thao 17: Hà Nội - Hải Phòng
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-14_168118859324.jpg", Thể thao 14: Vitamin C1 - số 22
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/09/icon_channel_the-thao-19_16810292530.jpg", Thể thao 19: International Series Vietnam 2023 - Vòng 1
 http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
