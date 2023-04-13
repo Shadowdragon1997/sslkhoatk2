@@ -485,11 +485,9 @@ http://s7784.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv496&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News sv2
 http://code.vthanhtivi.pw/getlink/onplus/THETHAO_TINTUC_HD/m401_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", VTVcab 19 - Vie Dramas HD
-https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", VTVcab 19 - Vie Dramas HD Server 2
 #EXTVLCOPT:http-user-agent=TB-Sport
 http://tbtv.us/api/vieon/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/vie-dramas-hd
-#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" logo="https://cdn.hqth.me/logo/thumbs/27.png", VTVcab 19 - Vie Dramas HD Server 3
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" logo="https://cdn.hqth.me/logo/thumbs/27.png", VTVcab 19 - Vie Dramas HD Server 2
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png", ON VFamily HD
 #EXTVLCOPT:http-user-agent=TB-Sport
@@ -1130,13 +1128,17 @@ https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://static.mnewsvn.com/uploads/editors/2018/12/q5wdn7D2KaY9x4W6GQ5oJrirerLXmoGcpoo7hmiV.png", Aniplus HD
 http://uslive.vthanhtivi.pw/aniplus
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/animax/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/animax
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Boomerang HD
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/boomerang/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/boomerang
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/cartoon-network/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cartoon-network
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/199.png", Dreamworks
-http://tbtv.us/api/cliptv/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/846
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/cliptv/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/846
 #EXTINF:-1 tvg-id="DisneyChannelEast.us" group-title="🌈| Hoạt hình" tvg-logo="http://p2086.securepoint.io:2086/images/f240a4a08ef4d49a9b643168779d8491.png", Disney Channel
 http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/347
 #EXTINF:-1 tvg-id="DisneyJuniorEast.us" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/disney_junior.png", Disney Junior
@@ -1152,7 +1154,8 @@ http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/14950
 
 #-*-- Thiếu nhi -*--#
 #EXTINF:-1 tvg-id="babytvhd" group-title="👶| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/201.png", BabyTV HD
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/babytv-hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/babytv-hd/playlist.m3u8
 
 #-*-- Khoa học -*--#
 #EXTINF:-1 tvg-id="davincihd" group-title="⚗| Khoa học" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci HD
@@ -1161,30 +1164,32 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u
 
 #-*-- BBC -*--#
 #EXTINF:-1 tvg-id="bbcearth" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/bbc-earth/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/bbc-earth
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png", BBC Lifestyle
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/bbc-lifestyle/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/bbc-lifestyle
 #EXTINF:-1 tvg-id="cbeebies" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png", BBC Cbeebies
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/cbeebies/playlist.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews.uk" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png" , BBC World News FHD
-http://222.254.60.215:8889/ultratv.php?id=145669
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cbeebies/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC World News
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/bbc-news/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC1London.uk" group-title="🚽| BBC" tvg-logo="" , BBC 1 FHD
-http://222.254.60.215:8889/ultratv.php?id=76153
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/bbc-news/playlist.m3u8
 
 #-*-- Quốc tế -*--#
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/215.png", ABC Australia
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/australia-plus/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/australia-plus/playlist.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/bloomberg/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/bloomberg/playlist.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
 http://cdn-cf.vthanhtivi.pw/fptplay/cnbc/bitrate_2500.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/cnn/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/fpt/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cnn/playlist.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
@@ -1210,11 +1215,14 @@ http://cdn-cf.vthanhtivi.pw/fptplay/asian-food-channel/bitrate_5000.m3u8
 
 #-*-- Khám phá -*--#
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/animal-planet/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/animal-planet
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/discovery/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/discovery
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/205.png", Discovery Asia
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/discovery-asia/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/discovery-asia
 #EXTINF:-1 tvg-id="DiscoveryScience.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/8eb8de396990449443bc96990430b613.png", Discovery Science
 http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/13565
 #EXTINF:-1 tvg-id="DiscoveryLife.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/318556139546e6a874832a47f07e7785.png", Discovery Life
@@ -1227,32 +1235,39 @@ http://vn1.vietanhtv.pw:8080/history
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/207.png", National Geo Wild HD
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/national-geographic-hd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/national-geographic-hd
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 http://cdn-cf.vthanhtivi.pw/fptplay/outdoor-channel/bitrate_5000.m3u8
 
 #-*-- Giải trí -*--#
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/axn/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/axn
 #EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/230.png", DMAX
 https://code.vthanhtivi.pw/getlink/cliptv/841/chunklist_b5128000.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/231.png", CinemaWorld
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/cinemaworld/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/cinemaworld
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png", Fashion TV
 #EXTVLCOPT:http-user-agent=KhoaTivi
 http://cdn-cf.vthanhtivi.pw/fptplay/fashion-tv/bitrate_5000.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/233.png", HITS
-http://tbtv.us/api/tv360/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/107/2
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/tv360/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/107/2
 #EXTINF:-1 tvg-id="hgtv" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/234.png", HGTV
-http://tbtv.us/api/tv360/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/99/2
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/api/tv360/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/99/2
 #EXTINF:-1 tvg-id="kix" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png", KIX HD
 #EXTVLCOPT:http-user-agent=KhoaTivi
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png", TLC
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/travel-living/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/travel-living
 #EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/237.png", Warner TV
-http://tbtv.us/api/fpt/4d8a8884eb344e3e68a51eebd7e832d1f09359d1/warner-tv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=TB-Sport
+http://tbtv.us/channel/6bd45a48b6098add3ad7c4f0a4880aab8b7baacb/warner-tv
 
 #-*-- Radio -*--#
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
