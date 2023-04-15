@@ -4,6 +4,24 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- Bác Sĩ Cha -*--#
+#EXTINF:-1 tvg-id="bac-si-cha" group-title="🇰🇷| Bác Sĩ Cha - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/85603b48058056a2_de8924a656ef67b2_478381681576226316068.jpg", Bác Sĩ Cha Tập 01
+https://hd.1080phim.com/20230415/37877_fb6b2324/index.m3u8
+
+#-*-- Long Thành -*--#
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 06
+https://kd.hd-bophim.com/20230415/35467_c64feafe/index.m3u8
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 05
+https://kd.hd-bophim.com/20230415/35466_d4e32bbc/index.m3u8
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 04
+https://kd.hd-bophim.com/20230415/35465_5f041698/index.m3u8
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 03
+https://kd.hd-bophim.com/20230415/35464_dfa92891/index.m3u8
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 02
+https://kd.hd-bophim.com/20230415/35463_aa067f52/index.m3u8
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 01
+https://kd.hd-bophim.com/20230415/35462_1ad0a43f/index.m3u8
+
 #-*-- Chân Thành Với Tình Yêu -*--#
 #EXTINF:-1 tvg-id="chan-thanh-voi-tinh-yeu" group-title="🇰🇷| Chân Thành Với Tình Yêu - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/7351e0417b8f07a2_34d3c9d7422dd25c_30042168134901823.jpg", Chân Thành Với Tình Yêu Tập 02
 https://kd.hd-bophim.com/20230413/35375_1b3c8195/index.m3u8
@@ -28,9 +46,9 @@ https://kd.hd-bophim.com/20230409/35041_6d5901c4/index.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 11
 https://kd.hd-bophim.com/20230409/35040_67038a28/index.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 10
-https://kd.hd-bophim.com/20230408/35015_de71834e/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/04/15/16/fcc3a2c2/fcc3a2c2-45b0-4b94-83c4-4095da03f30c_5_.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 09
-https://kd.hd-bophim.com/20230408/35014_319a5ed3/index.m3u8
+https://vod-ali3.tv360.vn/video1/2023/04/15/16/5f90b094/5f90b094-301c-4ce5-9f19-890312db5657_5_.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 08
 https://vod-zlr2.tv360.vn/video1/2023/04/14/21/7d048afd/7d048afd-595b-4b3e-b958-67f9bcded9cd_5_.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 07
@@ -217,18 +235,22 @@ https://vod-ali3.tv360.vn/video1/2023/04/07/00/794e49d6/794e49d6-7e7c-4099-a3d4-
 https://vod-zlr2.tv360.vn/video1/2023/04/07/00/2f65c582/2f65c582-5233-448f-afa2-449b76cd4e95_5_.m3u8
 
 #-*-- Luật Sư Thời Joseon -*--#
+#EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 12
+https://vod-zlr2.tv360.vn/video1/2023/04/15/23/1097e800/1097e800-866f-42dd-a3c8-154f2fc1624a_4_.m3u8
+#EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 11
+https://vod-ali3.tv360.vn/video1/2023/04/15/22/4667a2e6/4667a2e6-7fb3-4036-a4d8-1afa559aacb8_4_.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 10
-https://vod-ali3.tv360.vn/video1/2023/04/14/23/c3d363e8/c3d363e8-91d0-438b-98b0-aa22b049ab3e_4_.m3u8
+https://vod-ali3.tv360.vn/video1/2023/04/15/16/d6d73997/d6d73997-b17a-474d-b741-ce0328080cbd_5_.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 09
-https://vod-ali3.tv360.vn/video1/2023/04/14/23/66ad5f49/66ad5f49-3a64-4bef-bb7b-065872070bcb_4_.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/04/15/16/cac70ce8/cac70ce8-7e6a-4a7e-ba16-f53a0e3fa9b5_5_.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 08
 https://vod-zlr2.tv360.vn/video1/2023/04/09/18/c6d3c03b/c6d3c03b-6c0f-441f-a257-92dd4a49e334_5_.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 07
 https://vod-zlr2.tv360.vn/video1/2023/04/09/18/dd0ef6f4/dd0ef6f4-68f3-48ad-8133-35ed53adfcaf_5_.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 06
-https://vod-zlr2.tv360.vn/video1/2023/04/10/01/e4a6b3fe/e4a6b3fe-ee5f-4980-bea9-5d59b777ca2c_5_.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20230416/ce2246ae13285f760ebe8b0aefa4ab22.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 05
-https://vod-zlr2.tv360.vn/video1/2023/04/10/01/9bae5e0c/9bae5e0c-902c-4994-8d9c-da97970853d4_5_.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230415/joseonattorneyamorality-2023-kr-005-1080p/318040900567ab7a5da1d088bcba353e-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 04
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230413/joseonattorneyamorality-2023-kr-004-tm/2eec665674dc619ddf6f2929d54352a8-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 03
@@ -239,6 +261,8 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230406/joseonattorney
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230406/joseonattorneyamorality-2023-kr-tm-001/a6ea8c0c7037551c0d30f7761bf9eef0-1080p.mp4/chunklist.m3u8
 
 #-*-- Vô Gian -*--#
+#EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 28
+https://kd.hd-bophim.com/20230415/35469_5f9b148f/index.m3u8
 #EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 27
 https://kd.hd-bophim.com/20230414/35425_2b31b227/index.m3u8
 #EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 26
