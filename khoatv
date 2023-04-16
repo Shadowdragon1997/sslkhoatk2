@@ -795,6 +795,9 @@ https://ebstv.xyz/vip360.php?id=153
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz2MWO8lo/C7d0gBge2J9w","kid":"YNyF5ssiR2mEVd7cu441Jw"}],"type":"temporary"}
 https://ebstv.xyz/vip360.php?id=210
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vn1.vietanhtv.pw:8081/ksport1/mpegts
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD ClipTV
 #https://iplogger.com/2XgeE6.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Nguồn chính" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD VTVcab
