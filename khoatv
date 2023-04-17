@@ -844,11 +844,12 @@ https://sglive.akamaized.net/bpk-tv/prod_klive3/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MUhMjNRWi7thEBq8D5kfXw","kid":"LBiIAkpIOki5i0jME/+znA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #https://raintv.tk/get/vieon/ba2c5a1385af89csa4e0s8e1379d4edf35afaad349/kcinehd/manifest.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ (FPT Play)" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+CINE HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Die" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine FHD FPT Play 25FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://plus.vthanhtivi.pw/keys/?token=zcrcyc%2FWvN3f34nA2OrmjaGtrqWflaadq5nVmqedo6VjoqWnrKGPn6Gl&time=1681748570&kcine-fpt
-https://smarttv-drm.fptplay.net/drmlive/k1cine4000_1080p.stream/manifest.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qPnAreNWzpFrzsVJvMqIxw","kid":"Q/qALgvM1oBrhO4MSfEyYQ"}],"type":"temporary"}
+#https://plus.anttv.xyz/keoka/fpt/kcinehd/manifest.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Die" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD ClipTV
 #https://iplogger.com/2Xb9E6.m3u8
 
