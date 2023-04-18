@@ -788,7 +788,7 @@ https://plus.anttv.xyz/keoka/fpt/ksport2hd/manifest.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Cca5THi5YcXZkxpTpSXM/Q","kid":"IzDHFWoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"TwSGBWtGi9+mBKrBFb3HYQ","kid":"a3THFWoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"8CNOYi1QS2USplCuTG0v7w","kid":"eHgLRmoMMn6tdaQ+tW9wsg"},{"kty":"oct","k":"GByWqGcBy2FrShkCnUgD6Q","kid":"ZIULXrkMMn6tdaQ+tW9wsg"}], "type":"temporary"}
 https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
-#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD FPT Play
+#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids FHD FPT Play 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=ANT TV/2.0.0
