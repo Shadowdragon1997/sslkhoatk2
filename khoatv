@@ -698,7 +698,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"72qnuSbVEx8YCiod5+6NPw","kid":"5xlqYuC3TB2DgCRrDZ1gKw"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=209
+#https://ebstv.xyz/vip360.php?id=209
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine FHD Kplus 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -717,7 +717,7 @@ https://smarttv-drm.fptplay.net/drmlive/k1cine4000_1080p.stream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MV8ujwcLhmzMHUe2aOkDfA","kid":"kDBhyh+FTHyrWNVYgcatoQ"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=208
+#https://ebstv.xyz/vip360.php?id=208
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life FHD Kplus 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -736,7 +736,7 @@ https://smarttv-drm.fptplay.net/drmlive/k1life4000_1080p.stream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Uyr8B99kQvUrkQJ4S5/Png","kid":"cYPHq5dKT+iMoA42fOyClg"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=153
+#https://ebstv.xyz/vip360.php?id=153
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD Kplus 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -763,7 +763,7 @@ http://vn1.vietanhtv.pw:8081/ksport1/mpegts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6rnP9BYWzW+cIUZmo1tNaA","kid":"576aG5DUTnuBlmh+8EtdZw"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=9829
+#https://ebstv.xyz/vip360.php?id=9829
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD Kplus 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -813,21 +813,21 @@ http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz2MWO8lo/C7d0gBge2J9w","kid":"YNyF5ssiR2mEVd7cu441Jw"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=210
+#https://ebstv.xyz/vip360.php?id=210
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD TV360 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YF04zJYXLEK2/9Jn8Gw1yQ","kid":"OLk8goG7Qr2yHCiLVUR26w"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=211
+#https://ebstv.xyz/vip360.php?id=211
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD TV360 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dBn/6u5EOc28lGp48UPN6A","kid":"un399dfrTrWU0h+HjAIftw"}],"type":"temporary"}
-https://ebstv.xyz/vip360.php?id=308
+#https://ebstv.xyz/vip360.php?id=308
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
