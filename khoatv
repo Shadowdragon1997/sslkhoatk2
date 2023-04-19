@@ -4008,9 +4008,37 @@ http://sonic-eg.com:80/12355/12355/131418
 http://sonic-eg.com:80/12355/12355/131421
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 09:00-19/04: Phoenix Suns vs LA Clippers - NBA (Người Mỏ Vịt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36   
-https://code.vthanhtivi.pw/bongda/vebo/uSPqdUL.m3u8|Referer=https://player.4shares.live/
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 02:00-20/04: Inter Milan vs Benfica - UEFA Champions League (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/0nUFYMy.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 02:00-20/04: Bayern Munchen vs Manchester City - UEFA Champions League (Cáp Tần)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/0nMznuq.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 02:00-20/04: Bayern Munchen vs Manchester City - UEFA Champions League (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/gMsueC2.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png", 02:00-20/04: Reaction vs Champions League - UEFA Champions League (Người Rơi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/hEWCw2W.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 06:30-20/04: Memphis Grizzlies vs Los Angeles Lakers - NBA (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/5b8dzla.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png", 07:30-20/04: Corinthians Paulista (SP) vs Argentinos juniors - CONMEBOL Copa Libertadores (Người Cồn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/3DUnZ12.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 08:00-20/04: Milwaukee Bucks vs Miami Heat - NBA (Người Đá)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/2jAt3vi.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://i.imgur.com/ak1p0R4.png", 09:00-20/04: Denver Nuggets vs Minnesota Timberwolves - NBA (Người Mỏ Vịt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/LzqYAgW.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 10:05-19/04: Independiente del Valle - Liverpool FC - Copa Libertadores Grp. E (Giàng A Chuối)
