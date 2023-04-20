@@ -4,6 +4,12 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- Chòm Sao May Mắn Của Anh -*--#
+#EXTINF:-1 tvg-id="chom-sao-may-man-cua-anh" group-title="🇹🇭| Chòm Sao May Mắn Của Anh - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/11/1680841154803/b1054f8ef8cd_360_540.jpg", Chòm Sao May Mắn Của Anh Tập 02
+https://vod-ali3.tv360.vn/video1/2023/04/19/19/307c5437/307c5437-42c2-44a4-a7e8-a7b3af69685f_5_.m3u8
+#EXTINF:-1 tvg-id="chom-sao-may-man-cua-anh" group-title="🇹🇭| Chòm Sao May Mắn Của Anh - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/11/1680841154803/b1054f8ef8cd_360_540.jpg", Chòm Sao May Mắn Của Anh Tập 01
+https://vod-zlr2.tv360.vn/video1/2023/04/19/18/3b8f49c0/3b8f49c0-0345-4b87-97fa-6ed8384007c5_5_.m3u8
+
 #-*-- Bác Sĩ Cha -*--#
 #EXTINF:-1 tvg-id="bac-si-cha" group-title="🇰🇷| Bác Sĩ Cha - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/85603b48058056a2_de8924a656ef67b2_478381681576226316068.jpg", Bác Sĩ Cha Tập 02
 https://kd.hd-bophim.com/20230417/35506_06472387/index.m3u8
@@ -11,6 +17,10 @@ https://kd.hd-bophim.com/20230417/35506_06472387/index.m3u8
 https://hd.1080phim.com/20230415/37877_fb6b2324/index.m3u8
 
 #-*-- Long Thành -*--#
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 14
+https://kd.hd-bophim.com/20230420/35611_b8a9b1fa/index.m3u8
+#EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 13
+https://kd.hd-bophim.com/20230420/35609_a40ea637/index.m3u8
 #EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 12
 https://kd.hd-bophim.com/20230419/35562_a8408637/index.m3u8
 #EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 11
@@ -36,7 +46,17 @@ https://kd.hd-bophim.com/20230415/35463_aa067f52/index.m3u8
 #EXTINF:-1 tvg-id="long-thanh" group-title="🇨🇳| Long Thành - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/0a8452a54cfa3430_3713935cec6a8b1d_51422168157617243.jpg", Long Thành Tập 01
 https://kd.hd-bophim.com/20230415/35462_1ad0a43f/index.m3u8
 
+#-*-- Người Trông Giữ: Kẻ Đánh Cắp Báu Vật -*--#
+#EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 03
+https://kd.hd-bophim.com/20230420/35620_a6914cc0/index.m3u8
+#EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 02
+https://kd.hd-bophim.com/20230414/35405_cd5ffc0b/index.m3u8
+#EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 01
+https://kd.hd-bophim.com/20230413/35328_043bd915/index.m3u8
+
 #-*-- Chân Thành Với Tình Yêu -*--#
+#EXTINF:-1 tvg-id="chan-thanh-voi-tinh-yeu" group-title="🇰🇷| Chân Thành Với Tình Yêu - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/7351e0417b8f07a2_34d3c9d7422dd25c_30042168134901823.jpg", Chân Thành Với Tình Yêu Tập 03
+https://kd.hd-bophim.com/20230420/35605_f336c5b5/index.m3u8
 #EXTINF:-1 tvg-id="chan-thanh-voi-tinh-yeu" group-title="🇰🇷| Chân Thành Với Tình Yêu - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/7351e0417b8f07a2_34d3c9d7422dd25c_30042168134901823.jpg", Chân Thành Với Tình Yêu Tập 02
 https://kd.hd-bophim.com/20230413/35375_1b3c8195/index.m3u8
 #EXTINF:-1 tvg-id="chan-thanh-voi-tinh-yeu" group-title="🇰🇷| Chân Thành Với Tình Yêu - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/7351e0417b8f07a2_34d3c9d7422dd25c_30042168134901823.jpg", Chân Thành Với Tình Yêu Tập 01
@@ -54,7 +74,7 @@ https://kd.hd-bophim.com/20230416/35499_412a4087/index.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 18
 https://kd.hd-bophim.com/20230413/35365_8f2169e1/index.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 17
-https://kd.hd-bophim.com/20230412/35281_5a88b303/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/04/18/22/bcbb90e7/bcbb90e7-e54f-43d2-af7b-db80378bfd5c_5_.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 16
 https://vod-ali3.tv360.vn/video1/2023/04/18/22/d602b63f/d602b63f-772f-4d85-8fa8-8cba687bd0ba_5_.m3u8
 #EXTINF:-1 tvg-id="truong-nguyet-tan-minh" group-title="🇨🇳| Trường Nguyệt Tẫn Minh - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/06/b5ff3af732af88ed_57feded16f70f80f_67790168075649343.jpg", Trường Nguyệt Tẫn Minh Tập 15
@@ -89,6 +109,10 @@ https://vod-zlr2.tv360.vn/video1/2023/04/14/00/9564314c/9564314c-8114-4de1-95c5-
 https://vod-zlr2.tv360.vn/video1/2023/04/14/00/247e119b/247e119b-98d8-44ef-ab62-68f0185d05b9_5_.m3u8
 
 #-*-- Lưỡng Bất Nghi -*--#
+#EXTINF:-1 tvg-id="luong-bat-nghi" group-title="🇨🇳| Lưỡng Bất Nghi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/04/cecff9b54559c666_d7ac78815cd87569_58446168059698283.jpg", Lưỡng Bất Nghi Tập 24
+https://vod-zlr2.tv360.vn/video1/2023/04/20/10/ac1eee42/ac1eee42-46f0-4106-a817-25695ec98a39_5_.m3u8
+#EXTINF:-1 tvg-id="luong-bat-nghi" group-title="🇨🇳| Lưỡng Bất Nghi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/04/cecff9b54559c666_d7ac78815cd87569_58446168059698283.jpg", Lưỡng Bất Nghi Tập 23
+https://vod-zlr2.tv360.vn/video1/2023/04/20/10/b7c1add7/b7c1add7-a527-4f93-af46-017f9072ddc9_5_.m3u8
 #EXTINF:-1 tvg-id="luong-bat-nghi" group-title="🇨🇳| Lưỡng Bất Nghi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/04/cecff9b54559c666_d7ac78815cd87569_58446168059698283.jpg", Lưỡng Bất Nghi Tập 22
 https://vod-zlr2.tv360.vn/video1/2023/04/19/09/d3cb4211/d3cb4211-e128-47b0-b86a-7296edaf28a1_5_.m3u8
 #EXTINF:-1 tvg-id="luong-bat-nghi" group-title="🇨🇳| Lưỡng Bất Nghi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/04/cecff9b54559c666_d7ac78815cd87569_58446168059698283.jpg", Lưỡng Bất Nghi Tập 21
@@ -153,7 +177,7 @@ https://kd.hd-bophim.com/20230322/33955_7ec4e969/index.m3u8
 https://kd.hd-bophim.com/20230321/33918_59d0b173/index.m3u8
 
 #-*-- Người Ấy Đã Đến -*--#
-#EXTINF:-1 tvg-id="nguoi-ay-da-den" group-title="🇰🇷| Người Ấy Đã Đến - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/02/aa71bbd80f74d900_d3e083ba605dfd75_38133168039923683.jpg", Người Ấy Đã Đến Tập 07
+#EXTINF:-1 tvg-id="nguoi-ay-da-den" group-title="🇰🇷| Người Ấy Đã Đến - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/02/aa71bbd80f74d900_d3e083ba605dfd75_38133168039923683.jpg", Người Ấy Đã Đến Tập 08
 https://vie.haiphim.com/20230418/26925_b19fb4ba/index.m3u8
 #EXTINF:-1 tvg-id="nguoi-ay-da-den" group-title="🇰🇷| Người Ấy Đã Đến - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/02/aa71bbd80f74d900_d3e083ba605dfd75_38133168039923683.jpg", Người Ấy Đã Đến Tập 07
 https://vie.haiphim.com/20230417/26917_91ce26cd/index.m3u8
@@ -307,6 +331,10 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230406/joseonattorney
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230406/joseonattorneyamorality-2023-kr-tm-001/a6ea8c0c7037551c0d30f7761bf9eef0-1080p.mp4/chunklist.m3u8
 
 #-*-- Vô Gian -*--#
+#EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 36
+https://kd.hd-bophim.com/20230420/35608_143f8e73/index.m3u8
+#EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 35
+https://kd.hd-bophim.com/20230420/35607_4a93983b/index.m3u8
 #EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 34
 https://kd.hd-bophim.com/20230418/35559_9ac563ff/index.m3u8
 #EXTINF:-1 tvg-id="vo-gian" group-title="🇨🇳| Vô Gian - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/bef5e0a81c5c9a29_08dbe598bf9d8d10_27750168022831723.jpg", Vô Gian Tập 33
@@ -428,9 +456,9 @@ https://kd.hd-bophim.com/20230329/34262_b9937c0f/index.m3u8
 
 #-*-- Là Yêu Mà Thôi -*--#
 #EXTINF:-1 tvg-id="la-yeu-ma-thoi" group-title="🇨🇳| Là Yêu Mà Thôi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/27/1c8661fe1b303e61_f91d15802d6d5ab4_44818167992860183.jpg", Là Yêu Mà Thôi Tập 38 - Tập cuối
-https://vod-zlr2.tv360.vn/video1/2023/04/09/15/04235357/04235357-b891-40f9-8b9e-52c05ea09e39_4_.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/04/14/12/f6f369f5/f6f369f5-8ce9-44aa-a21a-353c946b65c0_5_.m3u8
 #EXTINF:-1 tvg-id="la-yeu-ma-thoi" group-title="🇨🇳| Là Yêu Mà Thôi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/27/1c8661fe1b303e61_f91d15802d6d5ab4_44818167992860183.jpg", Là Yêu Mà Thôi Tập 37
-https://vod-ali3.tv360.vn/video1/2023/04/09/15/bff5e191/bff5e191-72fa-48e9-8ab4-5faa3b9c2729_4_.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/04/14/12/4a5a3a68/4a5a3a68-58bc-44ca-8dec-495d2bf50890_5_.m3u8
 #EXTINF:-1 tvg-id="la-yeu-ma-thoi" group-title="🇨🇳| Là Yêu Mà Thôi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/27/1c8661fe1b303e61_f91d15802d6d5ab4_44818167992860183.jpg", Là Yêu Mà Thôi Tập 36
 https://vod-zlr2.tv360.vn/video1/2023/04/13/23/f798efe4/f798efe4-84ce-4f88-81b3-5e0d25afdf72_5_.m3u8
 #EXTINF:-1 tvg-id="la-yeu-ma-thoi" group-title="🇨🇳| Là Yêu Mà Thôi - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/27/1c8661fe1b303e61_f91d15802d6d5ab4_44818167992860183.jpg", Là Yêu Mà Thôi Tập 35
