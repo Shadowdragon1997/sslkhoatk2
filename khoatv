@@ -814,7 +814,7 @@ https://smarttv-drm.fptplay.net/drmlive/k1kids4000_1080p.stream/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eZ/f7Ww/xVyPuf/zLeRR6A","kid":"URt022gGT3uGkGDAsaDRPA"}],"type":"temporary"}
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD FPT Play 25FPS
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/07/14/grpp01g1_microsoftteams-image-138_296_168.webp", K+Cine HD FPT Play 25FPS
 http://103.75.186.169/vipb4tv/vipb4tv/13.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD MyTV 25FPS
@@ -822,7 +822,7 @@ http://103.75.186.169/vipb4tv/vipb4tv/13.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aVlm/T95GKTP4i5r4AL+Jw","kid":"TqQ8LYfVTXueM6GyUVZNsw"}],"type":"temporary"}
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD FPT Play 25FPS
+#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life HD FPT Play 25FPS
 http://103.75.186.169/vipb4tv/vipb4tv/14.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD TV360 25FPS
@@ -831,7 +831,7 @@ http://103.75.186.169/vipb4tv/vipb4tv/14.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"bz2MWO8lo/C7d0gBge2J9w","kid":"YNyF5ssiR2mEVd7cu441Jw"}],"type":"temporary"}
 #https://ebstv.xyz/vip360.php?id=210
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play 25FPS
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD FPT Play 25FPS
 http://103.75.186.169/vipb4tv/vipb4tv/16.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD TV360 25FPS
@@ -840,7 +840,7 @@ http://103.75.186.169/vipb4tv/vipb4tv/16.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YF04zJYXLEK2/9Jn8Gw1yQ","kid":"OLk8goG7Qr2yHCiLVUR26w"}],"type":"temporary"}
 #https://ebstv.xyz/vip360.php?id=211
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD FPT Play 25FPS
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 HD FPT Play 25FPS
 http://103.75.186.169/vipb4tv/vipb4tv/6.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp", K+Kids HD TV360 25FPS
