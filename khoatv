@@ -811,7 +811,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jwt5Mle9591yTYRbFKhLyg","kid":"zBW5DIGyNgmWFKH0DqIINg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ptRhZyDUzch6nyysCp4umQ","kid":"TJKVfL8QNvKIbjGAKWWqJg"}],"type":"temporary"}
 https://smarttv-drm.fptplay.net/drmlive/k1cine_4000.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/jw4meuns_bannerk1life055f0184d90b1f0032c1c18f726fcec3_296_168.webp", K+Life FHD TV360 50FPS
@@ -830,7 +830,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"v229B99difHRS4PMmjtwhw","kid":"gSEyQDAQPLKOGfXKn1utqg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0j46btzaGHOhInpAeQJf/A","kid":"lzJq8KKNPp+VWUBXe2465g"}],"type":"temporary"}
 https://smarttv-drm.fptplay.net/drmlive/k1life_4000.stream/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD TV360 50FPS
@@ -894,7 +894,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"WlMAfyH4NpIDPvCXo3n04A","kid":"DH1XiH/XN2y8db0rEkF0VQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"xEAD1IIyW/Mqe4ce3BYsDg","kid":"Ivwk+BfzNPWy174JZSU75w"}],"type":"temporary"}
 https://smarttv-drm.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 
 #-*-- K+ HD Khoa Tivi -*--#
@@ -3294,35 +3294,35 @@ https://webudit.salamus1.lol/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=417
-https://ddy6.onlinewebtv.lol/ddy6/premium417/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium417/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD Server 2
 
 #EXTINF:-1 tvg-ID="SuperSportAction.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png", AF: SuperSport Action FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=420
-https://ddy6.onlinewebtv.lol/ddy6/premium420/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium420/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportBlitz.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/kwQzFEF.png", AF: Supersport Blitz FHD
 
 #EXTINF:-1 tvg-ID="SuperSportFootball.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png", AF: Supersport Football FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=56
-https://ddy1.onlinewebtv.lol/ddy1/premium56/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium56/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportFootballPlus.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_FootballPlus_4-3_004_xlrg.png", AF: SuperSport Football Plus FHD
 
 #EXTINF:-1 tvg-ID="SuperSportGrandstand.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-3_001_xlrg.png", AF: SuperSport Grandstand FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=412
-https://ddy6.onlinewebtv.lol/ddy6/premium412/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium412/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportLaLiga.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png", AF: SuperSport La Liga FHD
 
 #EXTINF:-1 tvg-ID="SuperSportMaximo.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Maximo1_4-3_001_xlrg.png", AF: SuperSport Maximo FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=572
-https://ddy6.onlinewebtv.lol/ddy6/premium572/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium572/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPSL.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PSL_4-3_002_xlrg.png", AF: SuperSport PSL FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=413
-https://ddy6.onlinewebtv.lol/ddy6/premium413/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium413/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPlay.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-3_001_xlrg.png", AF: SuperSport Play 1 FHD
 
 #EXTINF:-1 tvg-ID="SuperSportPlay2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Play 2 FHD
@@ -3332,37 +3332,37 @@ https://ddy6.onlinewebtv.lol/ddy6/premium413/playlist.m3u8
 #EXTINF:-1 tvg-ID="SuperSportGolf.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-3_xlrg.png", AF: SuperSport Golf FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=422
-https://ddy6.onlinewebtv.lol/ddy6/premium422/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium422/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportMotorsport.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png", AF: SuperSport Motorsport FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=424
-https://ddy6.onlinewebtv.lol/ddy6/premium424/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium424/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportCricket.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Cricket_4-3_001_xlrg.png", AF: SuperSport Circket FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=368
-https://ddy1.onlinewebtv.lol/ddy1/premium368/playlist.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium368/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportRugby.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Rugby_4-3_001_xlrg.png", AF: SuperSport Rugby FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=416
-https://ddy6.onlinewebtv.lol/ddy6/premium416/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium416/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportTennis.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png", AF: SuperSport Tennis FHD
 
 #EXTINF:-1 tvg-ID="SuperSportVariety1.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety1_4-3_005_xlrg.png", AF: SuperSport Variety 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=416
-https://ddy6.onlinewebtv.lol/ddy6/premium416/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium416/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportVariety2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety2_4-3_005_xlrg.png", AF: SuperSport Variety 2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=417
-https://ddy6.onlinewebtv.lol/ddy6/premium417/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium417/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportVariety3.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety3_4-3_007_xlrg.png", AF: Supersport Variety 3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=418
-https://ddy6.onlinewebtv.lol/ddy6/premium418/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium418/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportVariety4.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport Variety 4 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=419
-https://ddy6.onlinewebtv.lol/ddy6/premium419/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium419/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportESPN.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN FHD
 
 #EXTINF:-1 tvg-ID="SuperSportESPN2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN 2 FHD
@@ -3763,53 +3763,53 @@ http://113.178.30.41:8889/wisd.php?id=63965
 #EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/csv6YsL.png", RS: Arena Sport 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=134
-https://ddy5.onlinewebtv.lol/ddy5/premium134/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium134/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/ztOmQ7P.png", RS: Arena Sport 2 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=135
-https://ddy2.onlinewebtv.lol/ddy2/premium135/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium135/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gpqemLf.png", RS: Arena Sport 3 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=139
-https://ddy2.onlinewebtv.lol/ddy2/premium139/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium139/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/RJrJGbW.png", RS: Arena Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=432
-https://ddy6.onlinewebtv.lol/ddy6/premium432/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium432/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/aqlECBj.png", RS: Arena Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=433
-https://ddy6.onlinewebtv.lol/ddy6/premium433/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium433/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/3r3burN.png", RS: Arena Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=431
-https://ddy5.onlinewebtv.lol/ddy5/premium431/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium431/index.m3u8
 #EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/h1XhGkz.png", RS: Arena Sport 4
 
 #EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/036qMgu.png", RS: Arena Sport 5
 
 #EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=101
-https://ddy2.onlinewebtv.lol/ddy2/premium101/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=453
+https://webudit.salamus1.lol/lb/premium453/index.m3u8
 #EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1 Server 2
 
 #EXTINF:-1 tvg-id="SportKlub2.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/UNG4xlb.png", RS: Sport Klub 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=102
-https://ddy2.onlinewebtv.lol/ddy2/premium102/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium102/index.m3u8
 #EXTINF:-1 tvg-id="SportKlub2.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/UNG4xlb.png", RS: Sport Klub 2 Server 2
 
 #EXTINF:-1 tvg-id="SportKlub3.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/N7DGGtV.png", RS: Sport Klub 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=103
-https://ddy1.onlinewebtv.lol/ddy1/premium103/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium103/index.m3u8
 #EXTINF:-1 tvg-id="SportKlub3.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/N7DGGtV.png", RS: Sport Klub 3 Server 2
 
 #EXTINF:-1 tvg-id="SportKlub4.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/8D4tQUR.png", RS: Sport Klub 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=103
-https://ddy1.onlinewebtv.lol/ddy1/premium104/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=104
+https://webudit.salamus1.lol/lb/premium104/index.m3u8
 #EXTINF:-1 tvg-id="SportKlub4.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/8D4tQUR.png", RS: Sport Klub 4 Server 2
 
 #EXTINF:-1 tvg-id="SportKlub5.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/d7uT1Vs.png", RS: Sport Klub 5
@@ -3825,7 +3825,7 @@ https://ddy1.onlinewebtv.lol/ddy1/premium104/playlist.m3u8
 #EXTINF:-1 tvg-id="SportKlub8.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="http://n2086.securepoint.io:25461/images/a9bfe898d1822b5df75145f461096f44.png", RS: Sport Klub 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=76
-https://ddy1.onlinewebtv.lol/ddy1/premium76/playlist.m3u8
+https://webudit.salamus1.lol/lb/premium76/index.m3u8
 #EXTINF:-1 tvg-id="SportKlub9.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="http://n2086.securepoint.io:25461/images/a9bfe898d1822b5df75145f461096f44.png", RS: Sport Klub 9
 
 #EXTINF:-1 tvg-id="SportKlub10.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="http://n2086.securepoint.io:25461/images/a9bfe898d1822b5df75145f461096f44.png", RS: Sport Klub 10
