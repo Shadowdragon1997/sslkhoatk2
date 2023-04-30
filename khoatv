@@ -33,10 +33,10 @@ http://103.56.160.133:8081/mytv803
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
 http://103.56.160.133:8081/mytv804
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/800px-Logo_SEA_Games_32.svg.png",16h-29/04: U22 indonesia vs U22 Philippines (BẢNG A MÔN BÓNG ĐÁ NAM SEA GAMES 32)
-http://103.56.160.133:8081/event1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/800px-Logo_SEA_Games_32.svg.png",19h-29/04: U22 Campuchia vs U22 Timo Leste (BẢNG A MÔN BÓNG ĐÁ NAM SEA GAMES 32)
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/800px-Logo_SEA_Games_32.svg.png",19h-30/04: U22 Việt Nam vs U22 Lào (BẢNG B MÔN BÓNG ĐÁ NAM SEA GAMES 32)
 http://103.56.160.133:8081/event2
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/55/Logo_SEA_Games_32.svg/800px-Logo_SEA_Games_32.svg.png",19h-30/04: U22 Việt Nam vs U22 Lào (BẢNG B MÔN BÓNG ĐÁ NAM SEA GAMES 32)
+http://103.75.186.169:9981/stream/channelid/1855627050?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/04/11/feyenoord---as-roma_1681210133642.jpg", 23h45-13/04: Feyenoord - AS Roma (Tứ Kết Lượt Đi UEFA EUROPA LEAGUE 2022/2023)
 http://103.143.143.196:8080/thethao44/tracks-v1a1/mono.m3u8
