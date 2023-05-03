@@ -826,8 +826,8 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 https://smarttv-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:8989/4866/hls/playlist.m3u8
 http://103.75.186.169:9981/stream/channelid/57013409?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
+http://103.75.186.169:8989/4866/hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD TV360 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
