@@ -357,15 +357,15 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
 http://103.56.160.133:8081/vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.3.1:30120
+http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
 http://103.56.160.133:8081/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.3.5:30120
+http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
 http://103.56.160.133:8081/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.3.2:30120
+http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
 http://khoatv.quabnv.tk:4022/udp/225.1.3.6:30120
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT Server 2
@@ -373,29 +373,23 @@ http://khoatv.quabnv.tk:4022/udp/225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
 http://103.56.160.133:8081/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.3.4:30120
+http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT
-http://khoatv.quabnv.tk:4022/udp/225.1.3.137:30120
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT Server 2
-https://nvzoftzsvflivnt.vcdn.com.vn/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tnb@high.m3u8?hdnts=exp=1669760866~acl=/vtv5tnb/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f*~hmac=9bdcbbbbba76f2f0752eec42ffd6ea9c54754bcfba4f7f8ad48d233da75bb4d2
+http://171.238.181.38:18080/307.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/0UWj+UZDfaZPkJlQZKP5I2xNAOlqTEQebNXQmPAAs3zuzkfSyyRk9eszTWoOv86TqZUy5lFhukZjxixbXi4CWtccqz0bcxcrdC82+Kl+lkNb4EUHzOzkg19PNwHMZHXaosZzf0Nhpz9JjdW49zylDdUocacywpmBAwqFTtl7iu/&uid=1117988
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên FPT
-https://nvzoftzsvflivnt.vcdn.com.vn/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f/vtv5tn@high.m3u8?hdnts=exp=1669760866~acl=/vtv5tn/hdntl=exp=1669822065~acl=%2f*~data=hdntl~hmac=c8de9c9d9148f59cd1e9312a45f4243ddf102255980678ead64b570f82ecb79f*~hmac=9bdcbbbbba76f2f0752eec42ffd6ea9c54754bcfba4f7f8ad48d233da75bb4d2
+http://171.238.181.86:18080/308.m3u8?AdaptiveType=HLS&VOD_RequestID=oLA9S7U1lcO0KMZhsvk3WlF1TRJyWcQCAPBkKmOcPw6DInx7rTsSMTUXspJ2ZLZf00mgtYLWSjirXWrAKbIax4FYEM+tHcj09vR1F33WIL4DcfkTqJ6K8Bq0G7V53vOSOiP4yUbtkejeQbERsCxLDsBZ4O2XduO7Dae1ZD6F9dc4FLn6CEYCl3klaPQBFQcY&uid=1117988
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
 http://103.56.160.133:8081/vtvcantho
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.3.3:30120
+http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
 http://khoatv.quabnv.tk:4022/udp/225.1.3.15:30120
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT Server 2
 http://khoatv.quabnv.tk:4022/udp/225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 FPT
-http://khoatv.quabnv.tk:4022/udp/225.1.3.11:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.2.166:30120
+http://171.238.181.38:18080/196.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv//jRXo3Gkflvpo1aVYGufVGOBc0F6A7O13jbZ2MUwErbLqy1gsCuCYLytjtMC3WVuryzoC5BfgkJ25N5ymPhhfEWarg27PxdrYWh87CJdYKSTj0DTYoCW3zQsfyp2ueFSps3/m6RRfLDlXydUbjg6QhGzxfxgg0dD1jDZB1mrH+r&uid=1117988
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 FPT
-http://khoatv.quabnv.tk:4022/udp/225.1.3.9:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 FPT Server 2
-http://khoatv.quabnv.tk:4022/udp/225.1.1.128:30120
+http://171.238.181.38:18080/197.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv//yYfMhRpi43sePqVz179sY0885n8Irw9N/oqzzFHCSxcGRfZDMG6tMDHb9O6DRWafOzLf/G4tkqePoG4SAhlVQ446fInGBYYXv4+jKsPzoXnk1SratAwK0yBILKDt5th7gU8vKru44qNWDBJnTmDmENZUEPnxxBekcJHXmp0cKN&uid=1117988
 
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1 - Vie Giải trí HD
@@ -825,7 +819,7 @@ https://smarttv-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:9981/stream/channelid/57013409?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
-#http://103.75.186.169:8989/4866/hls/playlist.m3u8
+http://103.56.160.109:9981/stream/channelid/1695386463?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD TV360 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
