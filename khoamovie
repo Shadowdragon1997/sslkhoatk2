@@ -4,6 +4,12 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- Vì Những Gì Ta Đã Yêu -*--#
+#EXTINF:-1 tvg-id="vi-nhung-gi-ta-da-yeu" group-title="🇰🇷| Vì Những Gì Ta Đã Yêu - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/05/20e92b715ded58aa_9e14c9ecf173d9f6_41091168329244353816.jpg", Vì Những Gì Ta Đã Yêu Tập 02
+https://vod-zlr2.tv360.vn/video1/2023/05/05/19/afb267fb/afb267fb-7769-46bd-a20c-8a5241d49dc0_4_.m3u8
+#EXTINF:-1 tvg-id="vi-nhung-gi-ta-da-yeu" group-title="🇰🇷| Vì Những Gì Ta Đã Yêu - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/05/20e92b715ded58aa_9e14c9ecf173d9f6_41091168329244353816.jpg", Vì Những Gì Ta Đã Yêu Tập 01
+https://vod-zlr2.tv360.vn/video1/2023/05/05/18/2dacd0da/2dacd0da-ceb1-4ed5-a5fe-a1906d73c805_4_.m3u8
+
 #-*-- Tình Thân Gia Đình -*--#
 #EXTINF:-1 tvg-id="tinh-than-gia-dinh" group-title="🇰🇷| Tình Thân Gia Đình - 2023" tvg-logo="https://ophim1.cc/_next/image?url=http%3A%2F%2Fimg.ophim1.com%2Fuploads%2Fmovies%2Ftinh-than-gia-dinh-thumb.jpg&w=256&q=75", Tình Thân Gia Đình Tập 06
 https://vie.haiphim.com/20230504/27102_81a03675/index.m3u8
@@ -19,6 +25,10 @@ https://vie.haiphim.com/20230428/27025_8210825e/index.m3u8
 https://vie.haiphim.com/20230427/27019_2e849c22/index.m3u8
 
 #-*-- Vân Tương Truyện -*--#
+#EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 14
+https://kd.hd-bophim.com/20230505/36106_badbf3ff/index.m3u8
+#EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 13
+https://kd.hd-bophim.com/20230505/36105_e5278daf/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 12
 https://kd.hd-bophim.com/20230504/36064_b9f9d6a7/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 11
@@ -153,6 +163,10 @@ https://vod-zlr2.tv360.vn/video1/2023/04/21/20/8a78a8bd/8a78a8bd-f43c-4bc3-b885-
 https://vod-zlr2.tv360.vn/video1/2023/04/21/19/e16fa323/e16fa323-ff02-4b25-8c7e-e109d5859a7e_4_.m3u8
 
 #-*-- Chòm Sao May Mắn Của Anh -*--#
+#EXTINF:-1 tvg-id="chom-sao-may-man-cua-anh" group-title="🇹🇭| Chòm Sao May Mắn Của Anh - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/11/1680841154803/b1054f8ef8cd_360_540.jpg", Chòm Sao May Mắn Của Anh Tập 12
+https://vod-zlr2.tv360.vn/video1/2023/05/03/21/60a431c6/60a431c6-2ec9-40f8-8405-57ec9c3e8506_5_.m3u8
+#EXTINF:-1 tvg-id="chom-sao-may-man-cua-anh" group-title="🇹🇭| Chòm Sao May Mắn Của Anh - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/11/1680841154803/b1054f8ef8cd_360_540.jpg", Chòm Sao May Mắn Của Anh Tập 11
+https://vod-zlr2.tv360.vn/video1/2023/05/03/21/964afbd7/964afbd7-8f6e-4d65-9ff8-09871c158a34_5_.m3u8
 #EXTINF:-1 tvg-id="chom-sao-may-man-cua-anh" group-title="🇹🇭| Chòm Sao May Mắn Của Anh - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/11/1680841154803/b1054f8ef8cd_360_540.jpg", Chòm Sao May Mắn Của Anh Tập 10
 https://vod-ali3.tv360.vn/video1/2023/05/03/21/7ab98286/7ab98286-89d5-47b4-9508-a06fdac54fe1_5_.m3u8
 #EXTINF:-1 tvg-id="chom-sao-may-man-cua-anh" group-title="🇹🇭| Chòm Sao May Mắn Của Anh - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/11/1680841154803/b1054f8ef8cd_360_540.jpg", Chòm Sao May Mắn Của Anh Tập 09
