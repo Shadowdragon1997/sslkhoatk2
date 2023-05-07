@@ -769,7 +769,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 https://smarttv-drm.fptplay.net/drmlive/k1cine_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.56.160.109:8989/4870/hls/playlist.m3u8
+http://103.75.186.169:9981/stream/channelid/1653547236?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life FHD TV360 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -791,7 +791,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
 https://smarttv-drm.fptplay.net/drmlive/k1life_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.56.160.109:8989/4871/hls/playlist.m3u8
+http://103.75.186.169:9981/stream/channelid/692620033?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD TV360 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -818,8 +818,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 https://smarttv-drm.fptplay.net/drmlive/k1sport1_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:9981/stream/channelid/57013409?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
-http://103.56.160.109:9981/stream/channelid/1695386463?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
+http://103.75.186.169:9981/stream/channelid/1438138218?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD TV360 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -846,8 +845,7 @@ http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 https://smarttv-drm.fptplay.net/drmlive/k1sport2_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.56.160.109:8989/4869/hls/playlist.m3u8
-http://103.75.186.169:9981/stream/channelid/1684891674?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
+http://103.75.186.169:9981/stream/channelid/1855627050?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD Kplus 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -864,7 +862,6 @@ https://smarttv-drm.fptplay.net/drmlive/k1kids_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD (độ trễ cao)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.56.160.109:8989/4872/hls/playlist.m3u8
-http://103.75.186.169:9981/stream/channelid/1219571905?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #-*-- K+ HD Khoa Tivi -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD MyTV 25FPS
