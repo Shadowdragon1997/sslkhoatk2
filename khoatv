@@ -383,13 +383,13 @@ http://103.56.160.133:8081/vtvcantho
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server 2
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
-http://khoatv.quabnv.tk:4022/udp/225.1.3.15:30120
+http://171.238.181.38:18080/195.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/63WHni5Buw0K1Zqcq0p2OpSIPbWN7UNn1fiTftIVaLaVJqHL+onsTALYrnT4LbIe85U+np/TDpZ7F9MKLnacQouFFnA9D82etshJk2m3rVck9tSsNHgpBBon+jh/Xh8Ejuf5fn58QCL8EeltDwJ3gYVX7+3avd2hILB5UQyvwcm&uid=1117988
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT Server 2
 http://khoatv.quabnv.tk:4022/udp/225.1.2.96:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8 FPT
-http://171.238.181.38:18080/196.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv//jRXo3Gkflvpo1aVYGufVGOBc0F6A7O13jbZ2MUwErbLqy1gsCuCYLytjtMC3WVuryzoC5BfgkJ25N5ymPhhfEWarg27PxdrYWh87CJdYKSTj0DTYoCW3zQsfyp2ueFSps3/m6RRfLDlXydUbjg6QhGzxfxgg0dD1jDZB1mrH+r&uid=1117988
+http://171.238.181.38:18080/196.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7tQTubzFrm1d3XpVq2Ip4h8Bpw4XsIEbPSLnNL4zeWQsDKBLmCtDy4Tl5KjdvhOqlmLBVwhQg8py7x/4TcgWvQdpxPVqK5te1w2j+RYgkbYjQezFP+C6phf9+sXgHtCArkk3tKPld2WxsnCnPtVAMRIGjf4/9Hr1EYW/oM+4uI0&uid=1117988
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9 FPT
-http://171.238.181.38:18080/197.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv//yYfMhRpi43sePqVz179sY0885n8Irw9N/oqzzFHCSxcGRfZDMG6tMDHb9O6DRWafOzLf/G4tkqePoG4SAhlVQ446fInGBYYXv4+jKsPzoXnk1SratAwK0yBILKDt5th7gU8vKru44qNWDBJnTmDmENZUEPnxxBekcJHXmp0cKN&uid=1117988
+http://171.238.181.38:18080/197.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/x7ioCIse5veMeOOyG4n9plNfD8VrUYgOpQwGFyz6bAnLOvzswTwmmYpqFjrX7WY2Nx4tRpA8E/arBSP9tc4qT/AMvZOBlNNHFNEefdaoIIYqLwOUR2Ivjqw+zJPibGgHD4PVEDCBNobnNCq15krN1rIlgvj3MGHv8KrVtHkkDYM&uid=1117988
 
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1 - Vie Giải trí HD
