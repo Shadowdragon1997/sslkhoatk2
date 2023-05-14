@@ -4,6 +4,28 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- Hộ Tâm -*--#
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 10
+https://1080.opstream4.com/20230513/43411_4215fa08/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 09
+https://kd.opstream3.com/20230512/36399_c37901f8/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 08
+https://kd.opstream3.com/20230511/36380_f6ff8df9/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 07
+https://kd.opstream3.com/20230510/36326_0d49cd27/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 06
+https://kd.opstream3.com/20230510/36327_f8f1c44c/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 05
+https://kd.opstream3.com/20230509/36292_ca58dc99/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 04
+https://kd.opstream3.com/20230509/36291_866e4024/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 03
+https://kd.opstream3.com/20230509/36290_4ee5f558/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 02
+https://kd.opstream3.com/20230509/36289_0e3e4080/index.m3u8
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 01
+https://kd.opstream3.com/20230509/36288_7e847486/index.m3u8
+
 #-*-- Người Lạ Hoàn Hảo -*--#
 #EXTINF:-1 tvg-id="nguoi-la-hoan-hao" group-title="🇰🇷| Người Lạ Hoàn Hảo - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/07/b70c1cabebc804bc_75f470d62fd3c880_44510168344340893.jpg", Người Lạ Hoàn Hảo Tập 04
 https://vie.opstream1.com/20230512/27186_f114c099/index.m3u8
@@ -15,6 +37,8 @@ https://vie.opstream1.com/20230509/27151_4d022b56/index.m3u8
 https://vie.opstream1.com/20230507/27135_516084d2/index.m3u8
 
 #-*-- Bạn Trai Tôi Là Hồ Ly (Phần 2) -*--#
+#EXTINF:-1 tvg-id="ban-trai-toi-la-ho-ly-p2" group-title="🇰🇷| Bạn Trai Tôi Là Hồ Ly (Phần 2) - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/06/67f572306feb7fb4_18349a56a47db9dd_40699168338750613.jpg", Bạn Trai Tôi Là Hồ Ly (Phần 2) Tập 03
+https://kd.opstream3.com/20230513/36430_c049b022/index.m3u8
 #EXTINF:-1 tvg-id="ban-trai-toi-la-ho-ly-p2" group-title="🇰🇷| Bạn Trai Tôi Là Hồ Ly (Phần 2) - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/06/67f572306feb7fb4_18349a56a47db9dd_40699168338750613.jpg", Bạn Trai Tôi Là Hồ Ly (Phần 2) Tập 02
 https://kd.opstream3.com/20230507/36235_c5cbaa58/index.m3u8
 #EXTINF:-1 tvg-id="ban-trai-toi-la-ho-ly-p2" group-title="🇰🇷| Bạn Trai Tôi Là Hồ Ly (Phần 2) - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/06/67f572306feb7fb4_18349a56a47db9dd_40699168338750613.jpg", Bạn Trai Tôi Là Hồ Ly (Phần 2) Tập 01
@@ -47,6 +71,10 @@ https://vie.opstream1.com/20230428/27025_8210825e/index.m3u8
 https://vie.opstream1.com/20230427/27019_2e849c22/index.m3u8
 
 #-*-- Vân Tương Truyện -*--#
+#EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 26
+https://1080.opstream4.com/20230513/43418_a918d750/index.m3u8
+#EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 25
+https://1080.opstream4.com/20230513/43417_91073ae5/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 24
 https://kd.opstream3.com/20230512/36407_2f9d7c9c/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 23
@@ -60,13 +88,13 @@ https://kd.opstream3.com/20230508/36261_dee8acb9/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 19
 https://kd.opstream3.com/20230508/36260_64c02b5a/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 18
-https://kd.opstream3.com/20230507/36233_80c64d8b/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/13/23/14726131/14726131-7d6c-478b-b2f8-d4cf8e306549_5_.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 17
-https://kd.opstream3.com/20230507/36232_d5688eb0/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/13/22/98512499/98512499-c915-46c3-865c-2498a3f63727_5_.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 16
-https://hdbo.opstream5.com/20230506/34549_591f009c/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/12/23/5b225b09/5b225b09-f5c1-469e-bf80-aa26938920a1_5_.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 15
-https://hdbo.opstream5.com/20230506/34548_499ea620/index.m3u8
+https://vod-ali3.tv360.vn/video1/2023/05/12/23/2828945e/2828945e-7442-45cc-a6d0-5e61f7aeb8e9_5_.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 14
 https://vod-ali3.tv360.vn/video1/2023/05/11/22/8447e5a2/8447e5a2-5735-4c05-8105-1b6e97974a66_5_.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 13
@@ -270,6 +298,8 @@ https://vod-zlr2.tv360.vn/video1/2023/04/19/18/3b8f49c0/3b8f49c0-0345-4b87-97fa-
 
 #-*-- Bác Sĩ Cha -*--#
 #EXTINF:-1 tvg-id="bac-si-cha" group-title="🇰🇷| Bác Sĩ Cha - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/85603b48058056a2_de8924a656ef67b2_478381681576226316068.jpg", Bác Sĩ Cha Tập 08
+https://kd.opstream3.com/20230513/36431_6d8e6479/index.m3u8
+#EXTINF:-1 tvg-id="bac-si-cha" group-title="🇰🇷| Bác Sĩ Cha - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/85603b48058056a2_de8924a656ef67b2_478381681576226316068.jpg", Bác Sĩ Cha Tập 08
 https://kd.opstream3.com/20230507/36234_c07da600/index.m3u8
 #EXTINF:-1 tvg-id="bac-si-cha" group-title="🇰🇷| Bác Sĩ Cha - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/15/85603b48058056a2_de8924a656ef67b2_478381681576226316068.jpg", Bác Sĩ Cha Tập 07
 https://kd.opstream3.com/20230507/36234_c07da600/index.m3u8
@@ -361,6 +391,10 @@ https://kd.opstream3.com/20230415/35463_aa067f52/index.m3u8
 https://kd.opstream3.com/20230415/35462_1ad0a43f/index.m3u8
 
 #-*-- Người Trông Giữ: Kẻ Đánh Cắp Báu Vật -*--#
+#EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 10
+https://kd.opstream3.com/20230512/36397_388a99fc/index.m3u8
+#EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 09
+https://kd.opstream3.com/20230511/36382_787f8db5/index.m3u8
 #EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 08
 https://kd.opstream3.com/20230505/36090_74f0e425/index.m3u8
 #EXTINF:-1 tvg-id="nguoi-trong-giu-ke-danh-cap-bau-vat" group-title="🇰🇷| Người Trông Giữ: Kẻ Đánh Cắp Báu Vật - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/04/13/e746d0948eb0fd70_8efb8a4d7bd647a2_43169168135613023816.jpg", Người Trông Giữ: Kẻ Đánh Cắp Báu Vật Tập 07
@@ -721,10 +755,14 @@ https://vod-ali3.tv360.vn/video1/2023/04/07/00/794e49d6/794e49d6-7e7c-4099-a3d4-
 https://vod-zlr2.tv360.vn/video1/2023/04/07/00/2f65c582/2f65c582-5233-448f-afa2-449b76cd4e95_5_.m3u8
 
 #-*-- Luật Sư Thời Joseon -*--#
+#EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 14
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230514/joseonattorneyamorality-2023-kr-014-1080p/0675f8aa55848a68e4982250d9bd9fac-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 13
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230513/joseonattorneyamorality-2023-kr-013-1080p/319c13194c8dfdc9bbec767074c722ed-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 12
-https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230508/joseonattorneyamorality-2023-kr-012-cap-1080p/62b3c59ddf84cf020dac8b6d09116742-1080p.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230512/joseonattorneyamorality-2023-kr-012-tm/c51dcf3eef113ca3c5efa4e7775985a9-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 11
-https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230508/joseonattorneyamorality-2023-kr-011-cap-1080p/5c5a8b79fbc06300cc930b7f22dfd227-1080p.mp4/chunklist.m3u8
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230512/joseonattorneyamorality-2023-kr-011-tm/1d5fdf3eddd392ea9c3123c4a79d30d3-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 10
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20230505/joseonattorneyamorality-2023-kr-010-cap-1080p/5e546518b562ac22f91a50e97d555aee-1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="luat-su-thoi-joseon" group-title="🇰🇷| Luật Sư Thời Joseon - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/03/31/0816175913ff7d9a_58038ed25fa76a09_45288168025704463816.jpg", Luật Sư Thời Joseon Tập 09
