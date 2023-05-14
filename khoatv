@@ -239,93 +239,66 @@ https://code.vthanhtivi.pw/getlink/tv360/148/1.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360 + 4
 http://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/12/al-hilal---al-wehda_1683882721336.jpg", 00h50-13/05 Al Hilal - Al Wehda
-#EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-1
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/11/296_1683759204178.jpg", 22h50-12/05 Bellator 296: Mousasi vs Edwards
-#EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-45
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/v2_1683720549235.jpg", 17h50-12/05 Soudal Open 2023 - Vòng 2
-#EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-15
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/11/sl_1683801855421.jpg", 02h00-14/05 UFC Fight Night 129: Rozenstruik vs. Almeida
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport1.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpm
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/3_1683701477737.jpg", 16h00-12/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 3
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/4_1683705227960.jpg", 16h00-13/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 4
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/5_1683705406585.jpg", 16h00-14/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 5
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/6_1683705606006.jpg", 16h00-15/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 6
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/71_1683707495051.jpg", 16h00-16/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 7
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/72_1683708273978.jpg", 00h00-17/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 7
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/81_1683709373106.jpg", 18h00-17/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 8
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/82_1683709925506.jpg", 00h00-18/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 8
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/91_1683710024538.jpg", 20h00-18/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 9
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/92_1683710182960.jpg", 01h30-19/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 9
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/10_1683710542468.jpg", 18h00-20/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 10
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/11_1683710688263.jpg", 21h00-21/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 11
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
+#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/3b341740574811e9b56f020e4c9cf830336a6773/ksport2.key
+https://tbtv.us/api/fptplay/3b341740574811e9b56f020e4c9cf830336a6773/kpc
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
@@ -444,7 +417,7 @@ http://171.238.181.38:18080/197.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ
 https://code.vthanhtivi.pw/getlink/vieon/vie-giai-tri-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1 - Vie Giải trí HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vie-giai-tri-hd
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vie-giai-tri-hd
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" tvg-chno="65", VTVcab 1 - Vie Giải trí SD
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt HD
@@ -456,7 +429,7 @@ https://code.vthanhtivi.pw/getlink/tv360/175/0.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab2/index.m3u8?md5=QGYdEQjOO4Qj5YcwRFeV1w&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab3-on-sports
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab3-on-sports
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD Server 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -469,10 +442,10 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK
 https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/15.png", ON Movies HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab4-phim-dac-sac
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab4-phim-dac-sac
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", VTVcab 5 - E Channel HD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab5-e-channel
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab5-e-channel
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png" tvg-chno="69", VTVcab 5 - E Channel HD Server 2
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/16.png", VTVcab 5 - E Channel SD
@@ -481,7 +454,7 @@ https://code.vthanhtivi.pw/getlink/tv360/182/0.m3u8
 http://20.24.190.17/onspplus/mpegts
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab6-on-sport-plus
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab6-on-sport-plus
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/17.png", ON Sports+ HD Server 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -494,19 +467,19 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9
 https://code.vthanhtivi.pw/getlink/mytv/27/auto.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png", ON O2TV HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab7
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab7
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/18.png" tvg-chno="71", ON O2TV HD Server 3
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", ON BiBi HD
 https://code.vthanhtivi.pw/getlink/mytv/205/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png", ON BiBi HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab8-bibi
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab8-bibi
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/19.png" tvg-chno="72", ON BiBi HD Server 3
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", ON Info TV HD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab9-info-tv
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab9-info-tv
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png", ON Info TV HD Server 2
 https://code.vthanhtivi.pw/getlink/tv360/189/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/20.png" tvg-chno="73", ON Info TV HD Server 3
@@ -517,15 +490,15 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf
 https://code.vthanhtivi.pw/getlink/tv360/176/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/21.png", ON Cine SD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/176/2
+https://tbtv.us/api/tv360/3b341740574811e9b56f020e4c9cf830336a6773/176/2
 #EXTINF:-1 tvg-id="vtvcab11hd" group-title="🧡| VTVcab" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/83_b051238f.jpg?width=426&version=6&s3_origin=https%3A%2F%2Fsctv-main-2.s3-hcm.cloud.cmctelecom.vn" tvg-chno="75", VTVCAB 11 SD 
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/184/2
+https://tbtv.us/api/tv360/3b341740574811e9b56f020e4c9cf830336a6773/184/2
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", ON Style HD
 https://code.vthanhtivi.pw/getlink/tv360/184/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png", ON Style HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab12-style-tv
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab12-style-tv
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/22.png" tvg-chno="75", ON Style HD Server 3
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", ON Music HD
@@ -533,12 +506,12 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo2
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png", ON Music HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab15
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab15
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/23.png" tvg-chno="77", ON Music HD Server 3
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab16-on-football
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab16-on-football
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD Server 2
 http://20.24.190.17/onfb/mpegts
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD Server 3
@@ -549,7 +522,7 @@ http://20.24.190.17/onfb/mpegts
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/BONGDA_HD/manifest.mpd
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png", ON Trending TV HD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vtvgo/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab17
+https://tbtv.us/api/vtvgo/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab17
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png", ON Trending TV HD Server 2
 https://code.vthanhtivi.pw/getlink/tv360/186/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/25.png" tvg-chno="79", ON Trending TV HD Server 3
@@ -561,7 +534,7 @@ https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1
 https://live2onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab18-on-sports-news
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab18-on-sports-news
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News HD Server 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qROfSVXwLya5HP2kT0KQ3Q","kid":"2iwm1FFtTbGmqC9XOiPFAA"}],"type":"temporary"}
@@ -572,30 +545,30 @@ https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab19/index.m3u8?md5=1AYGbWlzHNKrvsQUMUP82Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/27.png", VTVcab 19 - Vie Dramas SD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vie-dramas-hd
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vie-dramas-hd
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png", ON VFamily HD
 https://code.vthanhtivi.pw/getlink/tv360/187/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png", ON VFamily SD
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab20-vfamily
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab20-vfamily
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/28.png" tvg-chno="80", ON VFamily SD Server 2
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", ON Kids HD
 https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/29.png", ON Kids HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab21-cartoon-kid
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab21-cartoon-kid
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", ON Life HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/30.png", ON Life HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/vieon/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/vtvcab22-life-tv
+https://tbtv.us/api/vieon/3b341740574811e9b56f020e4c9cf830336a6773/vtvcab22-life-tv
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf HD
 https://code.vthanhtivi.pw/getlink/tv360/169/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf HD Server 2
 #EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/169/2
+https://tbtv.us/api/tv360/3b341740574811e9b56f020e4c9cf830336a6773/169/2
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png", ON Golf HD Server 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1686,273 +1659,94 @@ https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294de
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 #-*-- Sự kiện -*--#
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/30/icon_channel_su-kien-1_168014342964.jpg", Sự Kiện 1: Lễ Trao Giải Thưởng Cống Hiến 2023
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/10/icon_channel_su-kien-3_16784335557.jpg", Sự Kiện 3: Giao Lộ Thời Gian: Anh Thơ - Dương Hoàng Yến
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/05/07/icon_channel_the-thao-1_168342227296.jpg", Thể Thao 1: Al Hilal - Al Wehda
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-2_168117322394.jpg", Thể Thao 2: Real Madrid - Partizan Mozzart Bet Belgrade
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/31/icon_channel_the-thao-5_16802539336.jpg", Thể Thao 5: Trực tiếp SEA Games 32 - Cầu mây 12:00 ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/22/icon_channel_the-thao-6_167947283396.jpg", Thể Thao 6: Trực tiếp SEA Games 32 - Bi sắt ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2022/12/24/icon_channel_the-thao-7_167185320213.jpg", Thể Thao 7: Trực tiếp SEA Games 32 - Taekwondo ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/02/18/icon_channel_the-thao-8_167671311847.jpg", Thể Thao 8: Trực tiếp SEA Games 32 - Cầu mây 15:00 ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/03/25/icon_channel_the-thao-9_16797366843.jpg", Thể Thao 9: Trực tiếp SEA Games 32 - Điền kinh 16:00 ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/02/24/icon_channel_the-thao-10_167717743505.jpg", Thể Thao 10: Trực tiếp SEA Games 32 - Cầu mây 18:00 ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/11/icon_channel_the-thao-14_168118859324.jpg", Thể thao 14: Bản tin 12/05/2023
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/13/icon_channel_the-thao-15_168135998175.jpg", Thể thao 15: Soudal Open 2023 - Vòng 2
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/13/icon_channel_the-thao-17_168136045959.jpg", Thể thao 17: Trực tiếp SEA Games 32 - 12/5 - Điền kinh và Cầu lông
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/09/icon_channel_the-thao-19_16810292530.jpg", Thể thao 19: Trực tiếp SEA Games 32 - 12/5 - Bóng rổ 5x5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/05/icon_channel_the-thao-24_168066500473.jpg", Thể thao 24: Trực tiếp SEA Games 32 - Cầu mây 09:00 ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/channels/OTT/2023/04/05/icon_channel_the-thao-25_168066720197.jpg", Thể thao 25: Trực tiếp SEA Games 32 - Bóng bàn ngày 12/5
-#EXTVLCOPT:http-user-agent=KhoaTivi
-http://livecdn.fptplay.net/event/ttlogin/playlist.m3u8
-
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/13/brbcn_1683927013833.jpg", 08h50-13/05 Trực tiếp SEA Games 32 - 13/5 - Bóng rổ 5x5, Bóng chuyền Nữ
-#EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-3
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/13/2305130900caumay_1683917195433.jpg", 08h50-13/05 Trực tiếp SEA Games 32 - Cầu mây ngày 13/5
-#EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-5
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/12/golden-state-warriors---los-angeles-lakers1305_1683825602231.jpg", 08h50-13/05 Golden State Warriors - Los Angeles Lakers
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-59.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/the-thao-59
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/11/sl_1683801855421.jpg", 02h00-14/05 UFC Fight Night 129: Rozenstruik vs. Almeida
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport1.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpm
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/4_1683705227960.jpg", 16h00-13/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 4
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/5_1683705406585.jpg", 16h00-14/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 5
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/6_1683705606006.jpg", 16h00-15/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 6
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/71_1683707495051.jpg", 16h00-16/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 7
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/72_1683708273978.jpg", 00h00-17/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 7
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/81_1683709373106.jpg", 18h00-17/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 8
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/82_1683709925506.jpg", 00h00-18/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 8
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/91_1683710024538.jpg", 20h00-18/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 9
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/92_1683710182960.jpg", 01h30-19/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 9
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/10_1683710542468.jpg", 18h00-20/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 10
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/10/11_1683710688263.jpg", 21h00-21/05 Internazionali BNL d’Italia - Rome 2023 - Ngày 11
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/ksport2.key
-https://tbtv.us/api/fptplay/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/kpc
-
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/449.png",Giải trí tổng hợp
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/449/hd
+http://tbtv.us/api/mytv/3b341740574811e9b56f020e4c9cf830336a6773/449/hd
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/447.png",Âm nhạc
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/447/hd
+http://tbtv.us/api/mytv/3b341740574811e9b56f020e4c9cf830336a6773/447/hd
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/349.png",Phim truyện
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/349/hd
+http://tbtv.us/api/mytv/3b341740574811e9b56f020e4c9cf830336a6773/349/hd
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://webapi.mytv.vn/static/channel/267.png",Thể thao
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/267/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/7b/b2/28/8a/af/fe/7b28a-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",08h00-13/05. Trực tiếp các môn thi đấu tại SEA Games 32
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7801/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/c3/3f/f6/60/0f/f2/c3f60-lartactivityandmusictime-ceeshow-mytv.jpg",10h50-13/05. Art, Activity And Music Time
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7832/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/97/77/7f/f8/81/14/977f8-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",14h00-13/05. Trực tiếp các môn thi đấu tại SEA Games 32
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7802/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/9e/e3/3e/e8/8a/a2/9e3e8-lindonesiavsvitnambnkt1bngnamseagames32-ceeshow-mytv.jpeg",15h30-13/05. Indonesia vs Việt Nam - Bán kết 1 Bóng đá nam SEA Games 32
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7798/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/e6/65/51/10/06/63/e6510-latptour10002023internazionalibnlditaliaromengy4-ceeshow-mytv.jpg",16h00-13/05. ATP Tour 1000 2023 Internazionali BNL D'italia - Rome - Ngày 4
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7824/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/1e/e1/1b/ba/a5/58/1e1ba-lchngtinginlgucon-ceeshow-mytv.jpg",17h30-13/05. Chúng Tôi Đơn Giản Là Gấu Con
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7827/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/e1/1c/c3/32/27/74/e1c32-lthgiikdiucagumball-ceeshow-mytv.jpg",18h30-13/05. Thế Giới Kì Diệu Của Gumball
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7830/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/b4/49/99/9e/e6/6d/b499e-lsalernitanavsatalantaserieavng35-ceeshow-mytv.jpg",20h00-13/05. Salernitana vs Atalanta - Serie A vòng 35
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7811/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/e2/23/38/8d/da/a8/e238d-ldareyoubncdmma2tp33-ceeshow-mytv.jpg",20h00-13/05. Dare You - Bạn Có Dám - Mùa 2 - Tập 33
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7800/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/c5/5b/b9/9e/e3/39/c5b9e-lthilanvsmyanmarbnkt2bngnamseagames32-ceeshow-mytv.jpg",20h00-13/05. Thái Lan vs Myanmar - Bán kết 2 Bóng đá nam SEA Games 32
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7799/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/7a/a0/02/28/8d/d0/7a028-lbayernmunichvsschalke04bundesligavng32-ceeshow-mytv.jpg",20h30-13/05. Bayern Munich vs Schalke 04 - Bundesliga vòng 32
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7812/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/84/49/96/6b/b0/09/8496b-lnhanhnhchp-ceeshow-mytv.jpg",21h00-13/05. Nhanh Như Chớp
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7214/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/e7/7b/b4/45/55/54/e7b45-ltuytnhsongca-ceeshow-mytv.jpg",21h00-13/05. Tuyệt Đỉnh Song Ca
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7564/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/de/ee/ef/f2/26/6a/deef2-lspeziavsacmilanserieavng35-ceeshow-mytv.jpg",23h00-14/05. Spezia vs AC Milan - Serie A vòng 35
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7806/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/f6/63/3b/bf/f3/37/f63bf-lvillarrealvsathleticbilbaolaligavng33-ceeshow-mytv.jpg",23h30-14/05. Villarreal vs Athletic Bilbao - La Liga vòng 33
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7823/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/77/79/90/08/8d/d3/77908-ldortmundvsgladbachbundesligavng32-ceeshow-mytv.jpg",23h30-14/05. Dortmund vs Gladbach - Bundesliga vòng 32
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7813/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/d5/5f/f7/7d/d5/5f/d5f7d-lintermilanvssassuoloserieavng35-ceeshow-mytv.jpg",01h45-14/05. Inter Milan vs Sassuolo - Serie A vòng 35
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7807/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/85/57/7e/e9/9b/b2/857e9-lpsgvsajaccioligue1vng35-ceeshow-mytv.jpg",02h00-14/05. PSG vs Ajaccio - Ligue 1 vòng 35
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7795/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/e1/11/1f/f6/6b/b7/e11f6-lrealmadridvsgetafelaligavng33-ceeshow-mytv.jpg",02h00-14/05. Real Madrid vs Getafe - La Liga vòng 33
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7817/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/5a/a7/7b/b9/92/2f/5a7b9-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",08h00-14/05. Trực tiếp các môn thi đấu tại SEA Games 32
+http://tbtv.us/api/mytv/3b341740574811e9b56f020e4c9cf830336a6773/267/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/5a/a7/7b/b9/92/2f/5a7b9-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",08h00-14/05. Trực tiếp các môn thi đấu tại SEA Games 32
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7803/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/95/56/6f/f3/33/34/956f3-lartactivityandmusictime-ceeshow-mytv.jpg",10h50-14/05. Art, Activity And Music Time
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/95/56/6f/f3/33/34/956f3-lartactivityandmusictime-ceeshow-mytv.jpg",10h50-14/05. Art, Activity And Music Time
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7833/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/c1/1b/b7/72/26/6a/c1b72-lmttrmtriumtpht-ceeshow-mytv.jpg",10h50-07/05. Một Trăm Triệu Một Phút
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/c1/1b/b7/72/26/6a/c1b72-lmttrmtriumtpht-ceeshow-mytv.jpg",10h50-14/05. Một Trăm Triệu Một Phút
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7500/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/98/88/85/57/7d/db/98857-lnglnnholympia-ceeshow-mytv.jpg",13h00-07/05. Đường Lên Đỉnh Olympia
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/98/88/85/57/7d/db/98857-lnglnnholympia-ceeshow-mytv.jpg",13h00-14/05. Đường Lên Đỉnh Olympia
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7565/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/c9/9c/c4/48/85/54/c9c48-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",14h00-14/05. Trực tiếp các môn thi đấu tại SEA Games 32
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/c9/9c/c4/48/85/54/c9c48-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",14h00-14/05. Trực tiếp các môn thi đấu tại SEA Games 32
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7804/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/5d/d1/1e/e3/31/1e/5d1e3-latptour10002023internazionalibnlditaliaromengy5-ceeshow-mytv.jpg",16h00-15/05. ATP Tour 1000 2023 Internazionali BNL D'italia - Rome - Ngày 5
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/5d/d1/1e/e3/31/1e/5d1e3-latptour10002023internazionalibnlditaliaromengy5-ceeshow-mytv.jpg",16h00-15/05. ATP Tour 1000 2023 Internazionali BNL D'italia - Rome - Ngày 5
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7825/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/8a/aa/a1/1a/af/fc/8aa1a-lceltavigovsvalencialaligavng33-ceeshow-mytv.jpg",19h00-14/05. Celta Vigo vs Valencia - La Liga vòng 33
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/8a/aa/a1/1a/af/fc/8aa1a-lceltavigovsvalencialaligavng33-ceeshow-mytv.jpg",19h00-14/05. Celta Vigo vs Valencia - La Liga vòng 33
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7819/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/0f/f4/44/43/39/90/0f443-lmonzavsnapoliserieavng35-ceeshow-mytv.jpg",20h00-14/05. Monza vs Napoli - Serie A vòng 35
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/0f/f4/44/43/39/90/0f443-lmonzavsnapoliserieavng35-ceeshow-mytv.jpg",20h00-14/05. Monza vs Napoli - Serie A vòng 35
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7809/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/f8/8c/c4/41/18/8a/f8c41-lstuttgartvsleverkusenbundesligavng32-ceeshow-mytv.jpg",20h30-14/05. Stuttgart vs Leverkusen - Bundesliga vòng 32
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/f8/8c/c4/41/18/8a/f8c41-lstuttgartvsleverkusenbundesligavng32-ceeshow-mytv.jpg",20h30-14/05. Stuttgart vs Leverkusen - Bundesliga vòng 32
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7816/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/28/81/11/17/7b/be/28117-lelchevsatleticomadridlaligavng33-ceeshow-mytv.jpg",21h15-14/05. Elche vs Atletico Madrid - La Liga vòng 33
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/28/81/11/17/7b/be/28117-lelchevsatleticomadridlaligavng33-ceeshow-mytv.jpg",21h15-14/05. Elche vs Atletico Madrid - La Liga vòng 33
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7820/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/14/46/6b/bd/d3/3e/146bd-lrbleipzigvswerderbremenbundesligavng32-ceeshow-mytv.jpg",22h30-15/05. RB Leipzig vs Werder Bremen - Bundesliga vòng 32
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/14/46/6b/bd/d3/3e/146bd-lrbleipzigvswerderbremenbundesligavng32-ceeshow-mytv.jpg",22h30-15/05. RB Leipzig vs Werder Bremen - Bundesliga vòng 32
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7814/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/55/56/67/7d/de/e0/5567d-lvalladolidvssevillalaligavng33-ceeshow-mytv.jpg",23h30-15/05. Valladolid vs Sevilla - La Liga vòng 33
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/55/56/67/7d/de/e0/5567d-lvalladolidvssevillalaligavng33-ceeshow-mytv.jpg",23h30-15/05. Valladolid vs Sevilla - La Liga vòng 33
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7822/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/7f/f4/4e/e7/70/0e/7f4e7-ljuventusvscremoneseserieavng35-ceeshow-mytv.jpg",01h45-15/05. Juventus vs Cremonese - Serie A vòng 35
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/mytv-event/7808/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/a9/94/49/9e/e5/5d/a949e-lmarseillevsangersligue1vng35-ceeshow-mytv.jpg",01h45-15/05. Marseille vs Angers - Ligue 1 vòng 35
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/a9/94/49/9e/e5/5d/a949e-lmarseillevsangersligue1vng35-ceeshow-mytv.jpg",01h45-15/05. Marseille vs Angers - Ligue 1 vòng 35
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7797/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/fc/c9/9c/c1/13/33/fc9c1-lespanyolvsbarcelonalaligavng33-ceeshow-mytv.jpg",02h00-15/05. Espanyol vs Barcelona - La Liga vòng 33
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/7f/f4/4e/e7/70/0e/7f4e7-ljuventusvscremoneseserieavng35-ceeshow-mytv.jpg",01h45-15/05. Juventus vs Cremonese - Serie A vòng 35
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/7808/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/fc/c9/9c/c1/13/33/fc9c1-lespanyolvsbarcelonalaligavng33-ceeshow-mytv.jpg",02h00-15/05. Espanyol vs Barcelona - La Liga vòng 33
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7818/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/f1/12/26/6f/fd/de/f126f-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",08h00-15/05. Trực tiếp các môn thi đấu tại SEA Games 32
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/f1/12/26/6f/fd/de/f126f-ltrctipccmnthiutiseagames32-ceeshow-mytv.jpg",08h00-15/05. Trực tiếp các môn thi đấu tại SEA Games 32
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7805/hd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s72139.cdn.mytvnet.vn/vimages/345x194/50/06/6f/f5/55/58/506f5-lrealbetisvsrayovallecanolaligavng33-ceeshow-mytv.jpg",02h00-16/05. Real Betis vs Rayo Vallecano - La Liga vòng 33
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/41/1d/d3/36/67/72/41d36-lththchcngthntngs651-ceeshow-mytv.jpg",09h00-15/05. Thử Thách Cùng Thần Tượng - Số 654
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/4470/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/b9/98/84/41/16/6c/b9841-lvtlnnhkin-ceeshow-mytv.jpg",12h00-15/05. Vượt Lên Định Kiến
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/7782/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/f6/63/33/32/25/52/f6332-lcucivnpsao-ceeshow-mytv.jpg",21h40-15/05. Cuộc Đời Vẫn Đẹp Sao
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/7781/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/50/06/6f/f5/55/58/506f5-lrealbetisvsrayovallecanolaligavng33-ceeshow-mytv.jpg",02h00-16/05. Real Betis vs Rayo Vallecano - La Liga vòng 33
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/mytv-event/7821/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/1e/e3/3d/d2/2d/d3/1e3d2-lhynghetiht2023-ceeshow-mytv.jpg",21h00-18/05. Hãy Nghe Tôi Hát 2023
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/6585/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/11/1b/b7/74/41/18/11b74-lnhthivit-ceeshow-mytv.jpg",21h30-18/05. Đệ Nhất Hài Việt
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/7499/hd
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://s7770.cdn.mytvnet.vn/vimages/345x194/09/91/11/16/65/54/09116-lnhmnhvuibtthnhlnh-ceeshow-mytv.jpg",21h40-18/05. Nhà Mình Vui Bất Thình Lình
+#EXTVLCOPT:http-user-agent=tb-sporttv
+http://tbtv.us/api/mytv-event/7780/hd
 
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/10/a38r401u_banner26662956649b0e1fbea5c1c9fc585cfa_296_168.jpg",16h30-13/05. Adelaide United - Central Coast Mariners (Bán Kết Lượt Đi - VĐQG Úc 2022/23)
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/vieon-event/6848a508-83b9-443a-b312-193bd004c3dd
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/11/867scctk_banner0a5c07169b06ff245cbb0d7971eceb8f_296_168.jpg",20h00-13/05. Bế mạc và trao giải Liên hoan phim Châu Á Đà Nẵng lần thứ nhất 2023
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/vieon-event/93bbc1c2-f20c-4e85-b8ed-cd54ed55d464
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/12/3gcch5m9_banner1_296_168.jpg",19h15-14/05. Groningen - Ajax (Vòng 32 - VĐQG Hà Lan 2022/23)
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/vieon-event/c49b3480-0f0f-4bf3-a298-2e72711533f2
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/11/t3x9juu5_banner1879a30159f0ae32f32e2f1c3c4d42b0_296_168.jpg",18h00-13/05. Quay số mở thưởng Vietlott 13/05/2023
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/11/rrxtzvm7_bannerbd1eaef5a0f04c5dda03da5c10dbb765_296_168.jpg",18h00-14/05. Quay số mở thưởng Vietlott 14/05/2023
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/vieon-event/75aeee50-8e49-4a94-9fcd-6c0fc8f54a1a
+http://tbtv.us/api/vieon-event/ae527080-9cb4-49d3-873c-08b6bfc73466
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/12/0002pa2r_banner07fce4a608ee90da382b7a5df5ff1cf0_296_168.jpg",21h30-14/05. Feyenoord - Go Ahead Eagles (Vòng 32 - VĐQG Hà Lan 2022/23)
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/vieon-event/5c039c87-feb8-47e3-8b11-6ca5cd819d37
@@ -1977,19 +1771,12 @@ http://tbtv.us/api/vieon-event/10f9a37a-31bc-49ab-b534-bd08e8c8e0e8
 #EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/10/fcqt13bg_banner394b6093a1276ba8b0646d0ece6ad7437_296_168.jpg",19h15-21/05. PSV - Heerenveen (Vòng 33 - VĐQG Hà Lan 2022/23)
 #EXTVLCOPT:http-user-agent=tb-sporttv
 http://tbtv.us/api/vieon-event/822c5758-6531-4f2f-a89f-101d87cd2d17
-
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017184627/cd3d4c1e88ff_480_270.png",TV360+ 1
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/10/7oaf2tuo_banner-1be0ff174970db7788534db7351ae509e_296_168.jpg",19h15-28/05. Feyenoord - Vitesse (Vòng 34 - VĐQG Hà Lan 2022/23)
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/2554/
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017310434/c702b55e7aa8_480_270.png",TV360+ 2
+http://tbtv.us/api/vieon-event/64033e64-d6f1-4672-925b-dbeda8762f40
+#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/05/10/tn21ej4m_banner47d42697ec410b4e332038bffd6bb3432_296_168.jpg",19h15-28/05. AZ Alkmaar - PSV (Vòng 34 - VĐQG Hà Lan 2022/23)
 #EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/1/
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_480_270.png",TV360+ 3
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/148/
-#EXTINF:-1 group-title="🗓| Sự kiện" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_480_270.png",TV360+ 4
-#EXTVLCOPT:http-user-agent=tb-sporttv
-http://tbtv.us/api/tv360/2b745a5d8ab732a4fecd7735eb13e6e94c1643a4/2458/
+http://tbtv.us/api/vieon-event/829b19bd-8bc2-423c-b8b2-0ca931daf4be
 
 #-*-- Japan TV -*--#
 #EXTINF:-1 group-title="🇯🇵| Japan TV" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/Zt19NGeOuIq3EwLPZh_KvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", NHK General  
