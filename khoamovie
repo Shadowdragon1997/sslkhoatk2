@@ -29,6 +29,8 @@ https://vod-ali3.tv360.vn/video1/2023/05/14/15/13a757e3/13a757e3-3efc-499d-8017-
 https://vod-zlr2.tv360.vn/video1/2023/05/14/15/1d465105/1d465105-3641-4d94-9fe5-659874f5a5fc_5_.m3u8
 
 #-*-- Hộ Tâm -*--#
+#EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 16
+https://kd.opstream3.com/20230518/36581_04176328/index.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 15
 https://kd.opstream3.com/20230517/36533_4c96909f/index.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 14
@@ -117,6 +119,10 @@ https://vie.opstream1.com/20230428/27025_8210825e/index.m3u8
 https://vie.opstream1.com/20230427/27019_2e849c22/index.m3u8
 
 #-*-- Vân Tương Truyện -*--#
+#EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 30
+https://kd.opstream3.com/20230518/36585_87961712/index.m3u8
+#EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 29
+https://kd.opstream3.com/20230518/36584_c3a927ce/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 28
 https://kd.opstream3.com/20230514/36453_718214fc/index.m3u8
 #EXTINF:-1 tvg-id="van-tuong-truyen" group-title="🇨🇳| Vân Tương Truyện - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/02/23/82fa479d2a9b7c04_ef65b83c44ca5f33_59398167713739263816.jpg", Vân Tương Truyện Tập 27
