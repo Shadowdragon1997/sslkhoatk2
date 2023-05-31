@@ -4,7 +4,25 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- Chị Đại Học Đường -*--#
+#EXTINF:-1 tvg-id="chi-dai-hoc-duong" group-title="🇰🇷| Chị Đại Học Đường - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/16/9c2a64bb/9c2a64bb-96bd-4ce4-9d24-871b7ead76be_360_540.jpg", Chị Đại Học Đường Tập 02
+https://vod-zlr2.tv360.vn/video1/2023/05/31/11/ef98961d/ef98961d-6f63-4e22-9eb8-c115ee671419_5_.m3u8
+#EXTINF:-1 tvg-id="chi-dai-hoc-duong" group-title="🇰🇷| Chị Đại Học Đường - 2023" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/05/23/16/9c2a64bb/9c2a64bb-96bd-4ce4-9d24-871b7ead76be_360_540.jpg", Chị Đại Học Đường Tập 01
+https://vod-ali3.tv360.vn/video1/2023/05/31/10/a92107d3/a92107d3-86e0-4a8e-8461-a6ba55776f17_5_.m3u8
+
+#-*-- Cả Thế Giới Đang Chờ Hai Người Chia Tay -*--#
+#EXTINF:-1 tvg-id="ca-the-gioi-dang-cho-hai-nguoi-chia-tay" group-title="🇨🇳| Cả Thế Giới Đang Chờ Hai Người Chia Tay - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/31/93a380ccece8c43e_7e5568b860e9cfb8_34761168550808113.jpg", Cả Thế Giới Đang Chờ Hai Người Chia Tay Tập 04
+https://kd.opstream3.com/20230531/37070_c26cc7af/index.m3u8
+#EXTINF:-1 tvg-id="ca-the-gioi-dang-cho-hai-nguoi-chia-tay" group-title="🇨🇳| Cả Thế Giới Đang Chờ Hai Người Chia Tay - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/31/93a380ccece8c43e_7e5568b860e9cfb8_34761168550808113.jpg", Cả Thế Giới Đang Chờ Hai Người Chia Tay Tập 03
+https://kd.opstream3.com/20230531/37069_4a9a8197/index.m3u8
+#EXTINF:-1 tvg-id="ca-the-gioi-dang-cho-hai-nguoi-chia-tay" group-title="🇨🇳| Cả Thế Giới Đang Chờ Hai Người Chia Tay - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/31/93a380ccece8c43e_7e5568b860e9cfb8_34761168550808113.jpg", Cả Thế Giới Đang Chờ Hai Người Chia Tay Tập 02
+https://vod-zlr2.tv360.vn/video1/2023/05/31/17/8d809c7e/8d809c7e-2d05-4de5-addc-4e6c9e255099_5_.m3u8
+#EXTINF:-1 tvg-id="ca-the-gioi-dang-cho-hai-nguoi-chia-tay" group-title="🇨🇳| Cả Thế Giới Đang Chờ Hai Người Chia Tay - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/31/93a380ccece8c43e_7e5568b860e9cfb8_34761168550808113.jpg", Cả Thế Giới Đang Chờ Hai Người Chia Tay Tập 01
+https://vod-zlr2.tv360.vn/video1/2023/05/31/17/0a50b0b1/0a50b0b1-22a9-409d-acbb-df89e24e341a_5_.m3u8
+
 #-*-- Cú Lừa Nên Duyên -*--#
+#EXTINF:-1 tvg-id="cu-lua-nen-duyen" group-title="🇰🇷| Cú Lừa Nên Duyên - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/29/a78f2c0510678e1c_69764fd824ddf95a_62730168537566383.jpg", Cú Lừa Nên Duyên Tập 02
+https://kd.opstream3.com/20230531/37055_40c48759/index.m3u8
 #EXTINF:-1 tvg-id="cu-lua-nen-duyen" group-title="🇰🇷| Cú Lừa Nên Duyên - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/29/a78f2c0510678e1c_69764fd824ddf95a_62730168537566383.jpg", Cú Lừa Nên Duyên Tập 01
 https://kd.opstream3.com/20230530/37019_10e2055c/index.m3u8
 
@@ -127,6 +145,8 @@ https://kd.opstream3.com/20230522/36743_c4e1db33/index.m3u8
 https://kd.opstream3.com/20230522/36742_ae0a5128/index.m3u8
 
 #-*-- Chuyện Tình Của Young Sim -*--#
+#EXTINF:-1 tvg-id="chuyen-tinh-cua-young-sim" group-title="🇰🇷| Chuyện Tình Của Young Sim - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/17/b05195dfac76501e_1b099f220588d949_62622168429694673.jpg", Chuyện Tình Của Young Sim Tập 06
+https://vie.opstream1.com/20230531/27452_fb3b1ce7/index.m3u8
 #EXTINF:-1 tvg-id="chuyen-tinh-cua-young-sim" group-title="🇰🇷| Chuyện Tình Của Young Sim - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/17/b05195dfac76501e_1b099f220588d949_62622168429694673.jpg", Chuyện Tình Của Young Sim Tập 05
 https://vie.opstream1.com/20230530/27441_e3d6b61a/index.m3u8
 #EXTINF:-1 tvg-id="chuyen-tinh-cua-young-sim" group-title="🇰🇷| Chuyện Tình Của Young Sim - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/17/b05195dfac76501e_1b099f220588d949_62622168429694673.jpg", Chuyện Tình Của Young Sim Tập 04
@@ -139,10 +159,18 @@ https://vie.opstream1.com/20230517/27249_0302329c/index.m3u8
 https://vie.opstream1.com/20230516/27237_11891829/index.m3u8
 
 #-*-- Hậu Lãng -*--#
+#EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 30
+https://vod-zlr2.tv360.vn/video1/2023/05/30/21/73f2e4f3/73f2e4f3-3532-4455-8fcf-8f6e0faadb35_5_.m3u8
+#EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 29
+https://vod-zlr2.tv360.vn/video1/2023/05/30/21/0a550d07/0a550d07-f966-4065-8535-6b8d5a5b1659_5_.m3u8
+#EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 28
+https://vod-ali3.tv360.vn/video1/2023/05/29/21/090b7799/090b7799-37f3-4cfc-8a91-5a96bfb5a089_5_.m3u8
+#EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 27
+https://vod-ali3.tv360.vn/video1/2023/05/29/20/1a3b3eb8/1a3b3eb8-89b5-4e0f-9289-a9ed135d8ccd_5_.m3u8
 #EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 26
-https://vod-ali3.tv360.vn/video1/2023/05/28/20/0b922a0c/0b922a0c-40ef-411a-8490-a78110c9d1d5_4_.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/30/01/40ca9967/40ca9967-a128-4846-840e-dc9d4aed56c9_5_.m3u8
 #EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 25
-https://vod-zlr2.tv360.vn/video1/2023/05/28/20/34d4839d/34d4839d-a1b9-4d83-a2cb-c6858bd4e8e7_4_.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/30/01/9af29055/9af29055-bc41-476d-88c6-35048527d762_5_.m3u8
 #EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 24
 https://vod-zlr2.tv360.vn/video1/2023/05/26/15/3574a610/3574a610-37fd-4591-83f7-580a735e868d_5_.m3u8
 #EXTINF:-1 tvg-id="hau-lang" group-title="🇨🇳| Hậu Lãng - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/15/cfb5f5c1cc1f75d4_4393e90b2fb3f815_36944168416733043816.jpg", Hậu Lãng Tập 23
@@ -204,15 +232,15 @@ https://kd.opstream3.com/20230526/36857_8bf1edef/index.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 23
 https://kd.opstream3.com/20230525/36826_5461db5d/index.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 22
-https://kd.opstream3.com/20230524/36792_0ac1e27f/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/30/22/12178ba5/12178ba5-3001-4ce9-a916-b636933f57ce_5_.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 21
-https://kd.opstream3.com/20230524/36791_42196b0d/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/30/22/3deb00fa/3deb00fa-56df-4245-98b2-dbe09dd6d7d0_5_.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 20
-https://kd.opstream3.com/20230523/36770_98170fb7/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/30/01/eda35b8b/eda35b8b-f601-4355-a569-67740b60e805_5_.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 19
-https://kd.opstream3.com/20230522/36741_12911615/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/29/12/9ee8467b/9ee8467b-6e5d-4d95-92c0-55607ee2b8df_5_.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 18
-https://kd.opstream3.com/20230522/36740_59ffe6df/index.m3u8
+https://vod-zlr2.tv360.vn/video1/2023/05/29/12/cfbf1866/cfbf1866-8389-4492-9ad1-0f78611ce29f_5_.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 17
 https://vod-zlr2.tv360.vn/video1/2023/05/27/00/ca314a8c/ca314a8c-8187-45b9-9e97-2874c05e3a70_5_.m3u8
 #EXTINF:-1 tvg-id="ho-tam" group-title="🇨🇳| Hộ Tâm - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/11/440f00972506b40b_ccc57301f9021107_48077168380029423816.jpg", Hộ Tâm Tập 16
@@ -249,6 +277,8 @@ https://vod-zlr2.tv360.vn/video1/2023/05/16/13/c64516d2/c64516d2-b57f-4692-960b-
 https://vod-zlr2.tv360.vn/video1/2023/05/16/20/4458ae71/4458ae71-3428-4d24-9788-a001401b2eb0_5_.m3u8
 
 #-*-- Người Lạ Hoàn Hảo -*--#
+#EXTINF:-1 tvg-id="nguoi-la-hoan-hao" group-title="🇰🇷| Người Lạ Hoàn Hảo - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/07/b70c1cabebc804bc_75f470d62fd3c880_44510168344340893.jpg", Người Lạ Hoàn Hảo Tập 09
+https://vie.opstream1.com/20230530/27448_53d004d5/index.m3u8
 #EXTINF:-1 tvg-id="nguoi-la-hoan-hao" group-title="🇰🇷| Người Lạ Hoàn Hảo - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/07/b70c1cabebc804bc_75f470d62fd3c880_44510168344340893.jpg", Người Lạ Hoàn Hảo Tập 08
 https://vie.opstream1.com/20230525/27363_c1a4c95e/index.m3u8
 #EXTINF:-1 tvg-id="nguoi-la-hoan-hao" group-title="🇰🇷| Người Lạ Hoàn Hảo - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/05/07/b70c1cabebc804bc_75f470d62fd3c880_44510168344340893.jpg", Người Lạ Hoàn Hảo Tập 07
