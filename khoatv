@@ -822,19 +822,10 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD FPT Play
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD FPT Play Server 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.56.160.109:9981/stream/channelid/1695386463?auth=Pi16O6Z30PW9GMYquFAolpvulDCg&profile=pass
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:9981/stream/channelid/57013409?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD FPT Play
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmheWSCYR_J4uV2imYSMWRX/m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD TV360
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://103.75.186.169:9981/stream/channelid/1684891674?auth=Pkd8J11-ZUGvRcLwfxcSms5q66jU&profile=pass
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD FPT Play
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
