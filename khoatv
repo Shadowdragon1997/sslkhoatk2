@@ -4188,13 +4188,9 @@ https://code.vthanhtivi.pw/bongda/vebo/aBcUtZw.m3u8|Referer=https://player.4shar
 https://code.vthanhtivi.pw/bongda/vebo/Id4oKG0.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-03/06: Man City - Man United - FA Cup (Giàng A Phò & Giàng A Lử)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-08/06: Fiorentina - West Ham - Europa Conference League Final Stage (Giàng A Lử)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd111/chunklist.m3u8|Referer=https://tructiep8.rakhoi12.tv/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 01:00-04/06: RB Leipzig - Frankfurt - DFB Pokal (Giàng A Phò)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m3u8|Referer=https://tructiep6.rakhoi12.tv/
 
 #-*-- Livestream bóng đá Caheo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 04:00-04/06: Colombia U20 - Italy U20 - World Cup U20 Final Stage (Cá Bịp)
