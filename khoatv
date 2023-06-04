@@ -2763,11 +2763,11 @@ http://14.162.56.91:8889/tipx.php?id=44209
 #EXTINF:-1 tvg-id="Eurosport2.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Eurosport 2
 
 #EXTINF:-1 tvg-id="DeportesporMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/512px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", ES: Deportes por Movistar+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=436
 https://webudit.cdnhks.lol/lb/premium436/index.m3u8
 #EXTINF:-1 tvg-id="Deportes1porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/u8slBAa.png", ES: Deportes 1 por Movistar+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=437
 https://webudit.cdnhks.lol/lb/premium437/index.m3u8
 #EXTINF:-1 tvg-id="Deportes5porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/DIFgr2d.png", ES: Deportes 5 por Movistar+
@@ -2775,7 +2775,7 @@ https://webudit.cdnhks.lol/lb/premium437/index.m3u8
 #EXTINF:-1 tvg-id="Deportes6porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/gI3Sd74.png", ES: Deportes 6 por Movistar+
 
 #EXTINF:-1 tvg-id="LaLigaporMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png", ES: LaLiga por Movistar+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=84
 https://webudit.cdnhks.lol/lb/premium84/index.m3u8
 #EXTINF:-1 tvg-id="LaLiga1porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/h6P9U8O.png", ES: LaLiga 1 por Movistar+
@@ -2787,7 +2787,7 @@ http://14.162.56.91:8889/tipx.php?id=24053
 #EXTINF:-1 tvg-id="LaLiga5porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/xQ5r9ta.png", ES: LaLiga 5 por Movistar+
 
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/512px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", ES: Liga de Campeones por Movistar+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=435
 https://webudit.cdnhks.lol/lb/premium435/index.m3u8
 #EXTINF:-1 tvg-id="LigadeCampeones1porMovistarPlus.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/FReScI8.png", ES: Liga de Campeones 1 por Movistar+
@@ -3222,31 +3222,31 @@ http://14.162.56.91:8889/wisd.php?id=45188
 
 #-*-- Sports Astro Malaysia -*--#
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
 https://webudit.cdnhks.lol/lb/premium123/index.m3u8
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD Server 2
 http://14.162.56.91:8889/prostv.php?id=190645
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
 https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD Server 2
 http://14.162.56.91:8889/prostv.php?id=190644
 #EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 #EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD Server 2
 http://14.162.56.91:8889/prostv.php?id=190643
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
 https://webudit.cdnhks.lol/lb/premium126/index.m3u8
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD Server 2
 http://14.162.56.91:8889/prostv.php?id=190642
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
 https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD Server 2
@@ -3260,35 +3260,35 @@ https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
 #-*-- Sports South Africa -*--#
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=417
 https://webudit.cdnhks.lol/lb/premium417/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD Server 2
 
 #EXTINF:-1 tvg-ID="SuperSportAction.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png", AF: SuperSport Action FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=420
 https://webudit.cdnhks.lol/lb/premium420/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportBlitz.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/kwQzFEF.png", AF: Supersport Blitz FHD
 
 #EXTINF:-1 tvg-ID="SuperSportFootball.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png", AF: Supersport Football FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=56
 https://webudit.cdnhks.lol/lb/premium56/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportFootballPlus.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_FootballPlus_4-3_004_xlrg.png", AF: SuperSport Football Plus FHD
 
 #EXTINF:-1 tvg-ID="SuperSportGrandstand.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-3_001_xlrg.png", AF: SuperSport Grandstand FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=412
 https://webudit.cdnhks.lol/lb/premium412/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportLaLiga.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png", AF: SuperSport La Liga FHD
 
 #EXTINF:-1 tvg-ID="SuperSportMaximo.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Maximo1_4-3_001_xlrg.png", AF: SuperSport Maximo FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=572
 https://webudit.cdnhks.lol/lb/premium572/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPSL.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PSL_4-3_002_xlrg.png", AF: SuperSport PSL FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=413
 https://webudit.cdnhks.lol/lb/premium413/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportPlay.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/02/SS_Logo_Play_4-3_001_xlrg.png", AF: SuperSport Play 1 FHD
@@ -3298,37 +3298,37 @@ https://webudit.cdnhks.lol/lb/premium413/index.m3u8
 #EXTINF:-1 tvg-ID="" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Events FHD
 
 #EXTINF:-1 tvg-ID="SuperSportGolf.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-3_xlrg.png", AF: SuperSport Golf FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=422
 https://webudit.cdnhks.lol/lb/premium422/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportMotorsport.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png", AF: SuperSport Motorsport FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=424
 https://webudit.cdnhks.lol/lb/premium424/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportCricket.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Cricket_4-3_001_xlrg.png", AF: SuperSport Circket FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=368
 https://ddy1.onlinewebtv.lol/ddy1/premium368/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportRugby.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Rugby_4-3_001_xlrg.png", AF: SuperSport Rugby FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=416
 https://webudit.cdnhks.lol/lb/premium416/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportTennis.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png", AF: SuperSport Tennis FHD
 
 #EXTINF:-1 tvg-ID="SuperSportVariety1.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety1_4-3_005_xlrg.png", AF: SuperSport Variety 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=416
 https://webudit.cdnhks.lol/lb/premium416/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportVariety2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety2_4-3_005_xlrg.png", AF: SuperSport Variety 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=417
 https://webudit.cdnhks.lol/lb/premium417/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportVariety3.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety3_4-3_007_xlrg.png", AF: Supersport Variety 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=418
 https://webudit.cdnhks.lol/lb/premium418/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportVariety4.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport Variety 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=419
 https://webudit.cdnhks.lol/lb/premium419/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportESPN.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN FHD
@@ -4198,44 +4198,44 @@ https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/playlist.m
 
 #-*-- Livestream bóng đá Caheo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 04:00-04/06: Colombia U20 - Italy U20 - World Cup U20 Final Stage (Cá Bịp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 14:30-04/06: Cangzhou Mighty Lions F.C - Shanghai Shenhua - Super League (H+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 18:00-04/06: Hong Linh Ha Tinh - Binh Dinh - V-League (Thợ Xây)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 19:15-04/06: Hai Phong - Hoang Anh Gia Lai - V-League (Xi Măng)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@ximanghd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@ximanghd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 22:00-04/06: Nordsjælland - Viborg - Superligaen Championship Playoff (Thợ Xây)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 23:30-04/06: Real Madrid - Athletic Club - LaLiga (Cá Bịp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 00:30-05/06: South Korea U20 - Nigeria U20 - World Cup U20 Final Stage (H+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 02:00-05/06: Celta Vigo - Barcelona - LaLiga (Cá Bịp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 04:00-05/06: USA U20 - Uruguay U20 - World Cup U20 Final Stage (Thợ Xây)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Caheo TV" tvg-logo="https://static.fastlycdnlive.xyz/caheo9/user/img/caheo.png", 16:00-05/06: YANGON - Ayeyawady - Myanmar National League (H+)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://tructiep8.caheo7.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl.livefb.xyz/
 
 #-*-- Livestream bóng đá Socolive TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 06:00-04/06: Washington Mystics W - Minnesota Lynx W (WNBA) - BLV BEAN
