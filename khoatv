@@ -268,12 +268,19 @@ https://sglivevega.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sw2LncHCrGirokQCRfPezQ","kid":"A3yTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"Jkz6MF+kZKo2CEfwyqRfYQ","kid":"S8CTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"cp7qxl/cert37LpoKVUL0Q","kid":"WMTX6MmOT1mayhVwYODLXg"},{"kty":"oct","k":"ubzwGmIrgMII7dS5/pVSYQ","kid":"RNHXABiOT1mayhVwYODLXg"}], "type":"temporary"} 
 https://sglivevega.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
 
-#EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://images.fptplay.net/media/home_event/OTT/2023/05/30/manchester-city---inter-milan_1685428717297.jpg", 01h15-11/06 Manchester City - Inter Milan
-#EXTVLCOPT:http-user-agent=tb-sporttv
+#EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/clearkey/keyid/fptkey/efffa0dc804500a2ae9f55ae0855cbbe87d23102/the-thao-39.key
-#https://tbtv.us/api/fptplay/efffa0dc804500a2ae9f55ae0855cbbe87d23102/the-thao-39/manifest.mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jC15F2NDCZb0Bk2HWLVeYA","kid":"fr3O6CJkQzWHYnymrEXpDQ"},{"kty":"oct","k":"CSDxfeTL9Hf5kK3eunct1Q","kid":"xgHO6CJkQzWHYnymrEXpDQ"},{"kty":"oct","k":"1KnsiXGg/G1wuvGExnO8dA","kid":"0wUSGSJkQzWHYnymrEXpDQ"},{"kty":"oct","k":"4CtMeEChtTVjVuFHsumzBA","kid":"vxISMXFkQzWHYnymrEXpDQ"}], "type":"temporary"}
+https://sglivevega.kplus.vn/bpk-tv/prod_ucl5/default/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qD2hurrFEuoI8/mGiw9cuA","kid":"Ecz5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"NvLNoW8aVW0yVP3qQLqh1Q","kid":"WRD5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"V6Yi3BLaBeXxxzFj6BHtfA","kid":"ZhQ9y85zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"y4icKUKs/ULdv8ehahl1OQ","kid":"UiE94x1zRMiBQ9SOpWAiUQ"}], "type":"temporary"}
+https://sglivevega.kplus.vn/bpk-tv/prod_ucl6/default/index.mpd
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
@@ -873,14 +880,17 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB0uIgmkXhRBqxFrorqi1T9RUYlY3El
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmLFOaZmQQGeGDKWGLu7op0/m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="http://cdn.hqth.me/logo/thumbs/267.png", SỰ KIỆN THỂ THAO 1
+#EXTINF:-1 tvg-id="sktt1" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="http://cdn.hqth.me/logo/thumbs/267.png", SỰ KIỆN THỂ THAO 1
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkQXYaRXja8gfn-pf9HmcNX/m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="http://cdn.hqth.me/logo/thumbs/268.png", SỰ KIỆN THỂ THAO 2
+#EXTINF:-1 tvg-id="sktt2" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="http://cdn.hqth.me/logo/thumbs/268.png", SỰ KIỆN THỂ THAO 2
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkp7xoze69ZMkakiEryT4od/m3u8
 
-#EXTINF:-1 tvg-id="" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="http://cdn.hqth.me/logo/thumbs/269.png", SỰ KIỆN THỂ THAO 3
+#EXTINF:-1 tvg-id="sktt3" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="http://cdn.hqth.me/logo/thumbs/269.png", SỰ KIỆN THỂ THAO 3
 http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkOpFYBegnJgQqSaTa3DzTP/m3u8
+
+#EXTINF:-1 tvg-id="sktt4" group-title="💚| K+ Full HD Khoa Tivi (độ trễ cao)" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 4
+http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmBwEUVME2krvlriVmCk35c87koyIYW0BY27SBmSTbMFLB/m3u8
 
 #-*-- K+ HD Khoa Tivi -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD MyTV 25FPS
