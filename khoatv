@@ -813,7 +813,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD MyTV 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aCn6RuQBRKzgJsXejhAKUA","kid":"9OzdoHsdQ+aZ/xxCOiJmLA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"6y+Bj2tD5+wtu1SbSsR8Bg", "kid":"hMuq7t/5RdeQ5sFoauOfzw" } ], "type":"temporary"}
 http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD FPT Play 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -837,7 +837,7 @@ https://akaviettel.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD MyTV 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"aCn6RuQBRKzgJsXejhAKUA","kid":"9OzdoHsdQ+aZ/xxCOiJmLA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"smGgX5wOxNL1QM477IkHVw", "kid":"TCijIQbkSJGTCojTV/1RHA" } ], "type":"temporary"}
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD FPT Play 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -898,20 +898,12 @@ http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmBwEUVME2krvlriVmCk35c87koyIYW0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"HX6oR6a2zSN4ZDoIGgi/ew", "kid":"u2TlP+RSQ4qzjlX0LI0zvw" } ], "type":"temporary"}
 http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD VTVcab
-#EXTVLCOPT:http-user-agent=tb-sporttv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tbtv.us/keyid/vtvcab/efffa0dc804500a2ae9f55ae0855cbbe87d23102/kcine.key
-https://live-on-mobi.gviet.vn/manifest/k-plus-ns/master.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life HD MyTV 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"W8PQavWcSrPT2sIwFf0C+Q","kid":"+aYlIDb2TzazduT5++WDxw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"d0zHIeq2Ll1aCo0nUFc8Vw", "kid":"bIzZ38zmRSmao6Ylge+X3Q" } ], "type":"temporary"}
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
-#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life HD VTVcab
-#EXTVLCOPT:http-user-agent=tb-sporttv
-https://tbtv.us/onsport/efffa0dc804500a2ae9f55ae0855cbbe87d23102/klife/index.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 HD TV360 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
