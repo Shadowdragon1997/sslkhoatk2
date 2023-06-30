@@ -4,6 +4,16 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Movie" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- Mộ Sắc Tâm Ước -*--#
+#EXTINF:-1 tvg-id="mo-sac-tam-uoc" group-title="🇨🇳| Mộ Sắc Tâm Ước - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/30/6ae56d39e153280d_da958621f9e51eac_58306168808271553.jpg", Mộ Sắc Tâm Ước Tập 04
+https://1080.opstream4.com/20230630/45416_685f7b52/index.m3u8
+#EXTINF:-1 tvg-id="mo-sac-tam-uoc" group-title="🇨🇳| Mộ Sắc Tâm Ước - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/30/6ae56d39e153280d_da958621f9e51eac_58306168808271553.jpg", Mộ Sắc Tâm Ước Tập 03
+https://1080.opstream4.com/20230630/45415_b6c4a501/index.m3u8
+#EXTINF:-1 tvg-id="mo-sac-tam-uoc" group-title="🇨🇳| Mộ Sắc Tâm Ước - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/30/6ae56d39e153280d_da958621f9e51eac_58306168808271553.jpg", Mộ Sắc Tâm Ước Tập 02
+https://1080.opstream4.com/20230630/45414_8bb713fd/index.m3u8
+#EXTINF:-1 tvg-id="mo-sac-tam-uoc" group-title="🇨🇳| Mộ Sắc Tâm Ước - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/30/6ae56d39e153280d_da958621f9e51eac_58306168808271553.jpg", Mộ Sắc Tâm Ước Tập 01
+https://1080.opstream4.com/20230630/45413_9b0e4cfe/index.m3u8
+
 #-*-- Cùng Anh Mười Năm, Trao Em Nửa Đời -*--#
 #EXTINF:-1 tvg-id="cung-anh-muoi-nam-trao-em-nua-doi" group-title="🇨🇳| Cùng Anh Mười Năm, Trao Em Nửa Đời - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/28/17a7c1a06c046e78_65260507ad4c6d0e_41780168796577683.jpg", Cùng Anh Mười Năm, Trao Em Nửa Đời Tập 07
 https://1080.opstream4.com/20230629/45391_b419af6d/index.m3u8
@@ -735,6 +745,8 @@ https://kd.opstream3.com/20230601/37125_74de9b7f/index.m3u8
 https://kd.opstream3.com/20230601/37124_8d1f2614/index.m3u8
 
 #-*-- Trận Chiến Hạnh Phúc -*--#
+#EXTINF:-1 tvg-id="tran-chien-hanh-phuc" group-title="🇰🇷| Trận Chiến Hạnh Phúc - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/03/dbb9b82a43a64df7_14570f07a3b63b35_31717168572702223.jpg", Trận Chiến Hạnh Phúc Tập 10
+https://1080.opstream4.com/20230629/45406_52d4fa82/index.m3u8
 #EXTINF:-1 tvg-id="tran-chien-hanh-phuc" group-title="🇰🇷| Trận Chiến Hạnh Phúc - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/03/dbb9b82a43a64df7_14570f07a3b63b35_31717168572702223.jpg", Trận Chiến Hạnh Phúc Tập 09
 https://1080.opstream4.com/20230629/45353_60c8dd8e/index.m3u8
 #EXTINF:-1 tvg-id="tran-chien-hanh-phuc" group-title="🇰🇷| Trận Chiến Hạnh Phúc - 2023" tvg-logo="https://s198.imacdn.com/ff/2023/06/03/dbb9b82a43a64df7_14570f07a3b63b35_31717168572702223.jpg", Trận Chiến Hạnh Phúc Tập 08
