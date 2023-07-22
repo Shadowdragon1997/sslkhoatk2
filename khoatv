@@ -316,7 +316,7 @@ https://code.vthanhtivi.pw/getlink/tv360/98/2.m3u8
 http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ Server 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://live.tv360.vn/manifest/VTV6_HD/playlist_480p.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ Server 4
 #EXTVLCOPT:http-user-agent=tb-sporttv
 #https://tbtv.us/api/mytv/efffa0dc804500a2ae9f55ae0855cbbe87d23102/212/hd/playlist.m3u8
