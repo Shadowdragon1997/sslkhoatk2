@@ -272,6 +272,29 @@ https://sglivevega.kplus.vn/bpk-tv/prod_ucl5/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qD2hurrFEuoI8/mGiw9cuA","kid":"Ecz5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"NvLNoW8aVW0yVP3qQLqh1Q","kid":"WRD5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"V6Yi3BLaBeXxxzFj6BHtfA","kid":"ZhQ9y85zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"y4icKUKs/ULdv8ehahl1OQ","kid":"UiE94x1zRMiBQ9SOpWAiUQ"}], "type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_ucl6/default/index.mpd
 
+#EXTINF:-1" group-title="🔴| Livestream bóng đá" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_lE 1go.svg.png", V-LEAGUE 1
+http://103.56.160.133/vleague1
+#EXTINF:-1" group-title="🔴| Livestream bóng đá" tvg-logo=" https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/VLeague1_2023_logo.svg/1200px-VLeague1_2023_lE 1go.svg.png", V-LEAGUE 2
+http://103.56.160.133/vleague2
+
+#EXTINF:-1 tvg-id="quochoi" group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội HD
+http://103.56.160.133:8081/quochoi
+#EXTINF:-1 tvg-id="quochoi" group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png", Quốc Hội TV DỰ PHÒNG
+http://128.199.214.24/QHTV/mpegts
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/24.png", ON Football HD
+http://103.56.160.133:8081/onfootball
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/26.png", ON Sports News
+http://128.199.214.24/OSN/mpegts
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="🔴| Livestream bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-ali2.tv360.vn/manifest/HTV_The_Thao_HD-50fps/playlist_HTV-TheThao-HD-50fps-1080-65M.m3u8
+#EXTINF:-1 tvg-name="801" group-title="🔴| Livestream bóng đá" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
+http://vmttv.anttv.xyz/mytv.php?id=267
+#EXTINF:-1 tvg-name="804" group-title="🔴| Livestream bóng đá" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804 HD
+http://vmttv.anttv.xyz/mytv.php?id=449
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="http://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png", TV360 + 4
+http://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
+
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://code.vthanhtivi.pw/getlink/mytv/210/hd.m3u8
