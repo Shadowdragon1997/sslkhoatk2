@@ -364,15 +364,15 @@ https://k4dzr60ab.vtvgiaitri.vn/vtv09/vtv09@1080p.m3u8
 
 #-*-- VTV độ trễ thấp xem bóng đá -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
-http://103.56.160.133:8081/vtv1
+http://103.56.160.133/vmt/vtv1
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT Server 2
 http://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
-http://103.56.160.133:8081/vtv2
+http://103.56.160.133/vmt/vtv2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT Server 2
 http://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT
-http://103.56.160.133:8081/vtv3
+http://103.56.160.133/vmt/vtv3
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 FPT Server 2
 http://live-ali4.tv360.vn/manifest/VTV3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT
@@ -380,7 +380,7 @@ http://27.67.80.74:18080//193_2.m3u8?AdaptiveType=HLS&SessionID=8a3f6064-950a-49
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4 FPT Server 2
 http://khoatv.quabnv.tk:4022/udp/225.1.2.20:30120
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT
-http://103.56.160.133:8081/vtv5
+http://103.56.160.133/vmt/vtv5
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 FPT Server 2
 http://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ FPT
@@ -388,7 +388,7 @@ http://171.238.181.38:18080/307.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên FPT
 http://171.238.181.86:18080/308.m3u8?AdaptiveType=HLS&VOD_RequestID=oLA9S7U1lcO0KMZhsvk3WlF1TRJyWcQCAPBkKmOcPw6DInx7rTsSMTUXspJ2ZLZf0sFkLhMDAm70wUKA9cfLT+Agw/vMPFgjIYjLX6WahwzbilaGmdo97IuI44ch9baKFQeB76zeRINwRP9ttgcBYkAfWeMKOMlKvKyqu1ZcmPPuHAL/he1NAtJvB+3il1U5&uid=1117988
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT
-http://103.56.160.133:8081/vtvcantho
+http://103.56.160.133/vmt/vtvcantho
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ FPT Server 2
 http://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7 FPT
@@ -4027,9 +4027,25 @@ https://code.vthanhtivi.pw/bongda/vebo/SZK3jWn.m3u8|Referer=https://player.4shar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/bongda/vebo/nXRjTxg.m3u8|Referer=https://player.4shares.live/
 
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 19:30-28/07: Ipswich Town vs RB Leipzig - International Club Friendly (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/n0jysCb.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 20:45-28/07: RB Leipzig vs Werder Bremen - International Club Friendly (Người Già)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+https://code.vthanhtivi.pw/bongda/vebo/Kx9EYTB.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 00:30-29/07: Real Betis vs Burnley - International Club Friendly (Người Thỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36        
+https://code.vthanhtivi.pw/bongda/vebo/0xx2VJw.m3u8|Referer=https://player.4shares.live/
+
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png", 01:30-29/07: Hamburger SV vs Schalke 04 - Bundesliga 2 (Trâu Gác Bếp)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36        
 https://code.vthanhtivi.pw/bongda/vebo/cinNkVp.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/3ade18e8a8a4e33f331267d4eba9d503.png", 02:00-29/07: Al-Nasr(KSA) vs Al-Shabab(KSA) - Arab Club Champions Cup (Moon Knight)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36         
+https://code.vthanhtivi.pw/bongda/vebo/kujNu2k.m3u8|Referer=https://player.4shares.live/
 
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png", 06:30-29/07: Newcastle United vs Brighton Hove Albion - International Club Friendly (Bánh Cuốn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36        
