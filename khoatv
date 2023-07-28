@@ -1177,10 +1177,11 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Server 2
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"}
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vngvnpt.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&key=hbohd.mpd
+http://get.vuitv.pro/wintv123456.php?api=eGluZHVuZ2Nob21saW5rXzIzMDcyOA==&getlink=hbohd.mpd
 #EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="🎞| HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png", HBO Family HD
 http://vn1.vietanhtv.pw:8080/hbofamily
 #EXTINF:-1 tvg-id="hbohitshd-asia" group-title="🎞| HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png", HBO Hits HD
