@@ -81,6 +81,26 @@ https://code.vthanhtivi.pw/bongda/vebo/BR4G2h3.m3u8|Referer=https://player.4shar
 #EXTVLCOPT:http-referer=https://player.4shares.live/        
 https://code.vthanhtivi.pw/bongda/vebo/XkQPZ8P.m3u8|Referer=https://player.4shares.live/
 
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/01895dec7bc5fa4eb33aa43bd708ee14.png", 02:00-17/08: Manchester City vs Sevilla - UEFA Super Cup (Cáp Tần + Người Thỏ)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/wEsbpvs.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/01895dec7bc5fa4eb33aa43bd708ee14.png", 02:00-17/08: Đầu cầu MC vs Sevilla - UEFA Super Cup (Người Già)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/YLa4Ux5.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/01895dec7bc5fa4eb33aa43bd708ee14.png", 02:00-17/08: Manchester City vs Đầu cầu Sevilla - UEFA Super Cup (Người Cồn)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/8JGoUOu.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/01895dec7bc5fa4eb33aa43bd708ee14.png", 02:00-17/08: Manchester City vs Sevilla - UEFA Super Cup (Bún Chả)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/fdhvPIZ.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/01895dec7bc5fa4eb33aa43bd708ee14.png", 02:00-17/08: Manchester City vs Sevilla - UEFA Super Cup (Mỳ Tôm)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/bLIgQGK.m3u8|Referer=https://player.4shares.live/
+
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:30-16/08: Monterrey - Nashville SC - Leagues Cup Final Stage (Giàng A Phọt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
