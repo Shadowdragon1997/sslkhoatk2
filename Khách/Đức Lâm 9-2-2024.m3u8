@@ -38,7 +38,7 @@ http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7tJeCwn0Tg2O/VKCz06xkg", "kid":"KshlUQDGkb+FXyWpZqIZng" },{ "kty":"oct", "k":"GRN3e2D2bvL0FTCm3SaXlQ", "kid":"cgxlUQDGkb+FXyWpZqIZng" },{ "kty":"oct", "k":"TEIHBKNOyEsR9wMgTYXTNw", "kid":"fxCpggDGkb+FXyWpZqIZng" },{ "kty":"oct", "k":"2RtEqQhJeqA5NDBg6xyRaQ", "kid":"ax2pmk/Gkb+FXyWpZqIZng" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CCLwU9MtsUZZtOaVh24sgw", "kid":"1OZjAah0nv9Y2pmrgAQEmg" },{ "kty":"oct", "k":"eqAzVhpVPooMgvFLsWu8kw", "kid":"HCpjAah0nv9Y2pmrgAQEmg" },{ "kty":"oct", "k":"HK+e6SlBTTZRrDTyq5FErg", "kid":"KS6nMqh0nv9Y2pmrgAQEmg" },{ "kty":"oct", "k":"T6eVHzfGgn7f1hPxBH0Kbw", "kid":"FTunSvd0nv9Y2pmrgAQEmg" } ], "type":"temporary" }
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD MyTV 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -52,7 +52,7 @@ http://s7267.cdn.mytvnet.vn:80/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sS7SoTVO5JsDCtQUYeYC7g", "kid":"Rc7L2yqNSHtaePqPKkwtqQ" },{ "kty":"oct", "k":"15cpQr621RwuL9ocFWU/Rw", "kid":"jRLL2yqNSHtaePqPKkwtqQ" },{ "kty":"oct", "k":"9HI94BIkgpkGryPizPavsQ", "kid":"mhYPDCqNSHtaePqPKkwtqQ" },{ "kty":"oct", "k":"9fnHQzlIxQ6MxmooRojMuw", "kid":"hiMPJHmNSHtaePqPKkwtqQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2YXpHKjn4Pk7THpkX5fpvw", "kid":"qZ9zvBQ9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"92pXkxQezg0SthdDpdxCPg", "kid":"8eNzvBQ9VjSv+lyu0zLj8Q" ,{ "kty":"oct", "k":"Klkzpxt5blHqkUTyIKG3vA", "kid":"/ue37RQ9VjSv+lyu0zLj8Q" },{ "kty":"oct", "k":"O4O+X+EK8O/Wz+n6eo7iJg", "kid":"6vS3BWM9VjSv+lyu0zLj8Q" } ], "type":"temporary" }
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD MyTV 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
