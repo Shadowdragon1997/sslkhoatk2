@@ -68,6 +68,44 @@ http://s2129197.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZUxqhPLuwSj9QaKDthzVzg","kid":"XKvwAdnld9d+wpp76pDfyA"},{"kty":"oct","k":"DdZIo3t6qpmenEaezbUzTA","kid":"pO/wAdnld9d+wpp76pDfyA"},{"kty":"oct","k":"1c7aqIzFwPuhXzLYX05ijA","kid":"sfM0Mtnld9d+wpp76pDfyA"},{"kty":"oct","k":"xQ1gvm52zxkqr6pSBDEDAw","kid":"nQA0Sijld9d+wpp76pDfyA"}],"type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
 
+#-*-- Premier League -*--#
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
+http://stream.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
+#http://stream.cvmtv.site/skypl?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://stream.cvmtv.site/canal1?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://stream.cvmtv.site/canal2?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
+http://stream.cvmtv.site/canal5?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://stream.cvmtv.site/canalpre?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://stream.cvmtv.site/E1?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://stream.cvmtv.site/E2?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://stream.cvmtv.site/E3?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://stream.cvmtv.site/E4?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
+http://stream.cvmtv.site/DigiS1?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2
+http://stream.cvmtv.site/DigiS2?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+#http://stream.cvmtv.site/TPF2?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
+http://stream.cvmtv.site/Setanta?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
+http://stream.cvmtv.site/USA?token=live
+
 #-*-- Livestream bóng đá Vebo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 15:00-19/08: Sweden (w) vs Australia (w) - Women's World Cup 2023 (Người Sói)
 #EXTVLCOPT:http-referer=https://player.4shares.live/        
