@@ -767,7 +767,7 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X+2Q/EpS4HhXssZ3DW7Rqw", "kid":"vlSlc21yotKzSnQRirJZxQ" },{ "kty":"oct", "k":"3CgJrpuqMZh2VxPk//BPUA", "kid":"Bpilc21yotKzSnQRirJZxQ" },{ "kty":"oct", "k":"VgrUg4J4XahsFeBMOh7ZlA", "kid":"E5zppG1yotKzSnQRirJZxQ" },{ "kty":"oct", "k":"MOPM3N0uBHYR6Ry9jsCevg", "kid":"/6npvLxyotKzSnQRirJZxQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3HYtU9JEclFbpMdrYgNz7g","kid":"1WNL0ze+IcQeWq1p8Stsfw"},{"kty":"oct","k":"mcTf7/w/p/YckQCO113pQQ","kid":"HadL0ze+IcQeWq1p8Stsfw"},{"kty":"oct","k":"f7/mPde0aVW0BwOMIULHOQ","kid":"KquPBDe+IcQeWq1p8Stsfw"},{"kty":"oct","k":"kCXoNLGVaqkQD/0Ay4XLQQ","kid":"FriPHIa+IcQeWq1p8Stsfw"}],"type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD FPT Play 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
