@@ -4,6 +4,20 @@
 #EXTINF:-1 group-title="💁| Thông tin Khoa Tivi" tvg-logo="https://qr-talk.zdn.vn/13/534793064/3f27048047ccae92f7dd.jpg", Liên hệ Zalo để được hỗ trợ cài đặt
 https://s.id/infokhoatv
 
+#-*-- VTV độ trễ thấp xem bóng đá -*--#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (ĐỘ TRỄ THẤP)
+http://103.172.78.65:8081/vmt/vtv1
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đáP" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 (ĐỘ TRỄ THẤP)
+http://103.172.78.65:8081/vmt/vtv2
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 (ĐỘ TRỄ THẤP)
+http://103.172.78.65:8081/vmt/vtv3
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (ĐỘ TRỄ THẤP)
+http://103.172.78.65:8081/vmt/vtv5
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (ĐỘ TRỄ THẤP)
+http://103.172.78.65:8081/vmt/vtvcantho
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+http://103.172.78.65:8081/vmt/vtv5tnb
+
 #-*-- K+ Full HD Khoa Tivi -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD Kplus 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
