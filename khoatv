@@ -4032,6 +4032,20 @@ http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
 #http://stream.cvmtv.site/skypl?token=live
 
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
+http://stream.cvmtv.site/StarSL1?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
+http://stream.cvmtv.site/StarSL2?token=live
+
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
+http://stream.cvmtv.site/PRS1?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="prima2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
+http://stream.cvmtv.site/PRS2?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="prima3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 3
+http://stream.cvmtv.site/PRS3?token=live
+#EXTINF:-1 group-title="⚽️|Premier League" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
+http://stream.cvmtv.site/ORS4?token=live
+
 #EXTINF:-1 group-title="⚽️|Premier League" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
 #EXTINF:-1 group-title="⚽️|Premier League" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
@@ -4065,89 +4079,77 @@ http://stream.cvmtv.site/Setanta?token=live
 http://stream.cvmtv.site/USA?token=live
 
 #-*-- Livestream bóng đá Vebo TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 15:00-19/08: Sweden (w) vs Australia (w) - Women's World Cup 2023 (Người Sói)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/JUYAerL.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png", 18:30-19/08: Plymouth Argyle vs Southampton - Hạng nhất Anh (Người Kiến)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/JrRjCfQ.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 20:30-19/08: Bayer Leverkusen vs RB Leipzig - Bundesliga (Mỳ Tôm)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/RREBHg0.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-19/08: Fulham vs Brentford - Premier League (Người Nện)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/YmXVX7w.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-19/08: Liverpool vs Bournemouth AFC - Premier League (Người Sói)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/BspFecl.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 21:00-19/08: Wolves vs Brighton Hove Albion - Premier League (Người Thỏ)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/ofndVlQ.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 22:00-19/08: Real Sociedad vs Celta Vigo - La Liga (Phở Bò)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/k2UbNSg.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-19/08: Tottenham Hotspur vs Đầu cầu MU - Premier League (Người Kiến + Bánh Cuốn)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/Egahdpk.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 23:30-19/08: Đầu cầu Tottenham vs Manchester United - Premier League (Người Nện)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/KvdIVvy.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 23:30-19/08: Borussia Dortmund vs FC Koln - Bundesliga (Bún Chả)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/3h3p5oR.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 23:30-19/08: Frosinone vs Napoli - Serie A (Người Già)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/mqk7yvC.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 00:00-20/08: Lyon vs Montpellier - Ligue 1 (Trâu Gác Bếp)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/GslwvSP.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 00:30-20/08: Almeria vs Real Madrid - La Liga (Moon Knight)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/Wy2Sofj.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png", 01:00-20/08: Al Hilal vs Al-Feiha - Saudi Professional League (Mỳ Tôm)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/5QwYlH7.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png", 01:00-20/08: Al Ittihad(KSA) vs Al-Tai - Saudi Professional League (Trâu Gác Bếp)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/pto1CGs.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 01:45-20/08: Inter Milan vs Monza - Serie A (Phở Bò)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/3xWEee1.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 02:00-20/08: Manchester City vs Đàu cầu Newcastle - Premier League (Cáp Tần)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/02awOWL.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 02:00-20/08: Đầu cầu MC vs Newcastle United (Người Già)
-#EXTVLCOPT:http-referer=https://player.4shares.live/        
-https://code.vthanhtivi.pw/bongda/vebo/09zcDJB.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 02:00-20/08: Toulouse vs Paris Saint Germain (PSG) - Ligue 1 (Người Cồn)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/Fk55X7K.m3u8|Referer=https://player.4shares.live/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", 02:30-20/08: Benfica vs Estrela da Amadora - Vô địch quốc gia BĐN (Bún Chả)
-#EXTVLCOPT:http-referer=https://player.4shares.live/                
-https://code.vthanhtivi.pw/bongda/vebo/BbZ27Kp.m3u8|Referer=https://player.4shares.live/
-
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/ca38aac3c361267d29689cd8750df801.png", 08:00-20/08: Nashville vs Inter Miami CF - North America League Cup (Người Cồn)
 #EXTVLCOPT:http-referer=https://player.4shares.live/                
 https://code.vthanhtivi.pw/bongda/vebo/bh8AILU.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://static.vebotv.app/leagues/aff.png", 16:00-20/08: Laos U23 vs Vietnam U23 - U23 Đông Nam Á (Người Thỏ)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/dfRqVco.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/04075e70d966f6301429febac45eccec.png", 17:00-20/08: Spain (w) vs England (w) - Women's World Cup 2023 (Bánh Cuốn)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/FnQxmSn.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 18:00-20/08: Lille vs Nantes - Ligue 1 (Người Sói)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/5SUbPR8.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png", 19:30-20/08: Sparta Rotterdam vs Feyenoord - Vô địch quốc gia Hà Lan (Người Già)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/MIdsZLT.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 20:00-20/08: Aston Villa vs Everton (Người Nện)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/Jvno86r.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://static.vebotv.app/leagues/aff.png", 20:00-20/08: Indonesia U23 vs Timor Leste U23 - U23 Đông Nam Á (Người Kiến)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/e5RqlyP.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png", 22:30-20/08: West Ham United vs Chelsea - Premier League (Cáp Tần + Phở Bò)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/te6qW6A.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png", 22:30-20/08: Eintracht Frankfurt vs Darmstadt - Bundesliga (Moon Knight)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/2SAuttz.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 23:30-20/08: AS Roma vs Salernitana - Serie A (Người Nện)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/BnLocxa.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 23:30-20/08: Sassuolo vs Atalanta - Serie A (Trâu Gác Bếp)
+#EXTVLCOPT:http-referer=https://player.4shares.live/        
+https://code.vthanhtivi.pw/bongda/vebo/GUxF2T6.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png", 00:00-21/08: FC Porto vs SC Farense - Vô địch quốc gia BĐN (Bánh Cuốn)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/636m7lS.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 00:30-21/08: Barcelona vs Cadiz - La Liga (Người Cồn)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/AVgKzga.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png", 01:45-21/08: Lens vs Rennes - Ligue 1 (Người Thỏ)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/xqqKUWz.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 01:45-21/08: Lecce vs Lazio - Serie A (Người Sói)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/VZEmkVV.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png", 01:45-21/08: Udinese vs Juventus - Serie A (Mỳ Tôm)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/rmI1Joy.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png", 02:30-21/08: Real Betis vs Atletico Madrid - La Liga (Moon Knight)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/RHo7lEa.m3u8|Referer=https://player.4shares.live/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png", 08:30-21/08: St. Louis CITY SC vs Austin FC - Major League Soccer (Người Kiến)
+#EXTVLCOPT:http-referer=https://player.4shares.live/                
+https://code.vthanhtivi.pw/bongda/vebo/F3N9kz6.m3u8|Referer=https://player.4shares.live/
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:06:19/08: León - Mazatlán - Liga MX Apertura (Giàng A Cay)
@@ -4324,668 +4326,6 @@ https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3
 https://caheopro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/chunklist.m3u8|Referer=https://pl-ch.livefb.xyz/
 
 #-*-- Livestream bóng đá Socolive TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg", 07:30-19/08: Guarani SP - Sport Club do Recife (BRA D2) - BLV KAKA
-https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 07:30-19/08: Guarani SP - Sport Club do Recife (BRA D2) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230805/9ab8436169f78689b00af0fcbd6ce0e0.jpg", 07:30-19/08: Guarani SP - Sport Club do Recife (BRA D2) - BLV TED
-https://code.vthanhtivi.pw/bongda/socolive/259576.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 08:00-19/08: Barcelona SC(ECU) - Independiente del Valle (ECU D1) - BLV POPPY
-https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 08:00-19/08: Barcelona SC(ECU) - Independiente del Valle (ECU D1) - BLV Đỗ Hiệp
-https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 08:00-19/08: Barcelona SC(ECU) - Independiente del Valle (ECU D1) - BLV TONY
-https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 08:00-19/08: FC Tulsa - Tampa Bay Rowdies (USLC) - BLV CHOVY
-https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 08:00-19/08: FC Tulsa - Tampa Bay Rowdies (USLC) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 08:00-19/08: FC Tulsa - Tampa Bay Rowdies (USLC) - BLV CHARLIE
-https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 08:05-19/08: Club Leon - Mazatlan FC (MEX D1) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 08:05-19/08: Club Leon - Mazatlan FC (MEX D1) - BLV DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 08:05-19/08: Club Leon - Mazatlan FC (MEX D1) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 08:05-19/08: Club Leon - Mazatlan FC (MEX D1) - BLV VĂN TÍCH
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 08:05-19/08: Club Leon - Mazatlan FC (MEX D1) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 09:00-19/08: Alajuelense - AD San Carlos (CRC D1) - VAN PEPSI
-https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 09:00-19/08: Alajuelense - AD San Carlos (CRC D1) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 09:00-19/08: Phoenix Mercury W - New York Liberty W (WNBA) - BRIAN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 09:00-19/08: Phoenix Mercury W - New York Liberty W (WNBA) - BLV ALAN
-https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 09:00-19/08: Phoenix Mercury W - New York Liberty W (WNBA) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 09:30-19/08: Libertadores - Plateros (LNBP) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 10:00-19/08: Pumas U.N.A.M. - Toluca (MEX D1) - KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 10:00-19/08: Pumas U.N.A.M. - Toluca (MEX D1) - BLV  TYPN
-https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 10:00-19/08: Pumas U.N.A.M. - Toluca (MEX D1) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 10:00-19/08: Pumas U.N.A.M. - Toluca (MEX D1) - PHI HÀNH
-https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 10:00-19/08: Pumas U.N.A.M. - Toluca (MEX D1) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 10:05-19/08: Puebla - Atletico San Luis (MEX D1) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 10:05-19/08: Puebla - Atletico San Luis (MEX D1) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 10:05-19/08: Puebla - Atletico San Luis (MEX D1) - BLV VĂN TÍCH
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 10:05-19/08: Puebla - Atletico San Luis (MEX D1) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 10:10-19/08: FC Juarez - Chivas Guadalajara (MEX D1) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 10:10-19/08: FC Juarez - Chivas Guadalajara (MEX D1) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 10:10-19/08: FC Juarez - Chivas Guadalajara (MEX D1) - BLV DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 10:10-19/08: FC Juarez - Chivas Guadalajara (MEX D1) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg", 11:00-19/08: West Canberra Wanderers - Tuggeranong United (AUS CGP) - BLV KAKA
-https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 11:00-19/08: West Canberra Wanderers - Tuggeranong United (AUS CGP) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 11:00-19/08: West Canberra Wanderers - Tuggeranong United (AUS CGP) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 11:30-19/08: Kingborough Lions - Launceston City (AUS TPL) - BLV ODIN
-https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 11:30-19/08: Kingborough Lions - Launceston City (AUS TPL) - BLV TONY
-https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 12:00-19/08: Avondale FC - Bentleigh greens (Aus VPL) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 12:00-19/08: Avondale FC - Bentleigh greens (Aus VPL) - BLV BOM
-https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 12:00-19/08: Dandenong Thunder - Hume City (Aus VPL) - BIGBA BALL
-https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 12:00-19/08: Dandenong Thunder - Hume City (Aus VPL) - BLV A LÔI
-https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 12:00-19/08: Heidelberg United - Melbourne Knights (Aus VPL) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 12:00-19/08: Heidelberg United - Melbourne Knights (Aus VPL) - BLV CHOVY
-https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 12:00-19/08: North Geelong Warriors - South Melbourne (Aus VPL) - VAN PEPSI
-https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 12:00-19/08: North Geelong Warriors - South Melbourne (Aus VPL) - BLV MÁT GAI
-https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 12:00-19/08: Oakleigh Cannons - Moreland City (Aus VPL) - BLV Phở Bò
-https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 12:00-19/08: Oakleigh Cannons - Moreland City (Aus VPL) - BLV RAM
-https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 12:00-19/08: Port Melbourne - Altona Magic (Aus VPL) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 12:00-19/08: Port Melbourne - Altona Magic (Aus VPL) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 12:00-19/08: St Albans Saints - Green Gully Cavaliers (Aus VPL) - BLV TÁO
-https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 12:00-19/08: United Arab Emirates - Iran (WJCM) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 12:00-19/08: United Arab Emirates - Iran (WJCM) - BRIAN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 12:00-19/08: United Arab Emirates - Iran (WJCM) - BLV ALAN
-https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 12:00-19/08: United Arab Emirates - Iran (WJCM) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 13:30-19/08: Launceston United - Clarence Zebras (AUS TPL) - SAITAMA
-https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 13:30-19/08: Launceston United - Clarence Zebras (AUS TPL) - BLV MESSI
-https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 13:30-19/08: Riverside Olympic - Devonport City (AUS TPL) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 14:00-19/08: Balcatta FC - Armadale SC (AUS FWP) - BLV A LÔI
-https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 14:00-19/08: Balcatta FC - Armadale SC (AUS FWP) - BLV RID
-https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 14:00-19/08: Floreat Athena - Bayswater City (AUS FWP) - BLV GEM
-https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 14:00-19/08: Floreat Athena - Bayswater City (AUS FWP) - BLV TONY
-https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 14:00-19/08: Inglewood United - Cockburn City (AUS FWP) - DƯƠNG QUÁ
-https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 14:00-19/08: Inglewood United - Cockburn City (AUS FWP) - BLV BÁC SĨ
-https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 14:00-19/08: Olympic Kingsway SC - Sorrento F.C. (AUS FWP) - CÔNG LÝ
-https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 14:00-19/08: Olympic Kingsway SC - Sorrento F.C. (AUS FWP) - BLV CHARLIE
-https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 14:00-19/08: Perth Glory (Youth) - Perth RedStar (AUS FWP) - BLV ZICO
-https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 14:00-19/08: Perth Glory (Youth) - Perth RedStar (AUS FWP) - SUNNY
-https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 14:00-19/08: Stirling Macedonia - Perth SC (AUS FWP) - BLV ROMEO
-https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 14:00-19/08: Stirling Macedonia - Perth SC (AUS FWP) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 14:00-19/08: Japan Univ. - Rain or Shine Elasto Painters (WJCM) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 14:00-19/08: Japan Univ. - Rain or Shine Elasto Painters (WJCM) - BRIAN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 14:00-19/08: Japan Univ. - Rain or Shine Elasto Painters (WJCM) - BLV ALAN
-https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 14:00-19/08: Japan Univ. - Rain or Shine Elasto Painters (WJCM) - IVANN
-https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 14:00-19/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 14:00-19/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 14:00-19/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 14:00-19/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV ODIN
-https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 14:30-19/08: Spirit FC - A.P.I.A. Leichhardt Tigers (AUS NSW) - BLV Củ Cải
-https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 14:30-19/08: Spirit FC - A.P.I.A. Leichhardt Tigers (AUS NSW) - PHI HÀNH
-https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 14:30-19/08: Canberra FC - Monaro Panthers (AUS CGP) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 14:30-19/08: Canberra FC - Monaro Panthers (AUS CGP) - BLV CHOVY
-https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 15:00-19/08: Sweden Women - Australia Women (WWC) - BLV RIO
-https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 15:00-19/08: Sweden Women - Australia Women (WWC) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 15:00-19/08: Sweden Women - Australia Women (WWC) - BLV DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 15:00-19/08: Sweden Women - Australia Women (WWC) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 15:00-19/08: Sweden Women - Australia Women (WWC) - BLV VĂN TÍCH
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 15:00-19/08: Sweden Women - Australia Women (WWC) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 15:00-19/08: Persikabo 1973 - Madura United (IDN D1) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 15:00-19/08: Rans Nusantara FC - Dewa United FC (IDN D1) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 15:00-19/08: Rans Nusantara FC - Dewa United FC (IDN D1) - BLV ENZO
-https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 15:00-19/08: Switzerland U16 W - Cyprus U16 W (EBCWU16B) - KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 15:30-19/08: Sutherland Sharks - Bulls Academy (AUS NSW) - BLV SÓI
-https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 15:30-19/08: Sutherland Sharks - Bulls Academy (AUS NSW) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 16:00-19/08: Myanmar U23 - Cambodia U23 (AFF U23) - SUNNY
-https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png", 16:00-19/08: Myanmar U23 - Cambodia U23 (AFF U23) - BLV STING
-https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 16:00-19/08: Myanmar U23 - Cambodia U23 (AFF U23) - BLV RAM
-https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 16:00-19/08: Kashima Antlers - Sagan Tosu (JPN D1) - BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg", 16:00-19/08: Kashima Antlers - Sagan Tosu (JPN D1) - BLV FANTA
-https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 16:00-19/08: Kashima Antlers - Sagan Tosu (JPN D1) - BLV MESSI
-https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 16:00-19/08: Iwaki FC - Tokyo Verdy (JPN D2) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 16:00-19/08: Ventforet Kofu - Jubilo Iwata (JPN D2) - BLV CAPTAIN
-https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 16:00-19/08: Mito Hollyhock - Blaublitz Akita (JPN D2) - BLV ZICO
-https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 16:00-19/08: Shimizu S-Pulse - Machida Zelvia (JPN D2) - BLV Đỗ Hiệp
-https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 16:00-19/08: Anyang KGC - Chinese Taipei White (WJCM) - BRIAN
-https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 17:00-19/08: Gamba Osaka - Shonan Bellmare (JPN D1) - BLV GEM
-https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 17:00-19/08: Gamba Osaka - Shonan Bellmare (JPN D1) - GẤU BẮC CỰC
-https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 17:00-19/08: Gamba Osaka - Shonan Bellmare (JPN D1) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 17:00-19/08: Kyoto Sanga - Hokkaido Consadole Sapporo (JPN D1) - BLV BOM
-https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 17:00-19/08: Kyoto Sanga - Hokkaido Consadole Sapporo (JPN D1) - BLV RICARDO
-https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 17:00-19/08: Sanfrecce Hiroshima - Kawasaki Frontale (JPN D1) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 17:00-19/08: Sanfrecce Hiroshima - Kawasaki Frontale (JPN D1) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 17:00-19/08: Sanfrecce Hiroshima - Kawasaki Frontale (JPN D1) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 17:00-19/08: Vissel Kobe - Kashiwa Reysol (JPN D1) - CỦ CHUỐI
-https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 17:00-19/08: Vissel Kobe - Kashiwa Reysol (JPN D1) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 17:00-19/08: Vissel Kobe - Kashiwa Reysol (JPN D1) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/1923e70f6468f24ca728458f9555c6ed.jpg", 17:00-19/08: Vissel Kobe - Kashiwa Reysol (JPN D1) - BLV SPIDER
-https://code.vthanhtivi.pw/bongda/socolive/280022.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 17:00-19/08: Daejeon Hana Citizen II - Jeonbuk Hyundai Motors II (KOR D1) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 17:00-19/08: Daejeon Hana Citizen II - Jeonbuk Hyundai Motors II (KOR D1) - BLV TÁO
-https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 17:00-19/08: Daejeon Hana Citizen II - Jeonbuk Hyundai Motors II (KOR D1) - BLV Phở Bò
-https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 17:00-19/08: Daejeon Hana Citizen II - Jeonbuk Hyundai Motors II (KOR D1) - PHI HÀNH
-https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 17:30-19/08: Yokohama F Marinos - FC Tokyo (JPN D1) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 17:30-19/08: Yokohama F Marinos - FC Tokyo (JPN D1) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 17:30-19/08: Yokohama F Marinos - FC Tokyo (JPN D1) - KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 17:30-19/08: Yokohama F Marinos - FC Tokyo (JPN D1) - MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 17:30-19/08: FC Seoul - Daegu FC (KOR D1) - VAN PEPSI
-https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 17:30-19/08: FC Seoul - Daegu FC (KOR D1) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230816/acd2f4a7734f0f7e117e12f92220d0fb.jpg", 18:00-19/08: Fortuna Dusseldorf - SC Paderborn 07 (GER D2) - BLV MARIO
-https://code.vthanhtivi.pw/bongda/socolive/239019.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 18:00-19/08: Fortuna Dusseldorf - SC Paderborn 07 (GER D2) - THẦY PHÁN
-https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 18:00-19/08: Fortuna Dusseldorf - SC Paderborn 07 (GER D2) - BLV FANCY
-https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 18:00-19/08: Fortuna Dusseldorf - SC Paderborn 07 (GER D2) - BLV CAPTAIN
-https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 18:00-19/08: Greuther Furth - St. Pauli (GER D2) - BLV PELE
-https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 18:00-19/08: Greuther Furth - St. Pauli (GER D2) - BLV ROMEO
-https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 18:00-19/08: Greuther Furth - St. Pauli (GER D2) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 18:00-19/08: Greuther Furth - St. Pauli (GER D2) - BIGBA BALL
-https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 18:00-19/08: Hansa Rostock - Hannover 96 (GER D2) - BLV POPPY
-https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 18:00-19/08: Hansa Rostock - Hannover 96 (GER D2) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 18:00-19/08: Hansa Rostock - Hannover 96 (GER D2) - BLV SÓI
-https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 18:00-19/08: Hansa Rostock - Hannover 96 (GER D2) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 18:00-19/08: UC Irvine - Chinese Taipei Blue (WJCM) - KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 18:30-19/08: Plymouth Argyle - Southampton (ENG LCH) - BLV TOMIA
-https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 18:30-19/08: Plymouth Argyle - Southampton (ENG LCH) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 18:30-19/08: Plymouth Argyle - Southampton (ENG LCH) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg", 18:30-19/08: Plymouth Argyle - Southampton (ENG LCH) - BLV FANTA
-https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 18:30-19/08: Plymouth Argyle - Southampton (ENG LCH) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 18:30-19/08: Plymouth Argyle - Southampton (ENG LCH) - BLV ODIN
-https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png", 18:30-19/08: Glasgow Rangers - Greenock Morton (SCO LC) - BLV STING
-https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 18:30-19/08: Glasgow Rangers - Greenock Morton (SCO LC) - BLV CHARLIE
-https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 18:35-19/08: Chengdu Rongcheng FC - Wuhan Three Towns Football Club (CHA SL) - BLV RID
-https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 18:35-19/08: Chengdu Rongcheng FC - Wuhan Three Towns Football Club (CHA SL) - SAITAMA
-https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 18:35-19/08: Chengdu Rongcheng FC - Wuhan Three Towns Football Club (CHA SL) - BLV A LÔI
-https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 18:35-19/08: Beijing Guoan Football Club - Shanghai Shenhua FC (CHA SL) - BLV BACAR
-https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 18:35-19/08: Beijing Guoan Football Club - Shanghai Shenhua FC (CHA SL) - BLV BÁC SĨ
-https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 18:35-19/08: Beijing Guoan Football Club - Shanghai Shenhua FC (CHA SL) - BLV PUKA
-https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 18:35-19/08: Dalian Pro - Henan Football Club (CHA SL) - SAITAMA
-https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 18:35-19/08: Dalian Pro - Henan Football Club (CHA SL) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 18:35-19/08: Shenzhen Football Club - Nantong Zhiyun Football Club (CHA SL) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 18:35-19/08: Shenzhen Football Club - Nantong Zhiyun Football Club (CHA SL) - BLV ZICO
-https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 19:00-19/08: Barito Putera - Persik Kediri (IDN D1) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 19:00-19/08: Barito Putera - Persik Kediri (IDN D1) - BLV RICARDO
-https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 19:00-19/08: Barito Putera - Persik Kediri (IDN D1) - SUNNY
-https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 19:00-19/08: Persis Solo FC - Bali United (IDN D1) - CÔNG LÝ
-https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 19:30-19/08: Saigon Heat - Thang Long Warriors (VBA) - DR STRANGE
-https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 20:00-19/08: Brommapojkarna - Halmstads (SWE D1) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 20:00-19/08: Degerfors IF - IFK Goteborg (SWE D1) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 20:00-19/08: Degerfors IF - IFK Goteborg (SWE D1) - DƯƠNG QUÁ
-https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 20:00-19/08: Angers - AJ Auxerre (FRA D2) - BLV ENZO
-https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 20:00-19/08: Angers - AJ Auxerre (FRA D2) - BLV CAPTAIN
-https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 20:00-19/08: Johor Darul Takzim - Kelantan (MALAC) - CỦ CHUỐI
-https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 20:00-19/08: Johor Darul Takzim - Kelantan (MALAC) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png", 20:00-19/08: Brunei Darussalam U23 - Thailand U23 (AFF U23) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 20:30-19/08: FC Augsburg - Borussia Monchengladbach (GER D1) - BLV MESSI
-https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230816/acd2f4a7734f0f7e117e12f92220d0fb.jpg", 20:30-19/08: FC Augsburg - Borussia Monchengladbach (GER D1) - BLV MARIO
-https://code.vthanhtivi.pw/bongda/socolive/239019.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 20:30-19/08: FC Augsburg - Borussia Monchengladbach (GER D1) - GẤU BẮC CỰC
-https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/1923e70f6468f24ca728458f9555c6ed.jpg", 20:30-19/08: FC Augsburg - Borussia Monchengladbach (GER D1) - BLV SPIDER
-https://code.vthanhtivi.pw/bongda/socolive/280022.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 20:30-19/08: VfB Stuttgart - VfL Bochum (GER D1) - BLV Đỗ Hiệp
-https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 20:30-19/08: VfB Stuttgart - VfL Bochum (GER D1) - BLV Phở Bò
-https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 20:30-19/08: VfB Stuttgart - VfL Bochum (GER D1) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 20:30-19/08: VfB Stuttgart - VfL Bochum (GER D1) - BLV DIHI
-https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 20:30-19/08: VfL Wolfsburg - 1. FC Heidenheim (GER D1) - BLV BOM
-https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 20:30-19/08: VfL Wolfsburg - 1. FC Heidenheim (GER D1) - BLV SÓI
-https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 20:30-19/08: VfL Wolfsburg - 1. FC Heidenheim (GER D1) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 20:30-19/08: Bayer Leverkusen - RB Leipzig (GER D1) - BLV ODIN
-https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 20:30-19/08: Bayer Leverkusen - RB Leipzig (GER D1) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 20:30-19/08: Bayer Leverkusen - RB Leipzig (GER D1) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 20:30-19/08: Bayer Leverkusen - RB Leipzig (GER D1) - BLV ROMEO
-https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 20:30-19/08: Bayer Leverkusen - RB Leipzig (GER D1) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 20:30-19/08: Bayer Leverkusen - RB Leipzig (GER D1) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 20:30-19/08: TSG Hoffenheim - SC Freiburg (GER D1) - BLV PELE
-https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 20:30-19/08: TSG Hoffenheim - SC Freiburg (GER D1) - VAN PEPSI
-https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 20:30-19/08: TSG Hoffenheim - SC Freiburg (GER D1) - MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 20:30-19/08: TSG Hoffenheim - SC Freiburg (GER D1) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 20:30-19/08: TSG Hoffenheim - SC Freiburg (GER D1) - BLV FANCY
-https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 20:30-19/08: TSG Hoffenheim - SC Freiburg (GER D1) - BLV RAM
-https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 21:00-19/08: Fulham - Brentford (ENG PR) - BLV POPPY
-https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg", 21:00-19/08: Fulham - Brentford (ENG PR) - BLV FANTA
-https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 21:00-19/08: Fulham - Brentford (ENG PR) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 21:00-19/08: Fulham - Brentford (ENG PR) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 21:00-19/08: Fulham - Brentford (ENG PR) - BLV Củ Cải
-https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 21:00-19/08: Fulham - Brentford (ENG PR) - PHI HÀNH
-https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 21:00-19/08: Liverpool - Bournemouth AFC (ENG PR) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 21:00-19/08: Liverpool - Bournemouth AFC (ENG PR) - BLV DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 21:00-19/08: Liverpool - Bournemouth AFC (ENG PR) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 21:00-19/08: Liverpool - Bournemouth AFC (ENG PR) - BLV TOMIA
-https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 21:00-19/08: Liverpool - Bournemouth AFC (ENG PR) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 21:00-19/08: Liverpool - Bournemouth AFC (ENG PR) - BLV RIO
-https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 21:00-19/08: Wolves - Brighton Hove Albion (ENG PR) - BLV  TYPN
-https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 21:00-19/08: Wolves - Brighton Hove Albion (ENG PR) - BLV VĂN TÍCH
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 21:00-19/08: Wolves - Brighton Hove Albion (ENG PR) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 21:00-19/08: Wolves - Brighton Hove Albion (ENG PR) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 21:00-19/08: Wolves - Brighton Hove Albion (ENG PR) - KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 21:00-19/08: Wolves - Brighton Hove Albion (ENG PR) - BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg", 21:30-19/08: Excelsior SBV - AFC Ajax (HOL D1) - BLV KAKA
-https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 21:30-19/08: Excelsior SBV - AFC Ajax (HOL D1) - THẦY PHÁN
-https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 21:30-19/08: Excelsior SBV - AFC Ajax (HOL D1) - BLV SHOGUN
-https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 21:30-19/08: Excelsior SBV - AFC Ajax (HOL D1) - BLV PUKA
-https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 21:30-19/08: Excelsior SBV - AFC Ajax (HOL D1) - BLV BÁC SĨ
-https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 21:30-19/08: Excelsior SBV - AFC Ajax (HOL D1) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 22:00-19/08: Real Sociedad - Real Club Celta de Vigo SAD (SPA D1) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 22:00-19/08: Real Sociedad - Real Club Celta de Vigo SAD (SPA D1) - BLV RICARDO
-https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 22:00-19/08: Real Sociedad - Real Club Celta de Vigo SAD (SPA D1) - SAITAMA
-https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 22:00-19/08: Real Sociedad - Real Club Celta de Vigo SAD (SPA D1) - CÔNG LÝ
-https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 22:00-19/08: Real Sociedad - Real Club Celta de Vigo SAD (SPA D1) - BIGBA BALL
-https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 22:00-19/08: Real Sociedad - Real Club Celta de Vigo SAD (SPA D1) - BLV BACAR
-https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 22:00-19/08: Lyon - Montpellier (FRA D1) - BLV CHARLIE
-https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 22:00-19/08: Lyon - Montpellier (FRA D1) - DƯƠNG QUÁ
-https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 22:00-19/08: Lyon - Montpellier (FRA D1) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 22:00-19/08: Lyon - Montpellier (FRA D1) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 22:00-19/08: Lyon - Montpellier (FRA D1) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 22:00-19/08: Lyon - Montpellier (FRA D1) - BLV CAPTAIN
-https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 23:00-19/08: Greece - Germany (WFI) - KING
-https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 23:00-19/08: Greece - Germany (WFI) - BLV BEAN
-https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 23:00-19/08: Lithuania - Puerto Rico (WFI) - DR STRANGE
-https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV VĂN TÍCH
-https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV RIO
-https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV FANTA
-https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 23:30-19/08: Tottenham Hotspur - Manchester United (ENG PR) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 23:30-19/08: Empoli - Hellas Verona (ITA D1) - BLV GEM
-https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 23:30-19/08: Empoli - Hellas Verona (ITA D1) - BLV RID
-https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 23:30-19/08: Empoli - Hellas Verona (ITA D1) - BLV Củ Cải
-https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 23:30-19/08: Frosinone - Napoli (ITA D1) - BLV ENZO
-https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 23:30-19/08: Frosinone - Napoli (ITA D1) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 23:30-19/08: Frosinone - Napoli (ITA D1) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 23:30-19/08: Frosinone - Napoli (ITA D1) - MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 23:30-19/08: Frosinone - Napoli (ITA D1) - CỦ CHUỐI
-https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 23:30-19/08: Frosinone - Napoli (ITA D1) - BLV TOMIA
-https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 23:30-19/08: Borussia Dortmund - FC Köln (GER D1) - BLV  TYPN
-https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 23:30-19/08: Borussia Dortmund - FC Köln (GER D1) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 23:30-19/08: Borussia Dortmund - FC Köln (GER D1) - BLV RAM
-https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 23:30-19/08: Borussia Dortmund - FC Köln (GER D1) - BLV FIREMAN
-https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png", 23:30-19/08: Borussia Dortmund - FC Köln (GER D1) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 23:30-19/08: Borussia Dortmund - FC Köln (GER D1) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 23:45-19/08: Vitesse Arnhem - PSV Eindhoven (HOL D1) - BLV DIHI
-https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 23:45-19/08: Vitesse Arnhem - PSV Eindhoven (HOL D1) - LUCY
-https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 23:45-19/08: Vitesse Arnhem - PSV Eindhoven (HOL D1) - BLV PUKA
-https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 00:00-20/08: GD Chaves - Sporting Braga (POR D1) - BLV CHARLIE
-https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 00:30-20/08: Almeria - Real Madrid (SPA D1) - BIGBA BALL
-https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 00:30-20/08: Almeria - Real Madrid (SPA D1) - BLV PELE
-https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 00:30-20/08: Almeria - Real Madrid (SPA D1) - BLV Maximus
-https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 00:30-20/08: Almeria - Real Madrid (SPA D1) - BLV RICARDO
-https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 00:30-20/08: Almeria - Real Madrid (SPA D1) - BABY BOY
-https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 00:30-20/08: Almeria - Real Madrid (SPA D1) - BLV Phở Bò
-https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230818/24e02fe96b3827f2ea5883037d0b0499.png", 01:00-20/08: Al-Hilal Saudi FC - Al-Fayha (KSA PR) - BLV NIBO
-https://code.vthanhtivi.pw/bongda/socolive/372746.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 01:00-20/08: Al-Hilal Saudi FC - Al-Fayha (KSA PR) - SAITAMA
-https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 01:00-20/08: Ittihad Club - Al-Tai (KSA PR) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 01:45-20/08: Genoa - Fiorentina (ITA D1) - DƯƠNG QUÁ
-https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 01:45-20/08: Genoa - Fiorentina (ITA D1) - BLV BÁC SĨ
-https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 01:45-20/08: Genoa - Fiorentina (ITA D1) - BLV ZICO
-https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 01:45-20/08: Inter Milan - Monza (ITA D1) - BLV BACAR
-https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 01:45-20/08: Inter Milan - Monza (ITA D1) - BLV ROMEO
-https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 01:45-20/08: Inter Milan - Monza (ITA D1) - BLV PUKA
-https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 01:45-20/08: Inter Milan - Monza (ITA D1) - BLV ODIN
-https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 01:45-20/08: Inter Milan - Monza (ITA D1) - BLV Củ Cải
-https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 01:45-20/08: Inter Milan - Monza (ITA D1) - BLV RAM
-https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 01:45-20/08: AEK Athens - Dinamo Zagreb (UEFA CL) - BLV RID
-https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 01:45-20/08: Galatasaray - Trabzonspor (TUR D1) - BLV MESSI
-https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 01:45-20/08: Galatasaray - Trabzonspor (TUR D1) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV CÁ
-https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - TẠ BIÊN GIỚI
-https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV RIO
-https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV TAP
-https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV DECO
-https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - RICKHANTER
-https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV SINGER
-https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - A PHẠCH
-https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - KHÔNG NGỦ
-https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV TOMIA
-https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 02:00-20/08: Manchester City - Newcastle United (ENG PR) - BLV LONG
-https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 02:00-20/08: Toulouse - Paris Saint Germain (PSG) (FRA D1) - MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 02:00-20/08: Toulouse - Paris Saint Germain (PSG) (FRA D1) - CÔNG LÝ
-https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 02:00-20/08: Toulouse - Paris Saint Germain (PSG) (FRA D1) - BLV ENZO
-https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 02:00-20/08: Toulouse - Paris Saint Germain (PSG) (FRA D1) - TAM MAO
-https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 02:00-20/08: Toulouse - Paris Saint Germain (PSG) (FRA D1) - BLV PEWPEW
-https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 02:00-20/08: Toulouse - Paris Saint Germain (PSG) (FRA D1) - BLV FANCY
-https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 02:30-20/08: Osasuna - Athletic Bilbao (SPA D1) - BLV GEM
-https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 02:30-20/08: Osasuna - Athletic Bilbao (SPA D1) - BLV Phở Bò
-https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 02:30-20/08: Osasuna - Athletic Bilbao (SPA D1) - THẦY PHÁN
-https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 02:30-20/08: Benfica - CF Estrela Amadora SAD (POR D1) - BLV DIHI
-https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 02:30-20/08: Benfica - CF Estrela Amadora SAD (POR D1) - BLV BOM
-https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 04:30-20/08: Cuiaba - Palmeiras (BRA D1) - CÔNG LÝ
-https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 04:30-20/08: Cuiaba - Palmeiras (BRA D1) - THẦY PHÁN
-https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 04:30-20/08: Fluminense RJ - America MG (BRA D1) - BLV ZICO
-https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 04:30-20/08: Fluminense RJ - America MG (BRA D1) - BLV GÀ RỪNG
-https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 05:00-20/08: Gimnasia La Plata - Talleres Cordoba (ARG D1) - BLV Đỗ Hiệp
-https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 05:00-20/08: Philadelphia Union - Monterrey (CNCF LC) - VAN PEPSI
-https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 05:00-20/08: Philadelphia Union - Monterrey (CNCF LC) - BLV SÓI
-https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 05:00-20/08: Philadelphia Union - Monterrey (CNCF LC) - BLV HOPE
-https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg", 05:00-20/08: Philadelphia Union - Monterrey (CNCF LC) - BLV KAKA
-https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 05:00-20/08: Philadelphia Union - Monterrey (CNCF LC) - BLV TIGER
-https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 05:00-20/08: Philadelphia Union - Monterrey (CNCF LC) - BLV MÁT GAI
-https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 05:45-20/08: Sport Huancayo - Carlos Manucci (PER D1) - GẤU BẮC CỰC
-https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 06:05-20/08: Celaya FC - Tepatitlan de Morelos (MEX D2) - SÙNG A MÚP
-https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 06:10-20/08: Union Magdalena - Independiente Santa Fe (COL D1) - BLV TÁO
-https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 07:00-20/08: Velez Sarsfield - Barracas Central (ARG D1) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 07:00-20/08: Velez Sarsfield - Barracas Central (ARG D1) - BLV CAPTAIN
-https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 07:00-20/08: Velez Sarsfield - Barracas Central (ARG D1) - LIAN
-https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 07:00-20/08: Cruzeiro Esporte Clube - Corinthians Paulista (SP) (BRA D1) - BLV MÁT GAI
-https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 07:00-20/08: Cruzeiro Esporte Clube - Corinthians Paulista (SP) (BRA D1) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 07:00-20/08: Cruzeiro Esporte Clube - Corinthians Paulista (SP) (BRA D1) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 07:00-20/08: Independiente Petrolero - Vaca Diez (BOL D1) - BLV CHOVY
-https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 07:00-20/08: Independiente Petrolero - Vaca Diez (BOL D1) - BLV QUICK
-https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 07:00-20/08: Independiente Petrolero - Vaca Diez (BOL D1) - PHI HÀNH
-https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 07:30-20/08: Universitario De Deportes - Deportivo Garcilaso (PER D1) - BLV POPPY
 https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 07:30-20/08: Universitario De Deportes - Deportivo Garcilaso (PER D1) - BLV Đỗ Hiệp
@@ -5006,10 +4346,10 @@ https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 08:05-20/08: Cancun FC - Monarcas Morelia (MEX D2) - BLV  TYPN
 https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 08:05-20/08: Cancun FC - Monarcas Morelia (MEX D2) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/1923e70f6468f24ca728458f9555c6ed.jpg", 08:05-20/08: Cancun FC - Monarcas Morelia (MEX D2) - BLV SPIDER
 https://code.vthanhtivi.pw/bongda/socolive/280022.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 08:05-20/08: Cancun FC - Monarcas Morelia (MEX D2) - GẤU BẮC CỰC
+https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 08:20-20/08: La Equidad - Atletico Junior Barranquilla (COL D1) - BLV SHOGUN
 https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 08:20-20/08: La Equidad - Atletico Junior Barranquilla (COL D1) - VAN PEPSI
@@ -5032,14 +4372,18 @@ https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 09:00-20/08: Oakland Roots - Colorado Springs Switchbacks FC (USLC) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 09:00-20/08: Orange County Blues FC - Charleston Battery (USLC) - BLV EDWARD
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230820/d6e59e0d15e47d73dd1d9b0b532381e4.png", 09:00-20/08: Orange County Blues FC - Charleston Battery (USLC) - BLV EDWARD
 https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 09:00-20/08: Orange County Blues FC - Charleston Battery (USLC) - CHÂU TINH TRÌ
 https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 10:00-20/08: Western Sydney Wanderers AM - Mt Druitt Town Rangers FC (AUS NSW) - BLV LOGAN
-https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 10:00-20/08: Western Sydney Wanderers AM - Mt Druitt Town Rangers FC (AUS NSW) - TẠ BIÊN GIỚI
 https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 10:00-20/08: Western Sydney Wanderers AM - Mt Druitt Town Rangers FC (AUS NSW) - BLV ROMEO
+https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 10:00-20/08: Mainland Pouakai W - Northern Kahu W (WNZT) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 10:00-20/08: Mainland Pouakai W - Northern Kahu W (WNZT) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 12:00-20/08: Blacktown City Demons - Wollongong Wolves (AUS NSW) - SAITAMA
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 12:00-20/08: Blacktown City Demons - Wollongong Wolves (AUS NSW) - BLV CÁ
@@ -5062,6 +4406,12 @@ https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 12:00-20/08: Gungahlin United - OConnor Knights (AUS CGP) - BLV SÓI
 https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 12:00-20/08: Qatar - Japan Univ. (WJCM) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 12:00-20/08: Qatar - Japan Univ. (WJCM) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 12:00-20/08: Qatar - Japan Univ. (WJCM) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 13:00-20/08: Eastern Suburbs Brisbane - Queensland Lions SC (AUS NPLQ) - BLV A NÚI
 https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 13:00-20/08: Eastern Suburbs Brisbane - Queensland Lions SC (AUS NPLQ) - BLV CHARLIE
@@ -5078,12 +4428,24 @@ https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 13:00-20/08: Redlands United FC - Brisbane Roar (Youth) (AUS NPLQ) - MĂNG CỤT
 https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 13:00-20/08: Sunshine Coast Wanderers FC - Brisbane City (AUS NPLQ) - BLV AK47
-https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 13:00-20/08: Sunshine Coast Wanderers FC - Brisbane City (AUS NPLQ) - BLV TÁO
+https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 13:00-20/08: Brisbane Olympic United FC - Gold Coast Knights (AUS NPLQ) - BLV PUKA
 https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230805/9ab8436169f78689b00af0fcbd6ce0e0.jpg", 13:00-20/08: Brisbane Olympic United FC - Gold Coast Knights (AUS NPLQ) - BLV TED
 https://code.vthanhtivi.pw/bongda/socolive/259576.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 14:00-20/08: Rain or Shine Elasto Painters - UC Irvine (WJCM) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 14:00-20/08: Rain or Shine Elasto Painters - UC Irvine (WJCM) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 14:00-20/08: Rain or Shine Elasto Painters - UC Irvine (WJCM) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 14:00-20/08: Italy - Brazil (WFI) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 14:00-20/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 14:00-20/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 15:00-20/08: Persija Jakarta - Arema FC (IDN D1) - BLV  TYPN
 https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 15:00-20/08: Persija Jakarta - Arema FC (IDN D1) - BLV CÁ
@@ -5106,6 +4468,8 @@ https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230818/24e02fe96b3827f2ea5883037d0b0499.png", 15:30-20/08: TTBD Phu Dong - PVF CAND (VIE D2) - BLV NIBO
 https://code.vthanhtivi.pw/bongda/socolive/372746.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 15:30-20/08: TTBD Phu Dong - PVF CAND (VIE D2) - BLV BACAR
+https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 16:00-20/08: Laos U23 - Vietnam U23 (AFF U23) - BABY BOY
 https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 16:00-20/08: Laos U23 - Vietnam U23 (AFF U23) - BLV TOMIA
@@ -5118,6 +4482,14 @@ https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 16:00-20/08: Laos U23 - Vietnam U23 (AFF U23) - CỦ CHUỐI
 https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 16:00-20/08: Chinese Taipei White - Iran (WJCM) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 16:00-20/08: Chinese Taipei White - Iran (WJCM) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 16:00-20/08: Chinese Taipei White - Iran (WJCM) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 16:00-20/08: SWU BC - Ban Bueng Devil Rays (TBL) - DR STRANGE
+https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 16:30-20/08: Yokohama FC - Cerezo Osaka (JPN D1) - BLV ODIN
 https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 16:30-20/08: Yokohama FC - Cerezo Osaka (JPN D1) - BLV Củ Cải
@@ -5152,14 +4524,10 @@ https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 17:00-20/08: Spain Women - England Women (WWC) - PHI HÀNH
 https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 17:00-20/08: Pohang Steelers - Daejeon Citizen (KOR D1) - BLV DIHI
-https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 17:00-20/08: Pohang Steelers - Daejeon Citizen (KOR D1) - BLV PEWPEW
 https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 17:00-20/08: Pohang Steelers - Daejeon Citizen (KOR D1) - BLV MÍM
 https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 17:00-20/08: Vilaverdense - Oliveirense (POR D2) - BLV EDWARD
-https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 17:00-20/08: Vilaverdense - Oliveirense (POR D2) - BLV GEM
 https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 17:00-20/08: Thespa Kusatsu - Zweigen Kanazawa FC (JPN D2) - BLV TÁO
@@ -5170,22 +4538,20 @@ https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 17:00-20/08: Jeonnam Dragons - Gimcheon Sangmu FC (KOR D2) - BLV TONY
 https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 17:00-20/08: Jeonnam Dragons - Gimcheon Sangmu FC (KOR D2) - SUNNY
-https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - BLV CHOVY
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 17:00-20/08: Jeonnam Dragons - Gimcheon Sangmu FC (KOR D2) - BLV CHOVY
 https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - GẤU BẮC CỰC
 https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - BLV PELE
-https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - BLV AK47
 https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - BLV FANCY
 https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 18:00-20/08: Lille - Nantes (FRA D1) - BLV A NÚI
-https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - BLV DIHI
+https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 17:15-20/08: FC Utrecht - SC Heerenveen (HOL D1) - MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 18:00-20/08: Lille - Nantes (FRA D1) - BLV RID
 https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 18:00-20/08: Lille - Nantes (FRA D1) - BLV POPPY
@@ -5196,16 +4562,24 @@ https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 18:00-20/08: Lille - Nantes (FRA D1) - BLV  TYPN
 https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 18:00-20/08: Lille - Nantes (FRA D1) - BLV Phở Bò
+https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 18:00-20/08: Inter Turku - HJK Helsinki (FIN D1) - BLV BÁC SĨ
 https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 18:00-20/08: Norwich City - Millwall (ENG LCH) - BLV PUKA
 https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 18:00-20/08: Norwich City - Millwall (ENG LCH) - CHÂU TINH TRÌ
-https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 18:00-20/08: Norwich City - Millwall (ENG LCH) - CÔNG LÝ
 https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 18:00-20/08: Norwich City - Millwall (ENG LCH) - BLV TIGER
 https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 18:00-20/08: Chinese Taipei White - Anyang KGC (WJCM) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 18:00-20/08: Chinese Taipei White - Anyang KGC (WJCM) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 18:00-20/08: Chinese Taipei White - Anyang KGC (WJCM) - IVANN
+https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 18:00-20/08: Phuket Wave - Bangkok Tiger Thunder (TBL) - DR STRANGE
+https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 18:30-20/08: Anderlecht - Westerlo (BEL D1) - BLV QUICK
 https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 18:30-20/08: Anderlecht - Westerlo (BEL D1) - THẦY PHÁN
@@ -5228,12 +4602,12 @@ https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/239019.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 18:30-20/08: VfL Osnabrück - 1. FC Nürnberg (GER D2) - BLV ZICO
 https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 18:30-20/08: VfL Osnabrück - 1. FC Nürnberg (GER D2) - MĂNG CỤT
-https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 18:30-20/08: VfL Osnabrück - 1. FC Nürnberg (GER D2) - BLV CAPTAIN
 https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 18:30-20/08: VfL Osnabrück - 1. FC Nürnberg (GER D2) - BIGBA BALL
 https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 18:30-20/08: VfL Osnabrück - 1. FC Nürnberg (GER D2) - SUNNY
+https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 18:35-20/08: Changchun Yatai Football Club - Cangzhou Mighty Lions Football Club (CHA SL) - CỦ CHUỐI
 https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 18:35-20/08: Changchun Yatai Football Club - Cangzhou Mighty Lions Football Club (CHA SL) - BABY BOY
@@ -5256,6 +4630,8 @@ https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 19:30-20/08: FC Twente Enschede - PEC Zwolle (HOL D1) - SÙNG A MÚP
 https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 19:30-20/08: Nhatrang Dolphins - Ho Chi Minh City Wings (VBA) - DR STRANGE
+https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 20:00-20/08: Aston Villa - Everton (ENG PR) - BLV LONG
 https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 20:00-20/08: Aston Villa - Everton (ENG PR) - BLV RIO
@@ -5270,20 +4646,18 @@ https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 20:00-20/08: Le Havre AC - Stade Brestois 29 (FRA D1) - SAITAMA
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 20:00-20/08: Le Havre AC - Stade Brestois 29 (FRA D1) - GẤU BẮC CỰC
-https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 20:00-20/08: Le Havre AC - Stade Brestois 29 (FRA D1) - PHI HÀNH
 https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/c40641f90b6e7c59c2b814b68ff1649d.jpg", 20:00-20/08: Le Havre AC - Stade Brestois 29 (FRA D1) - BLV EDWARD
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230820/d6e59e0d15e47d73dd1d9b0b532381e4.png", 20:00-20/08: Le Havre AC - Stade Brestois 29 (FRA D1) - BLV EDWARD
 https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 20:00-20/08: Lorient - Nice (FRA D1) - BLV TÁO
-https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png", 20:00-20/08: Lorient - Nice (FRA D1) - BLV STING
 https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 20:00-20/08: Lorient - Nice (FRA D1) - LIAN
 https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 20:00-20/08: Lorient - Nice (FRA D1) - BLV DIHI
 https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 20:00-20/08: Lorient - Nice (FRA D1) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 20:00-20/08: Reims - Clermont (FRA D1) - BLV PELE
 https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 20:00-20/08: Reims - Clermont (FRA D1) - BLV ROMEO
@@ -5292,6 +4666,8 @@ https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 20:00-20/08: Reims - Clermont (FRA D1) - BLV CHOVY
 https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 20:00-20/08: Bonn (Ger) - Paderborn (Ger) (WCF) - IVANN
+https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 20:30-20/08: Union Berlin - FSV Mainz 05 (GER D1) - CHÂU TINH TRÌ
 https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 20:30-20/08: Union Berlin - FSV Mainz 05 (GER D1) - BLV A NÚI
@@ -5314,6 +4690,8 @@ https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 21:00-20/08: Clube de Regatas Vasco da Gama - Atletico Mineiro (BRA D1) - BLV BÁC SĨ
 https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 21:00-20/08: Clube de Regatas Vasco da Gama - Atletico Mineiro (BRA D1) - BLV BACAR
+https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 21:30-20/08: Estoril - Rio Ave (POR D1) - BABY BOY
 https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 21:30-20/08: Estoril - Rio Ave (POR D1) - BLV QUICK
@@ -5384,15 +4762,407 @@ https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
 https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 22:30-20/08: West Ham United - Chelsea (ENG PR) - KHÔNG NGỦ
 https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 22:30-20/08: Girona - Getafe (SPA D1) - BLV BOM
-https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 22:30-20/08: Girona - Getafe (SPA D1) - BLV MÍM
-https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 22:30-20/08: Girona - Getafe (SPA D1) - SAITAMA
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png", 23:00-20/08: USA - Germany (WFI) - IVANN
+https://code.vthanhtivi.pw/bongda/socolive/100344.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg", 23:00-20/08: USA - Germany (WFI) - KING
+https://code.vthanhtivi.pw/bongda/socolive/168964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg", 23:00-20/08: Serbia - China (WFI) - DR STRANGE
+https://code.vthanhtivi.pw/bongda/socolive/252519.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 23:15-20/08: Başakşehir Futbol Kulübü - Karagumruk (TUR D1) - THẦY PHÁN
+https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 23:15-20/08: Başakşehir Futbol Kulübü - Karagumruk (TUR D1) - BLV A NÚI
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 23:30-20/08: AS Roma - Salernitana (ITA D1) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 23:30-20/08: AS Roma - Salernitana (ITA D1) - BLV ENZO
+https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 23:30-20/08: AS Roma - Salernitana (ITA D1) - DƯƠNG QUÁ
+https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 23:30-20/08: AS Roma - Salernitana (ITA D1) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 23:30-20/08: AS Roma - Salernitana (ITA D1) - CỦ CHUỐI
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 23:30-20/08: AS Roma - Salernitana (ITA D1) - BLV GEM
+https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 23:30-20/08: Sassuolo - Atalanta (ITA D1) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 23:30-20/08: Sassuolo - Atalanta (ITA D1) - BLV CAPTAIN
+https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 23:30-20/08: Sassuolo - Atalanta (ITA D1) - BLV RAM
+https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 23:30-20/08: Sassuolo - Atalanta (ITA D1) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 23:30-20/08: Sassuolo - Atalanta (ITA D1) - BLV RICARDO
+https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 23:30-20/08: Sassuolo - Atalanta (ITA D1) - BLV PELE
+https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230818/24e02fe96b3827f2ea5883037d0b0499.png", 23:30-20/08: Club Brugge - RWD Molenbeek (BEL D1) - BLV NIBO
+https://code.vthanhtivi.pw/bongda/socolive/372746.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230805/9ab8436169f78689b00af0fcbd6ce0e0.jpg", 23:30-20/08: Club Brugge - RWD Molenbeek (BEL D1) - BLV TED
+https://code.vthanhtivi.pw/bongda/socolive/259576.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 23:30-20/08: Spartak Moscow - Zenit St. Petersburg (RUS D1) - BLV ROMEO
+https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 00:00-21/08: Girona - Getafe (SPA D1) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 00:00-21/08: Girona - Getafe (SPA D1) - BLV RID
+https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 00:00-21/08: Girona - Getafe (SPA D1) - BLV Phở Bò
+https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 00:00-21/08: FC Porto - SC Farense (POR D1) - BLV BÁC SĨ
+https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 00:00-21/08: FC Porto - SC Farense (POR D1) - BLV MESSI
+https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 00:30-21/08: FC Barcelona - Cadiz (SPA D1) - MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 00:30-21/08: FC Barcelona - Cadiz (SPA D1) - BLV VĂN TÍCH
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 00:30-21/08: FC Barcelona - Cadiz (SPA D1) - TẠ BIÊN GIỚI
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 00:30-21/08: FC Barcelona - Cadiz (SPA D1) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png", 00:30-21/08: FC Barcelona - Cadiz (SPA D1) - A PHẠCH
+https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 00:30-21/08: FC Barcelona - Cadiz (SPA D1) - KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 01:45-21/08: Lecce - Lazio (ITA D1) - BLV PUKA
+https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 01:45-21/08: Lecce - Lazio (ITA D1) - SAITAMA
 https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 22:30-20/08: Girona - Getafe (SPA D1) - BLV Củ Cải
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 01:45-21/08: Lecce - Lazio (ITA D1) - BLV Củ Cải
 https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 22:30-20/08: Girona - Getafe (SPA D1) - BIGBA BALL
-https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 22:30-20/08: Girona - Getafe (SPA D1) - BLV POPPY
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 01:45-21/08: Lecce - Lazio (ITA D1) - BLV CHARLIE
+https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 01:45-21/08: Lecce - Lazio (ITA D1) - TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 01:45-21/08: Lecce - Lazio (ITA D1) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 01:45-21/08: Udinese - Juventus (ITA D1) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG", 01:45-21/08: Udinese - Juventus (ITA D1) - BLV BOM
+https://code.vthanhtivi.pw/bongda/socolive/400382.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg", 01:45-21/08: Udinese - Juventus (ITA D1) - BLV RICARDO
+https://code.vthanhtivi.pw/bongda/socolive/479379.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 01:45-21/08: Udinese - Juventus (ITA D1) - BLV GÀ RỪNG
+https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 01:45-21/08: Udinese - Juventus (ITA D1) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 01:45-21/08: Udinese - Juventus (ITA D1) - BLV LONG
+https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 01:45-21/08: Lens - Stade Rennais FC (FRA D1) - BLV Đỗ Hiệp
+https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 01:45-21/08: Lens - Stade Rennais FC (FRA D1) - BLV ZICO
+https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg", 01:45-21/08: Lens - Stade Rennais FC (FRA D1) - BLV CHOVY
+https://code.vthanhtivi.pw/bongda/socolive/319191.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png", 01:45-21/08: Lens - Stade Rennais FC (FRA D1) - BLV STING
+https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/1923e70f6468f24ca728458f9555c6ed.jpg", 01:45-21/08: Lens - Stade Rennais FC (FRA D1) - BLV SPIDER
+https://code.vthanhtivi.pw/bongda/socolive/280022.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230819/12fbb55161944cf5da2b7928e7859a79.png", 02:00-21/08: Sarmiento Junin - Club Atletico Tigre (ARG D1) - BLV BÁC SĨ
+https://code.vthanhtivi.pw/bongda/socolive/381973.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230818/24e02fe96b3827f2ea5883037d0b0499.png", 02:00-21/08: Coritiba PR - CR Flamengo (BRA D1) - BLV NIBO
+https://code.vthanhtivi.pw/bongda/socolive/372746.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 02:00-21/08: Santos - Gremio (RS) (BRA D1) - BLV GEM
+https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 02:15-21/08: Rosario Central - Atletico Tucuman (ARG D1) - CÔNG LÝ
+https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 02:30-21/08: Real Betis - Atletico Madrid (SPA D1) - BLV RAM
+https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/af0299e3b614e68046b4761de1f2dad6.png", 02:30-21/08: Real Betis - Atletico Madrid (SPA D1) - BLV PELE
+https://code.vthanhtivi.pw/bongda/socolive/227469.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 02:30-21/08: Real Betis - Atletico Madrid (SPA D1) - BLV ROMEO
+https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg", 02:30-21/08: Real Betis - Atletico Madrid (SPA D1) - BLV MESSI
+https://code.vthanhtivi.pw/bongda/socolive/494201.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 02:30-21/08: Real Betis - Atletico Madrid (SPA D1) - BLV CAPTAIN
+https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26", 02:30-21/08: Real Betis - Atletico Madrid (SPA D1) - BABY BOY
+https://code.vthanhtivi.pw/bongda/socolive/115429.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 02:30-21/08: Vizela - FC Arouca (POR D1) - THẦY PHÁN
+https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 04:00-21/08: Ceara - Ponte Preta (BRA D2) - BLV Củ Cải
+https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg", 04:00-21/08: Ceara - Ponte Preta (BRA D2) - BLV CHARLIE
+https://code.vthanhtivi.pw/bongda/socolive/495263.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230718/3d8decd2a34f48e6b6377d43853528ff.jpg", 04:10-21/08: Envigado FC - America de Cali (COL D1) - BLV ZICO
+https://code.vthanhtivi.pw/bongda/socolive/427808.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg", 04:10-21/08: Envigado FC - America de Cali (COL D1) - BLV GÀ RỪNG
+https://code.vthanhtivi.pw/bongda/socolive/425114.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 04:30-21/08: Lanus - San Lorenzo (ARG D1) - BLV MÁT GAI
+https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 04:30-21/08: Lanus - San Lorenzo (ARG D1) - VAN PEPSI
+https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 06:00-21/08: Cruz Azul - Santos Laguna (MEX D1) - BLV A NÚI
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 06:00-21/08: Cruz Azul - Santos Laguna (MEX D1) - BLV TIGER
+https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 06:00-21/08: Minnesota Lynx W - Seattle Storm W (WNBA) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 06:00-21/08: Minnesota Lynx W - Seattle Storm W (WNBA) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 06:00-21/08: Minnesota Lynx W - Seattle Storm W (WNBA) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 06:30-21/08: Columbus Crew - FC Cincinnati (USA MLS) - BLV SÓI
+https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 06:30-21/08: Columbus Crew - FC Cincinnati (USA MLS) - CHÂU TINH TRÌ
+https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 06:30-21/08: New York City FC - Minnesota United FC (USA MLS) - BLV DIHI
+https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 06:30-21/08: New York City FC - Minnesota United FC (USA MLS) - BLV TÁO
+https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230723/686ce85eb51b3c47ec213499e3d2ea0c.jpg", 06:30-21/08: New York Red Bulls - DC United (USA MLS) - BLV A LÔI
+https://code.vthanhtivi.pw/bongda/socolive/342075.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 06:30-21/08: New York Red Bulls - DC United (USA MLS) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 06:30-21/08: Toronto FC - Montreal Impact (USA MLS) - BLV FANCY
+https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 06:30-21/08: Toronto FC - Montreal Impact (USA MLS) - BLV ODIN
+https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 07:00-21/08: Argentinos Juniors - River Plate (ARG D1) - BLV MÁT GAI
+https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg", 07:00-21/08: Argentinos Juniors - River Plate (ARG D1) - VAN PEPSI
+https://code.vthanhtivi.pw/bongda/socolive/365007.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 07:30-21/08: Chicago Fire - Orlando City (USA MLS) - RICKHANTER
+https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 07:30-21/08: Chicago Fire - Orlando City (USA MLS) - GẤU BẮC CỰC
+https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 07:30-21/08: Chicago Fire - Orlando City (USA MLS) - PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 07:30-21/08: Houston Dynamo - Portland Timbers (USA MLS) - BLV BACAR
+https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 07:30-21/08: Houston Dynamo - Portland Timbers (USA MLS) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 07:30-21/08: Houston Dynamo - Portland Timbers (USA MLS) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 08:05-21/08: Queretaro FC - Pachuca (MEX D1) - BLV POPPY
 https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 08:05-21/08: Queretaro FC - Pachuca (MEX D1) - BLV LOGAN
+https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 08:05-21/08: Queretaro FC - Pachuca (MEX D1) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 08:05-21/08: Queretaro FC - Pachuca (MEX D1) - BLV  TYPN
+https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 08:05-21/08: Queretaro FC - Pachuca (MEX D1) - BLV A NÚI
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 08:05-21/08: Queretaro FC - Pachuca (MEX D1) - BIGBA BALL
+https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 08:10-21/08: Atlas - Club America (MEX D1) - BLV VĂN TÍCH
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 08:10-21/08: Atlas - Club America (MEX D1) - BLV TIGER
+https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 08:10-21/08: Atlas - Club America (MEX D1) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg", 08:10-21/08: Atlas - Club America (MEX D1) - BLV TAP
+https://code.vthanhtivi.pw/bongda/socolive/147801.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 08:10-21/08: Atlas - Club America (MEX D1) - BLV DECO
+https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 08:10-21/08: Atlas - Club America (MEX D1) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg", 08:30-21/08: St. Louis City SC - Austin FC (USA MLS) - CHÂU TINH TRÌ
+https://code.vthanhtivi.pw/bongda/socolive/160430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 08:30-21/08: St. Louis City SC - Austin FC (USA MLS) - BLV QUICK
+https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 08:30-21/08: St. Louis City SC - Austin FC (USA MLS) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 08:30-21/08: Atletico Huila - Atletico Nacional (COL D1) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 08:30-21/08: Atletico Huila - Atletico Nacional (COL D1) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230820/d6e59e0d15e47d73dd1d9b0b532381e4.png", 08:30-21/08: Atletico Huila - Atletico Nacional (COL D1) - BLV EDWARD
+https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 09:30-21/08: Los Angeles FC - Colorado Rapids (USA MLS) - BLV ODIN
+https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg", 09:30-21/08: Los Angeles FC - Colorado Rapids (USA MLS) - BLV KAKA
+https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 09:30-21/08: Los Angeles FC - Colorado Rapids (USA MLS) - PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 09:30-21/08: Los Angeles FC - Colorado Rapids (USA MLS) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 09:30-21/08: Los Angeles FC - Colorado Rapids (USA MLS) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png", 09:30-21/08: Los Angeles FC - Colorado Rapids (USA MLS) - BLV SÓI
+https://code.vthanhtivi.pw/bongda/socolive/427562.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg", 09:30-21/08: Los Angeles Galaxy - Real Salt Lake (USA MLS) - BLV FANCY
+https://code.vthanhtivi.pw/bongda/socolive/252503.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg", 09:30-21/08: Los Angeles Galaxy - Real Salt Lake (USA MLS) - BLV CAPTAIN
+https://code.vthanhtivi.pw/bongda/socolive/231997.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 09:30-21/08: Los Angeles Galaxy - Real Salt Lake (USA MLS) - BLV ENZO
+https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg", 09:30-21/08: Los Angeles Galaxy - Real Salt Lake (USA MLS) - BLV DIHI
+https://code.vthanhtivi.pw/bongda/socolive/379975.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230801/b4d90df4fa0a9886f8d6db057a94b0b8.jpg", 09:30-21/08: Los Angeles Galaxy - Real Salt Lake (USA MLS) - BLV TÁO
+https://code.vthanhtivi.pw/bongda/socolive/479849.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230805/9ab8436169f78689b00af0fcbd6ce0e0.jpg", 09:30-21/08: Los Angeles Galaxy - Real Salt Lake (USA MLS) - BLV TED
+https://code.vthanhtivi.pw/bongda/socolive/259576.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/d71292c89faba3a4ffa851bd81aaff62.jpg", 09:30-21/08: Vancouver Whitecaps - San Jose Earthquakes (USA MLS) - BLV BACAR
+https://code.vthanhtivi.pw/bongda/socolive/379816.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg", 09:30-21/08: Vancouver Whitecaps - San Jose Earthquakes (USA MLS) - BLV Maximus
+https://code.vthanhtivi.pw/bongda/socolive/385085.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230811/fc81567e8d95242b58d5502c4d02095a.jpg", 09:30-21/08: Vancouver Whitecaps - San Jose Earthquakes (USA MLS) - BLV Phở Bò
+https://code.vthanhtivi.pw/bongda/socolive/279893.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 09:30-21/08: Vancouver Whitecaps - San Jose Earthquakes (USA MLS) - BLV RAM
+https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png", 10:00-21/08: Necaxa - Tigres UANL (MEX D1) - A PHẠCH
+https://code.vthanhtivi.pw/bongda/socolive/118582.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 10:00-21/08: Necaxa - Tigres UANL (MEX D1) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 10:00-21/08: Necaxa - Tigres UANL (MEX D1) - RICKHANTER
+https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230715/6800fb1de94dfb0398018cbb0d57953f.jpg", 10:00-21/08: Necaxa - Tigres UANL (MEX D1) - BLV VĂN TÍCH
+https://code.vthanhtivi.pw/bongda/socolive/112565.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 10:00-21/08: Necaxa - Tigres UANL (MEX D1) - TẠ BIÊN GIỚI
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 10:00-21/08: Necaxa - Tigres UANL (MEX D1) - BLV RIO
+https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 10:10-21/08: Tijuana (w) - Toluca (w) (MEX WD1) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 10:10-21/08: Tijuana (w) - Toluca (w) (MEX WD1) - BLV LOGAN
+https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg", 10:10-21/08: Tijuana (w) - Toluca (w) (MEX WD1) - BLV TONY
+https://code.vthanhtivi.pw/bongda/socolive/190631.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 10:10-21/08: Tijuana (w) - Toluca (w) (MEX WD1) - BLV  TYPN
+https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png", 14:00-21/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV SHOGUN
+https://code.vthanhtivi.pw/bongda/socolive/106737.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 14:00-21/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg", 14:00-21/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV LOGAN
+https://code.vthanhtivi.pw/bongda/socolive/421651.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png", 14:00-21/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - BLV ODIN
+https://code.vthanhtivi.pw/bongda/socolive/372601.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/73129bbc17c8d8af00f222127c307a91.jpg", 14:00-21/08: BÀN LUẬN BÓNG ĐÁ - BÀN LUẬN BÓNG ĐÁ (TALK SHOW) - G HIP
+https://code.vthanhtivi.pw/bongda/socolive/173024.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 16:00-21/08: RTC - Paro (BHU SL) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg", 16:00-21/08: RTC - Paro (BHU SL) - BLV A NÚI
+https://code.vthanhtivi.pw/bongda/socolive/105723.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png", 16:00-21/08: RTC - Paro (BHU SL) - LIAN
+https://code.vthanhtivi.pw/bongda/socolive/102933.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 16:30-21/08: Kerala Blasters FC - Indian Air Force (IND DC) - DƯƠNG QUÁ
+https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 16:30-21/08: Kerala Blasters FC - Indian Air Force (IND DC) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 16:30-21/08: Kerala Blasters FC - Indian Air Force (IND DC) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 16:30-21/08: Italy - New Zealand (WFI) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 16:30-21/08: Italy - New Zealand (WFI) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 16:30-21/08: Italy - New Zealand (WFI) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg", 17:00-21/08: Seongnam FC - Bucheon FC 1995 (KOR D2) - BLV FIREMAN
+https://code.vthanhtivi.pw/bongda/socolive/250874.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 17:00-21/08: Seongnam FC - Bucheon FC 1995 (KOR D2) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230820/d6e59e0d15e47d73dd1d9b0b532381e4.png", 17:00-21/08: Seongnam FC - Bucheon FC 1995 (KOR D2) - BLV EDWARD
+https://code.vthanhtivi.pw/bongda/socolive/368932.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg", 17:00-21/08: Seongnam FC - Bucheon FC 1995 (KOR D2) - BLV GEM
+https://code.vthanhtivi.pw/bongda/socolive/452823.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 17:00-21/08: Seongnam FC - Bucheon FC 1995 (KOR D2) - BLV QUICK
+https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/5efe18fce1da5e6cea71ba0c2a79411c.jpg", 17:00-21/08: Seongnam FC - Bucheon FC 1995 (KOR D2) - BLV TIGER
+https://code.vthanhtivi.pw/bongda/socolive/171964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/1923e70f6468f24ca728458f9555c6ed.jpg", 17:30-21/08: Gyeongnam FC - Cheonan City (KOR D2) - BLV SPIDER
+https://code.vthanhtivi.pw/bongda/socolive/280022.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 17:30-21/08: Gyeongnam FC - Cheonan City (KOR D2) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg", 17:30-21/08: Gyeongnam FC - Cheonan City (KOR D2) - BLV FANTA
+https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 17:30-21/08: Gyeongnam FC - Cheonan City (KOR D2) - KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230805/9ab8436169f78689b00af0fcbd6ce0e0.jpg", 17:30-21/08: Gyeongnam FC - Cheonan City (KOR D2) - BLV TED
+https://code.vthanhtivi.pw/bongda/socolive/259576.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230726/2c5e0591e103549c468da452ffc8ed54.jpg", 17:30-21/08: Gyeongnam FC - Cheonan City (KOR D2) - CÔNG LÝ
+https://code.vthanhtivi.pw/bongda/socolive/375503.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/4162f2a0c51e8f21404c98f85b8ab1a2.jpg", 18:30-21/08: Chonburi Shark FC - Khonkaen United (THA PR) - GẤU BẮC CỰC
+https://code.vthanhtivi.pw/bongda/socolive/263001.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230729/eec7d201f217e5ac8d306f00c9c0cab7.jpg", 18:30-21/08: Chonburi Shark FC - Khonkaen United (THA PR) - THẦY PHÁN
+https://code.vthanhtivi.pw/bongda/socolive/327261.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg", 18:30-21/08: Chonburi Shark FC - Khonkaen United (THA PR) - BLV MÁT GAI
+https://code.vthanhtivi.pw/bongda/socolive/273067.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230814/7bb137d72fce3d2413f5058a327334b8.jpg", 18:30-21/08: Chonburi Shark FC - Khonkaen United (THA PR) - BLV Đỗ Hiệp
+https://code.vthanhtivi.pw/bongda/socolive/339549.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 18:30-21/08: Chonburi Shark FC - Khonkaen United (THA PR) - CỦ CHUỐI
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg", 19:00-21/08: Serbia - Brazil (WFI) - BLV BEAN
+https://code.vthanhtivi.pw/bongda/socolive/166054.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg", 19:00-21/08: Serbia - Brazil (WFI) - BRIAN
+https://code.vthanhtivi.pw/bongda/socolive/122591.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg", 19:00-21/08: Serbia - Brazil (WFI) - BLV ALAN
+https://code.vthanhtivi.pw/bongda/socolive/422166.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg", 20:00-21/08: Thailand U23 - Cambodia U23 (AFF U23) - BLV DECO
+https://code.vthanhtivi.pw/bongda/socolive/168740.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166", 20:00-21/08: Thailand U23 - Cambodia U23 (AFF U23) - RICKHANTER
+https://code.vthanhtivi.pw/bongda/socolive/123226.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 20:00-21/08: Thailand U23 - Cambodia U23 (AFF U23) - BLV CÁ
+https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg", 20:00-21/08: Thailand U23 - Cambodia U23 (AFF U23) - BLV RIO
+https://code.vthanhtivi.pw/bongda/socolive/348199.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg", 20:00-21/08: Thailand U23 - Cambodia U23 (AFF U23) - TẠ BIÊN GIỚI
+https://code.vthanhtivi.pw/bongda/socolive/118206.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg", 20:00-21/08: Brunei Darussalam U23 - Myanmar U23 (AFF U23) - BLV HOPE
+https://code.vthanhtivi.pw/bongda/socolive/144861.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230809/c770468ea32f3db0a9a610bb77d6443e.png", 20:00-21/08: Brunei Darussalam U23 - Myanmar U23 (AFF U23) - BLV STING
+https://code.vthanhtivi.pw/bongda/socolive/242744.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png", 20:00-21/08: Brunei Darussalam U23 - Myanmar U23 (AFF U23) - BLV LONG
+https://code.vthanhtivi.pw/bongda/socolive/132343.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png", 20:00-21/08: Brunei Darussalam U23 - Myanmar U23 (AFF U23) - TAM MAO
+https://code.vthanhtivi.pw/bongda/socolive/113906.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg", 20:00-21/08: Brunei Darussalam U23 - Myanmar U23 (AFF U23) - BLV FANTA
+https://code.vthanhtivi.pw/bongda/socolive/135966.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg", 20:00-21/08: Brunei Darussalam U23 - Myanmar U23 (AFF U23) - KHÔNG NGỦ
+https://code.vthanhtivi.pw/bongda/socolive/158814.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg", 21:00-21/08: KAMAZ Naberezhnye Chelny - Arsenal Tula (RUS D2) - SUNNY
+https://code.vthanhtivi.pw/bongda/socolive/104707.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png", 21:00-21/08: KAMAZ Naberezhnye Chelny - Arsenal Tula (RUS D2) - BLV TOMIA
+https://code.vthanhtivi.pw/bongda/socolive/187579.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg", 21:00-21/08: KAMAZ Naberezhnye Chelny - Arsenal Tula (RUS D2) - BLV RAM
+https://code.vthanhtivi.pw/bongda/socolive/248798.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg", 21:00-21/08: FK Andijon - Olympic FK Tashkent (UZB PFL) - BLV HAKI
+https://code.vthanhtivi.pw/bongda/socolive/359236.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/4f54210625a67ef19ff3fc5dbd7d55db.jpg", 21:00-21/08: FK Andijon - Olympic FK Tashkent (UZB PFL) - LUCY
+https://code.vthanhtivi.pw/bongda/socolive/115447.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg", 21:00-21/08: FK Andijon - Olympic FK Tashkent (UZB PFL) - SÙNG A MÚP
+https://code.vthanhtivi.pw/bongda/socolive/122774.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg", 21:30-21/08: Valmieras FK - Tukums-2000 (LAT Cup) - BLV QUICK
+https://code.vthanhtivi.pw/bongda/socolive/313893.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png", 21:30-21/08: Valmieras FK - Tukums-2000 (LAT Cup) - PHI HÀNH
+https://code.vthanhtivi.pw/bongda/socolive/208390.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg", 21:30-21/08: Valmieras FK - Tukums-2000 (LAT Cup) - SAITAMA
+https://code.vthanhtivi.pw/bongda/socolive/141691.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg", 22:00-21/08: KTP Kotka - FC Haka (FIN D1) - BLV PEWPEW
+https://code.vthanhtivi.pw/bongda/socolive/109053.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg", 22:00-21/08: KTP Kotka - FC Haka (FIN D1) - BLV MÍM
+https://code.vthanhtivi.pw/bongda/socolive/132385.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg", 22:00-21/08: KTP Kotka - FC Haka (FIN D1) - BLV  TYPN
+https://code.vthanhtivi.pw/bongda/socolive/170430.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg", 22:00-21/08: KTP Kotka - FC Haka (FIN D1) - BLV CÁ
+https://code.vthanhtivi.pw/bongda/socolive/201313.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230712/9a751108e6cfe423ce54c409bc8337d6.jpg", 22:00-21/08: KTP Kotka - FC Haka (FIN D1) - BLV ENZO
+https://code.vthanhtivi.pw/bongda/socolive/380460.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg", 22:00-21/08: KTP Kotka - FC Haka (FIN D1) - BLV SINGER
+https://code.vthanhtivi.pw/bongda/socolive/139384.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg", 22:00-21/08: FK Tuzla City - Sarajevo (BOS PL) - BLV POPPY
+https://code.vthanhtivi.pw/bongda/socolive/197901.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg", 22:00-21/08: FK Tuzla City - Sarajevo (BOS PL) - BLV AK47
+https://code.vthanhtivi.pw/bongda/socolive/120778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg", 22:00-21/08: FK Tuzla City - Sarajevo (BOS PL) - BLV PUKA
+https://code.vthanhtivi.pw/bongda/socolive/420171.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230716/a5984b3ed4da99222f38dd8e562eecf3.jpg", 22:30-21/08: Sepsi OSK Sfantul Gheorghe - Hermannstadt (ROM D1) - BIGBA BALL
+https://code.vthanhtivi.pw/bongda/socolive/271964.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230817/6d7aeca117d0d8eaa4f27b7d73aac517.jpg", 22:30-21/08: Sepsi OSK Sfantul Gheorghe - Hermannstadt (ROM D1) - BLV KAKA
+https://code.vthanhtivi.pw/bongda/socolive/239521.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg", 22:30-21/08: Sepsi OSK Sfantul Gheorghe - Hermannstadt (ROM D1) - MĂNG CỤT
+https://code.vthanhtivi.pw/bongda/socolive/105131.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg", 22:30-21/08: NK Jarun - NK Orijent Rijeka (CRO D2) - BLV Củ Cải
+https://code.vthanhtivi.pw/bongda/socolive/360663.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230714/dc44fe90742b440875ead9494226ddbe.jpg", 22:30-21/08: NK Jarun - NK Orijent Rijeka (CRO D2) - BLV RID
+https://code.vthanhtivi.pw/bongda/socolive/434154.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg", 22:45-21/08: Flora Tallinn II - Tabasalu Charma (EST D2) - CỦ CHUỐI
+https://code.vthanhtivi.pw/bongda/socolive/192778.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230816/acd2f4a7734f0f7e117e12f92220d0fb.jpg", 22:45-21/08: Flora Tallinn II - Tabasalu Charma (EST D2) - BLV MARIO
+https://code.vthanhtivi.pw/bongda/socolive/239019.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg", 22:50-21/08: Al Taraji - AL-Rbeea Jeddah (KSA D1) - DƯƠNG QUÁ
+https://code.vthanhtivi.pw/bongda/socolive/161243.m3u8
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Socolive TV" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg", 22:50-21/08: Al Taraji - AL-Rbeea Jeddah (KSA D1) - BLV ROMEO
+https://code.vthanhtivi.pw/bongda/socolive/499490.m3u8
