@@ -18,69 +18,172 @@ http://103.172.78.65:8081/vmt/vtvcantho
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 http://103.172.78.65:8081/vmt/vtv5tnb
 
-#-*-- K+ Full HD Khoa Tivi -*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD Kplus 50FPS
+#-*-- K+ Khoa Tivi - Nguồn My K+ -*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"3HYtU9JEclFbpMdrYgNz7g","kid":"1WNL0ze+IcQeWq1p8Stsfw"},{"kty":"oct","k":"mcTf7/w/p/YckQCO113pQQ","kid":"HadL0ze+IcQeWq1p8Stsfw"},{"kty":"oct","k":"f7/mPde0aVW0BwOMIULHOQ","kid":"KquPBDe+IcQeWq1p8Stsfw"},{"kty":"oct","k":"kCXoNLGVaqkQD/0Ay4XLQQ","kid":"FriPHIa+IcQeWq1p8Stsfw"}],"type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
-#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD MyTV 25FPS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3M85idW2iMmm6QaiyRoFTQ", "kid":"yOIdrLfvTfKmmDFE9fT0pg" } ], "type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life FHD Kplus 50FPS
+#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life FHD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"knz0dsFgPzczTodGv3TDcQ","kid":"FT3jdAl2ILncoaOiLbFVQA"},{"kty":"oct","k":"7NUHn5wlw/jMQpXxsOlAyQ","kid":"XYHjdAl2ILncoaOiLbFVQA"},{"kty":"oct","k":"msM/bjL1yox7NYiHTIMGeA","kid":"aoUnpQl2ILncoaOiLbFVQA"},{"kty":"oct","k":"whtqTE/CSffPFev1xfSQEw","kid":"VpInvVh2ILncoaOiLbFVQA"}],"type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_lifehd/default/index.mpd
-#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life HD MyTV 25FPS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"temporary"}
-https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD Kplus 50FPS
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"CCLwU9MtsUZZtOaVh24sgw", "kid":"1OZjAah0nv9Y2pmrgAQEmg" },{ "kty":"oct", "k":"eqAzVhpVPooMgvFLsWu8kw", "kid":"HCpjAah0nv9Y2pmrgAQEmg" },{ "kty":"oct", "k":"HK+e6SlBTTZRrDTyq5FErg", "kid":"KS6nMqh0nv9Y2pmrgAQEmg" },{ "kty":"oct", "k":"T6eVHzfGgn7f1hPxBH0Kbw", "kid":"FTunSvd0nv9Y2pmrgAQEmg" } ], "type":"temporary" }
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport1hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD MyTV 50FPS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6CEk8lWhVYihXg/7vaPzkg", "kid":"CD9mntDJQ8uwsEcjHw3QbQ" } ], "type":"temporary" }
-https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD Kplus 50FPS
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD  50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2YXpHKjn4Pk7THpkX5fpvw","kid":"qZ9zvBQ9VjSv+lyu0zLj8Q"},{"kty":"oct","k":"92pXkxQezg0SthdDpdxCPg","kid":"8eNzvBQ9VjSv+lyu0zLj8Q"},{"kty":"oct","k":"Klkzpxt5blHqkUTyIKG3vA","kid":"/ue37RQ9VjSv+lyu0zLj8Q"},{"kty":"oct","k":"O4O+X+EK8O/Wz+n6eo7iJg","kid":"6vS3BWM9VjSv+lyu0zLj8Q"}],"type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_sport2hd/default/index.mpd
-#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD MyTV 50FPS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Cvpd3tVUqYOGXn/XJHSSuw", "kid":"G3emj1FbSVmNXrWkDOEyiA" } ], "type":"temporary" }
-https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Full HD Khoa Tivi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD Kplus 25FPS
+#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZUxqhPLuwSj9QaKDthzVzg","kid":"XKvwAdnld9d+wpp76pDfyA"},{"kty":"oct","k":"DdZIo3t6qpmenEaezbUzTA","kid":"pO/wAdnld9d+wpp76pDfyA"},{"kty":"oct","k":"1c7aqIzFwPuhXzLYX05ijA","kid":"sfM0Mtnld9d+wpp76pDfyA"},{"kty":"oct","k":"xQ1gvm52zxkqr6pSBDEDAw","kid":"nQA0Sijld9d+wpp76pDfyA"}],"type":"temporary"}
 https://sglivevega.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dmp6prmr4QliOzzggkupjQ","kid":"lyUbdnxAQ3GgzwzyX//fNg"}],"type":"temporary"}
+https://sglivevega.kplus.vn/bpk-tv/prod_klive1/default/index.mpd
+
+#EXTINF:-1 tvg-id="klive2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+Live2 HD 25FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dDne6KZ62B+Zto18e/p50g","kid":"QXSdPAX5TOyqmN8rMVrTCQ"}],"type":"temporary"}
+https://sglive.akamaized.net/bpk-tv/prod_klive2/default/index.mpd
+
+#EXTINF:-1 tvg-id="klive3hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+Live3 HD 25FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jhwqqk/xL0jngyEDMeCguQ","kid":"jcHanGFdRuGVteyGkVB4hw"}],"type":"temporary"}
+https://sglive.akamaized.net/bpk-tv/prod_klive3/default/index.mpd
+
+#-*-- K+ Khoa Tivi - Nguồn My TV -*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD MyTV 25FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"3M85idW2iMmm6QaiyRoFTQ", "kid":"yOIdrLfvTfKmmDFE9fT0pg" } ], "type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life HD MyTV 25FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"L8MZNN3NcAV7pp2rgXMHFg", "kid":"7hE1s+02Q8GCCNOUxBHcFw" } ], "type":"temporary"}
+https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD MyTV 50FPS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6CEk8lWhVYihXg/7vaPzkg", "kid":"CD9mntDJQ8uwsEcjHw3QbQ" } ], "type":"temporary" }
+https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD MyTV 50FPS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Cvpd3tVUqYOGXn/XJHSSuw", "kid":"G3emj1FbSVmNXrWkDOEyiA" } ], "type":"temporary" }
+https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
+
+#-*-- Premier League -*--#
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
+http://uhd.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
+http://stream2.cvmtv.site:8080/StarSL1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
+http://stream2.cvmtv.site:8080/StarSL2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
+http://stream2.cvmtv.site:8080/DigiS1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2
+http://stream2.cvmtv.site:8080/DigiS2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
+http://stream2.cvmtv.site:8080/Setanta?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
+http://stream.cvmtv.site:8000/USA?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
+#http://stream.cvmtv.site:8000/PRS1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="prima2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
+#http://stream.cvmtv.site:8000/PRS2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="prima3" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 3
+#http://stream.cvmtv.site:8000/PRS3?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="prima1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
+#http://stream.cvmtv.site:8000/ORS4?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
+http://stream2.cvmtv.site:8080/ZiggoS?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
+http://stream2.cvmtv.site:8080/ZiggoV?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
+http://stream2.cvmtv.site:8080/ZiggoG?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
+http://stream2.cvmtv.site:8080/canal1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="canalsp2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_66249.png",Canal+ Sport 2
+http://stream2.cvmtv.site:8080/canal2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="canalsp5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png",Canal+ Sport 5
+http://stream2.cvmtv.site:8080/canal5?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="canalpre" tvg-logo="https://r.dcs.redcdn.pl/http/o2/n/edytorEPG/logo/logotype_815958.png",Canal+ Premium
+http://stream2.cvmtv.site:8080/canalpre?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="eleven1" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391293.png",Eleven Sports 1
+http://stream2.cvmtv.site:8080/E1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="eleven2" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391296.png",Eleven Sports 2
+http://stream2.cvmtv.site:8080/E2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="eleven3" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391299.png",Eleven Sports 3
+http://stream2.cvmtv.site:8080/E3?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="eleven4" tvg-logo="https://r.dcs.redcdn.pl/https/o2/n/edytorEPG/logo/logotype_391302.png",Eleven Sports 4
+http://stream2.cvmtv.site:8080/E4?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="match" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/130.jpg",Match TV
+http://stream2.cvmtv.site:8080/Match?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="mf1" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/8.jpg",Match Futbol 1
+http://stream2.cvmtv.site:8080/MF1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="mf2" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/14.jpg",Match Futbol 2
+http://stream2.cvmtv.site:8080/MF2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
+http://stream2.cvmtv.site:8080/MF3?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="es1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://stream2.cvmtv.site:8080/ES1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="es2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://stream2.cvmtv.site:8080/ES2?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
+http://stream2.cvmtv.site:8080/Polsat?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
+http://stream2.cvmtv.site:8080/PolsatE?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
+http://stream2.cvmtv.site:8080/PolsatN?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
+http://stream2.cvmtv.site:8080/TVPS?token=live
 
 #-*-- Livestream bóng đá Vebo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://static.vebotv.app/leagues/aff.png", 16:00-24/08: Malaysia U23 vs Vietnam U23 - U23 Đông Nam Á (Người Thỏ)
