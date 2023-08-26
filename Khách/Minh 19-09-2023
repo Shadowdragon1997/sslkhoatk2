@@ -110,12 +110,12 @@ https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #-*-- Premier League -*--#
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",EPL LIVE 4K
-http://uhd.cvmtv.site/event?token=live
+http://stream.cvmtv.site/event?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
 
-#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
 http://stream.cvmtv.site/StarSL1?token=live
-#EXTINF:-1 group-title="STAR SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
 http://stream.cvmtv.site/StarSL2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
 http://stream.cvmtv.site/DigiS1?token=live
@@ -129,21 +129,21 @@ http://stream.cvmtv.site/Setanta?token=live
 http://stream.cvmtv.site/USA?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
 
-#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 1
-http://stream.cvmtv.site/ORS1?token=live
-#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 2
-http://stream.cvmtv.site/ORS2?token=live
-#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 3
-http://stream.cvmtv.site/ORS3?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
+http://stream.cvmtv.site/PRS1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
+http://stream.cvmtv.site/PRS2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange3.png",Orange Sport 3
+#http://stream.cvmtv.site/ORS3?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
-http://stream.cvmtv.site/ORS4?token=live
+#http://stream.cvmtv.site/ORS4?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
-http://stream.cvmtv.site/ZiggoS?token=live
+#http://stream.cvmtv.site/ZiggoS?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport Voetbal
-http://stream.cvmtv.site/ZiggoV?token=live
+#http://stream.cvmtv.site/ZiggoV?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport Golf
-http://stream.cvmtv.site/ZiggoG?token=live
+#http://stream.cvmtv.site/ZiggoG?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
