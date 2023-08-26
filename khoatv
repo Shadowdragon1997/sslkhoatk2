@@ -614,7 +614,7 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://xem.kplus.vn/
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zvsUxYJ3uTiz4+DS8GrwKw","kid":"wDGnjyc12amO+J7fKdzG6w"},{"kty":"oct","k":"FK2zZ4Ff4HcgEaUowMM5mA","kid":"CHWnjyc12amO+J7fKdzG6w"},{"kty":"oct","k":"Ko70stT+ChVl6HcJBsPDug","kid":"FXnrwCc12amO+J7fKdzG6w"},{"kty":"oct","k":"sgMSfAO6pHfylDGcDdOjjQ","kid":"AYbr2HY12amO+J7fKdzG6w"}],"type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_kplus_kidshd/default/index.mpd
+https://akaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
 
 #EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life FHD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
