@@ -99,7 +99,7 @@ https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={{ "keys":[ { "kty":"oct", "k":"IR2Q9nojsILjby6QURyDZQ", "kid":"at8mmSpKQ26LGeBwVghnIQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IR2Q9nojsILjby6QURyDZQ", "kid":"at8mmSpKQ26LGeBwVghnIQ" } ], "type":"temporary" }
 https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD MyTV 50FPS
@@ -125,6 +125,8 @@ http://stream.cvmtv.site/DigiS2?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
 http://stream.cvmtv.site/Setanta?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
+http://stream.cvmtv.site/NovaSp?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
 http://stream.cvmtv.site/USA?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
@@ -192,6 +194,11 @@ http://stream.cvmtv.site/PolsatE?token=live
 http://stream.cvmtv.site/PolsatN?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://www.spotv.net/images/calendar_spotvgolf&health.png",SPOTV Golf&Health
+http://stream.cvmtv.site/SpoGolf?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Jtbcgolf_logo.png",JTBC Golf
+http://stream.cvmtv.site/JTBCG?token=live
 
 #-*-- Livestream bóng đá Vebo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://img.thesports.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png", 11:00-26/08: Sydney United vs Brisbane Roar - Australia FFA Cup (Người Nện)
