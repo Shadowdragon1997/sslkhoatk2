@@ -682,13 +682,13 @@ https://s2129132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KVYMqFCpCJIYb9yQmKK72Q", "kid":"iUnM+ZuuRkmQoXRpY4GWAA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={{ "keys":[ { "kty":"oct", "k":"IR2Q9nojsILjby6QURyDZQ", "kid":"at8mmSpKQ26LGeBwVghnIQ" } ], "type":"temporary" }
 https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD MyTV 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"93YWHnO9klymLhjv2P+IfQ", "kid":"28PntNqfQnav0Al83BP39A" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hnmUbqGskja3cRuZ30ySIg", "kid":"MX/6bFN+QPyDq03CTBjFGQ" } ], "type":"temporary" }
 https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #-*-- K+ Die -*--#
