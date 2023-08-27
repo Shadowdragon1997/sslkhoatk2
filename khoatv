@@ -3506,6 +3506,8 @@ http://stream.cvmtv.site/DigiS2?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
 http://stream.cvmtv.site/Setanta?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
+http://stream.cvmtv.site/NovaSp?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
 http://stream.cvmtv.site/USA?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
@@ -3573,6 +3575,11 @@ http://stream.cvmtv.site/PolsatE?token=live
 http://stream.cvmtv.site/PolsatN?token=live
 #EXTINF:-1 group-title="⚽️| Premier League" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://www.spotv.net/images/calendar_spotvgolf&health.png",SPOTV Golf&Health
+http://stream.cvmtv.site/SpoGolf?token=live
+#EXTINF:-1 group-title="⚽️| Premier League" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Jtbcgolf_logo.png",JTBC Golf
+http://stream.cvmtv.site/JTBCG?token=live
 
 #-*-- Livestream bóng đá Vebo TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Vebo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png", 17:00-27/08: Công An Hà Nội vs Thanh Hóa - V League (Phở Bò)
