@@ -1031,11 +1031,11 @@ https://code.vthanhtivi.pw/getlink/tv360/95/2.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Server 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://akaviettel.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd
+https://sglivevega.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbofamilyhd-asia" group-title="🎞| HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbofamilyhd-asia.png", HBO Family HD
 http://vn1.vietanhtv.pw:8080/hbofamily
 #EXTINF:-1 tvg-id="hbohitshd-asia" group-title="🎞| HBO" tvg-logo="https://img.vnmedia.xyz/logo/hbohitshd-asia.png", HBO Hits HD
@@ -1048,11 +1048,11 @@ http://flylogi.top:8080/live/821675861805563068/2501675861805563/18425.ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hbo-livecdn.fptplay.net/live_dzones/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Server 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://akaviettel.kplus.vn/msky-live/live_kplus/max.smil/manifest.mpd
+https://sglivevega.kplus.vn/msky-live/live_kplus/max.smil/manifest.mpd
 
 #-*-- In The Box -*--#
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
@@ -1145,10 +1145,11 @@ https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
 http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD Server 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N1muavQiisPtPMoXFiIGhw", "kid":"cTl0GBP/MtyXw6R8ZcP39w" } ], "type":"temporary" }
-https://akaviettel.kplus.vn/msky-live/live_kplus/boomerang.smil/manifest.mpd
+https://sglivevega.kplus.vn/msky-live//live_kplus/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
