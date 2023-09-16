@@ -453,11 +453,13 @@ https://live1onsport.vtvcab.vn/secure=7USmu7MBLJw0mGLlo4v7aQ/ondrm/ONVOLLEYBALL/
 
 #-*-- VTC -*--#
 #EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/32.png", VTC1 HD
-https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-ali2.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/33.png", VTC2
 https://code.vthanhtivi.pw/getlink/tv360/196/0.m3u8
 #EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/34.png", VTC3 HD
-https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://live-ali2.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/35.png", VTC4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtc4-yeah1-family-hd/playlist.m3u8
@@ -475,7 +477,7 @@ https://code.vthanhtivi.pw/getlink/tv360/202/0.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtc9-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/41.png", VTC10 HD
-https://code.vthanhtivi.pw/getlink/mytv/4ed6984d9fce589d900ff55116d35670/1692874726/29/hd.m3u8
+https://1117141481.vnns.net/VTC10/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/42.png", VTC11
 https://code.vthanhtivi.pw/getlink/tv360/205/0.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" tvg-logo="https://cdn.hqth.me/logo/thumbs/43.png", VTC12 - VTC K
@@ -1060,41 +1062,41 @@ https://livecdn.khanggtivi.xyz/getlink/SCTV/playlist.m3u8?id=boxmovie1
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 Clip TV
-https://fbvip88.com/cliptvmobile/test.php?id=box-movie-1-hd
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1 TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=hollywood-classics-hd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ta0iXGDnieSJ2++GWyKcWg", "kid":"pU69fNqPQwewP84k8NkQgg" } ], "type":"temporary"}
+http://code.vthanhtivi.pw/getlink/tv360_2/159/manifest.mpd
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"K6RZlhVk167j7wwYYLSCTw", "kid":"dJli/Sv3Tw6F8qQbiUmOeg" } ], "type":"temporary" }
+http://code.vthanhtivi.pw/getlink/tv360_2/160/manifest.mpd
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=in-the-box-channel
 #EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png", In The Box TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/inthebox.php
 https://livecdn.khanggtivi.xyz/manifest/IntheBox_HD/master.mpd
-#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png", Box Hits
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=box-hits
 #EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="http://img-zlr1.tv360.vn/image1/2021/08/03/16/162798381013/7c87afd34573.png", Box Hits TV360
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tiemnhazunn.click/key/keyy/boxhits.php
-https://livecdn.khanggtivi.xyz/manifest/BoxHits_HD/master.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"nAE+KFupNZbPoxkWx3R8rQ", "kid":"R7impFmOQX2Cw0KxtH97FA" } ], "type":"temporary" }
+http://code.vthanhtivi.pw/getlink/tv360_2/239/manifest.mpd
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.khanggtivi.xyz/getlink/tv360/2.m3u8?id=237
 #EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/191.png", Man
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=man
+https://code.vthanhtivi.pw/getlink/tv360/237/2.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=drfit-hd
+https://code.vthanhtivi.pw/getlink/tv360/162/2.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/192.png", Dr.Fit SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
@@ -1103,14 +1105,16 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.khanggtivi.xyz/getlink/tv360/2.m3u8?id=212
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=happy-kids-hd
+https://code.vthanhtivi.pw/getlink/tv360/212/2.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/193.png", Happy Kids SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box TV360
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=music-box
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UsPd06MxARmORjCiX/GVSA", "kid":"8qYnAomZTwOTbGt9sb+m9Q" } ], "type":"temporary" }
+http://code.vthanhtivi.pw/getlink/tv360_2/289/manifest.mpd
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/257.png", Music Box SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
@@ -1119,8 +1123,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livecdn.khanggtivi.xyz/getlink/tv360/2.m3u8?id=135
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=planet-earth-hd
+https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
@@ -1128,8 +1131,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://livecdn.khanggtivi.xyz/getlink/tv360/2.m3u8?id=163
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fbvip88.com/cliptvmobile/test.php?id=woman-hd
+https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/195.png", Woman SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
@@ -1138,12 +1140,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌈| Hoạt hình" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus
 http://live.vthanhtivi.pw/aniplus
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-http://live-vnp.vthanhtivi.pw:18001/ANIMAX_HD/index.m3u8
+http://vthanhtivi.pw:5000/animax/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD
-http://live-vnp.vthanhtivi.pw:18001/BOOMERANG_HD/index.m3u8
+http://vthanhtivi.pw:5000/boomerang/index.m3u8
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD Server 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1154,7 +1156,7 @@ https://sglivevega.kplus.vn/msky-live//live_kplus/boomerang.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
-http://live-vnp.vthanhtivi.pw:18001/CARTOON_NETWORK_HD/index.m3u8
+http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD Server 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1192,7 +1194,7 @@ https://code.vthanhtivi.pw/getlink/fptplay/da-vinci-learning/chunklist_b5000000.
 
 #-*-- BBC -*--#
 #EXTINF:-1 tvg-id="bbcearth" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth
-http://live-vnp.vthanhtivi.pw:18001/BBC_EARTH_HD/index.m3u8
+http://vthanhtivi.pw:5000/bbcearth/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🚽| BBC" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png", BBC Earth Server 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1261,7 +1263,7 @@ https://code.vthanhtivi.pw/getlink/tv360/215/2.m3u8
 
 #-*-- Khám phá -*--#
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
-http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
+http://vthanhtivi.pw:5000/animal/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet Server 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1269,7 +1271,7 @@ http://live-vnp.vthanhtivi.pw:18001/ANIMAL_PLANET_HD/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" },{ "kty":"oct", } ], "type":"temporary" }
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery
-http://live-vnp.vthanhtivi.pw:18001/DISCOVERY_HD/index.m3u8
+http://vthanhtivi.pw:5000/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png", Discovery Server 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1294,7 +1296,7 @@ http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/14880
 #EXTINF:-1 tvg-id="DiscoveryFamily.us" group-title="🌿| Khám phá" tvg-logo="http://p2086.securepoint.io:2086/images/93e75712a34dd337ec1712d6836ea766.png", Discovery Family
 http://mains.vip:2086/Jhbxcgoisnm/56756756765722222/14879
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
-http://live-vnp.vthanhtivi.pw:18001/HISTORY_HD/index.m3u8
+http://vthanhtivi.pw:5000/history/index.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD Server 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1313,7 +1315,7 @@ https://code.vthanhtivi.pw/getlink/tv360/216/2.m3u8
 
 #-*-- Giải trí -*--#
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
-http://live-vnp.vthanhtivi.pw:18001/AXN_HD/index.m3u8
+http://vthanhtivi.pw:5000/axn/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD Server 2
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2148,13 +2150,21 @@ https://ddy1.onlinewebtv.lol/ddy1/premium343/playlist.m3u8
 #EXTINF:-1 tvg-id="BarcaTV.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/E2VDORP.png", ES: Barca TV FHD
 
 #EXTINF:-1 tvg-id="DAZN1Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/9A63D4g.png", ES: Dazn 1 FHD
-http://113.178.29.105:8889/tipx.php?id=24047
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=445
 #EXTINF:-1 tvg-id="DAZN2Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/BevbzGm.png", ES: Dazn 2 FHD
-http://113.178.29.105:8889/tipx.php?id=24048
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=446
 #EXTINF:-1 tvg-id="DAZN3Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/w3z54t6.png", ES: Dazn 3 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=447
 #EXTINF:-1 tvg-id="DAZN4Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="https://i.imgur.com/t0R8mOg.png", ES: Dazn 4 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=448
 #EXTINF:-1 tvg-id="DAZNLaliga1Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Dazn LaLiga 1 FHD
 http://113.178.29.105:8889/tipx.php?id=44209
 #EXTINF:-1 tvg-id="DAZNLaliga2Spain.es" group-title="🇪🇸| Sports Spain" tvg-logo="", ES: Dazn Laliga 2 FHD
@@ -2216,11 +2226,33 @@ http://sonic-eg.com:80/12355/12355/131281
 
 #-*-- Sports Central Europe -*--#
 #EXTINF:-1 tvg-ID="DiemaSport.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/mVTmLXm.png", BG: Diema Sport FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=465
 #EXTINF:-1 tvg-ID="DiemaSport2.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/4Cscok5.png", BG: Diema Sport 2 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=466
 #EXTINF:-1 tvg-ID="DiemaSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DiemaSport3logo.png/512px-DiemaSport3logo.png", BG: Diema Sport 3 HD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=467
+#EXTINF:-1 tvg-ID="MaxSport1.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/DfIXT1b.png", BG: Max Sport 1 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=472
+#EXTINF:-1 tvg-ID="MaxSport2.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/kq8lFb7.png", BG: Max Sport 2 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=473
+#EXTINF:-1 tvg-ID="MaxSport3.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/4Zj7AHr.png", BG: Max Sport 3 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=474
+#EXTINF:-1 tvg-ID="MaxSport4.bg" group-title="🇧🇬| Sports Central Europe" tvg-logo="https://i.imgur.com/AplbRGY.png", BG: Max Sport 4 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=475
 
 #-*-- Sports French -*--#
 #EXTINF:-1 tvg-ID="Eurosport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/z3fQ87X.png", FR: Eurosport 1 HD
@@ -2230,15 +2262,25 @@ http://sonic-eg.com:80/12355/12355/131281
 #EXTINF:-1 tvg-ID="CanalPlusSportFrance.fr" group-title="🇫🇷| Sports French" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe02a6b1f2195c7e9.2Epng/80x80/quality/80/canalplus-sport.png", FR: Canal+ Sport FHD
 
 #EXTINF:-1 tvg-ID="CanalPlusSport1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Sport 1 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=486
 #EXTINF:-1 tvg-ID="CanalPlusSport2.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Sport 2 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=487
 #EXTINF:-1 tvg-ID="CanalPlusSport3.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Sport 3 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=488
 #EXTINF:-1 tvg-ID="CanalPlusSport4.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Sport 4 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=489
 #EXTINF:-1 tvg-ID="CanalPlusSport5.fr" group-title="🇫🇷| Sports French" tvg-logo="https://service.canal-overseas.com/image-api/v1/image/0196a023576a7e11cb863b3b1d2d0f4d", FR: Canal+ Sport 5 FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=490
 #EXTINF:-1 tvg-ID="CanalPlusFormula1.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/wVCBBYM.png", FR: Canal+ Formula 1 FHD
 
 #EXTINF:-1 tvg-ID="CanalPlusPremierLeague.fr" group-title="🇫🇷| Sports French" tvg-logo="https://i.imgur.com/aKFlhRO.png", FR: Canal+ Premier League FHD
@@ -2623,33 +2665,21 @@ http://113.178.29.105:8889/wisd.php?id=45188
 
 #-*-- Sports Astro Malaysia -*--#
 #EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=123
-https://webudit.cdnhks.lol/lb/premium123/index.m3u8
-#EXTINF:-1 tvg-ID="AstroSuperSport.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png", MY: Astro Supersport 1 FHD Server 2
-http://113.178.29.105:8889/prostv.php?id=190645
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=123
 #EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=124
-https://webudit.cdnhks.lol/lb/premium124/index.m3u8
-#EXTINF:-1 tvg-ID="AstroSuperSport2.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/q5PF6im.png", MY: Astro Supersport 2 FHD Server 2
-http://113.178.29.105:8889/prostv.php?id=190644
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=124
 #EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=125
-https://webudit.cdnhks.lol/lb/premium125/index.m3u8
-#EXTINF:-1 tvg-ID="AstroSuperSport3.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/mm8mc0t.png", MY: Astro Supersport 3 FHD Server 2
-http://113.178.29.105:8889/prostv.php?id=190643
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=125
 #EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=126
-https://webudit.cdnhks.lol/lb/premium126/index.m3u8
-#EXTINF:-1 tvg-ID="AstroSuperSport4.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 4 FHD Server 2
-http://113.178.29.105:8889/prostv.php?id=190642
-#EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
-https://webudit.cdnhks.lol/lb/premium43/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=126
 #EXTINF:-1 tvg-ID="AstroSuperSport5.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/Xfy4DTn.png", MY: Astro Supersport 5 FHD Server 2
 
 #EXTINF:-1 tvg-ID="AstroArena.my" group-title="🇲🇾| Sports Astro Malaysia" tvg-logo="https://i.imgur.com/IPK9f6h.png", MY Astro: Arena FHD
@@ -2661,11 +2691,9 @@ https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 
 #-*-- Sports South Africa -*--#
 #EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=417
-https://webudit.cdnhks.lol/lb/premium417/index.m3u8
-#EXTINF:-1 tvg-ID="SuperSportPremierLeague.za" group-title="🇿🇦 | Sports Africa" group-title="🇿🇦 | Sports Africa"="AF: SuperSport Premier League FHD" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PremiereLeague_4-3_005_xlrg.png", AF: SuperSport Premier League FHD Server 2
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=414
 #EXTINF:-1 tvg-ID="SuperSportAction.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Action_4-3_001_xlrg.png", AF: SuperSport Action FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=420
@@ -2673,21 +2701,23 @@ https://webudit.cdnhks.lol/lb/premium420/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportBlitz.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/kwQzFEF.png", AF: Supersport Blitz FHD
 
 #EXTINF:-1 tvg-ID="SuperSportFootball.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Football_4-3_005_xlrg.png", AF: Supersport Football FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=56
-https://webudit.cdnhks.lol/lb/premium56/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=56
 #EXTINF:-1 tvg-ID="SuperSportFootballPlus.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_FootballPlus_4-3_004_xlrg.png", AF: SuperSport Football Plus FHD
 
 #EXTINF:-1 tvg-ID="SuperSportGrandstand.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Grandstand_4-3_001_xlrg.png", AF: SuperSport Grandstand FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=412
-https://webudit.cdnhks.lol/lb/premium412/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=412
 #EXTINF:-1 tvg-ID="SuperSportLaLiga.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_LaLiga_4-3_005_xlrg.png", AF: SuperSport La Liga FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=415
 #EXTINF:-1 tvg-ID="SuperSportMaximo.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Maximo1_4-3_001_xlrg.png", AF: SuperSport Maximo FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=572
-https://webudit.cdnhks.lol/lb/premium572/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=572
 #EXTINF:-1 tvg-ID="SuperSportPSL.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_PSL_4-3_002_xlrg.png", AF: SuperSport PSL FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=413
@@ -2699,13 +2729,13 @@ https://webudit.cdnhks.lol/lb/premium413/index.m3u8
 #EXTINF:-1 tvg-ID="" group-title="🇿🇦 | Sports Africa" tvg-logo="", AF: Supersport Events FHD
 
 #EXTINF:-1 tvg-ID="SuperSportGolf.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Golf_4-3_xlrg.png", AF: SuperSport Golf FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=422
-https://webudit.cdnhks.lol/lb/premium422/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=422
 #EXTINF:-1 tvg-ID="SuperSportMotorsport.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Motorsport_4-3_001_xlrg.png", AF: SuperSport Motorsport FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=424
-https://webudit.cdnhks.lol/lb/premium424/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=424
 #EXTINF:-1 tvg-ID="SuperSportCricket.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Cricket_4-3_001_xlrg.png", AF: SuperSport Circket FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=368
@@ -2715,23 +2745,25 @@ https://ddy1.onlinewebtv.lol/ddy1/premium368/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=416
 https://webudit.cdnhks.lol/lb/premium416/index.m3u8
 #EXTINF:-1 tvg-ID="SuperSportTennis.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2020/09/01/SS_Logo_Tennis_4-3_xlrg.png", AF: SuperSport Tennis FHD
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=423
 #EXTINF:-1 tvg-ID="SuperSportVariety1.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety1_4-3_005_xlrg.png", AF: SuperSport Variety 1 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=416
-https://webudit.cdnhks.lol/lb/premium416/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=416
 #EXTINF:-1 tvg-ID="SuperSportVariety2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety2_4-3_005_xlrg.png", AF: SuperSport Variety 2 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=417
-https://webudit.cdnhks.lol/lb/premium417/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=417
 #EXTINF:-1 tvg-ID="SuperSportVariety3.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://rndcdn.dstv.com/dstvcms/2021/08/09/SS_Logo_Variety3_4-3_007_xlrg.png", AF: Supersport Variety 3 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=418
-https://webudit.cdnhks.lol/lb/premium418/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=418
 #EXTINF:-1 tvg-ID="SuperSportVariety4.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport Variety 4 FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=419
-https://webudit.cdnhks.lol/lb/premium419/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=419
 #EXTINF:-1 tvg-ID="SuperSportESPN.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN FHD
 
 #EXTINF:-1 tvg-ID="SuperSportESPN2.za" group-title="🇿🇦 | Sports Africa" tvg-logo="https://i.imgur.com/wroMZkn.png", AF: Supersport ESPN 2 FHD
@@ -2766,76 +2798,26 @@ http://113.178.29.105:8889/prostv.php?id=96350
 http://113.178.29.105:8889/pluseu.php?id=281657
 #EXTINF:-1 tvg-id="SportTVPlus.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/gCTAxBl.png", PT: Sport TV + FHD Server 5
 http://113.178.29.105:8889/pluseu.php?id=281658
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61534.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 2
-http://113.178.29.105:8889/tipx.php?id=43354
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 3
-http://113.178.29.105:8889/prostv.php?id=96354
-#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=96356
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 5
-http://113.178.29.105:8889/pluseu.php?id=281660
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 6
-http://113.178.29.105:8889/pluseu.php?id=281661
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 7
-http://113.178.29.105:8889/tipx.php?id=43353
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 8
-http://113.178.29.105:8889/tipx.php?id=49
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 9
-http://113.178.29.105:8889/tipx.php?id=16051
-#EXTINF:-1 tvg-ID="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5f/Sport.TV1.png", PT: Sport TV 1 FHD Server 10
-http://113.178.29.105:8889/tipx.php?id=24307
+#EXTINF:-1 tvg-id="SportTV1.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/HrZbL1l.png", PT: Sport TV 1 FHD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=49
 #EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61535.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png",PT: Sport TV 2 FHD Server 2
-http://113.178.29.105:8889/tipx.php?id=54
-#EXTINF:-1 tvg-id="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/vlHIPhm.png", PT: Sport TV 2 FHD Server 3
-http://113.178.29.105:8889/prostv.php?id=96360
-#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 4
-http://113.178.29.105:8889/pluseu.php?id=281662
-#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 5
-http://113.178.29.105:8889/pluseu.php?id=281663
-#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=54
-#EXTINF:-1 tvg-ID="SportTV2.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Sport.TV2.png", PT: Sport TV 2 FHD Server 7
-http://113.178.29.105:8889/tipx.php?id=56
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=74
 #EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61536.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV.png", PT: Sport TV 3 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281665
-#EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 3
-http://113.178.29.105:8889/prostv.php?id=96363
-#EXTINF:-1 tvg-id="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/ff6jT2Q.png", PT: Sport TV 3 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=96364
-#EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 5
-http://113.178.29.105:8889/pluseu.php?id=281666
-#EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=57
-#EXTINF:-1 tvg-ID="SportTV3.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2e/Sport.TV3.png", PT: Sport TV 3 FHD Server 7
-http://113.178.29.105:8889/tipx.php?id=59
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=454
 #EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTS4.png",PT: Sport TV 4 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61538.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTS4.png",PT: Sport TV 4 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281668
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 3
-http://113.178.29.105:8889/prostv.php?id=96367
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=96368
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 5
-http://113.178.29.105:8889/tipx.php?id=60
-#EXTINF:-1 tvg-id="SportTV4.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/znSJhFV.png", PT: Sport TV 4 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=62
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=289
 #EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV5.png",PT: Sport TV 5 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61539.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="http://logo.panel.cx/logo/EUROPE/PORTUGAL/SPORTTV5.png",PT: Sport TV 5 FHD Server 2
-http://113.178.29.105:8889/tipx.php?id=63
-#EXTINF:-1 tvg-id="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/cir6Ej7.png", PT: Sport TV 5 FHD Server 3
-http://113.178.29.105:8889/prostv.php?id=96372
-#EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 4
-http://113.178.29.105:8889/pluseu.php?id=281671
-#EXTINF:-1 tvg-ID="SportTV5.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/Sport_TV5.png", PT: Sport TV 5 FHD Server 5
-http://113.178.29.105:8889/tipx.php?id=65
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=290
 #EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD
 http://113.178.29.105:8889/pluseu.php?id=281674
 #EXTINF:-1 tvg-id="SportTV6.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://www.meo.pt/PublishingImages/canais/sport-tv6.png", PT: SPORT TV 6 FHD Server 2
@@ -2849,69 +2831,25 @@ http://113.178.29.105:8889/plustv.php?id=869000
 #EXTINF:-1 tvg-ID="SportTVNBA.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="", PT: Sport TV NBA FHD Server 3
 http://113.178.29.105:8889/tipx.php?id=66
 #EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61542.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281676
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 3
-http://113.178.29.105:8889/pluseu.php?id=281677
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 4
-http://113.178.29.105:8889/plustv.php?id=869003
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 5
-http://113.178.29.105:8889/prostv.php?id=222449
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=18230
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 7
-http://113.178.29.105:8889/tipx.php?id=73
-#EXTINF:-1 tvg-ID="ElevenSports1Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/AOu4FXH.png", PT: Eleven Sport 1 FHD Server 8
-http://113.178.29.105:8889/tipx.php?id=16052
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=455
 #EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61543.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281679
-#EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 3
-http://113.178.29.105:8889/plustv.php?id=869004
-#EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=222450
-#EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 5
-http://113.178.29.105:8889/tipx.php?id=75
-#EXTINF:-1 tvg-ID="ElevenSports2Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bTIRgqG.png", PT: Eleven Sport 2 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=76
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=456
 #EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61544.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281682
-#EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 3
-http://113.178.29.105:8889/plustv.php?id=869005
-#EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=222451
-#EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 5
-http://113.178.29.105:8889/tipx.php?id=77
-#EXTINF:-1 tvg-ID="ElevenSports3Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/bWjGol4.png", PT: Eleven Sport 3 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=38244
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=457
 #EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61546.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281685
-#EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 3
-http://113.178.29.105:8889/plustv.php?id=869006
-#EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=222452
-#EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 5
-http://113.178.29.105:8889/tipx.php?id=78
-#EXTINF:-1 tvg-ID="ElevenSports4Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/SEKXaAW.png", PT: Eleven Sport 4 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=38245
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=458
 #EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD
-http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61547.ts?play_token=YAemMNMi08:1680249760:2281
-#EXTINF:-1 tvg-id="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 2
-http://113.178.29.105:8889/pluseu.php?id=281688
-#EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 3
-http://113.178.29.105:8889/plustv.php?id=869007
-#EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 4
-http://113.178.29.105:8889/prostv.php?id=222453
-#EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 5
-http://113.178.29.105:8889/tipx.php?id=79
-#EXTINF:-1 tvg-ID="ElevenSports5Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/fgEj4vD.png", PT: Eleven Sport 5 FHD Server 6
-http://113.178.29.105:8889/tipx.php?id=38246
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=459
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD
 
 #EXTINF:-1 tvg-id="ElevenSports6Portugal.pt" group-title="🇵🇹| Sports Portugal" tvg-logo="https://i.imgur.com/kIGt4b7.png", PT: Eleven Sport 6 FHD Server 2
@@ -3069,31 +3007,53 @@ http://113.178.29.105:8889/wisd.php?id=67806
 
 #-*-- Sports Romania -*--#
 #EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/5zMxDYq.png", RO: Digi Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=401
-https://webudit.cdnhks.lol/lb/premium401/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/5zMxDYq.png", RO: Digi Sport 1
-http://113.178.29.105:8889/wisd.php?id=68897
-#EXTINF:-1 tvg-id="DigiSport1Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/5zMxDYq.png", RO: Digi Sport 1
-http://113.178.29.105:8889/wisd.php?id=68898
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=400
 #EXTINF:-1 tvg-id="DigiSport2Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/KWDUi3v.png", RO: Digi Sport 2
-
-#EXTINF:-1 tvg-id="DigiSport2Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/KWDUi3v.png", RO: Digi Sport 2
-http://113.178.29.105:8889/wisd.php?id=68899
-#EXTINF:-1 tvg-id="DigiSport2Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/KWDUi3v.png", RO: Digi Sport 2
-http://113.178.29.105:8889/wisd.php?id=68900
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=401
 #EXTINF:-1 tvg-id="DigiSport3Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/T1ci5UK.png", RO:  DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=402
-https://webudit.cdnhks.lol/lb/premium402/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport3Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/T1ci5UK.png", RO:  DIGI SPORT 3
-http://113.178.29.105:8889/wisd.php?id=68901
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=402
 #EXTINF:-1 tvg-id="DigiSport4Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=404
-https://webudit.cdnhks.lol/lb/premium404/index.m3u8
-#EXTINF:-1 tvg-id="DigiSport4Romania.ro" group-title="🇷🇴| Sports Romania" tvg-logo="", RO:  DIGI SPORT 4
-http://113.178.29.105:8889/wisd.php?id=68902
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=403
+#EXTINF:-1 tvg-id="OrangeSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/EDYUQ4k.png", RO: Orange Sport 1
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=439
+#EXTINF:-1 tvg-id="OrangeSport2.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/uh0op1Z.png", RO: Orange Sport 2
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=440
+#EXTINF:-1 tvg-id="OrangeSport3.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/b1yd7G7.png", RO: Orange Sport 3
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=441
+#EXTINF:-1 tvg-id="OrangeSport4.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/8JDyFYI.png", RO: Orange Sport 4
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=442
+#EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/bJFsq95.png", RO: Prima Sport 1
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=583
+#EXTINF:-1 tvg-id="PrimaSport2.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/waSiBvQ.png", RO: Prima Sport 2
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=584
+#EXTINF:-1 tvg-id="PrimaSport3.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/VO0gb5x.png", RO: Prima Sport 3
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=585
+#EXTINF:-1 tvg-id="PrimaSport4.ro" group-title="🇷🇴| Sports Romania" tvg-logo="https://i.imgur.com/kAPuoLf.png", RO: Prima Sport 4
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=586
 #EXTINF:-1 tvg-id="TelekomSport1.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-1.png", RO: Telekom Sport 1
 http://113.178.29.105:8889/wisd.php?id=150235
 #EXTINF:-1 tvg-id="TelekomSport2.ro" group-title="🇷🇴| Sports Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-2.png", RO: Telekom Sport 2
@@ -3108,29 +3068,42 @@ http://113.178.29.105:8889/wisd.php?id=150238
 
 #-*-- Sports Israel -*--#
 #EXTINF:-1 tvg-id="Sport1.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=140
-https://webudit.cdnhks.lol/lb/premium140/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=140
 #EXTINF:-1 tvg-id="Sport2.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=141
-https://webudit.cdnhks.lol/lb/premium141/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=141
 #EXTINF:-1 tvg-id="Sport3.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=142
-https://webudit.cdnhks.lol/lb/premium142/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=142
 #EXTINF:-1 tvg-id="Sport4.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT.png", IL: Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=143
-https://webudit.cdnhks.lol/lb/premium142/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=143
 #EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=144
-https://webudit.cdnhks.lol/lb/premium144/index.m3u8
-#EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="http://logo.panel.cx/logo/EUROPE/HEBREW/YESSPORT5STARTS.png", IL: Sport 5 Live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=144
-https://webudit.cdnhks.lol/lb/premium145/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=144
+#EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-live-1027.png", IL: Sport 5 Live
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=146
+#EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-plus-1026.png", IL: Sport 5 Plus
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=145
+#EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png", IL: Sport 5 Star
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=147
+#EXTINF:-1 tvg-id="Sport5.il" group-title="🇮🇱| Sports Israel" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-sport-5-stars-1828.png", IL: Sport 5 Gold
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=148
+
 
 #-*-- Sports India -*--#
 #EXTINF:-1 tvg-id="StarSportsSelect1.in" group-title="🇮🇳| Sports India" tvg-logo="https://i.imgur.com/hh15eHd.png", IN: Star Sports Select 1
@@ -3144,55 +3117,51 @@ https://webudit.cdnhks.lol/lb/premium145/index.m3u8
 
 #-*-- Sports Serbia -*--#
 #EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/csv6YsL.png", RS: Arena Sport 1 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=134
-https://webudit.cdnhks.lol/lb/premium134/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=134
 #EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/ztOmQ7P.png", RS: Arena Sport 2 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=135
-https://webudit.cdnhks.lol/lb/premium135/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=135
 #EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gpqemLf.png", RS: Arena Sport 3 Premium
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=139
-https://webudit.cdnhks.lol/lb/premium139/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=139
 #EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/RJrJGbW.png", RS: Arena Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=432
-https://webudit.cdnhks.lol/lb/premium432/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=429
 #EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/aqlECBj.png", RS: Arena Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=433
-https://webudit.cdnhks.lol/lb/premium433/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=430
 #EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/3r3burN.png", RS: Arena Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=431
-https://webudit.cdnhks.lol/lb/premium431/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=431
 #EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/h1XhGkz.png", RS: Arena Sport 4
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=581
 #EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/036qMgu.png", RS: Arena Sport 5
 
 #EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=453
-https://webudit.cdnhks.lol/lb/premium453/index.m3u8
-#EXTINF:-1 tvg-id="SportKlub1.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/gq41T8E.png", RS: Sport Klub 1 Server 2
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=101
 #EXTINF:-1 tvg-id="SportKlub2.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/UNG4xlb.png", RS: Sport Klub 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=102
-https://webudit.cdnhks.lol/lb/premium102/index.m3u8
-#EXTINF:-1 tvg-id="SportKlub2.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/UNG4xlb.png", RS: Sport Klub 2 Server 2
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=102
 #EXTINF:-1 tvg-id="SportKlub3.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/N7DGGtV.png", RS: Sport Klub 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=103
-https://webudit.cdnhks.lol/lb/premium103/index.m3u8
-#EXTINF:-1 tvg-id="SportKlub3.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/N7DGGtV.png", RS: Sport Klub 3 Server 2
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=103
 #EXTINF:-1 tvg-id="SportKlub4.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/8D4tQUR.png", RS: Sport Klub 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=104
-https://webudit.cdnhks.lol/lb/premium104/index.m3u8
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=104
 #EXTINF:-1 tvg-id="SportKlub4.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/8D4tQUR.png", RS: Sport Klub 4 Server 2
 
 #EXTINF:-1 tvg-id="SportKlub5.rs" group-title="🇷🇸| Sports Serbia" tvg-logo="https://i.imgur.com/d7uT1Vs.png", RS: Sport Klub 5
@@ -3328,13 +3297,21 @@ https://webudit.cdnhks.lol/lb/premium76/index.m3u8
 
 #-*-- Sports Croatia -*--#
 #EXTINF:-1 tvg-id="ArenaSport1Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/RJrJGbW.png", HR: Arena Sport 01
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=432
 #EXTINF:-1 tvg-id="ArenaSport2Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/aqlECBj.png", HR: Arena Sport 02
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=433
 #EXTINF:-1 tvg-id="ArenaSport3Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/3r3burN.png", HR: Arena Sport 03
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=434
 #EXTINF:-1 tvg-id="ArenaSport4Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/h1XhGkz.png", HR: Arena Sport 04
-
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=580
 #EXTINF:-1 tvg-id="ArenaSport5Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/036qMgu.png", HR: Arena Sport 05
 
 #EXTINF:-1 tvg-id="ArenaSport6Croatia.hr" group-title="🇭🇷| Sports Croatia" tvg-logo="https://i.imgur.com/Z5PE4vx.png", HR: Arena Sport 06
@@ -3406,31 +3383,37 @@ https://webudit.cdnhks.lol/lb/premium76/index.m3u8
 
 #-*-- Sports Saudi Arabia -*--#
 #EXTINF:-1 tvg-id="SSC1HD.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/dM7GQXG.png", SA: SSC 1 HD
-http://113.178.29.105:8889/wisd.php?id=255702
-#EXTINF:-1 tvg-id="SSC1HD.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/dM7GQXG.png", SA: SSC 1 HD
-http://113.178.29.105:8889/prostv.php?id=243994
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=6144
 #EXTINF:-1 tvg-id="SSC2.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/Sl53pct.png", SA: SSC 2
-http://113.178.29.105:8889/wisd.php?id=255703
-#EXTINF:-1 tvg-id="SSC2.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/Sl53pct.png", SA: SSC 2
-http://113.178.29.105:8889/prostv.php?id=243995
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=615
 #EXTINF:-1 tvg-id="SSC3.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/z1EwDKw.png", SA: SSC 3
-http://113.178.29.105:8889/wisd.php?id=255704
-#EXTINF:-1 tvg-id="SSC3.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/z1EwDKw.png", SA: SSC 3
-http://113.178.29.105:8889/prostv.php?id=243996
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=616
 #EXTINF:-1 tvg-id="SSC4HD.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/EqxaaET.png", SA: SSC 4 HD
-http://113.178.29.105:8889/wisd.php?id=255705
-#EXTINF:-1 tvg-id="SSC4HD.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/EqxaaET.png", SA: SSC 4 HD
-http://113.178.29.105:8889/prostv.php?id=243997
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=617
 #EXTINF:-1 tvg-id="SSC5.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/gzf7t8S.png", SA: SSC 5
-http://113.178.29.105:8889/wisd.php?id=255706
-#EXTINF:-1 tvg-id="SSC5.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://i.imgur.com/gzf7t8S.png", SA: SSC 5
-http://113.178.29.105:8889/prostv.php?id=243998
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=618
 #EXTINF:-1 tvg-id="SSCExtra1.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png", SA: SSC Extra 1
-http://113.178.29.105:8889/wisd.php?id=255707
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=619
 #EXTINF:-1 tvg-id="SSCExtra2.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png", SA: SSC Extra 2
-http://113.178.29.105:8889/wisd.php?id=255708
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=620
 #EXTINF:-1 tvg-id="SSCExtra3.sa" group-title="🇸🇦| Sports Saudi Arabia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png", SA: SSC Extra 3
-http://113.178.29.105:8889/wisd.php?id=311007
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=621
 
 #-*-- Sports Indonesia (Vidio) -*--#
 #EXTINF:-1 group-title="🇮🇩| Sports Indonesia (Vidio)" tvg-logo="https://thumbor.prod.vidiocdn.com/zUeO5Z0qWsLChLPVtUmiW7wjXP4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg", CHAMPIONS TV 1
@@ -3458,6 +3441,44 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"YsgqTGaIETcrTrN0vXXFWw","kid":"kj3q6CiR43soK3G6UI+zvA"}],"type":"temporary"}
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+#-*-- Sports Greece -*--#
+#EXTINF:-1 tvg-ID="Novasports1.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/Q1FPQeL.png", GR: Novasports 1 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=631
+#EXTINF:-1 tvg-ID="Novasports2.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/BITjUin.png", GR: Novasports 2 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=632
+#EXTINF:-1 tvg-ID="Novasports3.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/jy7zmlJ.png", GR: Novasports 3 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=633
+#EXTINF:-1 tvg-ID="Novasports4.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/ZANobhK.png", GR: Novasports 4 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=634
+#EXTINF:-1 tvg-ID="Novasports5.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/Rb550MA.png", GR: Novasports 5 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=635
+#EXTINF:-1 tvg-ID="Novasports6.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/m6RRIxG.png", GR: Novasports 6 HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=636
+#EXTINF:-1 tvg-ID="NovasportsPremierLeague.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/aOPBuEa.png", GR: Novasports Premier League HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=599
+#EXTINF:-1 tvg-ID="NovasportsPrime.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/rkap6Yf.png", GR: Novasports Prime HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=638
+#EXTINF:-1 tvg-ID="NovasportsStart.gr" group-title="🇬🇷| Sports Greece" tvg-logo="https://i.imgur.com/22CPcwO.png", GR: Novasports Start HD
+#EXTVLCOPT:http-user-agent=CDAM MEDIA
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+https://cdam.work/link/sportxx.php?id=637
 
 #-*-- Sports Russia/Ukraine -*--#
 #EXTINF:-1 tvg-ID="SetantaSports1.ua" group-title="🇷🇺/🇺🇬| Sports Russia/Ukraine" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/setanta-sports-euro-asia.png", UA: Setanta Sports 1 HD
