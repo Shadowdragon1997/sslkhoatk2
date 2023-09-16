@@ -3509,8 +3509,11 @@ http://sonic-eg.com:80/12355/12355/131418
 http://sonic-eg.com:80/12355/12355/131421
 
 #-*-- Premier League -*--#
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/4k.png",CVmedia Live 4K
-http://stream.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk", 18h30 TNT Sports Ultimate UHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&extension=ts&play_token=KRQ2igfaiV
+
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="http://gg.gg/live4kkkkk",21h00 Sky Sports Main Event UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
 
