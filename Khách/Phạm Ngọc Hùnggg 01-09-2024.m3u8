@@ -88,44 +88,33 @@ https://s12936.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 https://s12920.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #-*-- Premier League -*--#
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/4k.png",CVmedia Live 4K
-http://stream.cvmtv.site/event?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" group-logo="http://gg.gg/live4kkkkk" tvg-logo="http://gg.gg/live4kkkkk", 18h30 TNT Sports Ultimate UHD
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&extension=ts&play_token=KRQ2igfaiV
 
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png",Sky Sport Premier League
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="http://gg.gg/live4kkkkk",21h00 Sky Sports Main Event UHD
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
+
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="la2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png",RSI LA2
+http://stream.cvmtv.site/LA2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
+http://stream.cvmtv.site/M4?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
+http://stream.cvmtv.site/TNTSp2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
+http://stream.cvmtv.site/ViaXtra?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
-#http://stream.cvmtv.site/StarSL1?token=live
+http://stream.cvmtv.site/StarSL1?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
-#http://stream.cvmtv.site/StarSL2?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="digi1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png",Digi Sport 1
-#http://stream.cvmtv.site/DigiS1?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="digi2" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/25/Digi_Sport_2_%282012-.n.v.%29.png",Digi Sport 2
-#http://stream.cvmtv.site/DigiS2?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
-
+http://stream.cvmtv.site/StarSL2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
 http://stream.cvmtv.site/Setanta?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
 http://stream.cvmtv.site/NovaSp?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://img.usanetwork.com/sites/nbcunbc/files/USA-Logo-White-450x198.png",USA Network
-#http://stream.cvmtv.site/USA?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="sctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/2560px-SCTV_Logo.svg.png",SCTV Indonesia
-
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
 http://stream.cvmtv.site/PRS1?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
 http://stream.cvmtv.site/PRS2?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange3.png",Orange Sport 3
-#http://stream.cvmtv.site/ORS3?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/orange4.png",Orange Sport 4
-#http://stream.cvmtv.site/ORS4?token=live
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="zselect" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/select.png",Ziggo Sport Select
-#http://stream.cvmtv.site/ZiggoS?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="zvoetbal" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/voetbal.png",Ziggo Sport  Voetbal
-#http://stream.cvmtv.site/ZiggoV?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="zgolf" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/golf.png",Ziggo Sport  Golf
-#http://stream.cvmtv.site/ZiggoG?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
@@ -172,140 +161,174 @@ http://stream.cvmtv.site/Polsat?token=live
 http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png",Polsat Sport Premium 3
+http://stream.cvmtv.site/PolPre3?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png",Polsat Sport Premium 4
+http://stream.cvmtv.site/PolPre4?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Polsat_Sport_Premium_5_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_5_PPV_2021_gradient.svg.png",Polsat Sport Premium 5
+http://stream.cvmtv.site/PolPre5?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/1200px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png",Polsat Sport Premium 6
+http://stream.cvmtv.site/PolPre6?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
 
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://www.spotv.net/images/calendar_spotvgolf&health.png",SPOTV Golf&Health
-#http://stream.cvmtv.site/SpoGolf?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Jtbcgolf_logo.png",JTBC Golf
-#http://stream.cvmtv.site/JTBCG?token=live
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d4/Great_Sports.jpg",Great Sports
-#http://stream.cvmtv.site/GrSpCN?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/Guangdong_Sports_2019.png",Guangdong Sports
-#http://stream.cvmtv.site/GDSp?token=live
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="espnmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/768px-ESPN_wordmark.svg.png",ESPN
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="espn2mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/768px-ESPN2_logo.svg.png",ESPN2
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="espn3mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/768px-ESPN3_logo.svg.png",ESPN3
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="espnextra" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/espn_extra.png",ESPN Extra
-
 #-*-- Livestream bóng đá Rakhoi TV -*--#
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:50-19/09: Independiente Medellin - Millonarios - Giải cỏ : VĐQG Colombia (Cá Heo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 10:00-19/09: Pachuca - Santos - Giải Cỏ: Vô địch Quốc gia Mexico (Giàng A Cỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cohd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-19/09: Vietnam U23 - Mongolia U23 - Asian Games Grp. B (Giàng A Lử)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-19/09: Bangladesh U23 - Myanmar U23 - Asian Games Grp. A (Giàng A Khoai)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 07:30-21/09: St. Louis City - LAFC - Major League Soccer (Giàng A Lú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@khoaihd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@luluhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-19/09: Bahrain U23 - Thailand U23 - Asian Games Grp. E (Giàng A Lú)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 07:30-21/09: Fluminense - Cruzeiro - Giải cỏ : Vô địch Brasil (Thợ Lặn)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@lanhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-19/09: North Korea U23 - Chinese Taipei U23 - Asian Games Grp. F (Giàng A Cay)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 17:00-19/09: Yokohoma FM - Incheon United - AFC Champions League Grp. G (Giàng A Lú)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:05-21/09: Correcaminos - UDG - Giải Cỏ: Hạng 2 Mexico (Giàng A Khoai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@khoaihd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 17:00-19/09: Ulsan Hyundai - BG Pathum United - AFC Champions League Grp. I (H+)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:20-21/09: Atletico Nacional - Santa Fe - Giải cỏ : VĐQG Colombia (Giàng A Cay)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cayhd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 08:30-21/09: Salt Lake - Dallas - Major League Soccer (Cá Heo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@caheohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 09:00-21/09: Sacramento Republic FC - New Mexico United - Giải cỏ : USL Championship (Giàng A Páo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@paohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 09:06-21/09: Querétaro - América - Giải cỏ : Liga MX Apertura (Thợ Xây)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@thoxayhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 17:00-19/09: Busan I'Park - Ansan Greeners - Giải cỏ : Hạng 2 Hàn Quốc (Giàng A Cay)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 09:30-21/09: LA Galaxy - Minnesota - Major League Soccer (Tây Môn Chuối)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cachuoihd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-19/09: China U23 - India U23 - Asian Games Grp. A (Cá Bịp)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cabiphd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-19/09: Saudi Arabia U23 - Iran U23 - Asian Games Grp. B (Giàng A Khoai)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 09:30-21/09: Portland - San Jose - Major League Soccer (H+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@khoaihd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@hplushd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-19/09: South Korea U23 - Kuwait U23 - Asian Games Grp. E (Giàng A Cỏ)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-21/09: Chinese Taipei U23 - Indonesia U23 - Asian Games Grp. F (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cohd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cayhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-19/09: Indonesia U23 - Kyrgyzstan U23 - Asian Games Grp. F (Giàng A Phọt)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-21/09: India U23 - Bangladesh U23 - Asian Games Grp. A (Giàng A Páo)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@paohd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 19:00-19/09: Johor Darul Ta'zim FC - Kawasaki - AFC Champions League Grp. I (H+)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-21/09: Mongolia U23 - Saudi Arabia U23 - Asian Games Grp. B (Cá Heo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@caheohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 15:00-21/09: Kuwait U23 - Bahrain U23 - Asian Games Grp. E (Giàng A Lú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@luluhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 19:00-19/09: Kaya FC - Shandong Taishan - AFC Champions League Grp. G (Giàng A Lôi)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-21/09: Iran U23 - Vietnam U23 - Asian Games Grp. B (Giàng A Phọt)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@phothd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-19/09: Pakhtakor Tashkent - Al-Ain - AFC Champions League Grp. A (Giàng A Lú)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-21/09: Myanmar U23 - China U23 - Asian Games Grp. A (Giàng A Khoai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@khoaihd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-19/09: Barcelona U19 - Antwerp U19 - Giải Cỏ: UEFA Youth League U19 (Giàng A Khoai)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-21/09: Thailand U23 - South Korea U23 - Asian Games Grp. E (H+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@khoaihd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@hplushd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:15-19/09: Nizhny Novgorod - Spartak - Giải Cỏ: Cúp Nga (Giàng A Cay)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:30-21/09: Kyrgyzstan U23 - North Korea U23 - Asian Games Grp. F (Giàng A Cỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cohd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:00-19/09: Shirak - Ararat Armenia - Giải cỏ : Ngoại Hạng Armenia (Cá Heo)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caheohd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:35-19/09: Al Batin - Ohod - Giải Cỏ: Hạng Nhất Ả Rập Xê Út (Giàng A Lôi)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:00-19/09: FC Istiklol - Al-Duhail SC - AFC Champions League Grp. E (Giàng A Cỏ)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cohd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-19/09: Milan - Newcastle - Champions League Grp. F (Giàng A Phọt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-19/09: Young Boys - RB Leipzig - Champions League Grp. G (H+)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 19:00-21/09: Hai Phong - PSM Makassar - AFC Cup Grp. H (Giàng A Lú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@luluhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 01:00-20/09: Persepolis - Al Nassr FC - AFC Champions League Grp. E (Giàng A Lôi)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 20:00-21/09: Pharco FC - Future FC - Giải cỏ : Ngoại Hạng Ai Cập (Giàng A Cay)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cayhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-20/09: Man City - FK Crvena Zvezda - Champions League Grp. G (Giàng A Phọt)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@phothd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-20/09: Lazio - Atletico Madrid - Champions League Grp. E (Giàng A Cay)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
-
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-20/09: PSG - Dortmund - Champions League Grp. F (H+)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:00-21/09: Ravshan Kulob - Merw - AFC Cup Grp. E (Giàng A Lú)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@hplushd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@luluhd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-20/09: Barcelona - Royal Antwerp - Champions League Grp. H (Giàng A Cỏ)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:15-21/09: Orenburg - Fakel - Giải Cỏ: Cúp Nga (Giàng A Cỏ)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cohd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cohd1.flv|Referer=https://pl-rk.livefb.xyz/
 
-#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-20/09: Shakhtar Donetsk - FC Porto - Champions League Grp. H (Xi Măng)
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 21:30-21/09: Kerala Blasters FC - Bengaluru FC - Giải cỏ : Ấn Độ Super League (Giàng A Khoai)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@ximanghd1/chunklist.m3u8|Referer=https://pl-rk.livefb.xyz/
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@khoaihd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:00-21/09: Damac FC - Al Hilal - VĐQG Ả Rập Xê Út (Giàng A Phọt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@phothd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 22:00-21/09: Al-Ettifaq - Al Taee - Giải cỏ : VĐQG Ả Rập Xê Út (Thợ Lặn)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@lanhd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: LASK - Liverpool - Europa League Grp. E (H+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@hplushd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: Panathinaikos - Villarreal - Europa League Grp. F (Giàng A Lôi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@loihd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: FC Sheriff - Roma - Europa League Grp. G (Giàng A Páo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@paohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: Leverkusen - Häcken - Europa League Grp. H (Giàng A Cay)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cayhd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: Legia Warszawa - Aston Villa - Europa Conference League Grp. E (Giàng A Táo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@taohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: Ferencvaros - Cukaricki - Europa Conference League Grp. F (Giàng A Khoai)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@khoaihd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: Genk - Fiorentina - Europa Conference League Grp. F (Cá Bịp)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cabiphd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 23:45-21/09: Frankfurt - Aberdeen - Europa Conference League Grp. G (Giàng A Cỏ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 01:00-22/09: Al Ittihad - Al Fateh FC - Saudi Professional League (Giàng A Lử)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@luhd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: West Ham - TSC Backa Topola - Europa League Grp. A (Giàng A Phọt)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@phothd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: Olympiacos - Freiburg - Europa League Grp. A (Xi Măng)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@ximanghd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: Ajax - Marseille - Europa League Grp. B (Giàng A Páo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@paohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: Brighton - AEK Athens - Europa League Grp. B (H+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@hplushd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: Rangers - Real Betis - Europa League Grp. C (Giàng A Cay)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@cayhd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: Atalanta - Rakow Czestochowa - Europa League Grp. D (Giàng A Táo)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@taohd1.flv|Referer=https://pl-rk.livefb.xyz/
+
+#EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 02:00-22/09: Sturm Graz - Sporting CP - Europa League Grp. D (Giàng A Lôi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+https://cakhiapronew.cdnxpro.xyz/live/stream_1_a86e6@loihd1.flv|Referer=https://pl-rk.livefb.xyz/
