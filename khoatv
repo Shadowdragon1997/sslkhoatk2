@@ -182,62 +182,54 @@ https://akaviettel.kplus.vn/bpk-tv/prod_ucl5/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qD2hurrFEuoI8/mGiw9cuA","kid":"Ecz5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"NvLNoW8aVW0yVP3qQLqh1Q","kid":"WRD5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"V6Yi3BLaBeXxxzFj6BHtfA","kid":"ZhQ9y85zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"y4icKUKs/ULdv8ehahl1OQ","kid":"UiE94x1zRMiBQ9SOpWAiUQ"}], "type":"temporary"}
 https://akaviettel.kplus.vn/bpk-tv/prod_ucl6/default/index.mpd
 
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Special Live 01
+http://asiad2.cvmtv.site:8002/DB1?token=asiad
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Special Live 02
+http://asiad2.cvmtv.site:8002/DB2?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1 (Server 01)
-http://stream.cvmtv.site:8002/EV01?token=asiad
+http://asiad2.cvmtv.site:8002/EV01?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1 (Server 02)
 http://asiad1.cvmtv.site:8002/EV01?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1 (Server 03)
-http://asiad2.cvmtv.site:8002/EV01?token=asiad
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1 (Server 04)
 https://asia.vthanhtivi.pw/asiad1/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2 (Server 01)
-http://stream.cvmtv.site:8002/EV02?token=asiad
+http://asiad2.cvmtv.site:8002/EV02?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2 (Server 02)
 http://asiad1.cvmtv.site:8002/EV02?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2 (Server 03)
-http://asiad2.cvmtv.site:8002/EV02?token=asiad
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 2 (Server 04)
 https://asia.vthanhtivi.pw/asiad2/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3 (Server 01)
-http://stream.cvmtv.site:8002/EV03?token=asiad
+http://asiad2.cvmtv.site:8002/EV03?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3 (Server 02)
 http://asiad1.cvmtv.site:8002/EV03?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3 (Server 03)
-http://asiad2.cvmtv.site:8002/EV03?token=asiad
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 3 (Server 04)
 https://asia.vthanhtivi.pw/asiad3/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4 (Server 01)
-http://stream.cvmtv.site:8002/EV04?token=asiad
+http://asiad2.cvmtv.site:8002/EV04?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4 (Server 02)
 http://asiad1.cvmtv.site:8002/EV04?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4 (Server 03)
-http://asiad2.cvmtv.site:8002/EV04?token=asiad
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 4 (Server 04)
 https://asia.vthanhtivi.pw/asiad4/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5 (Server 01)
-http://stream.cvmtv.site:8002/EV05?token=asiad
+http://asiad2.cvmtv.site:8002/EV05?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5 (Server 02)
 http://asiad1.cvmtv.site:8002/EV05?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5 (Server 03)
-http://asiad2.cvmtv.site:8002/EV05?token=asiad
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 5 (Server 04)
 https://asia.vthanhtivi.pw/asiad5/index.m3u8
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6 (Server 01)
-http://stream.cvmtv.site:8002/EV06?token=asiad
+http://asiad2.cvmtv.site:8002/EV06?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6 (Server 02)
 http://asiad1.cvmtv.site:8002/EV06?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6 (Server 03)
-http://asiad2.cvmtv.site:8002/EV06?token=asiad
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 6 (Server 04)
 https://asia.vthanhtivi.pw/asiad6/index.m3u8
-#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/800px-Mediacorp_Channel_5_2023.svg.png",Mediacorp 5
-http://stream.cvmtv.site:8002/CH5?token=asiad
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
 http://stream.cvmtv.site/CCTV5p?token=live
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
 http://stream.cvmtv.site/CCTV16?token=live
+#EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/langzh-tw-320px-HOY_TV_Logo.svg.png",HOY TV
+http://stream.cvmtv.site/hoy?token=live
 
 #-*-- VTV -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
@@ -3528,8 +3520,6 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&ext
 http://stream.cvmtv.site/LA2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="m4" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/f/fd/M4_logo.png/1200px-M4_logo.png",M4 Sport
 http://stream.cvmtv.site/M4?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
-http://stream.cvmtv.site/TNTSp2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 
@@ -3539,12 +3529,12 @@ http://stream.cvmtv.site/StarSL1?token=live
 http://stream.cvmtv.site/StarSL2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports + Ukraine
 http://stream.cvmtv.site/Setanta?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png",Nova Sport
-http://stream.cvmtv.site/NovaSp?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima1.png",Prima Sport 1
 http://stream.cvmtv.site/PRS1?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima2.png",Prima Sport 2
 http://stream.cvmtv.site/PRS2?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/prima3.png",Prima Sport 3
+http://stream.cvmtv.site/PRS3?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
@@ -3575,30 +3565,12 @@ http://stream.cvmtv.site/MF3?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
 http://stream.cvmtv.site/MPre?token=live
 
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/26/sk1hd_logo_16_9_light_160x90_0e2f3e64_327f_4e23_bdc0_1109dec1113a.png",Sport Klub 1
-http://stream.cvmtv.site/SK1?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://images-web.ug-be.cdn.united.cloud/2020/05/28/13/02/52/sk2hd_logo_16_9_light_160x90_b8e00d92_1743_4d96_b9e2_73e09c30fdd2.png",Sport Klub 2
-http://stream.cvmtv.site/SK2?token=live
-
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="es1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://stream.cvmtv.site/ES1?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="es2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://stream.cvmtv.site/ES2?token=live
-
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://stream.cvmtv.site/Polsat?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="polsatspex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Polsat_Sport_Extra_2021_gradient.svg/1280px-Polsat_Sport_Extra_2021_gradient.svg.png",Polsat Sport Extra
 http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png",Polsat Sport Premium 3
-http://stream.cvmtv.site/PolPre3?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png",Polsat Sport Premium 4
-http://stream.cvmtv.site/PolPre4?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Polsat_Sport_Premium_5_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_5_PPV_2021_gradient.svg.png",Polsat Sport Premium 5
-http://stream.cvmtv.site/PolPre5?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/1200px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png",Polsat Sport Premium 6
-http://stream.cvmtv.site/PolPre6?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
 http://stream.cvmtv.site/TVPS?token=live
 
