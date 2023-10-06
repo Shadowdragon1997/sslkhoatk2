@@ -673,6 +673,7 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
 
 #-*-- K+ Khoa Tivi - Nguồn My K+ -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD 50FPS
+#EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8JdIS5zaFaSsEHEHeNzOLg","k":"o8MYNfwuXmnWSJS8qjP25Q"},{"kty":"oct","kid":"ONtIS5zaFaSsEHEHeNzOLg","k":"SzP6U0A47fNG2NF7lpn_QQ"},{"kty":"oct","kid":"Rd-MfJzaFaSsEHEHeNzOLg","k":"HGBXmIO1YKFnfG0IBl6W9Q"},{"kty":"oct","kid":"MeyMlOvaFaSsEHEHeNzOLg","k":"liOMjwke-7YDTLklO2NE6g"}],"type":"temporary"}
 https://vegaviettel.kplus.vn/bpk-tv/prod_kplus_cinehd/default/index.mpd
