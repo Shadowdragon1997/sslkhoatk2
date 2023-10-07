@@ -181,42 +181,42 @@ http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_108
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"cRGXB4ok02n1drY8L0ru7w","kid":"VTscnkBjS4Opiqre77aQ2Q"},{"kty":"oct","k":"qL0THpRuhcBLrghs+BNACg","kid":"nX8cnkBjS4Opiqre77aQ2Q"},{"kty":"oct","k":"u0rbvB6QwF+dZCyD+PCUQQ","kid":"qoNgz0BjS4Opiqre77aQ2Q"},{"kty":"oct","k":"2/nG1ZMKw5SQtgTr7hhlAA","kid":"lpBg549jS4Opiqre77aQ2Q"}], "type":"temporary"} 
-https://akaviettel.kplus.vn/bpk-tv/prod_ucl1/default/index.mpd
+#https://akaviettel.kplus.vn/bpk-tv/prod_ucl1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"M8oOpIDpKplABv9lDd0JnQ","kid":"AM/tP0PtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"MYlLEzqBIKivYfKANs4TTg","kid":"SBPtP0PtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"RT8Qj+V1n5GK7P0P6J9mGQ","kid":"VRcxcEPtRTKcIdMn8x/zQQ"},{"kty":"oct","k":"HF1m5mMd0c0gg7O7pXteZg","kid":"QSQxiJLtRTKcIdMn8x/zQQ"}], "type":"temporary"} 
-https://akaviettel.kplus.vn/bpk-tv/prod_ucl2/default/index.mpd
+#https://akaviettel.kplus.vn/bpk-tv/prod_ucl2/default/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"98tTNDhiLyVMABQPl0VeBw","kid":"NU5UMdbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"CfU12UgTfEHlx9S73Qer8Q","kid":"fZJUMdbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"W4B3aNAAgttkVJu+tC6y6Q","kid":"ipaYYtbAQQGT83ZHoJ4swQ"},{"kty":"oct","k":"fWIxdhmBSBhVnFYSO0F5cA","kid":"dqOYeiXAQQGT83ZHoJ4swQ"}], "type":"temporary"} 
-https://akaviettel.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd
+#https://akaviettel.kplus.vn/bpk-tv/prod_ucl3/default/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sw2LncHCrGirokQCRfPezQ","kid":"A3yTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"Jkz6MF+kZKo2CEfwyqRfYQ","kid":"S8CTt8mOT1mayhVwYODLXg"},{"kty":"oct","k":"cp7qxl/cert37LpoKVUL0Q","kid":"WMTX6MmOT1mayhVwYODLXg"},{"kty":"oct","k":"ubzwGmIrgMII7dS5/pVSYQ","kid":"RNHXABiOT1mayhVwYODLXg"}], "type":"temporary"} 
-https://akaviettel.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
+#https://akaviettel.kplus.vn/bpk-tv/prod_ucl4/default/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"jC15F2NDCZb0Bk2HWLVeYA","kid":"fr3O6CJkQzWHYnymrEXpDQ"},{"kty":"oct","k":"CSDxfeTL9Hf5kK3eunct1Q","kid":"xgHO6CJkQzWHYnymrEXpDQ"},{"kty":"oct","k":"1KnsiXGg/G1wuvGExnO8dA","kid":"0wUSGSJkQzWHYnymrEXpDQ"},{"kty":"oct","k":"4CtMeEChtTVjVuFHsumzBA","kid":"vxISMXFkQzWHYnymrEXpDQ"}], "type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_ucl5/default/index.mpd
+#https://akaviettel.kplus.vn/bpk-tv/prod_ucl5/default/index.mpd
 
 #EXTINF:-1 tvg-id="" group-title="🔴| Livestream bóng đá" tvg-logo="https://img.kplus.vn/images?filename=Media/HDVN/EPG_thumbnail/UCL%206.jpg&06042023&w=1920&h=1080&orientation=landscape", SỰ KIỆN THỂ THAO 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qD2hurrFEuoI8/mGiw9cuA","kid":"Ecz5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"NvLNoW8aVW0yVP3qQLqh1Q","kid":"WRD5ms5zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"V6Yi3BLaBeXxxzFj6BHtfA","kid":"ZhQ9y85zRMiBQ9SOpWAiUQ"},{"kty":"oct","k":"y4icKUKs/ULdv8ehahl1OQ","kid":"UiE94x1zRMiBQ9SOpWAiUQ"}], "type":"temporary"}
-https://akaviettel.kplus.vn/bpk-tv/prod_ucl6/default/index.mpd
+#https://akaviettel.kplus.vn/bpk-tv/prod_ucl6/default/index.mpd
 
 #EXTINF:-1 group-title="🔴| Livestream bóng đá" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/9a/2022_Asian_Games_logo.svg/1200px-2022_Asian_Games_logo.svg.png",ASIAD Live 1 (Server 01)
 http://asiad2.cvmtv.site:8002/EV01?token=asiad
@@ -1102,7 +1102,7 @@ https://hbo-livecdn.fptplay.net/live_dzones/hbo_1080p/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"31KBtiW1d8faokKdHuMgSA","kid":"No41ImtgMgW9p1lLt8fUKw"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://sglivevega.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd
+https://vegaviettel.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/185.png", HBO HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/hbo/playlist.m3u8
@@ -1122,7 +1122,7 @@ https://hbo-livecdn.fptplay.net/live_dzones/max.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ {"kty":"oct","k":"SvzpN9oe+qvcTUIob2Apng","kid":"s+0NzC3+PAeW5e9jkrPu3A"},{"kty":"oct","k":"laohac","kid":"vuive"}], "type":"temporary" }
-https://sglivevega.kplus.vn/msky-live/live_kplus/max.smil/manifest.mpd
+https://vegaviettel.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd/msky-live/live_kplus/max.smil/manifest.mpd
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png", Cinemax HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
@@ -1227,7 +1227,7 @@ https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N1muavQiisPtPMoXFiIGhw", "kid":"cTl0GBP/MtyXw6R8ZcP39w" } ], "type":"temporary" }
-https://sglivevega.kplus.vn/msky-live//live_kplus/boomerang.smil/manifest.mpd
+https://vegaviettel.kplus.vn/msky-live/live_kplus/hbo.smil/manifest.mpd/msky-live//live_kplus/boomerang.smil/manifest.mpd
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/197.png", Cartoonito HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 https://code.vthanhtivi.pw/getlink/tvfree/boomerang/playlist.m3u8
