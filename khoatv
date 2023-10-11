@@ -315,17 +315,11 @@ https://tiemnhazunn.click/tv360/tv360.php?id=98
 
 #-*-- VTV độ trễ thấp xem bóng đá -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv1
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv2
+http://stream.cvmtv.site:1000/VTV1HD?token=live
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv3
+http://stream.cvmtv.site:1000/VTV3HD?token=live
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv5
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtvcantho
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-http://103.172.78.65:8081/vmt/vtv5tnb
+http://stream2.cvmtv.site/vtv5?token=live
 
 #-*-- VTVCAB -*--#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png", VTVcab 1 - Vie Giải trí HD
@@ -673,6 +667,19 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv22/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
 
+#-*-- K+ Khoa Tivi - Nguồn Vệ tinh -*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn Vệ tinh" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD 25FPS
+http://103.82.26.118/live_restream/kcinehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Khoa Tivi - Nguồn Vệ tinh" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life HD 25FPS
+http://103.82.26.118/live_restream/klifehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn Vệ tinh" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD 50FPS
+http://103.82.26.118/live_restream/ksport1hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn Vệ tinh" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD 50FPS
+http://103.82.26.118/live_restream/ksport2hd/tracks-v1a1/mono.m3u8
+
 #-*-- K+ Khoa Tivi - Nguồn My K+ -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD 50FPS
 #EXTVLCOPT:http-user-agent=PlayerToken/2.17.2
@@ -737,6 +744,22 @@ https://asia.vthanhtivi.pw/ksport2/index.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ độ trễ cao" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD 25FPS
 https://asia.vthanhtivi.pw/kkids/index.m3u8
+
+#-*-- K+ Khoa Tivi - Nguồn ClipTV -*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD 25FPS
+https://asia.vthanhtivi.pw/kcine/index.m3u8
+
+#EXTINF:-1 tvg-id="klifehd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/f5ve48sm_banner1611a7c5bf816e61726c0b811d28293c_296_168.webp", K+Life HD 25FPS
+https://asia.vthanhtivi.pw/klife/index.m3u8
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/10/16/er71te0y_bannerksport151de005e201a92612de8218003a70bd0_296_168.webp", K+Sport1 FHD 50FPS
+https://asia.vthanhtivi.pw/ksport1/index.m3u8
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+Sport2 FHD 50FPS
+https://asia.vthanhtivi.pw/ksport2c/index.m3u8
+
+#EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/03/dykk8tev_k-kida2ce6e01c94ebecbda9256d9514dc8aa_296_168.webp", K+Kids FHD 25FPS
+https://asia.vthanhtivi.pw/kkidsc/index.m3u8
 
 #-*-- K+ Khoa Tivi - Nguồn My TV -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My TV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine HD 25FPS
