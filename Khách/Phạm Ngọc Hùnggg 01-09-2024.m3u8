@@ -5,18 +5,36 @@
 https://s.id/infokhoatv
 
 #-*-- VTV độ trễ thấp xem bóng đá -*--#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv1
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv2
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv3
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtv5
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ (ĐỘ TRỄ THẤP)
-http://103.172.78.65:8081/vmt/vtvcantho
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-http://103.172.78.65:8081/vmt/vtv5tnb
+#EXTINF:0 tvg-id="vtv1hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv1hd.jpg",VTV1 (HD 8.5Mbps) 
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.117:10254
+#EXTINF:0 tvg-id="vtv2hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv2hd.jpg",VTV2 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.31:10594
+#EXTINF:0 tvg-id="vtv3hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv3hd.jpg",VTV3 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.118:10260
+#EXTINF:0 tvg-id="vtv4hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv4hd.jpg",VTV4 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.32:10600
+#EXTINF:0 tvg-id="vtv5hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv5hd.jpg",VTV5 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.33:10606
+#EXTINF:0 tvg-id="vtv6hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv6hd.jpg",VTV Cần Thơ (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.33:10606
+#EXTINF:0 tvg-id="vtv7hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv7hd.jpg",VTV7 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.1.119:10266
+#EXTINF:0 tvg-id="vtv8hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv8hd.jpg",VTV8 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.34:10612
+#EXTINF:0 tvg-id="vtv9hd" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/vtv9hd.jpg",VTV9 (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.2.35:10618
+#EXTINF:0 tvg-id="vtv5hdtnb" group-title="🏆| VTV độ trễ thấp xem bóng đá" tvg-logo="https://khanggne.github.io/logo/vtv/icon_channel_vtv5-tay-nam-bo_168048836001.jpg", VTV5 Tây Nam Bộ (HD 8.5Mbps)
+#EXTVLCOPT:http-user-agent="Khanggne"
+https://live.khanggtivi.xyz/rtp/?dash=232.84.3.86:11542
 
 #-*-- K+ Khoa Tivi - Nguồn My K+ -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/04/28/oj7f06wz_bannerdb2757bbbe3435e10bf50dce18cac0f9_296_168.webp", K+Cine FHD 50FPS
