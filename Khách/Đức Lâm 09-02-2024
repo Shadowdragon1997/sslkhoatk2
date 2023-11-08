@@ -263,8 +263,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:27:BC:58&stream=1300442&exte
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="http://gg.gg/live4kkkkk",21h00 Sky Sports Main Event UHD
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:5D:EB:29&stream=1299719&extension=ts&play_token=XnnvGedGed
 
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/alkass.png",Alkass One
-http://stream.cvmtv.site/AK1?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
 http://stream.cvmtv.site/CCTV5?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
@@ -273,15 +271,19 @@ http://stream.cvmtv.site/CCTV5p?token=live
 http://stream.cvmtv.site/CCTV16?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://sdf-1a81f.kxcdn.com/assets/img/SD_HDSenderLOutlWEB_mobile.png",Sportdigital
 http://stream.cvmtv.site/SD?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/sporttv-3.png",Sport TV 3
+http://stream.cvmtv.site/SpTV3?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",TEST - SPOTV
+http://stream.cvmtv.site/SPO1?token=live
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/spo2.png",TEST - SPOTV2
+http://stream.cvmtv.site/SPO2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png",ViaplayXtra
 http://stream.cvmtv.site/ViaXtra?token=live
 
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png",TEST - Canal+ Premier League
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png",Canal+ EPL (live only)
 http://stream.cvmtv.site/CPL?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png",Star Sports Select 1
 http://stream.cvmtv.site/StarSL1?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png",Star Sports Select 2
-http://stream.cvmtv.site/StarSL2?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="canalsp1" tvg-logo="https://n-4-3.dcs.redcdn.pl/file/o2/n/edytorEPG/logo/logotype_66245.png",Canal+ Sport 1
 http://stream.cvmtv.site/canal1?token=live
@@ -309,7 +311,7 @@ http://stream.cvmtv.site/MF1?token=live
 http://stream.cvmtv.site/MF2?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="mf3" tvg-logo="https://new.matchtv.ru/assets/2305181729/images/channels/140.jpg",Match Futbol 3
 http://stream.cvmtv.site/MF3?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="matchpre" tvg-logo="https://new.matchtv.ru/assets/202308281003/images/channels/7.jpg",Match Premier
 http://stream.cvmtv.site/MPre?token=live
 
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
@@ -318,14 +320,6 @@ http://stream.cvmtv.site/Polsat?token=live
 http://stream.cvmtv.site/PolsatE?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="polsatspn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Polsat_Sport_News_2021_horizontal_gradient.svg/1920px-Polsat_Sport_News_2021_horizontal_gradient.svg.png",Polsat Sport News
 http://stream.cvmtv.site/PolsatN?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Polsat_Sport_Premium_3_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_3_PPV_2021_gradient.svg.png",Polsat Sport Premium 3
-http://stream.cvmtv.site/PolPre3?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Polsat_Sport_Premium_4_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_4_PPV_2021_gradient.svg.png",Polsat Sport Premium 4
-http://stream.cvmtv.site/PolPre4?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Polsat_Sport_Premium_5_PPV_2021_gradient.svg/800px-Polsat_Sport_Premium_5_PPV_2021_gradient.svg.png",Polsat Sport Premium 5
-http://stream.cvmtv.site/PolPre5?token=live
-#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Polsat_Sport_Premium_6_PPV_2021_gradient.svg/1200px-Polsat_Sport_Premium_6_PPV_2021_gradient.svg.png",Polsat Sport Premium 6
-http://stream.cvmtv.site/PolPre6?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="psgame" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Polsat_Games_2021_gradient.svg/774px-Polsat_Games_2021_gradient.svg.png",Polsat Games
 http://stream.cvmtv.site/PolG?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-id="tvpsport" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvpsport.png",TVP Sport
@@ -335,6 +329,9 @@ http://stream.cvmtv.site/TVPS?token=live
 http://stream.cvmtv.site/FS1?token=live
 #EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",FS2
 http://stream.cvmtv.site/FS2?token=live
+
+#EXTINF:-1 group-title="⚽️| Premier League - Ngoại hạng Anh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png",Sony Entertainment
+http://stream.cvmtv.site/SNE?token=live
 
 #-*-- Livestream bóng đá Rakhoi TV -*--#
 #EXTINF:-1 group-title="⚽️| Livestream bóng đá Rakhoi TV" tvg-logo="https://cakhiastatic.fastlycdnlive.xyz/cakhia/rakhoi3/template/user/img/rakhoi.png", 18:35-26/10: China (W) - Triều Tiên (W) - VL Olympic Nữ 2024 (Giàng A Lú)
