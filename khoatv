@@ -816,23 +816,23 @@ https://hqth.me/vmtkids
 #-*-- K+ Khoa Tivi - Nguồn ClipTV HD -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine HD 50FPS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/cine/playlist.m3u8
+#https://ottpro.fun/cliptv/cine/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action HD 50FPS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/life/playlist.m3u8
+#https://ottpro.fun/cliptv/life/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 HD 50FPS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/sport1/playlist.m3u8
+#https://ottpro.fun/cliptv/sport1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 HD 50FPS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/sport2/playlist.m3u8
+#https://ottpro.fun/cliptv/sport2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids HD 25FPS
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/kids/playlist.m3u8
+#https://ottpro.fun/cliptv/kids/playlist.m3u8
 
 #-*-- K+ Khoa Tivi - Nguồn ClipTV SD -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV SD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine SD 50FPS
@@ -840,35 +840,35 @@ https://ottpro.fun/cliptv/kids/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"sEfkP2QkyLp2U6OwLRwBxg", "kid":"NTbfknoRNVqZGVoY+6Xspw" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/Cine/manifest.mpd
+#https://ottpro.fun/cliptv/Cine/manifest.mpd
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV SD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action SD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kUsPDegdevDno4lKwnPMPQ", "kid":"0WE21agnPE2RvyrGR5I9og" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/Life/manifest.mpd
+#https://ottpro.fun/cliptv/Life/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV SD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 SD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2XGjALRMoZNEaIU8bdPXbg", "kid":"Y3U5KdoFNeqWgPOY8EoG0A" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/Sport1/manifest.mpd
+#https://ottpro.fun/cliptv/Sport1/manifest.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV SD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 SD 50FPS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eaD220s24/qK5dnzRjHDFQ", "kid":"/IZX7w1mOaKiOMD+TFULmA" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/Sport2/manifest.mpd
+#https://ottpro.fun/cliptv/Sport2/manifest.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV SD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids SD 25FPS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2Ddi6x1x2ziBxJPL7jpwIg", "kid":"ki8T5YTiO/WDe3EEMXDBCQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-https://ottpro.fun/cliptv/Kids/manifest.mpd
+#https://ottpro.fun/cliptv/Kids/manifest.mpd
 
 #-*-- K+ Khoa Tivi - Nguồn My K+ độ trễ cao -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ độ trễ cao" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine HD 25FPS
