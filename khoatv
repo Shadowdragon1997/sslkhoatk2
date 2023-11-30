@@ -774,6 +774,7 @@ https://ottpro.fun/myk/Sport2/default/index.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Chg8bNxScyOPIeNCS1n7pg","kid":"IMWsWWZNT2mQE4QJsDIirQ"},{"kty":"oct","k":"1xUyoB4Rxx/dqXk3RFGK8Q","kid":"aAmsWWZNT2mQE4QJsDIirQ"},{"kty":"oct","k":"aS3/mk1FngW3YVRAV3Yx+Q","kid":"dQ3wimZNT2mQE4QJsDIirQ"},{"kty":"oct","k":"c9bpTsh5EBufqE1zgRVsPw","kid":"YRrworVNT2mQE4QJsDIirQ"}],"type":"temporary"}https://ottpro.fun/myk/Kids/default/index.mpd
+https://ottpro.fun/myk/Kids/default/index.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 1" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
