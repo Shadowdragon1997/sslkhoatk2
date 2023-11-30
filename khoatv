@@ -799,19 +799,36 @@ https://ottpro.fun/myk/Live3/default/index.mpd
 
 #-*-- K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2 -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine FHD 50FPS
-https://hqth.me/vmtkpluscine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.171.93.40:1936/live/kcinehd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action FHD 50FPS
-https://hqth.me/vmtkplusaction
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.171.93.40:1936/live/kactionhd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 FHD 50FPS
-https://hqth.me/vmtkplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.171.93.40:1936/live/ksport1hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 FHD 50FPS
-https://hqth.me/vmtkplus2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.171.93.40:1936/live/ksport2hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids FHD 25FPS
-https://hqth.me/vmtkids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.57.222.197:8080/kkids
+
+#EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.57.222.197:8080/klive1
+
+#EXTINF:-1 tvg-id="klive2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+Live2 HD 25FPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.57.222.197:8080/klive2
+
+#EXTINF:-1 tvg-id="klive3hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://i.imgur.com/WpmJSpu.png", K+Live3 HD 25FPS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+http://103.57.222.197:8080/klive3
 
 #-*-- K+ Khoa Tivi - Nguồn ClipTV HD -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV HD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine HD 50FPS
@@ -1047,6 +1064,31 @@ https://hqth.me/vmtkids
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"dBn/6u5EOc28lGp48UPN6A","kid":"un399dfrTrWU0h+HjAIftw"}],"type":"temporary"}
 #https://hqth.me/khoakkids_hd
+
+#-*-- Champions League Khoa Tivi -*--#
+#EXTINF:-1 tvg-id="ksktt1" group-title="💚| Champions League Khoa Tivi" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+https://hqth.me/sktt1
+
+#EXTINF:-1 tvg-id="ksktt2" group-title="💚| Champions League Khoa Tivi" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+https://hqth.me/sktt2
+
+#EXTINF:-1 tvg-id="ksktt3" group-title="💚| Champions League Khoa Tivi" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+https://hqth.me/sktt3
+
+#EXTINF:-1 tvg-id="ksktt4" group-title="💚| Champions League Khoa Tivi" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+https://hqth.me/sktt4
+
+#EXTINF:-1 tvg-id="ksktt5" group-title="💚| Champions League Khoa Tivi" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+https://hqth.me/sktt5
+
+#EXTINF:-1 tvg-id="ksktt6" group-title="💚| Champions League Khoa Tivi" tvg-logo="https://cdn.antmediatv.xyz/sktt.png", SỰ KIỆN THỂ THAO 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
+https://hqth.me/sktt6
 
 #-*-- Thiết yếu -*--#
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV HD
