@@ -695,31 +695,31 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctvpth/playlist.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2lb2AeKe0cxRby3AhBsYAA","kid":"jcxTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"O3skad8i3vyeLzo2sv1Iow","kid":"1RBTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"LAuuGwWicxMHHfgizGoe1w","kid":"4hSX77mA/dRq0s8sBDJZcg"},{"kty":"oct","k":"TB9ZCHEHwu7xx+GnxjbrNg","kid":"ziGXBwiA/dRq0s8sBDJZcg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"c2BRS4Of3TGjx81yeNuv1g","kid":"GrINtYk3awpNBcvkj+4Gnw"},{"kty":"oct","k":"XHkD3VacB3LQ04w1HF4m9A","kid":"YvYNtYk3awpNBcvkj+4Gnw"},{"kty":"oct","k":"DWcUWZVIzv9RzwgjqN4a0A","kid":"b/pR5ok3awpNBcvkj+4Gnw"},{"kty":"oct","k":"0u44xmRQnn+7n0AlFvg/tw","kid":"WwdR/tg3awpNBcvkj+4Gnw"}],"type":"temporary"}
 https://synguyen.net/kplus/id/cine.mpd
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"01qC8wCIb6VmT7tzXiDF4Q","kid":"XvmjhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"RwfGdLXaPoAoIwr5iyaX3g","kid":"pj2jhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"zDGYpHcdp1s/5RQVjDZdBQ","kid":"s0HntzF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"yyjIrf+1RqdQ+ALw308YKg","kid":"n07nz4B7ABFmXxwpQ7+BrA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AUuKZisZpDtx2mkfd2wFww","kid":"70GCaooUFhhzhtXRtnlHvA"},{"kty":"oct","k":"VdUBqAQaZevr0ka4lx/UAw","kid":"N4WCaooUFhhzhtXRtnlHvA"},{"kty":"oct","k":"9BvVoILzZAVqh/lmxKDl0g","kid":"RInGm4oUFhhzhtXRtnlHvA"},{"kty":"oct","k":"CzhTJBuARONtLW7ObnWrNg","kid":"MJbGs9kUFhhzhtXRtnlHvA"}],"type":"temporary"}
 https://synguyen.net/kplus/id/life.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+KkG7DwPIHgJT6K0tPXb7A","kid":"vAHtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"XluxL5V/7pi2b7jbeXis/g","kid":"BEXtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"xi8LrTa48QQdTl3pK+nteg","kid":"EUkxPVnthFr4ul/t9Jds+A"},{"kty":"oct","k":"oV6/vLQo1++oHA1QGdLTog","kid":"/VYxVajthFr4ul/t9Jds+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kJAyG4hrwnZo6TaHINJD9A","kid":"+k2sY5rPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"AbvM6/Z9iyFXcermfivkAg","kid":"QpGsY5rPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"JsHUn9e2/36mFhQEoNeY5A","kid":"T5XwlJrPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"0UZQ6TyPK3Kroat8fyC/Pw","kid":"O6LwrOnPbZ7MG9w0MH6RfQ"}],"type":"temporary"}
 https://synguyen.net/kplus/id/sport1.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QA+WzbwEaznK8z38S+cieQ","kid":"DK6OmdwmF534miqOkA6GVg"},{"kty":"oct","k":"6XkCOtlq6YH0Mg3rR/SyvQ","kid":"VPKOmdwmF534miqOkA6GVg"},{"kty":"oct","k":"PIzOZxq4iV6js/O/cG/GqA","kid":"YfbSytwmF534miqOkA6GVg"},{"kty":"oct","k":"AgquGAi2sjHJd0XV4RxFtQ","kid":"TQPS4ismF534miqOkA6GVg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sCgm+pYjeHBdTIeiQT8nFw","kid":"nK3+JBT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"r1p9+O5BLIfGZoz7+CyUFA","kid":"5PH+JBT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"0yfAVXSJn3aZqQo7NNrBSQ","kid":"8fVCVRT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"TsK7BlY80FHgeVP9j+dBSg","kid":"3QJCbWP3SXJp/zsy3MzZDQ"}],"type":"temporary"}
 https://synguyen.net/kplus/id/sport2.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids FHD 25FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RfVEd2Y4TzQr2dgc+VKQGw","kid":"GZhY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"J3OK6ab1Xp7QW1+7j61jWw","kid":"YdxY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"kQRGvFfPYyZgCL6hq1rDwg","kid":"buCcDnEwlmb5+yMez/OlJw"},{"kty":"oct","k":"suQCoB/qJh+3eFwA1nrwQQ","kid":"Wu2cJsAwlmb5+yMez/OlJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zNmfcUnHo9t771L6B0rUGw","kid":"AoV1gFaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"uF5zVyNdrk598bfEmfZ4IQ","kid":"Ssl1gFaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"IuZ4kfW58XIrbCJ0VKy6wQ","kid":"V825sVaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"f0dUncZmscFoDZ5+EXjGLA","kid":"Q9q5yaWFVkVhcOoTvgqiLQ"}],"type":"temporary"}
 https://synguyen.net/kplus/id/kids.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
@@ -745,35 +745,35 @@ https://synguyen.net/kplus/id/live3.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2lb2AeKe0cxRby3AhBsYAA","kid":"jcxTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"O3skad8i3vyeLzo2sv1Iow","kid":"1RBTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"LAuuGwWicxMHHfgizGoe1w","kid":"4hSX77mA/dRq0s8sBDJZcg"},{"kty":"oct","k":"TB9ZCHEHwu7xx+GnxjbrNg","kid":"ziGXBwiA/dRq0s8sBDJZcg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"c2BRS4Of3TGjx81yeNuv1g","kid":"GrINtYk3awpNBcvkj+4Gnw"},{"kty":"oct","k":"XHkD3VacB3LQ04w1HF4m9A","kid":"YvYNtYk3awpNBcvkj+4Gnw"},{"kty":"oct","k":"DWcUWZVIzv9RzwgjqN4a0A","kid":"b/pR5ok3awpNBcvkj+4Gnw"},{"kty":"oct","k":"0u44xmRQnn+7n0AlFvg/tw","kid":"WwdR/tg3awpNBcvkj+4Gnw"}],"type":"temporary"}
 https://ottpro.fun/myk/Cine/default/index.mpd
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"01qC8wCIb6VmT7tzXiDF4Q","kid":"XvmjhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"RwfGdLXaPoAoIwr5iyaX3g","kid":"pj2jhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"zDGYpHcdp1s/5RQVjDZdBQ","kid":"s0HntzF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"yyjIrf+1RqdQ+ALw308YKg","kid":"n07nz4B7ABFmXxwpQ7+BrA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AUuKZisZpDtx2mkfd2wFww","kid":"70GCaooUFhhzhtXRtnlHvA"},{"kty":"oct","k":"VdUBqAQaZevr0ka4lx/UAw","kid":"N4WCaooUFhhzhtXRtnlHvA"},{"kty":"oct","k":"9BvVoILzZAVqh/lmxKDl0g","kid":"RInGm4oUFhhzhtXRtnlHvA"},{"kty":"oct","k":"CzhTJBuARONtLW7ObnWrNg","kid":"MJbGs9kUFhhzhtXRtnlHvA"}],"type":"temporary"}
 https://ottpro.fun/myk/Life/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+KkG7DwPIHgJT6K0tPXb7A","kid":"vAHtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"XluxL5V/7pi2b7jbeXis/g","kid":"BEXtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"xi8LrTa48QQdTl3pK+nteg","kid":"EUkxPVnthFr4ul/t9Jds+A"},{"kty":"oct","k":"oV6/vLQo1++oHA1QGdLTog","kid":"/VYxVajthFr4ul/t9Jds+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kJAyG4hrwnZo6TaHINJD9A","kid":"+k2sY5rPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"AbvM6/Z9iyFXcermfivkAg","kid":"QpGsY5rPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"JsHUn9e2/36mFhQEoNeY5A","kid":"T5XwlJrPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"0UZQ6TyPK3Kroat8fyC/Pw","kid":"O6LwrOnPbZ7MG9w0MH6RfQ"}],"type":"temporary"}
 https://ottpro.fun/myk/Sport1/default/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QA+WzbwEaznK8z38S+cieQ","kid":"DK6OmdwmF534miqOkA6GVg"},{"kty":"oct","k":"6XkCOtlq6YH0Mg3rR/SyvQ","kid":"VPKOmdwmF534miqOkA6GVg"},{"kty":"oct","k":"PIzOZxq4iV6js/O/cG/GqA","kid":"YfbSytwmF534miqOkA6GVg"},{"kty":"oct","k":"AgquGAi2sjHJd0XV4RxFtQ","kid":"TQPS4ismF534miqOkA6GVg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sCgm+pYjeHBdTIeiQT8nFw","kid":"nK3+JBT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"r1p9+O5BLIfGZoz7+CyUFA","kid":"5PH+JBT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"0yfAVXSJn3aZqQo7NNrBSQ","kid":"8fVCVRT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"TsK7BlY80FHgeVP9j+dBSg","kid":"3QJCbWP3SXJp/zsy3MzZDQ"}],"type":"temporary"}
 https://ottpro.fun/myk/Sport2/default/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 1" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids FHD 25FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RfVEd2Y4TzQr2dgc+VKQGw","kid":"GZhY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"J3OK6ab1Xp7QW1+7j61jWw","kid":"YdxY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"kQRGvFfPYyZgCL6hq1rDwg","kid":"buCcDnEwlmb5+yMez/OlJw"},{"kty":"oct","k":"suQCoB/qJh+3eFwA1nrwQQ","kid":"Wu2cJsAwlmb5+yMez/OlJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zNmfcUnHo9t771L6B0rUGw","kid":"AoV1gFaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"uF5zVyNdrk598bfEmfZ4IQ","kid":"Ssl1gFaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"IuZ4kfW58XIrbCJ0VKy6wQ","kid":"V825sVaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"f0dUncZmscFoDZ5+EXjGLA","kid":"Q9q5yaWFVkVhcOoTvgqiLQ"}],"type":"temporary"}
 https://ottpro.fun/myk/Kids/default/index.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 1" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
@@ -802,35 +802,35 @@ https://ottpro.fun/myk/Live3/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"2lb2AeKe0cxRby3AhBsYAA","kid":"jcxTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"O3skad8i3vyeLzo2sv1Iow","kid":"1RBTvrmA/dRq0s8sBDJZcg"},{"kty":"oct","k":"LAuuGwWicxMHHfgizGoe1w","kid":"4hSX77mA/dRq0s8sBDJZcg"},{"kty":"oct","k":"TB9ZCHEHwu7xx+GnxjbrNg","kid":"ziGXBwiA/dRq0s8sBDJZcg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"c2BRS4Of3TGjx81yeNuv1g","kid":"GrINtYk3awpNBcvkj+4Gnw"},{"kty":"oct","k":"XHkD3VacB3LQ04w1HF4m9A","kid":"YvYNtYk3awpNBcvkj+4Gnw"},{"kty":"oct","k":"DWcUWZVIzv9RzwgjqN4a0A","kid":"b/pR5ok3awpNBcvkj+4Gnw"},{"kty":"oct","k":"0u44xmRQnn+7n0AlFvg/tw","kid":"WwdR/tg3awpNBcvkj+4Gnw"}],"type":"temporary"}
 https://wintv.fun/kcine/index.mpd
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"01qC8wCIb6VmT7tzXiDF4Q","kid":"XvmjhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"RwfGdLXaPoAoIwr5iyaX3g","kid":"pj2jhjF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"zDGYpHcdp1s/5RQVjDZdBQ","kid":"s0HntzF7ABFmXxwpQ7+BrA"},{"kty":"oct","k":"yyjIrf+1RqdQ+ALw308YKg","kid":"n07nz4B7ABFmXxwpQ7+BrA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"AUuKZisZpDtx2mkfd2wFww","kid":"70GCaooUFhhzhtXRtnlHvA"},{"kty":"oct","k":"VdUBqAQaZevr0ka4lx/UAw","kid":"N4WCaooUFhhzhtXRtnlHvA"},{"kty":"oct","k":"9BvVoILzZAVqh/lmxKDl0g","kid":"RInGm4oUFhhzhtXRtnlHvA"},{"kty":"oct","k":"CzhTJBuARONtLW7ObnWrNg","kid":"MJbGs9kUFhhzhtXRtnlHvA"}],"type":"temporary"}
 https://wintv.fun/klife/index.mpd
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"+KkG7DwPIHgJT6K0tPXb7A","kid":"vAHtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"XluxL5V/7pi2b7jbeXis/g","kid":"BEXtDFnthFr4ul/t9Jds+A"},{"kty":"oct","k":"xi8LrTa48QQdTl3pK+nteg","kid":"EUkxPVnthFr4ul/t9Jds+A"},{"kty":"oct","k":"oV6/vLQo1++oHA1QGdLTog","kid":"/VYxVajthFr4ul/t9Jds+A"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kJAyG4hrwnZo6TaHINJD9A","kid":"+k2sY5rPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"AbvM6/Z9iyFXcermfivkAg","kid":"QpGsY5rPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"JsHUn9e2/36mFhQEoNeY5A","kid":"T5XwlJrPbZ7MG9w0MH6RfQ"},{"kty":"oct","k":"0UZQ6TyPK3Kroat8fyC/Pw","kid":"O6LwrOnPbZ7MG9w0MH6RfQ"}],"type":"temporary"}
 https://wintv.fun/ksport1/index.mpd
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 FHD 50FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QA+WzbwEaznK8z38S+cieQ","kid":"DK6OmdwmF534miqOkA6GVg"},{"kty":"oct","k":"6XkCOtlq6YH0Mg3rR/SyvQ","kid":"VPKOmdwmF534miqOkA6GVg"},{"kty":"oct","k":"PIzOZxq4iV6js/O/cG/GqA","kid":"YfbSytwmF534miqOkA6GVg"},{"kty":"oct","k":"AgquGAi2sjHJd0XV4RxFtQ","kid":"TQPS4ismF534miqOkA6GVg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"sCgm+pYjeHBdTIeiQT8nFw","kid":"nK3+JBT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"r1p9+O5BLIfGZoz7+CyUFA","kid":"5PH+JBT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"0yfAVXSJn3aZqQo7NNrBSQ","kid":"8fVCVRT3SXJp/zsy3MzZDQ"},{"kty":"oct","k":"TsK7BlY80FHgeVP9j+dBSg","kid":"3QJCbWP3SXJp/zsy3MzZDQ"}],"type":"temporary"}
 https://wintv.fun/ksport2/index.mpd
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids FHD 25FPS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"RfVEd2Y4TzQr2dgc+VKQGw","kid":"GZhY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"J3OK6ab1Xp7QW1+7j61jWw","kid":"YdxY3XEwlmb5+yMez/OlJw"},{"kty":"oct","k":"kQRGvFfPYyZgCL6hq1rDwg","kid":"buCcDnEwlmb5+yMez/OlJw"},{"kty":"oct","k":"suQCoB/qJh+3eFwA1nrwQQ","kid":"Wu2cJsAwlmb5+yMez/OlJw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"zNmfcUnHo9t771L6B0rUGw","kid":"AoV1gFaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"uF5zVyNdrk598bfEmfZ4IQ","kid":"Ssl1gFaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"IuZ4kfW58XIrbCJ0VKy6wQ","kid":"V825sVaFVkVhcOoTvgqiLQ"},{"kty":"oct","k":"f0dUncZmscFoDZ5+EXjGLA","kid":"Q9q5yaWFVkVhcOoTvgqiLQ"}],"type":"temporary"}
 https://wintv.fun/kkids/index.mpd
 
 #EXTINF:-1 tvg-id="klive1hd" group-title="💚| K+ Khoa Tivi - Nguồn My K+ FHD dự phòng 2" tvg-logo="https://i.imgur.com/GNGrfJy.png", K+Live1 HD 25FPS
