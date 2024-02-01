@@ -639,7 +639,7 @@ http://14.225.207.167:8080/play/Rh4pwMQAogiClKTQx-J3NLw-gAJXc2i0-PliyjT1Zvk/ts
 http://14.225.207.167:8080/play/i8pGIWOn1yDd9aqFAkrs1SbShsWQH3iE0856XL8Rf1U/ts
 
 #-*-- K+ Khoa Tivi - Nguồn TV360 FHD -*--#
-#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn TV360 FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine FHD 50FPS
+#EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn TV360 FHD" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine FHD 50FPS
 http://14.225.207.167:8080/play/Rh4pwMQAogiClKTQx-J3NEvV3uP5FiigNpRmL3s77n8/ts
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn TV360 FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action FHD 50FPS
@@ -1053,7 +1053,7 @@ https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #-*-- Khám phá -*--#
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" group-logo="https://cdn.hqth.me/logo/category/discovery.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png", Animal Planet
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HVOI4HgUFevOyZFPWtdYdQ", "kid":"7G8HLHElN3qbwK5hWYCV9A" } ], "type":"temporary" }
@@ -1097,7 +1097,7 @@ https://code.vthanhtivi.pw/getlink/eazie/243116/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 #-*-- Giải trí -*--#
-#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
+#EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" group-logo="https://cdn.hqth.me/logo/category/entertainment.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD
 http://14.225.207.167:8080/play/bHvQ2l5lVPOpNZbbHPR9v_m59oCaOo0_PbM5dC4fHLQ/ts
 #EXTINF:-1 tvg-id="axnhd" group-title="🤣| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png", AXN HD Dự phòng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
