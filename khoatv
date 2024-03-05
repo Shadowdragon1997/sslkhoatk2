@@ -567,19 +567,19 @@ https://ottpro.fun/myk/Live3/default/index.mpd
 
 #-*-- K+ Khoa Tivi - Nguồn ClipTV FHD -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV FHD" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine FHD 50FPS
-https://ott3.khanggtivi.xyz/plus/data/kcine.m3u8
+https://hcm.nekocdn.xyz/KCINE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kaction" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/10/19/nyuyfdt5_bannercf73978b090627777d631b6dd4fa17bb_296_168.webp", K+Action FHD 50FPS
 https://ott3.khanggtivi.xyz/plus/data/kaction.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/v3mpxmb5_bannerf9ce64a31469b5a1448a4861f7aa9d07_296_168.webp", K+Sport1 FHD 50FPS
-https://ott3.khanggtivi.xyz/plus/data/ksports1.m3u8
+https://hcm.nekocdn.xyz/KSPORT1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/23/h3zo952z_ngang_296_168.webp", K+Sport2 FHD 50FPS
-https://ott3.khanggtivi.xyz/plus/data/ksports2.m3u8
+https://hcm.nekocdn.xyz/KSPORT2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="💚| K+ Khoa Tivi - Nguồn ClipTV FHD" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/07/1b3bttm5_k-kidnewse4376324356274dd362f49a3f0b17872_296_168.webp", K+Kids FHD 25FPS
-https://ott3.khanggtivi.xyz/plus/data/kkids.m3u8
+https://hcm.nekocdn.xyz/KACTION/tracks-v1a1/mono.m3u8
 
 #-*-- K+ Khoa Tivi - Nguồn My TV FHD -*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="💚| K+ Khoa Tivi - Nguồn My TV FHD" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/30/4gnqg3zn_banner_296_168.webp", K+Cine FHD 50FPS
