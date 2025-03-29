@@ -971,15 +971,15 @@ http://192.168.100.27:4000/udp/225.1.4.79:30120
 
 #-------------------K+-------------------#
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-https://truyenhinh.click/kcinehd
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 https://truyenhinh.click/kactionhd
+#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+https://truyenhinh.click/kcinehd
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
-http://pcrtv.ddns.net:9981/stream/channelid/1422371343?ticket=4F32008848DD41F1E75072A2DA34806AD270EA3F&profile=pass
+https://truyenhinh.click/kkidshd
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
-http://pcrtv.ddns.net:9981/stream/channelid/744534662?ticket=F999768419343D1D0F1D3E6FF5C56633C47344A6&profile=pass
+https://truyenhinh.click/ksport1hd
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
-http://pcrtv.ddns.net:9981/stream/channelid/163976082?ticket=855BBFB71F726834580A5AD07E4B287A740F53A9&profile=pass
+https://truyenhinh.click/ksport2hd
 
 #EXTINF:0,(MSky Infocard)
 http://192.168.100.27:4000/udp/225.1.1.138:30120
