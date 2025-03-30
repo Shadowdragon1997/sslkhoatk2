@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=7500000
+/clrlive_10.m3u8?c=vstv802&q=hd&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TyULLdU3v&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.131&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=5500000
+/clrlive_10.m3u8?c=vstv802&q=sd&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TyULLdU3v&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.131&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
