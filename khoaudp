@@ -874,22 +874,43 @@ http://192.168.100.27:4000/udp/225.1.4.174:30120
 #EXTINF:-1 tvg-id="mytv801" group-title="TH|SưKiện.MyTv" group-logo="https://mytvvnpt.net/files/assets/logomytv.png" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 801
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv801
-
+https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv801&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849ToMxvVb7N&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="mytv802" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 802
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv802
-
+https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv802&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TyULLdU3v&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.131&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="mytv803" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 803
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv803
-
+https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv803&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TO1nWd2nN&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="mytv804" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 804
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv804
+https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv804&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T1tEamlUo&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTINF:-1 tvg-id="mytv806" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 806
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s12982.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv806&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849Tm4lqSVU7&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.129.82&pkg=pkg32.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTINF:-1 tvg-id="mytv807" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 807
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71139.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv807&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TIyaPCCU5&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.139&pkg=pkg32.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTINF:-1 tvg-id="mytv903" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 903
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s12982.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv707&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TCVRQZxZj&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.129.82&pkg=pkg31.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTINF:-1 tvg-id="mytv904" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 904
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv708&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TRwOMoxa9&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg31.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTINF:-1 tvg-id="mytv905" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 905
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s12983.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv709&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849ToPkqIBLu&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.129.83&pkg=pkg31.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTINF:-1 tvg-id="mytv906" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 906
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s12983.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv710&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849Tr8NnwWaG&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.129.83&pkg=pkg30.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 
 #-------------------TV360 Service-------------------#
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
