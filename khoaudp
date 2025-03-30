@@ -26,53 +26,85 @@ http://192.168.100.27:4000/udp/225.1.1.108:30120
 
 #-------------------VTVCAB ON-------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",ON Vie Giải trí
-http://171.238.180.86:18080/211.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3HDjOpsrpONI0z7sWxLyywA9GMzzZs+U3nDH/+onV8FHWquXOwPsvtGlQE7Ag+7RD4jpHo+7wnlu2olzh2/2rMIcHQRupeDbDgrrYlsffXMd/JraNcEAW/aWAgOvw7K9KArVWSpEOL7Sy1RKFY16/Ixa5Y9P4ZqZ3Aj2QrTlSu9&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71139.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv310&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849THKGzE758&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.139&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab2-on-phim-viet/${start}/${offset}", ON Phim Việt
-http://171.238.180.86:18080/348.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9kP2bhmZcvA2Sq3uoTIefdUU4CdeRJReD+6Voj8MprZlnGFXXn3r2u75HFjz97+3kmqGfhzUXllKrBN/b4VZjANqP14/7uywnJ5zeVUlyGkLiK8zrOGh96wLvHFmIGGUp2er1oTxMHMLvwgfMz6nIpFkvb5Wfru3YQiAN3esLZT&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv303&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TkTKMNdZD&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onsports
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab4-phim-dac-sac/${start}/${offset}", On Movies
-http://171.238.180.86:18080/346.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/4h+kYU4bvWjIo8fkHNHruiEOj1mGE5VstOrGrOzIDuq42uF8qhRXe4OtNeLhMGW5KV2UtjMdD9+cJ3pUrj0gCmNVBYe93HcD5BO7kMzDMM40d7ngnchYNFYen6QDSC8fhldZCdU5ODmahNb/lhG8sNVut4mL9vsC3ZwQAA5LPWL&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv493&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TxSOorIxU&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab5-e-channel/${start}/${offset}", ON E- Channel
-http://171.238.180.86:18080/212.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9Us4O0IhM9Mf6fQnu7KKdxjPuHO/qPEBBRpii6KizGOSm8fpXLocfYfgIkOeVHXV8Scw7SCDAaCePljy7IEHknvyDbohniKaHyw++XFh/WgQG5pM/F6ilr3/b/iKX8eZ/vAiVRJRzLP/KiFlm/wDvUGnqjWdRgz92EqWELfyhyy&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv306&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T4J8EYPEq&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.131&pkg=pkg33.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onsports%2B
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab7/${start}/${offset}", On O2TV
-https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDMxMzQsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.VRazfW2Zf-oivNPLiYY_cECz4_0avvUARfSWIsRkdEs&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s12983.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv034&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TK8B6zvzX&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.129.83&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}", On BiBi
-http://171.238.180.86:18080/263.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0hdeCoIgENLT+0zi+h2dzHZOctLMSXAQuImGbXk4bWfqoClga6gpuCMuGcm6Rj1kBPLBEZbiNCNdKsJvkbDNDuuxrf/y7EIVDjohtPRALf6IrEKiuJuSVh5qq9sXIvKXMKWxEi99O3vCVfuZYUCnAih&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s12982.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv301&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TtucTpKha&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.129.82&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab9-info-tv/${start}/${offset}", ON Info TV
-http://171.238.180.86:18080/349.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52TrvmGZ0WmO1RPyUGA2Ss1HwHj6aLZDd8l1mVrOnOfg7ovvayiha1j4yJ8KHE8yIizJfaOwe5qLGgzAWa+M/vemwYWwIjoGAxQmJRErRYB7IaX2pAXX/DhgSiYJ5lc7UFK6FMceacRtz4Dm45lHebT6YlnZNM4sf7ak1kk3+xf&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71134.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv494&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TEluxHqmc&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.134&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
-http://171.238.180.86:18080/226.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9kP2bhmZcvA2Sq3uoTIefdUU4CdeRJReD+6Voj8MprZgAhNnpMXvFEWDvLslTFutlSDantNuayLTKaGfhmaE573y9qozeBBNcqoAN1EjmShxTzmi70TLWvkf099Fm4eNfZyuc0QVi9EbnFVbBy2IjCc4mbiuBuSZisB8/WhfjoH&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv305&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T40WMDCYV&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
-http://171.238.180.86:18080/219.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5mWqjBLTD7sSHkxICunXOCvymDHlKwlkmIIBiPsBrKBvB/PZ0eb805nRv6xUfFjvKjpKEtA0Hm3g69Xkb8TgwZhpbSsgFNOlDL1npoG8/PxQnwXlJaiTr4jz0HmTPCRFAFbplSYqMt7NCFz61ToP+GeKdnAQcgjtY/K57A7mgC7&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv307&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T3TJ8fI5o&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.131&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://giaitritv.me/uploads/tv_image/sm/vtvcab-15-on-music.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
-https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDM1MDMsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.IF3KxPqSF31oaXAeHqWJ4CW4luZjZz1WyB5XlkEuK1s&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71134.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv495&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TyT00J3aH&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.134&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onfootball
 #EXTINF:-1 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
-http://171.238.180.86:18080/350.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52N+gR0fR8f77volgz3WQncaXPCuMinowr/lQWXUSb4WTNJ3oZv3NCFrA174ETeUacsSvEaTSbdQSc5/tz211TJmlabIy1ofzPpA+9NIgHaFZi5576tKS8kdgYZIXq/3TVWdvXqg3Tf8OCW1pwYtXtRsUSQ3PSU7svHbnWqUuNm&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv309&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TrkrEUNWr&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onnews
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
-http://171.238.180.86:18080/339.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52TrvmGZ0WmO1RPyUGA2Ss1HwHj6aLZDd8l1mVrOnOf4SPHokxKB4eZAYnWkTxlvSHrhb+tPvh2b2FY1icA9dsugwM7wrJwOvJW5wImjiJ6YD09cSJqX//z7rOwRcvFIiOA5+OcqtPmIpxPjLdli7saa6uFQ4sN6/tp9DMJq+Lh&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv308&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TU1KYpTkC&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
-http://171.238.180.86:18080/351.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0hdeCoIgENLT+0zi+h2dzHZMWiYudHq4MA3iQloQPJnoV2Us8K4OuTK1DF4Rlncu41+OZG4FHjqmaagbWTZ81UQF+vRmTwusqWVxJHpfrthN0nLxZKGOGBdhnqlTtvGm9LElz+p7wbD9VpBulvXVssi&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv325&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TPfLfPSqn&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
-http://171.238.180.86:18080/234.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/wbaOqV8Dh+kqKKTpUey/JxsGp8aC+N+EsYLVmTKDMcNV3Nbg4E5IOM3Y0GSckuQ8gpinNxXNttWi+42EWUZbxThHPuNPh3+sNtfHk5wRsStIQEWZRj7cw/LdUR3gNucNDQqUorIUEZeQ934T5Zy5H0SxoUMdN0Yp8stBGk3/a02&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv602&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849Tepdq8pX4&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
-http://171.238.180.86:18080/347.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/2Qd4bmeJmhfoECJRYRqmfRdvNOD5lnZ9tXkNVMd9AwbCOAcpGmXAglGInhxeQXGfUTJkME1e/rHME6D5RBNbshjpCRtHH8FOM5ED8DCtC0k9/l99/q1+ia7p6/z7xxgGgxyvSRGYIAaWO2D8idkLDO524e1nPLnvpZLAtx9gbnd&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv601&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849ThHnxTJ9G&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.136&pkg=pkg30.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", ON Golf
-http://171.238.180.86:18080/289.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/wZRnyZtCL/7wAGcMNIMF5mgEFKrp87r3HbZPE1eUZMmQgQW4PGDMrVjyUvxJC9pGusjtXVJ5S+ePLKvz+Z9NxUdRvVW01DNyuxnjY4WRPfC7nzSV7cuIkLrexwNkEskRRhmYhkUvugcsH3HGrpNNG5/X7tni7kB4jHcCOzkIXmZ&uid=36175783
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/ongolf
 #EXTINF:-1 tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/0f3eeb2f-1482-4ea5-a42b-68c22266fd38.jpg?auto=format&fit=max&w=640", BTV5 - ON SPORT ACTION
 https://tth.vn/BTV5ONACTION
 
