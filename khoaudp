@@ -1014,34 +1014,26 @@ http://192.168.100.27:4000/udp/225.1.1.122:30120
 http://192.168.100.27:4000/udp/225.1.4.79:30120
 
 #-------------------K+ Mytv-------------------#
-#EXTINF:-1 tvg-id="kaction" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+#EXTINF:-1 tvg-id="kaction" group-title="K+ Mytv" group-logo="http://embasau.ddns.net/logo/LogoGR/Kmytv.PNG" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/ka
-#EXTINF:-1 tvg-id="kcinehd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ Mytv" group-logo="http://embasau.ddns.net/logo/LogoGR/Kmytv.PNG" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/kc
-#EXTINF:-1 tvg-id="kidshd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
+#EXTINF:-1 tvg-id="kidshd" group-title="K+ Mytv" group-logo="http://embasau.ddns.net/logo/LogoGR/Kmytv.PNG" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/kk
-#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Mytv" group-logo="http://embasau.ddns.net/logo/LogoGR/Kmytv.PNG" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/k1
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ Mytv" group-logo="http://embasau.ddns.net/logo/LogoGR/Kmytv.PNG" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/k2
-
-#-*--TH|K+ ClipTV--*-#
-#EXTINF:-1 tvg-id="ksport1hd" group-title="TH|K+ ClipTV" group-logo="http://ebs3636.ddns.net:8889/logo/LogoGR/cliptv.png" tvg-logo="http://ebs3636.ddns.net:8889/logo/LogoK+/KSPORT1.png",K+Sport1 HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fl+dmlqrCpIY6UcHmhVtPQ", "kid":"YWTDVuu4P/2Igoe2PM0WOw" } ], "type":"temporary" }
-http://106eb3818.vws.vegacdn.vn/EVgECPChRvjw729h_2RXfg/1743389978/MzEzMzkwNTQ4/cliptv_live_drm/amlst:ksport1hd/manifest.mpd
 
 #EXTINF:0,(MSky Infocard)
 http://192.168.100.27:4000/udp/225.1.1.138:30120
