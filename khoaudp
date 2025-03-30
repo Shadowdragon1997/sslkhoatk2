@@ -27,80 +27,65 @@ http://192.168.100.27:4000/udp/225.1.1.108:30120
 #-------------------VTVCAB ON-------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/fyT_xa-g-Pk/hq720.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-giai-tri-hd/${start}/${offset}",ON Vie Giải trí
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71139.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv310&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849THKGzE758&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.139&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ONPHIMVIET.jpg/1600px-ONPHIMVIET.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab2-on-phim-viet/${start}/${offset}", ON Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv303&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TkTKMNdZD&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onsports
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab4-phim-dac-sac/${start}/${offset}", On Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv493&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TxSOorIxU&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/ONECHANNEL.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab5-e-channel/${start}/${offset}", ON E- Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv306&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T4J8EYPEq&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.131&pkg=pkg33.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/182/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onsports%2B
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/ONO2TV.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab7/${start}/${offset}", On O2TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s12983.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv034&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TK8B6zvzX&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.129.83&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/136/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/ONBIBI.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}", On BiBi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s12982.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv301&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TtucTpKha&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.129.82&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/178/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/ONINFO.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab9-info-tv/${start}/${offset}", ON Info TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71134.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv494&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TEluxHqmc&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.134&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/189/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/rwhsuTvSXxo/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab10-on-cine/${start}/${offset}", ON Cine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv305&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T40WMDCYV&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/ONSTYLE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab12-style-tv/${start}/${offset}", ON Style TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv307&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T3TJ8fI5o&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.131&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://giaitritv.me/uploads/tv_image/sm/vtvcab-15-on-music.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab15/${start}/${offset}", On Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71134.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv495&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TyT00J3aH&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.134&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640", ON Football HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onfootball
 #EXTINF:-1 tvg-id="vtvcab17hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/k1ccQNr/vcab17.webp", ON TRENDING TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv309&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TrkrEUNWr&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/186/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/onnews
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://i.ytimg.com/vi/4SqDlPT8oEI/maxresdefault.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vie-dramas-hd/${start}/${offset}", ON Vie Dramas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv308&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TU1KYpTkC&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" type="stream" group-title="VTVcab" tvg-logo="https://i.ibb.co/HHfL7Dq/cocab20.webp", ON V Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv325&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TPfLfPSqn&ctl=9.38&hc=ctl10&sl=2&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/187/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onkids5_1675158859.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", On Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv602&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849Tepdq8pX4&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/179/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ONLIFE.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab22-life-tv/${start}/${offset}", On Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv601&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849ThHnxTJ9G&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.136&pkg=pkg30.hni&profiles=sd&&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/188/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/02a45a6b-182e-4e4d-b75d-76ffae666cd6.jpeg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab23-the-thao-golf/${start}/${offset}", ON Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
@@ -146,95 +131,73 @@ http://192.168.100.27:4000/udp/225.1.1.177:30120
 
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png", SCTV1 HD
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv603&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698efJc8bVO&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.136&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8?token=Z2YSNNMDA5f2Q2kfYoK6Yw&e=1720250840
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv604&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698sbnd8qqI&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.136&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8?token=AD6P2n4gG5dCApa8tdcwsw&e=1720251034
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/65.png", SCTV3 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71134.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv605&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698LoUVVrom&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.134&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/66.png", SCTV4 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv606&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698P4Lc8yE1&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.136&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/67.png", SCTV5 HD - SCJ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
 http://192.168.100.27:4000/udp/225.1.1.188:30120
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s12982.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv608&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698kiZIehsM&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.129.82&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv7/index.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/70.png", SCTV8 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv609&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698UYuyOeYS&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.135&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv8/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png", SCTV9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71139.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv610&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=512916984Wojo0nu&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.139&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
 #EXTINF:-1 group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png", SCTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv10/index.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/73.png", SCTV11 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv611&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698IHldY0Xc&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.133&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv11/index.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/74.png", SCTV12 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv612&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698yn20yBbB&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv12/index.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/75.png", SCTV13 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv613&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698IRY7Ylnf&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/76.png", SCTV14 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71133.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv614&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698ACKoWiNd&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.133&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png", SCTV15 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv615&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698ugf40TS8&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/78.png", SCTV16 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv616&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698oFGzneCb&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.131&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv16/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/79.png", SCTV17 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71137.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv617&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698h5NN6D6f&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.137&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e7.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/80.png", SCTV18 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71137.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv618&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698iLikK2Dc&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.137&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/81.png", SCTV19 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv619&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698cYnOywK4&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/82.png", SCTV20 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71137.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv620&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698UsKe3t1P&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.137&pkg=pkg32.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246242&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/83.png", SCTV21 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71140.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv621&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698jOrDMHgk&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.140&pkg=pkg32.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/84.png", SCTV22 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv622&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698DnFgwl2q&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg32.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71135.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv623&q=auto&deviceType=2&userId=51291698&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=51291698X5Jp9san&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.135&pkg=pkg32.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HPG&rbk=17216246241&pnode=172.16.222.10&isp=all
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 #-------------------Địa phương-------------------#
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai (HD 8Mbps)
@@ -387,28 +350,28 @@ http://192.168.100.27:4000/udp/225.1.1.159:30120
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/boxhits.jpg",Box Hits HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv564&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TGIdpGSVS&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.136&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/239/index.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg",Box Movie 1 HD
-http://171.238.180.86:18080/162.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52N+gR0fR8f77volgz3WQncaXPCuMinowr/lQWXUSb4lki6GVSmuYpQsV6Sp4+1JP4QvnsorWvEyvMNd/HBW3nsHbmYzhIvPhTLX4VOQM6JSfEaQCIF3Fxsh7mlDiFO7wjTLMjY6SqVocKLcxZJy3I+87kzQq0ah9SVZFSxNe2L&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/159/index.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/hollywoodclassics.jpg",Hollywood Classics
-http://171.238.180.86:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/+RTvWFAuS4yTs2+FZI2ALyU5xZwheoXoeMzTuAUZBjGdWL+5zPwikXLENhGYk978fq06ZEQc7P+jJgd+Hhf73slg0Pg1x09Sp52tNlrIlZ9R6fLh9UxSL7WBt90qRoGFtZm90frMD8LzX7SKTE4kVxgZy6FfSNpTCVatMuByhvT&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/160/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/inthebox.jpg",In The Box HD
-http://171.238.180.86:18080/187.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0hdeCoIgENLT+0zi+h2dzHZT4uZ0D+2pD87y9aMuC3u5p0KCNULZqKd0kWuXinkrnB7gNuCcudpy3ort0u4SVOi+S5dElkBxgPb3759Agqt4Vf5CzR9XxZ/5LiA9ipsPf5oi3rgB5aVCzNreG3uK1V6&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/235/index.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg",Happy Kids HD
-http://171.238.180.86:18080/170.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7msbQWDl+e8M6smT3peBrQ/9dR3upmDj3BRMx97wP0kx/scN1LytSQ6QGbJTwD4gzcSYTCNGWJ+ObWXqv/u0ZBHg8Lvduewc1yxguQ0Q2CXnETwk/T1UFwm4M/3AIc/kRbxR8J81cu/IqWzMXTBo9sL9QG6ChcR9ufBs0uBWXQS&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/212/index.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg",Planet Earth HD
-http://171.238.180.86:18080/176.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5mWqjBLTD7sSHkxICunXOCvymDHlKwlkmIIBiPsBrKBILo4TN2aCktdahp6TI6FL5v8cXrxZcDnHlE+hvV9oLEVsTvLBd0AnDlSJJUG1e8WQN5o5jDDk0uVGiJMfhZdZm833UzYxy8WZ7VH4bWNhYRUvEPxz0Vse0U5sdfqUUI4&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/135/index.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/woman.jpg",Woman HD
-http://171.238.180.86:18080/169.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8dyExTaaZVA+yTiAa+hp/1jrjGtsLHbreFsJghbilAmCnlbNgkAv1B8y2LY/jJ+wAo9aBQwKshN3SaoOt9L124d3fHrNqfN8xUIPWq8fXMUMNbtxtvRK5GVC5PLjtt8Qz8CYRNqdrMTFtTjK5bxjiX60y+eCKOtoH/VHrsEwZ/W&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/163/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/man.jpg",Man HD
-http://171.238.180.86:18080/188.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3ZMGDbrXLaBmWuq0UPzmzTDyGienH4jchgMySbbDwzPkj171eFne1bnZMTO08z1kAdsgZrccn7MWyN+jN21XKqPKGwdB1W9aiPL+TkTVAiYGILWj5NrmN97d5cIAptP0XwOPUa0qHno2d0HdC9UJ49Ve5tKgMCeV/UfzsnBS5ww&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/237/index.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/drfithd.jpg",Dr.Fit HD
-http://171.238.180.86:18080/167.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zroTqdT0Bldq4lZkDnvlw0s2opYmN0Z6VtCLfkQv8SXnXA6JdUKQ16HRFBc3U8uOBIoqGX6MRHBSF8LLt7lOevwuGbk1ZM/jpPsRCcCGUm/uuyIYJYlx8lMc7Qf8VhT9UfGqOVb6eWdox6lXrzGEld202z1VKj1/Ym2+56n5Nmk&uid=36175783
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/162/index.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://mytv.com.vn/
-https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv562&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T7iLkbCCV&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.131&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/289/index.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế (HD)" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9856/index.m3u8
 
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 http://192.168.100.27:4000/udp/225.1.2.21:30120
@@ -947,23 +910,27 @@ https://s12983.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv710&q=auto&deviceType=9&user
 
 #-------------------TV360 Service-------------------#
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
-https://fo-hlc.tv360.vn/bpk-tv/198/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNTQwNzUsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tM3U4In0.MgnwDY9Ll2B4_O4l4XeFmUFV1IfTPbO46pXrRDxbhIw&uid=36175783
+https://tv.truyenhinh.click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk2" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
-https://fo-hlc.tv360.vn/bpk-tv/199/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIwMDYsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tM3U4In0.4xZo3gPGgDAsbLXhDS-Gff8bHFKKp6s56EHsBAwB_hQ&uid=36175783
+https://tv.truyenhinh.click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk3" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
-https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIwNjMsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.NxyWnSlgjBE4yPGzg3NQ8_vY5EV9FHqVzhmSZzjU_Ig&uid=36175783
+https://tv.truyenhinh.click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk4" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+ 4
-https://fo-hlc.tv360.vn/bpk-tv/201/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIwOTksInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tM3U4In0.4yUx3UbpLsWvNKuQOD8JYaGMRf-8gJLomWX8UH4bXx4&uid=36175783
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/2458/index.m3u8
 #EXTINF:-1 tvg-id="tv360.sk5" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_480_270.png",TV360+ 5
-https://fo-hlc.tv360.vn/bpk-tv/367/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIxMzUsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tM3U4In0.KXdsT6ZqC3wxnpMS6jX5YGNWHZpYU-H0X3FyoUgv3Aw&uid=36175783
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9867/index.m3u8
 #EXTINF:-1 tvg-id="tv360.sk6" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_480_270.png",TV360+ 6
-https://fo-hlc.tv360.vn/bpk-tv/368/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIxNjUsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tM3U4In0.5gWdgEQb4t1v3KCubmrPpUQKBgLuEi-Dmi4QyhgAxwg&uid=36175783
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9868/index.m3u8
 #EXTINF:-1 tvg-id="tv360.sk7" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_480_270.png",TV360+ 7
-https://fo-hlc.tv360.vn/bpk-tv/369/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIyMDEsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tM3U4In0.lIg9aW3P1cLMFAn7RwuSfcMO0YXxyzQ0wDO3WBDhHKQ&uid=36175783
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9869/index.m3u8
 #EXTINF:-1 tvg-id="tv360.sk8" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_480_270.png",TV360+ 8
-https://fo-hlc.tv360.vn/bpk-tv/370/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIyMzEsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tM3U4In0._b8_2DdAnQ1Fx9IebqVqivf3E9pkCO66ExO-IHK6cgU&uid=36175783
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9870/index.m3u8
 #EXTINF:-1 tvg-id="tv360.sk9" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
-https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIyNjQsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.HaYPlkTlelQCSbu5nGToKj7gb5VQr9axe1ZNn8istic&uid=36175783
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9887/index.m3u8
+#EXTINF:-1 group-title="TV360 Service" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png", Mê Kông
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9902/index.m3u8
+#EXTINF:-1 group-title="TV360 Service" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png", Phim Âu Mỹ
+http://ottlive.sgchill.io.vn/source/v2/tivi8080/play/9903/index.m3u8
 
 #-------------------FPT Service-------------------#
 #EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
