@@ -369,35 +369,28 @@ http://192.168.100.27:4000/udp/225.1.1.159:30120
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/boxhits.jpg",Box Hits HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71136.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv564&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TGIdpGSVS&ctl=9.38&hc=ctl10&sl=6&drmsrv=ctl10.mytvnet.vn&naddr=123.29.71.136&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246242&pnode=172.16.222.10&isp=all
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/boxmovie1.jpg",Box Movie 1 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
+http://171.238.180.86:18080/162.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/52N+gR0fR8f77volgz3WQncaXPCuMinowr/lQWXUSb4lki6GVSmuYpQsV6Sp4+1JP4QvnsorWvEyvMNd/HBW3nsHbmYzhIvPhTLX4VOQM6JSfEaQCIF3Fxsh7mlDiFO7wjTLMjY6SqVocKLcxZJy3I+87kzQq0ah9SVZFSxNe2L&uid=36175783
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/hollywoodclassics.jpg",Hollywood Classics
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
+http://171.238.180.86:18080/163.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/+RTvWFAuS4yTs2+FZI2ALyU5xZwheoXoeMzTuAUZBjGdWL+5zPwikXLENhGYk978fq06ZEQc7P+jJgd+Hhf73slg0Pg1x09Sp52tNlrIlZ9R6fLh9UxSL7WBt90qRoGFtZm90frMD8LzX7SKTE4kVxgZy6FfSNpTCVatMuByhvT&uid=36175783
 #EXTINF:-1 tvg-id="inthebox" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/inthebox.jpg",In The Box HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+http://171.238.180.86:18080/187.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7iF/n2VYCqaWK2QWTOzR0hdeCoIgENLT+0zi+h2dzHZT4uZ0D+2pD87y9aMuC3u5p0KCNULZqKd0kWuXinkrnB7gNuCcudpy3ort0u4SVOi+S5dElkBxgPb3759Agqt4Vf5CzR9XxZ/5LiA9ipsPf5oi3rgB5aVCzNreG3uK1V6&uid=36175783
 #EXTINF:-1 tvg-id="happykids" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/happykids.jpg",Happy Kids HD
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
+http://171.238.180.86:18080/170.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/7msbQWDl+e8M6smT3peBrQ/9dR3upmDj3BRMx97wP0kx/scN1LytSQ6QGbJTwD4gzcSYTCNGWJ+ObWXqv/u0ZBHg8Lvduewc1yxguQ0Q2CXnETwk/T1UFwm4M/3AIc/kRbxR8J81cu/IqWzMXTBo9sL9QG6ChcR9ufBs0uBWXQS&uid=36175783
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/planetearthhd.jpg",Planet Earth HD
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=135
+http://171.238.180.86:18080/176.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5mWqjBLTD7sSHkxICunXOCvymDHlKwlkmIIBiPsBrKBILo4TN2aCktdahp6TI6FL5v8cXrxZcDnHlE+hvV9oLEVsTvLBd0AnDlSJJUG1e8WQN5o5jDDk0uVGiJMfhZdZm833UzYxy8WZ7VH4bWNhYRUvEPxz0Vse0U5sdfqUUI4&uid=36175783
 #EXTINF:-1 tvg-id="woman" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/woman.jpg",Woman HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
+http://171.238.180.86:18080/169.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/8dyExTaaZVA+yTiAa+hp/1jrjGtsLHbreFsJghbilAmCnlbNgkAv1B8y2LY/jJ+wAo9aBQwKshN3SaoOt9L124d3fHrNqfN8xUIPWq8fXMUMNbtxtvRK5GVC5PLjtt8Qz8CYRNqdrMTFtTjK5bxjiX60y+eCKOtoH/VHrsEwZ/W&uid=36175783
 #EXTINF:-1 tvg-id="man" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/man.jpg",Man HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
+http://171.238.180.86:18080/188.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/3ZMGDbrXLaBmWuq0UPzmzTDyGienH4jchgMySbbDwzPkj171eFne1bnZMTO08z1kAdsgZrccn7MWyN+jN21XKqPKGwdB1W9aiPL+TkTVAiYGILWj5NrmN97d5cIAptP0XwOPUa0qHno2d0HdC9UJ49Ve5tKgMCeV/UfzsnBS5ww&uid=36175783
 #EXTINF:-1 tvg-id="drfithd" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/drfithd.jpg",Dr.Fit HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/historyhd.jpg",History HD
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
+http://171.238.180.86:18080/167.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/zroTqdT0Bldq4lZkDnvlw0s2opYmN0Z6VtCLfkQv8SXnXA6JdUKQ16HRFBc3U8uOBIoqGX6MRHBSF8LLt7lOevwuGbk1ZM/jpPsRCcCGUm/uuyIYJYlx8lMc7Qf8VhT9UfGqOVb6eWdox6lXrzGEld202z1VKj1/Ym2+56n5Nmk&uid=36175783
 #EXTINF:-1 tvg-id="musicbox" group-title="Quốc Tế (HD)" tvg-logo="https://img.lichphatsong.xyz/logo/musicbox.jpg",Music Box HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://s71131.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv562&q=auto&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849T7iLkbCCV&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.131&pkg=pkg31.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
 
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
 http://192.168.100.27:4000/udp/225.1.2.21:30120
@@ -936,23 +929,23 @@ https://s12983.cdn.mytvnet.vn/clrlive_10.m3u8?c=vstv710&q=auto&deviceType=9&user
 
 #-------------------TV360 Service-------------------#
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
-https://tv.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/198/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzMzA2MTgsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tM3U4In0.LKSVbF-KTo2RkEueilOsq7dQMxBgNRRYI5hqfKDturA&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk2" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
-https://tv.TruyenHinh.Click/CoBan/tv360.sk2/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/199/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIwMDYsInVyaSI6Ii9icGstdHYvMTk5L291dHB1dC9pbmRleC5tM3U4In0.4xZo3gPGgDAsbLXhDS-Gff8bHFKKp6s56EHsBAwB_hQ&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk3" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
-https://tv.TruyenHinh.Click/CoBan/tv360.sk3/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/200/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIwNjMsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tM3U4In0.NxyWnSlgjBE4yPGzg3NQ8_vY5EV9FHqVzhmSZzjU_Ig&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk4" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+ 4
-https://tv.TruyenHinh.Click/CoBan/tv360.sk4/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/201/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIwOTksInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tM3U4In0.4yUx3UbpLsWvNKuQOD8JYaGMRf-8gJLomWX8UH4bXx4&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk5" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_480_270.png",TV360+ 5
-https://tv.TruyenHinh.Click/CoBan/tv360.sk5/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/367/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIxMzUsInVyaSI6Ii9icGstdHYvMzY3L291dHB1dC9pbmRleC5tM3U4In0.KXdsT6ZqC3wxnpMS6jX5YGNWHZpYU-H0X3FyoUgv3Aw&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk6" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_480_270.png",TV360+ 6
-https://tv.TruyenHinh.Click/CoBan/tv360.sk6/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/368/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIxNjUsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tM3U4In0.5gWdgEQb4t1v3KCubmrPpUQKBgLuEi-Dmi4QyhgAxwg&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk7" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_480_270.png",TV360+ 7
-https://tv.TruyenHinh.Click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/369/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIyMDEsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tM3U4In0.lIg9aW3P1cLMFAn7RwuSfcMO0YXxyzQ0wDO3WBDhHKQ&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk8" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_480_270.png",TV360+ 8
-https://tv.TruyenHinh.Click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/370/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIyMzEsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tM3U4In0._b8_2DdAnQ1Fx9IebqVqivf3E9pkCO66ExO-IHK6cgU&uid=36175783
 #EXTINF:-1 tvg-id="tv360.sk9" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
-https://tv.TruyenHinh.Click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
+https://fo-hlc.tv360.vn/bpk-tv/379/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDMzNDIyNjQsInVyaSI6Ii9icGstdHYvMzc5L291dHB1dC9pbmRleC5tM3U4In0.HaYPlkTlelQCSbu5nGToKj7gb5VQr9axe1ZNn8istic&uid=36175783
 
 #-------------------FPT Service-------------------#
 #EXTINF:-1 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
@@ -1035,23 +1028,23 @@ http://192.168.100.27:4000/udp/225.1.1.122:30120
 http://192.168.100.27:4000/udp/225.1.4.79:30120
 
 #-------------------K+ Mytv-------------------#
-#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+#EXTINF:-1 tvg-id="kaction" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/ka
-#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/kc
-#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
+#EXTINF:-1 tvg-id="kidshd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/kk
-#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/k1
-#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/k2
