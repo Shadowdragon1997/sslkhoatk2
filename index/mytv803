@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=7500000
-/clrlive_10.m3u8?c=vstv803&q=hd&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TO1nWd2nN&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=5500000
-/clrlive_10.m3u8?c=vstv803&q=sd&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TO1nWd2nN&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3500000
-/clrlive_10.m3u8?c=vstv803&q=high&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TO1nWd2nN&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
-#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1500000
-/clrlive_10.m3u8?c=vstv803&q=medium&deviceType=9&userId=4903849&deviceId=36300842&type=tv&p=0&zn=netb2c&rkey=4903849TO1nWd2nN&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.71.140&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=HNI&rbk=17216246241&pnode=172.16.222.10&isp=all
