@@ -870,6 +870,27 @@ http://192.168.100.27:4000/udp/225.1.4.172:30120
 #EXTINF:0 tvg-id="" group-title="FPT Play",Bắc Kạn HD
 http://192.168.100.27:4000/udp/225.1.4.174:30120
 
+#-------------------MyTV Service-------------------#
+#EXTINF:-1 tvg-id="mytv801" group-title="TH|SưKiện.MyTv" group-logo="https://mytvvnpt.net/files/assets/logomytv.png" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 801
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv801
+
+#EXTINF:-1 tvg-id="mytv802" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 802
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv802
+
+#EXTINF:-1 tvg-id="mytv803" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 803
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv803
+
+#EXTINF:-1 tvg-id="mytv804" group-title="TH|SưKiện.MyTv" tvg-logo="https://mytvvnpt.net/files/assets/logomytv.png",Sự Kiện 804
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mytv.com.vn/
+https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/index/mytv804
+
 #-------------------TV360 Service-------------------#
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
 https://tv.TruyenHinh.Click/CoBan/tv360.sk1/TuyetDoiKhongKinhDoanh
@@ -963,30 +984,31 @@ http://192.168.100.27:4000/udp/225.1.1.66:30120
 http://192.168.100.27:4000/udp/225.1.1.123:30120
 #EXTINF:0 tvg-id="" group-title="FPT Advertisement",The Ocean Resort
 http://192.168.100.27:4000/udp/225.1.1.121:30120
+
 #-------------------Mua sắm-------------------#
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 http://192.168.100.27:4000/udp/225.1.1.122:30120
 #EXTINF:0 tvg-id="" group-title="Mua Sắm" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping
 http://192.168.100.27:4000/udp/225.1.4.79:30120
 
-#-------------------K+-------------------#
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+#-------------------K+ Mytv-------------------#
+#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/ka
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/kc
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
+#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/kk
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/k1
-#EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+#EXTINF:-1 tvg-id="" group-title="K+ Mytv" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://mytv.com.vn/
 https://raw.githubusercontent.com/Shadowdragon1997/sslkhoatk2/refs/heads/ssl/Kh%C3%A1ch/k2
