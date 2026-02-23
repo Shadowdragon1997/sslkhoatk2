@@ -920,7 +920,7 @@ http://192.168.100.27:4000/udp/225.1.1.121:30120
 
 #-------------------K+-------------------#
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
-http://pcrtv.ddns.net:9981/stream/channelid/226163807?ticket=28DFA174098D3C9EFE59AEA864EACEA9226D25F5&profile=pass
+http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1608071&extension=ts
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
 http://pcrtv.ddns.net:9981/stream/channelid/444476992?ticket=BACDD6BA3F3BF75104F67150B7F9CF9A22C2FCD6&profile=pass
 #EXTINF:-1 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
