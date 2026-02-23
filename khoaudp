@@ -700,7 +700,7 @@ http://192.168.100.27:4000/udp/225.1.1.158:30120
 #EXTINF:0,(Testcard)
 http://192.168.100.27:4000/udp/225.1.1.130:30120
 
-#-------------------Premier League England UK-------------------#
+#-------------------Premier League UK-------------------#
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="Premier League UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",Sky Sports Main Event UHD/4K (1)
 http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1608071&extension=ts
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="Premier League UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",Sky Sports Main Event UHD/4K (2)
@@ -708,11 +708,11 @@ http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1608071&ext
 #EXTINF:-1 tvg-id="SkySportsMainEvent.uk" group-title="Premier League UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",Sky Sports Main Event UHD/4K (3)
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1641636&extension=ts
 
-#EXTINF:-1 tvg-id="SkySports2.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports UHD/4K (1)
+#EXTINF:-1 tvg-id="SkySports.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports UHD/4K (1)
 http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1471387&extension=ts
-#EXTINF:-1 tvg-id="SkySports2.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports UHD/4K (2)
+#EXTINF:-1 tvg-id="SkySports.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports UHD/4K (2)
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1471387&extension=ts
-#EXTINF:-1 tvg-id="SkySports2.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports UHD/4K (3)
+#EXTINF:-1 tvg-id="SkySports.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports UHD/4K (3)
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1471387&extension=ts
 
 #EXTINF:-1 tvg-id="SkySports1.uk" group-title="Premier League UK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Sky_Sport_UHD_2020.svg/revision/latest/scale-to-width-down/300?cb=20220623075636",Sky Sports 1 UHD/4K (1)
@@ -735,3 +735,39 @@ http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1595637&extensi
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1595637&extension=ts
 #EXTINF:-1 tvg-id="TNTSportsUltimate.uk" group-title="Premier League UK" tvg-logo="https://i.imgur.com/fAyvqdH.png",TNT Sports Ultimate 4K+ (3)
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1595637&extension=ts
+
+#-------------------Premier League Singapore-------------------#
+#EXTINF:-1 tvg-id="HubPremier1.sg" group-title="Premier League Singapore" tvg-logo="https://i.ibb.co/G4zVGddt/Hub-Premier1.png",Hub Premier 1 (1)
+http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1032529&extension=ts
+#EXTINF:-1 tvg-id="HubPremier1.sg" group-title="Premier League Singapore" tvg-logo="https://i.ibb.co/G4zVGddt/Hub-Premier1.png",Hub Premier 1 (2)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1032529&extension=ts
+#EXTINF:-1 tvg-id="HubPremier1.sg" group-title="Premier League Singapore" tvg-logo="https://i.ibb.co/G4zVGddt/Hub-Premier1.png",Hub Premier 1 (3)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1032529&extension=ts
+
+#EXTINF:-1 tvg-id="HubPremier2.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2 (1)
+http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1032518&extension=ts
+#EXTINF:-1 tvg-id="HubPremier2.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2 (1)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1032518&extension=ts
+#EXTINF:-1 tvg-id="HubPremier2.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/mrZwamR.png",Hub Premier 2 (1)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1032518&extension=ts
+
+#EXTINF:-1 tvg-id="HubPremier3.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/0A6bP0g.png",Hub Premier 3 (1)
+http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1032527&extension=ts
+#EXTINF:-1 tvg-id="HubPremier3.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/0A6bP0g.png",Hub Premier 3 (2)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1032527&extension=ts
+#EXTINF:-1 tvg-id="HubPremier3.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/0A6bP0g.png",Hub Premier 3 (3)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1032527&extension=ts
+
+#EXTINF:-1 tvg-id="HubPremier4.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/RTgyfAe.png",Hub Premier 4 (1)
+http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1032526&extension=ts
+#EXTINF:-1 tvg-id="HubPremier4.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/RTgyfAe.png",Hub Premier 4 (2)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1032526&extension=ts
+#EXTINF:-1 tvg-id="HubPremier4.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/RTgyfAe.png",Hub Premier 4 (3)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1032526&extension=ts
+
+#EXTINF:-1 tvg-id="HubPremier5.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/XhX3oUI.png",Hub Premier 5 (1)
+http://hottest.vip:80/play/live.php?mac=00:1A:79:82:73:0e&stream=1032525&extension=ts
+#EXTINF:-1 tvg-id="HubPremier5.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/XhX3oUI.png",Hub Premier 5 (2)
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:F1:B0:02&stream=1032525&extension=ts
+#EXTINF:-1 tvg-id="HubPremier5.sg" group-title="Premier League Singapore" tvg-logo="https://i.imgur.com/XhX3oUI.png",Hub Premier 5 (3)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:77:e7:59&stream=1032525&extension=ts
