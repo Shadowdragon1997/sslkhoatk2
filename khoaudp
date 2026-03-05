@@ -622,7 +622,14 @@ https://tv.TruyenHinh.Click/CoBan/tv360.sk7/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="tv360.sk8" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_480_270.png",TV360+ 8
 https://tv.TruyenHinh.Click/CoBan/tv360.sk8/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="tv360.sk9" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
-https://tv.TruyenHinh.Click/CoBan/tv360.sk9/TuyetDoiKhongKinhDoanh
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360.sk10" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 10
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360.sk11" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 11
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360.live" group-title="TV360 Service" group-logo="https://tv.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360 Live
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+
 
 #-------------------FPT Service-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
@@ -699,5 +706,3 @@ http://192.168.100.27:4000/udp/225.1.1.121:30120
 http://192.168.100.27:4000/udp/225.1.1.158:30120
 #EXTINF:0,(Testcard)
 http://192.168.100.27:4000/udp/225.1.1.130:30120
-#EXTINF:-1 tvg-id="MONO29.th" group-title="Premier League Thailand" tvg-logo="https://cdn.bitrefill.com/content/cn/b_rgb%3A000000%2Cc_pad%2Ch_600%2Cw_800/v1646778690/monomax-th.webp",MonoMax Event 5 (4)
-http://line.vueott.com:80/play/live.php?mac=00:1A:79:B6:2A:80&stream=1902354&extension=ts
